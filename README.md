@@ -1,7 +1,7 @@
-ThronesDB cards JSON data [![Build status](https://travis-ci.org/Alsciende/thronesdb-json-data.svg?branch=master)](https://travis-ci.org/Alsciende/thronesdb-json-data)
+DoomtrooperDB cards JSON data [![Build status](https://travis-ci.org/Alsciende/thronesdb-json-data.svg?branch=master)](https://travis-ci.org/Alsciende/thronesdb-json-data)
 =========
 
-The goal of this repository is to store [ThronesDB](https://thronesdb.com) card data in a format that can be easily updated by multiple people and their changes reviewed.
+The goal of this repository is to store [DoomtrooperDB](https://doomtrooperdb.org) card data in a format that can be easily updated by multiple people and their changes reviewed.
 
 ## Validating and formatting JSON
 
@@ -21,8 +21,8 @@ Required properties are in **bold**.
 
 #### Expansion schema
 
-* **code** - identifier of the expansion. One single lowercase word. Examples: `"core"`, `"westeros"`, `"war"`.
-* **name** - properly formatted name of the expansion. Examples: `"Core Set"`, `"Westeros Expansion"`, `"War of the Five Kings Expansion"`.
+* **code** - identifier of the expansion. One single lowercase word. Examples: `"base"`, `"inq"`, `"wz"`.
+* **name** - properly formatted name of the expansion. Examples: `"Base Set"`, `"Inquisition"`, `"Warzone"`.
 * **size** - number of cards in the expansion.
 
 #### Card schema
@@ -64,27 +64,10 @@ To get the 4-letter hexcode of a UTF-8 symbol (or look up what a particular hexc
 
 #### Quotes and breaking text into multiple lines
 
-To have text spanning multiple lines, use `\n` to separate them. To have quotes as part of the text, use `\"`.  For example, `"flavor": "\"Winter is Coming.\"\n-Eddard Stark"` results in following flavor text:
+To have text spanning multiple lines, use `\n` to separate them. To have quotes as part of the text, use `\"`.  For example, `"flavor": "\"Winter is Coming.\"\n-Cardinal Durand"` results in following flavor text:
 
-> *"Winter is coming."*
-> *-Eddard Stark*
-
-#### A Game of Thrones symbols
-
-These can be used in a card's `text` section.
-
- * `[baratheon]`
- * `[intrigue]`
- * `[greyjoy]`
- * `[lannister]`
- * `[martell]`
- * `[military]`
- * `[thenightswatch]`
- * `[power]`
- * `[stark]`
- * `[targaryen]`
- * `[tyrell]`
- * `[unique]`
+> *"The Darkness is upon Us, Have Faith."*
+> *-Cardinal Durand*
 
 #### Translations
 
