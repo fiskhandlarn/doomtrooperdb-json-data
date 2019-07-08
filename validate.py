@@ -52,13 +52,13 @@ def custom_card_check(args, card, pack_code, locale=None):
         if card["code"] in unique_card_codes:
             raise jsonschema.ValidationError("Card code '%s' of the card '%s' has been used by '%s'." % (card["code"], card["name"], unique_card_codes[card["code"]]["name"]))
 
-def custom_pack_check(args, pack, cycles_data, locale=None, en_packs=None):
+def custom_pack_check(args, pack, expansions_data, locale=None, en_packs=None):
     if locale:
         if pack["code"] not in [p["code"] for p in en_packs]:
             raise jsonschema.ValidationError("Pack code '%s' in translation file for '%s' locale does not exists in original locale." % (pack["code"], locale))
-    else: 
-        if pack["cycle_code"] not in [c["code"] for c in cycles_data]:
-            raise jsonschema.ValidationError("Cycle code '%s' of the pack '%s' doesn't match any valid cycle code." % (pack["cycle_code"], pack["code"]))
+    else:
+        if pack["expansion_code"] not in [c["code"] for c in expansions_data]:
+            raise jsonschema.ValidationError("Expansion code '%s' of the pack '%s' doesn't match any valid expansion code." % (pack["expansion_code"], pack["code"]))
 
 def format_json(json_data):
     formatted_data = json.dumps(json_data, ensure_ascii=False, sort_keys=True, indent=4, separators=(',', ': '))
@@ -96,24 +96,24 @@ def load_json_file(args, path):
                 print(e)
     return json_data
 
-def load_cycles(args, locale=None):
-    verbose_print(args, "Loading cycle index file...\n", 1)
-    cycles_base_path = locale and os.path.join(args.trans_path, locale) or args.base_path
-    cycles_path = os.path.join(cycles_base_path, "cycles.json")
-    cycles_data = load_json_file(args, cycles_path)
+def load_expansions(args, locale=None):
+    verbose_print(args, "Loading expansion index file...\n", 1)
+    expansions_base_path = locale and os.path.join(args.trans_path, locale) or args.base_path
+    expansions_path = os.path.join(expansions_base_path, "expansions.json")
+    expansions_data = load_json_file(args, expansions_path)
 
-    if not validate_cycles(args, cycles_data, locale):
+    if not validate_expansions(args, expansions_data, locale):
         return None
 
-    return cycles_data
+    return expansions_data
 
-def load_pack_index(args, cycles_data, locale=None, en_packs=None):
+def load_pack_index(args, expansions_data, locale=None, en_packs=None):
     verbose_print(args, "Loading pack index file...\n", 1)
     packs_base_path = locale and os.path.join(args.trans_path, locale) or args.base_path
     packs_path = os.path.join(packs_base_path, "packs.json")
     packs_data = load_json_file(args, packs_path)
 
-    if not validate_packs(args, packs_data, cycles_data, locale, en_packs):
+    if not validate_packs(args, packs_data, expansions_data, locale, en_packs):
         return None
 
     for p in packs_data:
@@ -185,36 +185,36 @@ def validate_cards(args, packs_data, locale=None):
         for card in pack_data:
             validate_card(args, card, CARD_SCHEMA, p["code"], locale)
 
-def validate_cycles(args, cycles_data, locale=None):
+def validate_expansions(args, expansions_data, locale=None):
     global validation_errors
 
-    verbose_print(args, "Validating cycle index file...\n", 1)
-    cycle_schema_path = os.path.join(args.schema_path, locale and "cycle_schema_trans.json" or "cycle_schema.json")
-    CYCLE_SCHEMA = load_json_file(args, cycle_schema_path)
-    if not isinstance(cycles_data, list):
-        verbose_print(args, "Insides of cycle index file are not a list!\n", 0)
+    verbose_print(args, "Validating expansion index file...\n", 1)
+    expansion_schema_path = os.path.join(args.schema_path, locale and "expansion_schema_trans.json" or "expansion_schema.json")
+    EXPANSION_SCHEMA = load_json_file(args, expansion_schema_path)
+    if not isinstance(expansions_data, list):
+        verbose_print(args, "Insides of expansion index file are not a list!\n", 0)
         return False
-    if not CYCLE_SCHEMA:
+    if not EXPANSION_SCHEMA:
         return False
-    if not check_json_schema(args, CYCLE_SCHEMA, cycle_schema_path):
+    if not check_json_schema(args, EXPANSION_SCHEMA, expansion_schema_path):
         return False
 
     retval = True
-    for c in cycles_data:
+    for c in expansions_data:
         try:
-            verbose_print(args, "Validating cycle %s... " % c.get("name"), 2)
-            jsonschema.validate(c, CYCLE_SCHEMA)
+            verbose_print(args, "Validating expansion %s... " % c.get("name"), 2)
+            jsonschema.validate(c, EXPANSION_SCHEMA)
             verbose_print(args, "OK\n", 2)
         except jsonschema.ValidationError as e:
             verbose_print(args, "ERROR\n",2)
-            verbose_print(args, "Validation error in cycle: (code: '%s' name: '%s')\n" % (c.get("code"), c.get("name")), 0)
+            verbose_print(args, "Validation error in expansion: (code: '%s' name: '%s')\n" % (c.get("code"), c.get("name")), 0)
             validation_errors += 1
             print(e)
             retval = False
 
     return retval
 
-def validate_packs(args, packs_data, cycles_data, locale=None, en_packs=None):
+def validate_packs(args, packs_data, expansions_data, locale=None, en_packs=None):
     global validation_errors
 
     verbose_print(args, "Validating pack index file...\n", 1)
@@ -233,7 +233,7 @@ def validate_packs(args, packs_data, cycles_data, locale=None, en_packs=None):
         try:
             verbose_print(args, "Validating pack %s... " % p.get("name"), 2)
             jsonschema.validate(p, PACK_SCHEMA)
-            custom_pack_check(args, p, cycles_data, locale, en_packs)
+            custom_pack_check(args, p, expansions_data, locale, en_packs)
             verbose_print(args, "OK\n", 2)
         except jsonschema.ValidationError as e:
             verbose_print(args, "ERROR\n",2)
@@ -244,16 +244,16 @@ def validate_packs(args, packs_data, cycles_data, locale=None, en_packs=None):
 
     return retval
 
-def validate_locales(args, en_cycles, en_packs):
+def validate_locales(args, en_expansions, en_packs):
     verbose_print(args, "Validating I18N files...\n", 1)
     if os.path.exists(args.trans_path):
         check_dir_access(args.trans_path)
         for locale in [l for l in os.listdir(args.trans_path) if os.path.isdir(os.path.join(args.trans_path, l))]:
             verbose_print(args, "Validating I18N files for locale '%s'...\n" % locale, 1)
 
-            cycles = load_cycles(args, locale)
+            expansions = load_expansions(args, locale)
 
-            packs = load_pack_index(args, cycles, locale, en_packs)
+            packs = load_pack_index(args, expansions, locale, en_packs)
 
             if packs:
                 validate_cards(args, packs, locale)
@@ -274,13 +274,13 @@ def main():
 
     args = parse_commandline()
 
-    cycles = load_cycles(args)
+    expansions = load_expansions(args)
 
-    packs = load_pack_index(args, cycles)
+    packs = load_pack_index(args, expansions)
 
     if packs:
         validate_cards(args, packs)
-        validate_locales(args, cycles, packs)
+        validate_locales(args, expansions, packs)
     else:
         verbose_print(args, "Couldn't open packs file correctly, skipping card validation...\n", 0)
 

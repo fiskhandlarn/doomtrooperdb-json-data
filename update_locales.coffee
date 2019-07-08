@@ -7,7 +7,7 @@ _ = require 'lodash'
 [bin, script, locale] = process.argv
 
 i18nDir = path.join __dirname, 'translations'
-things = ['cycles', 'factions', 'packs', 'types']
+things = ['expansions', 'factions', 'packs', 'types']
 
 stripProps = (json, props) ->
     _.map json, (item) ->

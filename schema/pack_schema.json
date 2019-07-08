@@ -16,7 +16,7 @@
             "minLength": 1,
             "type": "string"
         },
-        "cycle_code": {
+        "expansion_code": {
             "minLength": 1,
             "type": "string"
         },
@@ -51,7 +51,7 @@
     "required": [
         "date_release",
         "code",
-        "cycle_code",
+        "expansion_code",
         "name",
         "size"
     ],
