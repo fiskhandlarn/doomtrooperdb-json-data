@@ -35,7 +35,7 @@ Required properties are in **bold**.
 * illustrator
 * image_url
 * **name**
-* octgn_id
+* octgn_id - [OCTGN](https://github.com/octgn/OCTGN/wiki) [GUID](https://github.com/octgn/OCTGN/wiki/GUID)
 * shoot - Warriors only
 * **text**
 * **type_code** - Type of the card. Possible values: `"alliance"`, `"art"`, `"beast"`, `"equipment"`, `"fortification"`, `"ki"`, `"mission"`, `"relic"`, `"special"`, `"symmetry"`, `"warrior"`, `"warzone"`
