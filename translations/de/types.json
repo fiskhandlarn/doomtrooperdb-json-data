@@ -1,30 +1,50 @@
 [
     {
-        "code": "agenda",
-        "name": "Agenda"
+        "code": "alliance",
+        "name": "Allianz"
     },
     {
-        "code": "attachment",
-        "name": "Verstärkung"
+        "code": "art",
+        "name": "Kunst"
     },
     {
-        "code": "character",
-        "name": "Charakter"
+        "code": "beast",
+        "name": "Bestie"
     },
     {
-        "code": "event",
-        "name": "Ereignis"
+        "code": "symmetry",
+        "name": "Dunkle Symmetrie"
     },
     {
-        "code": "location",
-        "name": "Ort"
+        "code": "equipment",
+        "name": "Ausrüstung"
     },
     {
-        "code": "plot",
-        "name": "Strategiekarte"
+        "code": "fortification",
+        "name": "Festung"
     },
     {
-        "code": "title",
-        "name": "Titel"
+        "code": "ki",
+        "name": "Ki-Kraft"
+    },
+    {
+        "code": "mission",
+        "name": "Einsatz"
+    },
+    {
+        "code": "relic",
+        "name": "Relikt"
+    },
+    {
+        "code": "special",
+        "name": "Spezial"
+    },
+    {
+        "code": "warrior",
+        "name": "Krieger"
+    },
+    {
+        "code": "warzone",
+        "name": "Krisengebiet"
     }
 ]

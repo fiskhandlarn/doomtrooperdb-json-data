@@ -1,30 +1,50 @@
 [
     {
-        "code": "agenda",
-        "name": "Agenda"
+        "code": "alliance",
+        "name": "Alliance"
     },
     {
-        "code": "attachment",
-        "name": "Attachment"
+        "code": "art",
+        "name": "Art"
     },
     {
-        "code": "character",
-        "name": "Character"
+        "code": "beast",
+        "name": "Beast"
     },
     {
-        "code": "event",
-        "name": "Event"
+        "code": "symmetry",
+        "name": "Dark Symmetry"
     },
     {
-        "code": "location",
-        "name": "Location"
+        "code": "equipment",
+        "name": "Equipment"
     },
     {
-        "code": "plot",
-        "name": "Plot"
+        "code": "fortification",
+        "name": "Fortification"
     },
     {
-        "code": "title",
-        "name": "Title"
+        "code": "ki",
+        "name": "Ki Power"
+    },
+    {
+        "code": "mission",
+        "name": "Mission"
+    },
+    {
+        "code": "relic",
+        "name": "Relic"
+    },
+    {
+        "code": "special",
+        "name": "Special"
+    },
+    {
+        "code": "warrior",
+        "name": "Warrior"
+    },
+    {
+        "code": "warzone",
+        "name": "Warzone"
     }
 ]
