@@ -1,22 +1,7 @@
 {
     "additionalProperties": false,
     "properties": {
-        "claim": {
-            "oneOf": [
-                {
-                    "minimum": 0,
-                    "type": "integer"
-                },
-                {
-                    "type": "null"
-                }
-            ]
-        },
-        "code": {
-            "pattern": "^[0-9]{5}$",
-            "type": "string"
-        },
-        "cost": {
+        "armor": {
             "oneOf": [
                 {
                     "maxLength": 2,
@@ -28,37 +13,42 @@
                 }
             ]
         },
-        "deck_limit": {
-            "minimum": 0,
-            "type": "integer"
+        "code": {
+            "pattern": "^[0-9]{5}$",
+            "type": "string"
         },
-        "designer": {
+        "expansion_code": {
+            "maxLength": 5,
+            "minLength": 2,
+            "type": "string"
+        },
+        "faction_code": {
+            "enum": [
+                "bauhaus",
+                "brotherhood",
+                "capitol",
+                "crescentia",
+                "cybertronic",
+                "general",
+                "imperial",
+                "legion",
+                "lutheran",
+                "mishima",
+                "rasputin",
+                "templars"
+            ]
+        },
+        "fight": {
             "oneOf": [
                 {
-                    "minLength": 0,
+                    "maxLength": 2,
+                    "minLength": 1,
                     "type": "string"
                 },
                 {
                     "type": "null"
                 }
             ]
-        },
-        "faction_code": {
-            "enum": [
-                "baratheon",
-                "greyjoy",
-                "lannister",
-                "martell",
-                "neutral",
-                "thenightswatch",
-                "stark",
-                "targaryen",
-                "tyrell"
-            ]
-        },
-        "flavor": {
-            "minLength": 0,
-            "type": "string"
         },
         "illustrator": {
             "oneOf": [
@@ -71,35 +61,16 @@
                 }
             ]
         },
-        "income": {
+        "image_url": {
             "oneOf": [
                 {
-                    "minimum": 0,
-                    "type": "integer"
+                    "minLength": 0,
+                    "type": "string"
                 },
                 {
                     "type": "null"
                 }
             ]
-        },
-        "initiative": {
-            "minimum": 0,
-            "type": "integer"
-        },
-        "is_intrigue": {
-            "type": "boolean"
-        },
-        "is_loyal": {
-            "type": "boolean"
-        },
-        "is_military": {
-            "type": "boolean"
-        },
-        "is_power": {
-            "type": "boolean"
-        },
-        "is_unique": {
-            "type": "boolean"
         },
         "name": {
             "minLength": 1,
@@ -117,28 +88,12 @@
                 }
             ]
         },
-        "expansion_code": {
-            "maxLength": 5,
-            "minLength": 2,
-            "type": "string"
-        },
-        "position": {
-            "minimum": 1,
-            "type": "integer"
-        },
-        "quantity": {
-            "minimum": 1,
-            "type": "integer"
-        },
-        "reserve": {
-            "minimum": 0,
-            "type": "integer"
-        },
-        "strength": {
+        "shoot": {
             "oneOf": [
                 {
-                    "minimum": 0,
-                    "type": "integer"
+                    "maxLength": 2,
+                    "minLength": 1,
+                    "type": "string"
                 },
                 {
                     "type": "null"
@@ -149,34 +104,41 @@
             "minLength": 0,
             "type": "string"
         },
-        "traits": {
-            "minLength": 0,
-            "type": "string"
-        },
         "type_code": {
             "enum": [
-                "agenda",
-                "attachment",
-                "character",
-                "event",
-                "location",
-                "plot",
-                "title"
+                "alliance",
+                "art",
+                "beast",
+                "equipment",
+                "fortification",
+                "ki",
+                "mission",
+                "relic",
+                "special",
+                "symmetry",
+                "warrior",
+                "warzone"
+            ]
+        },
+        "value": {
+            "oneOf": [
+                {
+                    "maxLength": 2,
+                    "minLength": 1,
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
             ]
         }
     },
     "required": [
         "code",
-        "deck_limit",
-        "is_loyal",
-        "is_unique",
-        "name",
-        "position",
-        "quantity",
-        "faction_code",
         "expansion_code",
+        "faction_code",
+        "name",
         "text",
-        "traits",
         "type_code"
     ],
     "type": "object"

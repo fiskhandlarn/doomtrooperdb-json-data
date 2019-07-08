@@ -27,30 +27,19 @@ Required properties are in **bold**.
 
 #### Card schema
 
-* claim - Plots only
-* **code** - 5 digit card identifier. Consists of two zero-padded numbers: first two digits are the expansion position, last three are position of the card within the expansion (printed on the card).
-* cost - Play cost of the card. Relevant for all cards except agendas and titles. May be `null` - this value is used when the card has a special, possibly variable, cost.
-* **deck_limit**
+* armor - Warriors only
+* **code** - 5 digit card identifier. Consists of two zero-padded numbers: first two digits are the expansion position, last three are position of the card within the expansion (alphabetical order in English).
+* **expansion_code**
 * **faction_code**
-* flavor
+* fight - Warriors only
 * illustrator
-* income - Plots only
-* initiative - Plots only
-* is_intrigue - Characters only
-* **is_loyal**
-* is_military - Characters only
-* is_power - Characters only
-* **is_unique**
+* image_url
 * **name**
 * octgn_id
-* **expansion_code**
-* **position**
-* **quantity**
-* reserve - Plots only
-* strength - Characters only
-* text
-* traits
-* **type_code** - Type of the card. Possible values: `"agenda"`, `"attachment"`, `"character"`, `"event"`, `"location"`, `"plot"`, `"title"`
+* shoot - Warriors only
+* **text**
+* **type_code** - Type of the card. Possible values: `"alliance"`, `"art"`, `"beast"`, `"equipment"`, `"fortification"`, `"ki"`, `"mission"`, `"relic"`, `"special"`, `"symmetry"`, `"warrior"`, `"warzone"`
+* **value** - Warriors only
 
 ## JSON text editing tips
 

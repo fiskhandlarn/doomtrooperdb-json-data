@@ -5,7 +5,7 @@
             "pattern": "^[0-9]{5}$",
             "type": "string"
         },
-        "designer": {
+        "illustrator": {
             "oneOf": [
                 {
                     "minLength": 0,
@@ -16,19 +16,22 @@
                 }
             ]
         },
-        "flavor": {
-            "minLength": 0,
-            "type": "string"
+        "image_url": {
+            "oneOf": [
+                {
+                    "minLength": 0,
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ]
         },
         "name": {
             "minLength": 1,
             "type": "string"
         },
         "text": {
-            "minLength": 0,
-            "type": "string"
-        },
-        "traits": {
             "minLength": 0,
             "type": "string"
         }
