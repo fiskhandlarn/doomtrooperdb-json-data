@@ -6,7 +6,7 @@ import jsonschema
 import os
 import sys
 
-PACK_DIR="pack"
+CARDS_DIR="cards"
 SCHEMA_DIR="schema"
 TRANS_DIR="translations"
 
@@ -52,9 +52,9 @@ def custom_card_check(args, card, expansion_code, locale=None):
         if card["code"] in unique_card_codes:
             raise jsonschema.ValidationError("Card code '%s' of the card '%s' has been used by '%s'." % (card["code"], card["name"], unique_card_codes[card["code"]]["name"]))
 
-def custom_pack_check(args, expansions_data, locale=None):
-    if pack["expansion_code"] not in [c["code"] for c in expansions_data]:
-        raise jsonschema.ValidationError("Expansion code '%s' doesn't match any valid expansion code." % (pack["expansion_code"]))
+def custom_cards_check(args, expansions_data, locale=None):
+    if cards["expansion_code"] not in [c["code"] for c in expansions_data]:
+        raise jsonschema.ValidationError("Expansion code '%s' doesn't match any valid expansion code." % (cards["expansion_code"]))
 
 def format_json(json_data):
     formatted_data = json.dumps(json_data, ensure_ascii=False, sort_keys=True, indent=4, separators=(',', ': '))
@@ -103,28 +103,28 @@ def load_expansions(args, locale=None):
 
     return expansions_data
 
-def load_pack_index(args, expansions_data, locale=None):
-    verbose_print(args, "Loading pack index file...\n", 1)
-    packs_base_path = locale and os.path.join(args.trans_path, locale) or args.base_path
-    packs_path = os.path.join(packs_base_path, "packs.json")
+def load_cards_index(args, expansions_data, locale=None):
+    verbose_print(args, "Loading cards index file...\n", 1)
+    cardss_base_path = locale and os.path.join(args.trans_path, locale) or args.base_path
+    cardss_path = os.path.join(cardss_base_path, "cardss.json")
 
-    # if not validate_packs(args, packs_data, expansions_data, locale):
+    # if not validate_cardss(args, cardss_data, expansions_data, locale):
     #     return None
 
     for e in expansions_data:
-        pack_filename = "{}.json".format(e["code"])
-        packs_dir = locale and os.path.join(args.trans_path, locale, PACK_DIR) or args.pack_path
-        pack_path = os.path.join(packs_dir, pack_filename)
-        check_file_access(pack_path)
+        cards_filename = "{}.json".format(e["code"])
+        cardss_dir = locale and os.path.join(args.trans_path, locale, CARDS_DIR) or args.cards_path
+        cards_path = os.path.join(cardss_dir, cards_filename)
+        check_file_access(cards_path)
 
-    return packs_data
+    return cardss_data
 
 def parse_commandline():
     argparser = argparse.ArgumentParser(description="Validate JSON in the netrunner cards repository.")
     argparser.add_argument("-f", "--fix_formatting", default=False, action="store_true", help="write suggested formatting changes to files")
     argparser.add_argument("-v", "--verbose", default=0, action="count", help="verbose mode")
     argparser.add_argument("-b", "--base_path", default=os.getcwd(), help="root directory of JSON repo (default: current directory)")
-    argparser.add_argument("-p", "--pack_path", default=None, help=("pack directory of JSON repo (default: BASE_PATH/%s/)" % PACK_DIR))
+    argparser.add_argument("-p", "--cards_path", default=None, help=("cards directory of JSON repo (default: BASE_PATH/%s/)" % CARDS_DIR))
     argparser.add_argument("-c", "--schema_path", default=None, help=("schema directory of JSON repo (default: BASE_PATH/%s/" % SCHEMA_DIR))
     argparser.add_argument("-t", "--trans_path", default=None, help=("translations directory of JSON repo (default: BASE_PATH/%s/)" % TRANS_DIR))
     args = argparser.parse_args()
@@ -132,13 +132,13 @@ def parse_commandline():
     # Set all the necessary paths and check if they exist
     if getattr(args, "schema_path", None) is None:
         setattr(args, "schema_path", os.path.join(args.base_path,SCHEMA_DIR))
-    if getattr(args, "pack_path", None) is None:
-        setattr(args, "pack_path", os.path.join(args.base_path,PACK_DIR))
+    if getattr(args, "cards_path", None) is None:
+        setattr(args, "cards_path", os.path.join(args.base_path,CARDS_DIR))
     if getattr(args, "trans_path", None) is None:
         setattr(args, "trans_path", os.path.join(args.base_path,TRANS_DIR))
     check_dir_access(args.base_path)
     check_dir_access(args.schema_path)
-    check_dir_access(args.pack_path)
+    check_dir_access(args.cards_path)
 
     return args
 
@@ -171,13 +171,13 @@ def validate_cards(args, expansions_data, locale=None):
     for e in expansions_data:
         verbose_print(args, "Validating cards from %s...\n" % (locale and "%s-%s" % (e["code"], locale) or e["name"]), 1)
 
-        pack_base_path = locale and os.path.join(args.trans_path, locale, PACK_DIR) or args.pack_path
-        pack_path = os.path.join(pack_base_path, "{}.json".format(e["code"]))
-        pack_data = load_json_file(args, pack_path)
-        if not pack_data:
+        cards_base_path = locale and os.path.join(args.trans_path, locale, CARDS_DIR) or args.cards_path
+        cards_path = os.path.join(cards_base_path, "{}.json".format(e["code"]))
+        cards_data = load_json_file(args, cards_path)
+        if not cards_data:
             continue
 
-        for card in pack_data:
+        for card in cards_data:
             validate_card(args, card, CARD_SCHEMA, e["code"], locale)
 
 def validate_expansions(args, expansions_data, locale=None):

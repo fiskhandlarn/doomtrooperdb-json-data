@@ -26,7 +26,7 @@ loadThings = (root) ->
 
 loadCards = (root) ->
     result = {}
-    localeRoot = path.join root, 'pack'
+    localeRoot = path.join root, 'cards'
     try
         fs.mkdirSync(localeRoot)
     files = fs.readdirSync localeRoot
@@ -63,7 +63,7 @@ for code in codes when not locale? or code is locale
             console.log "Written #{target}"
 
     for file in _.keys m_cards
-        target = path.join localeRoot, 'pack', file
+        target = path.join localeRoot, 'cards', file
         if !_.isEqual(l_cards[file], m_cards[file])
             fs.writeFileSync target, JSON.stringify(m_cards[file], null, 4)+"\n"
             console.log "Written #{target}"
