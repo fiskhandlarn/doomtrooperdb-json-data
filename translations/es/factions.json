@@ -1,38 +1,50 @@
 [
     {
-        "code": "baratheon",
-        "name": "Casa Baratheon"
+        "code": "general",
+        "name": "General"
     },
     {
-        "code": "greyjoy",
-        "name": "Casa Greyjoy"
+        "code": "bauhaus",
+        "name": "Bauhaus"
     },
     {
-        "code": "lannister",
-        "name": "Casa Lannister"
+        "code": "capitol",
+        "name": "Capitol"
     },
     {
-        "code": "martell",
-        "name": "Casa Martell"
+        "code": "cybertronic",
+        "name": "Cybertronic"
     },
     {
-        "code": "neutral",
-        "name": "Neutral"
+        "code": "imperial",
+        "name": "Imperial"
     },
     {
-        "code": "stark",
-        "name": "Casa Stark"
+        "code": "mishima",
+        "name": "Mishima"
     },
     {
-        "code": "targaryen",
-        "name": "Casa Targaryen"
+        "code": "brotherhood",
+        "name": "Die Bruderschaft TODO"
     },
     {
-        "code": "thenightswatch",
-        "name": "Guardia de la Noche"
+        "code": "legion",
+        "name": "Die dunkle Legion TODO"
     },
     {
-        "code": "tyrell",
-        "name": "Casa Tyrell"
+        "code": "crescentia",
+        "name": "Crescentia"
+    },
+    {
+        "code": "lutheran",
+        "name": "Lutheranische Triade TODO"
+    },
+    {
+        "code": "rasputin",
+        "name": "Söhne Rasputins TODO"
+    },
+    {
+        "code": "templars",
+        "name": "Templer TODO"
     }
 ]

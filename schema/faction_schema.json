@@ -10,9 +10,6 @@
             "minLength": 36,
             "type": "string"
         },
-        "is_primary": {
-            "type": "boolean"
-        },
         "name": {
             "minLength": 1,
             "type": "string"
@@ -20,9 +17,8 @@
     },
     "required": [
         "code",
-        "is_primary",
         "name",
-        "octgn_id"        
+        "octgn_id"
     ],
     "type": "object"
 }

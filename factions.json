@@ -1,56 +1,62 @@
 [
     {
-        "code": "baratheon",
-        "name": "House Baratheon",
-        "is_primary": true,
-        "octgn_id": "a8c94f92-2b17-4a78-bf0f-4411838b9826"
+        "code": "general",
+        "name": "General",
+        "octgn_id": "45170e28-045d-4dcd-ab88-61aaeb4a6dcc"
     },
     {
-        "code": "greyjoy",
-        "name": "House Greyjoy",
-        "is_primary": true,
-        "octgn_id": "0eb74218-f78e-43ed-898f-a9175883a437"
+        "code": "bauhaus",
+        "name": "Bauhaus",
+        "octgn_id": "0596f199-fd6f-42e4-a59b-c2e9c34a5e7c"
     },
     {
-        "code": "lannister",
-        "name": "House Lannister",
-        "is_primary": true,
-        "octgn_id": "a48612c4-cf38-44c6-94af-d1470a48ebed"
+        "code": "capitol",
+        "name": "Capitol",
+        "octgn_id": "92d9f081-b99b-4d5a-a87d-127ff8cc1a7c"
     },
     {
-        "code": "martell",
-        "name": "House Martell",
-        "is_primary": true,
-        "octgn_id": "fd2a37d8-a528-456e-a0de-33846469b1ea"
+        "code": "cybertronic",
+        "name": "Cybertronic",
+        "octgn_id": "a8cb0568-c554-40c5-a4ed-17c615153ece"
     },
     {
-        "code": "neutral",
-        "name": "Neutral",
-        "is_primary": false,
-        "octgn_id": null
+        "code": "imperial",
+        "name": "Imperial",
+        "octgn_id": "85a9ecc2-f84d-4055-8b4f-bfdacd671556"
     },
     {
-        "code": "stark",
-        "name": "House Stark",
-        "is_primary": true,
-        "octgn_id": "8e8d97bb-fc50-4830-86b9-a09c64308641"
+        "code": "mishima",
+        "name": "Mishima",
+        "octgn_id": "bdde8349-2c64-4683-807f-270036699ce0"
     },
     {
-        "code": "targaryen",
-        "name": "House Targaryen",
-        "is_primary": true,
-        "octgn_id": "fc822b99-e4df-49f4-beb2-a0e082f224bf"
+        "code": "brotherhood",
+        "name": "Brotherhood",
+        "octgn_id": "7e83ca40-aef3-40ca-afb0-c15844cda1bc"
     },
     {
-        "code": "thenightswatch",
-        "name": "The Night's Watch",
-        "is_primary": true,
-        "octgn_id": "44538ee5-b015-4522-b709-c2658c49c65b"
+        "code": "legion",
+        "name": "Dark Legion",
+        "octgn_id": "068a3a04-fed8-4d34-8982-0814dd65f282"
     },
     {
-        "code": "tyrell",
-        "name": "House Tyrell",
-        "is_primary": true,
-        "octgn_id": "20ee6436-b13e-478e-a52e-fd222637ce95"
+        "code": "crescentia",
+        "name": "Crescentia",
+        "octgn_id": "b13e205c-a309-4c6e-b9fd-2a7166a35a58"
+    },
+    {
+        "code": "lutheran",
+        "name": "The Lutheran Triad",
+        "octgn_id": "47ffb13c-57ca-4063-a04e-ef9e09032982"
+    },
+    {
+        "code": "rasputin",
+        "name": "The Sons of Rasputin",
+        "octgn_id": "578a5869-6733-449e-849a-95e9a1f88ebb"
+    },
+    {
+        "code": "templars",
+        "name": "The Templars",
+        "octgn_id": "50554588-a8b6-47cb-af97-2bf45e7bb0df"
     }
 ]
