@@ -7,7 +7,7 @@ _ = require 'lodash'
 [bin, script, locale] = process.argv
 
 i18nDir = path.join __dirname, 'translations'
-things = ['expansions', 'factions', 'packs', 'types']
+things = ['expansions', 'factions', 'types']
 
 stripProps = (json, props) ->
     _.map json, (item) ->
@@ -61,7 +61,7 @@ for code in codes when not locale? or code is locale
         if !_.isEqual(l_things[file], m_things[file])
             fs.writeFileSync target, JSON.stringify(m_things[file], null, 4)+"\n"
             console.log "Written #{target}"
-    
+
     for file in _.keys m_cards
         target = path.join localeRoot, 'pack', file
         if !_.isEqual(l_cards[file], m_cards[file])

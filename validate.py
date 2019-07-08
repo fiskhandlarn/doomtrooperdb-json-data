@@ -42,23 +42,19 @@ def check_json_schema(args, data, path):
         print(e)
         return False
 
-def custom_card_check(args, card, pack_code, locale=None):
+def custom_card_check(args, card, expansion_code, locale=None):
     "Performs more in-depth sanity checks than jsonschema validator is capable of. Assumes that the basic schema validation has already completed successfully."
     if locale:
         pass #no checks by the moment
     else:
-        if card["pack_code"] != pack_code:
-            raise jsonschema.ValidationError("Pack code '%s' of the card '%s' doesn't match the pack code '%s' of the file it appears in." % (card["pack_code"], card["code"], pack_code))
+        if card["expansion_code"] != expansion_code:
+            raise jsonschema.ValidationError("Expansion code '%s' of the card '%s' doesn't match the expansion code '%s' of the file it appears in." % (card["expansion_code"], card["code"], expansion_code))
         if card["code"] in unique_card_codes:
             raise jsonschema.ValidationError("Card code '%s' of the card '%s' has been used by '%s'." % (card["code"], card["name"], unique_card_codes[card["code"]]["name"]))
 
-def custom_pack_check(args, pack, expansions_data, locale=None, en_packs=None):
-    if locale:
-        if pack["code"] not in [p["code"] for p in en_packs]:
-            raise jsonschema.ValidationError("Pack code '%s' in translation file for '%s' locale does not exists in original locale." % (pack["code"], locale))
-    else:
-        if pack["expansion_code"] not in [c["code"] for c in expansions_data]:
-            raise jsonschema.ValidationError("Expansion code '%s' of the pack '%s' doesn't match any valid expansion code." % (pack["expansion_code"], pack["code"]))
+def custom_pack_check(args, expansions_data, locale=None):
+    if pack["expansion_code"] not in [c["code"] for c in expansions_data]:
+        raise jsonschema.ValidationError("Expansion code '%s' doesn't match any valid expansion code." % (pack["expansion_code"]))
 
 def format_json(json_data):
     formatted_data = json.dumps(json_data, ensure_ascii=False, sort_keys=True, indent=4, separators=(',', ': '))
@@ -107,17 +103,16 @@ def load_expansions(args, locale=None):
 
     return expansions_data
 
-def load_pack_index(args, expansions_data, locale=None, en_packs=None):
+def load_pack_index(args, expansions_data, locale=None):
     verbose_print(args, "Loading pack index file...\n", 1)
     packs_base_path = locale and os.path.join(args.trans_path, locale) or args.base_path
     packs_path = os.path.join(packs_base_path, "packs.json")
-    packs_data = load_json_file(args, packs_path)
 
-    if not validate_packs(args, packs_data, expansions_data, locale, en_packs):
-        return None
+    # if not validate_packs(args, packs_data, expansions_data, locale):
+    #     return None
 
-    for p in packs_data:
-        pack_filename = "{}.json".format(p["code"])
+    for e in expansions_data:
+        pack_filename = "{}.json".format(e["code"])
         packs_dir = locale and os.path.join(args.trans_path, locale, PACK_DIR) or args.pack_path
         pack_path = os.path.join(packs_dir, pack_filename)
         check_file_access(pack_path)
@@ -147,22 +142,22 @@ def parse_commandline():
 
     return args
 
-def validate_card(args, card, card_schema, pack_code, locale=None):
+def validate_card(args, card, card_schema, expansion_code, locale=None):
     global validation_errors
 
     try:
         verbose_print(args, "Validating card %s... " % (locale and ("%s-%s" % (card["code"], locale)) or card["name"]), 2)
         jsonschema.validate(card, card_schema)
-        custom_card_check(args, card, pack_code, locale)
+        custom_card_check(args, card, expansion_code, locale)
         unique_card_codes[card["code"]] = card
         verbose_print(args, "OK\n", 2)
     except jsonschema.ValidationError as e:
         verbose_print(args, "ERROR\n",2)
-        verbose_print(args, "Validation error in card: (pack code: '%s' card code: '%s' name: '%s')\n" % (pack_code, card.get("code"), card.get("name")), 0)
+        verbose_print(args, "Validation error in card: (expansion code: '%s' card code: '%s' name: '%s')\n" % (expansion_code, card.get("code"), card.get("name")), 0)
         validation_errors += 1
         print(e)
 
-def validate_cards(args, packs_data, locale=None):
+def validate_cards(args, expansions_data, locale=None):
     global validation_errors
 
     card_schema_path = os.path.join(args.schema_path, locale and "card_schema_trans.json" or "card_schema.json")
@@ -173,17 +168,17 @@ def validate_cards(args, packs_data, locale=None):
     if not check_json_schema(args, CARD_SCHEMA, card_schema_path):
         return
 
-    for p in packs_data:
-        verbose_print(args, "Validating cards from %s...\n" % (locale and "%s-%s" % (p["code"], locale) or p["name"]), 1)
+    for e in expansions_data:
+        verbose_print(args, "Validating cards from %s...\n" % (locale and "%s-%s" % (e["code"], locale) or e["name"]), 1)
 
         pack_base_path = locale and os.path.join(args.trans_path, locale, PACK_DIR) or args.pack_path
-        pack_path = os.path.join(pack_base_path, "{}.json".format(p["code"]))
+        pack_path = os.path.join(pack_base_path, "{}.json".format(e["code"]))
         pack_data = load_json_file(args, pack_path)
         if not pack_data:
             continue
 
         for card in pack_data:
-            validate_card(args, card, CARD_SCHEMA, p["code"], locale)
+            validate_card(args, card, CARD_SCHEMA, e["code"], locale)
 
 def validate_expansions(args, expansions_data, locale=None):
     global validation_errors
@@ -214,37 +209,7 @@ def validate_expansions(args, expansions_data, locale=None):
 
     return retval
 
-def validate_packs(args, packs_data, expansions_data, locale=None, en_packs=None):
-    global validation_errors
-
-    verbose_print(args, "Validating pack index file...\n", 1)
-    pack_schema_path = os.path.join(args.schema_path, locale and "pack_schema_trans.json" or "pack_schema.json")
-    PACK_SCHEMA = load_json_file(args, pack_schema_path)
-    if not isinstance(packs_data, list):
-        verbose_print(args, "Insides of pack index file are not a list!\n", 0)
-        return False
-    if not PACK_SCHEMA:
-        return False
-    if not check_json_schema(args, PACK_SCHEMA, pack_schema_path):
-        return False
-
-    retval = True
-    for p in packs_data:
-        try:
-            verbose_print(args, "Validating pack %s... " % p.get("name"), 2)
-            jsonschema.validate(p, PACK_SCHEMA)
-            custom_pack_check(args, p, expansions_data, locale, en_packs)
-            verbose_print(args, "OK\n", 2)
-        except jsonschema.ValidationError as e:
-            verbose_print(args, "ERROR\n",2)
-            verbose_print(args, "Validation error in pack: (code: '%s' name: '%s')\n" % (p.get("code"), p.get("name")), 0)
-            validation_errors += 1
-            print(e)
-            retval = False
-
-    return retval
-
-def validate_locales(args, en_expansions, en_packs):
+def validate_locales(args, en_expansions):
     verbose_print(args, "Validating I18N files...\n", 1)
     if os.path.exists(args.trans_path):
         check_dir_access(args.trans_path)
@@ -253,12 +218,10 @@ def validate_locales(args, en_expansions, en_packs):
 
             expansions = load_expansions(args, locale)
 
-            packs = load_pack_index(args, expansions, locale, en_packs)
-
-            if packs:
-                validate_cards(args, packs, locale)
+            if expansions:
+                validate_cards(args, expansions, locale)
             else:
-                verbose_print(args, "Couldn't open packs file correctly, skipping card validation...\n", 0)
+                verbose_print(args, "Couldn't open expansions file correctly, skipping card validation...\n", 0)
 
 
 def verbose_print(args, text, minimum_verbosity=0):
@@ -276,13 +239,11 @@ def main():
 
     expansions = load_expansions(args)
 
-    packs = load_pack_index(args, expansions)
-
-    if packs:
-        validate_cards(args, packs)
-        validate_locales(args, expansions, packs)
+    if expansions:
+        validate_cards(args, expansions)
+        validate_locales(args, expansions)
     else:
-        verbose_print(args, "Couldn't open packs file correctly, skipping card validation...\n", 0)
+        verbose_print(args, "Couldn't open expansionss file correctly, skipping card validation...\n", 0)
 
     sys.stdout.write("Found %s formatting and %s validation errors\n" % (formatting_errors, validation_errors))
     if formatting_errors == 0 and validation_errors == 0:

@@ -19,19 +19,11 @@ You can also just try to follow the style existing files use when editing entrie
 
 Required properties are in **bold**.
 
-#### Cycle schema
+#### Expansion schema
 
 * **code** - identifier of the expansion. One single lowercase word. Examples: `"core"`, `"westeros"`, `"war"`.
-* **name** - properly formatted name of the expansion. Examples: `"Core Set"`, `"Westeros Cycle"`, `"War of the Five Kings Cycle"`.
-* **size** - number of packs in the expansion. Examples: `1` for big boxes, `6` for regular chapter pack expansions.
-
-#### Pack schema
-
-* **code** - identifier of the pack. The acronym of the pack name, with matching case, except for Core Set. Examples: `"Core"` for Core Set, `"TKP"` for The King's Peace, `"WotN"` for Wolves of the North.
-* **expansion_code** - identifier of the expansion the pack belongs to. Must refer to one of the values from expansions' `"code"`. Examples: `"core"` for Core Set, `"westeros"` for Westeros Cycle.
-* **name** - properly formatted name of the pack. Examples: `"Core Set"`, `"Wolves of the North"`, `"The King's Peace"`.
-* **released** - date when the pack was officially released by FFG. When in doubt, look at the date of the pack release news on FFG's news page. Format of the date is YYYY-MM-DD. May be `null` - this value is used when the date is unknown. Examples: `"2015-10-08"` for Core Set, `"2015-12-09"` for Taking the Black, `null` for unreleased previewed packs.
-* **size** - number of different cards in the pack. May be `null` - this value is used when the pack is just an organizational entity, not a physical pack.  Examples: `120` for Core Set, `55` for most deluxe expansions, `20` for most chapter packs, `null` for assorted draft cards.
+* **name** - properly formatted name of the expansion. Examples: `"Core Set"`, `"Westeros Expansion"`, `"War of the Five Kings Expansion"`.
+* **size** - number of cards in the expansion.
 
 #### Card schema
 
@@ -51,7 +43,7 @@ Required properties are in **bold**.
 * **is_unique**
 * **name**
 * octgn_id
-* **pack_code**
+* **expansion_code**
 * **position**
 * **quantity**
 * reserve - Plots only
@@ -74,7 +66,7 @@ To get the 4-letter hexcode of a UTF-8 symbol (or look up what a particular hexc
 
 To have text spanning multiple lines, use `\n` to separate them. To have quotes as part of the text, use `\"`.  For example, `"flavor": "\"Winter is Coming.\"\n-Eddard Stark"` results in following flavor text:
 
-> *"Winter is coming."*  
+> *"Winter is coming."*
 > *-Eddard Stark*
 
 #### A Game of Thrones symbols
