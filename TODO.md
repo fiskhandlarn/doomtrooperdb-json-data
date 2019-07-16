@@ -1,5 +1,8 @@
 * Basic -> Unlimited
 * add Limited expansion
+* stats
+ * e+1 vs e1
+ * +-x -> "+/-x"
 * rarity
 * restricted (restrictions.json or list of card names?)
 * Errata/FAQ
