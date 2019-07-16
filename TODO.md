@@ -1,3 +1,5 @@
+* Basic -> Unlimited
+* add Limited expansion
 * rarity
 * restricted (restrictions.json or list of card names?)
 * Errata/FAQ
