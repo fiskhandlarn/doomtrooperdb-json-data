@@ -13,9 +13,17 @@
                 }
             ]
         },
+        "clarification_text": {
+            "minLength": 0,
+            "type": "string"
+        },
         "code": {
             "pattern": "^[0-9]{5}$",
             "type": "string"
+        },
+        "deck_limit": {
+            "minimum": 0,
+            "type": "integer"
         },
         "expansion_code": {
             "maxLength": 5,
@@ -50,6 +58,10 @@
                 }
             ]
         },
+        "flavor": {
+            "minLength": 0,
+            "type": "string"
+        },
         "illustrator": {
             "oneOf": [
                 {
@@ -76,11 +88,26 @@
             "minLength": 1,
             "type": "string"
         },
+        "notes": {
+            "minLength": 0,
+            "type": "string"
+        },
         "octgn_id": {
             "oneOf": [
                 {
                     "maxLength": 36,
                     "minLength": 36,
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "post_play": {
+            "oneOf": [
+                {
+                    "pattern": "^[x\\-\\+]{1}$",
                     "type": "string"
                 },
                 {
@@ -135,6 +162,7 @@
     },
     "required": [
         "code",
+        "deck_limit",
         "expansion_code",
         "faction_code",
         "name",
