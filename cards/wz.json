@@ -1,0 +1,2306 @@
+[
+    {
+        "armor": "7",
+        "clarification_text": "COMMANDER. SERGEANT. Assign a non-Personality Bauhaus warrior card to the Aide-de-Camp. That card and copies of that card gain +4 to F, S, A and V while in the same Combat Area with the Aide-de-Camp.",
+        "code": "03001",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "bauhaus"
+        ],
+        "fight": "3",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/aidedecamp.jpg",
+        "name": "AIDE-DE-CAMP",
+        "octgn_id": "68758d24-99fc-4ce6-b130-de0e9d28e3f3",
+        "shoot": "4",
+        "text": "COMMANDER (SERGEANT). Assign a non-Personality Bauhaus warrior card to the Aide-de-Camp. That card, and copies of that card in your Squad gain +4 to F, S, A and V while this warrior is in the Squad.",
+        "type_code": "warrior",
+        "value": "7"
+    },
+    {
+        "code": "03002",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/airassault.jpg",
+        "name": "AIR ASSAULT",
+        "octgn_id": "ca5139da-b83a-49ce-94a1-f1b92f2f0831",
+        "post_play": "-",
+        "text": "PLAY DURING COMBAT. No Warzones may be used during this combat. Fortifications may be used as normal.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "GIVE TO ANY WARRIOR. SHOOT WEAPON. SHOTGUN. May only be used in Fight combats. + to F. If warrior's modified F is more than double the modified A of its opponent, the opponent is automatically killed.",
+        "code": "03003",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "mishima",
+            "capitol"
+        ],
+        "fight": "3",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/airbrushm516sshotgun.jpg",
+        "name": "AIRBRUSH/M516S SHOTGUN",
+        "octgn_id": "c08b21db-2f95-4f3a-a403-bd49eb5d05db",
+        "post_play": "+",
+        "text": "GIVE TO ANY WARRIOR. SHOTGUN. Considered a SHOOT WEAPON, but may only be used in Fight combats. +3 to F. If warrior's total F is more than double the total A of its opponent, the opponent is automatically killed.",
+        "type_code": "equipment"
+    },
+    {
+        "code": "03004",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/amnesty.jpg",
+        "name": "AMNESTY",
+        "octgn_id": "bcb60814-8cdf-4380-a677-1473991a310d",
+        "post_play": "-",
+        "text": "PLAY AT ANY TIME. All IMPRISONED warriors are immediately released and returned to their owner's hands, along with any cards in their possession.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "PLAY DURING A COMBAT WHERE THE ATTACKER USES OR IS CONSIDERED A TANK. MINEFIELD. The Attacker is automatically wounded, the TANK is discarded, and the combat ends immediately. If opponent is killed by the wound, points are earned.",
+        "code": "03005",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/antitankminefield.jpg",
+        "name": "ANTI-TANK MINEFIELD",
+        "octgn_id": "96f9f97c-b1f3-4037-a842-f17cafd97f16",
+        "post_play": "x",
+        "text": "PLAY DURING A COMBAT WHERE THE ATTACKER USES OR IS CONSIDERED A TANK. ONCE PLAYED, REMOVE THIS CARD FROM THE GAME ENTIRELY. The attacker is automatically wounded, the TANK is discarded, and the combat ends immediately. If opponent is killed by the wound, points are earned. If the Attacker is considered a TANK, it is killed and points are earned.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "PLAY ON A WARRIOR DURING COMBAT. The affected warrior gains +5 to S during this combat. This card has no effect if the warrior's opponent is in or considered a VEHICLE.",
+        "code": "03006",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/artillerysupport.jpg",
+        "name": "ARTILLERY SUPPORT",
+        "octgn_id": "1844dfac-2dcc-458c-a63e-3cfd19b202a8",
+        "post_play": "-",
+        "shoot": "5",
+        "text": "PLAY ON A WARRIOR DURING COMBAT. The affected warrior gains +5 to S during this combat. This card has no effect if the warrior's opponent is in a VEHICLE, or is considered an AIRSHIP, TANK or VEHICLE.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "ATTACH TO ANY DOOMTROOPER AT ANY TIME. This warrior may discard any Fortification or Warzone card as three actions and by spending 1 Promotion Point. No MINEFIELDS affect your Doomtroopers while you have an Engineer in your Squad. Playing this card will cancel the effects of the just-played MINEFIELD card.",
+        "code": "03007",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/assaultengineer.jpg",
+        "name": "ASSAULT ENGINEER",
+        "octgn_id": "5553deaf-f46d-44da-ba8a-3bf79e9207bb",
+        "post_play": "+",
+        "text": "PLAY AT ANY TIME ON ANY DOOMTROOPER. THIS CARD REMAINS IN PLAY. This warrior may discard any Fortification or Warzone card as three actions and by spending 1 Promotion Point. No MINEFIELDS affect your Doomtroopers when you have an Engineer in your Squad. Playing this card will cancel the effects of the just-played MINEFIELD card.",
+        "type_code": "special",
+        "value": "e1"
+    },
+    {
+        "armor": "1",
+        "clarification_text": "ASTEROID BELT WARZONE. ADD TO YOUR SQUAD OR KOHORT. Warriors may not use SHOOT WEAPONS or FIGHT/SHOOT WEAPONS while combating in this Warzone.",
+        "code": "03008",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "general"
+        ],
+        "fight": "2",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/asteroidsettlement.jpg",
+        "name": "ASTEROID SETTLEMENT",
+        "octgn_id": "3fbe8e10-1e7f-4ab4-be33-1d64d3a03d29",
+        "shoot": "-1",
+        "text": "ASTEROID BELT WARZONE. ADD TO YOUR SQUAD OR KOHORT IF YOU ARE A GRAND TACTICIAN. Warriors may not use SHOOT WEAPONS or FIGHT/SHOOT WEAPONS while combating in this Warzone.",
+        "type_code": "warzone",
+        "value": "2"
+    },
+    {
+        "clarification_text": "PLAY DURING COMBAT ON A WARRIOR USING A SHOOT WEAPON. The weapon backfires and attacks the user instead. Resolve the combat as usual, but the affected warrior's SHOOT WEAPON modifiers are given to the opponent, in addition to any SHOOT WEAPON modifiers the opponent already has. The SHOOT WEAPON is discarded.",
+        "code": "03009",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/backfire.jpg",
+        "name": "BACKFIRE",
+        "octgn_id": "a6917020-d5fb-4eee-83b0-64c120433dd7",
+        "post_play": "-",
+        "text": "PLAY DURING COMBAT ON A WARRIOR USING A SHOOT WEAPON. The weapon backfires and attacks the user instead. Resolve the combat as usual, but the affected warrior's SHOOT WEAPON modifiers are given to the opponent, in addition to any SHOOT WEAPON modifiers the opponent already has. The SHOOT WEAPON is discarded.",
+        "type_code": "special"
+    },
+    {
+        "armor": "4",
+        "clarification_text": "STANDARD BEARER. This warrior inspires his comrades. Other Imperial warriors gain +2 to A while in the same Combat Area with the Banner Bearer. The Banner Bearer will not affect its own ratings, but others may.",
+        "code": "03010",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "imperial"
+        ],
+        "fight": "5",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/bannerbearer.jpg",
+        "name": "BANNER BEARER",
+        "octgn_id": "f2a8c8c9-0d7f-432e-85c4-b205d57ff68e",
+        "shoot": "1",
+        "text": "STANDARD BEARER. This warrior inspires his comrades. All Imperial warriors in the Squad, except this Banner Bearer, gain +2 to A while this warrior is present. The Banner Bearer will not affect its own ratings, but others may.",
+        "type_code": "warrior",
+        "value": "4"
+    },
+    {
+        "clarification_text": "BUILD IN YOUR SQUAD. MINEFIELD. If your Squad member is the Defender against an opponent using an AIRSHIP you may activate the Barrage Ballons by annihilating this card. The Attacker is automatically wounded, the AIRSHIP is discarded, and the combat immediately ends. If opponent is killed by the wound, points are earned.",
+        "code": "03011",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Paul Bonner",
+        "image_url": "wz/barrageballoons.jpg",
+        "name": "BARRAGE BALLOONS",
+        "octgn_id": "f0a4aa21-8efe-478e-961c-59ca913bd4e6",
+        "text": "ADD TO YOUR SQUAD AS ONE ACTION. CONSIDERED A MINEFIELD. If your Doomtrooper is the Defender against an opponent using an AIRSHIP you may activate the Barrage Balloons by removing this card from the game entirely. The Attacker is automatically wounded, the AIRSHIP is discarded, and the combat immediately ends. If opponent is killed by the wound, points are earned.",
+        "type_code": "fortification"
+    },
+    {
+        "armor": "9",
+        "clarification_text": "COMMANDER. CAPTAIN. MINOR SYMMETRY IMMUNITY. PROFANE. Cybertronic warriors with V: 9 or less are SLAYERS while in the same Combat Area with the Functionary.",
+        "code": "03012",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "cybertronic"
+        ],
+        "fight": "6",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/battlefunctionary.jpg",
+        "name": "BATTLE FUNCTIONARY",
+        "octgn_id": "e43d1b41-c4cf-451e-8971-33991be9ddf7",
+        "shoot": "5",
+        "text": "COMMANDER (CAPTAIN). IMMUNE TO THE EFFECTS OF DARK SYMMETRY GIFT CARDS, BUT NOT GIFTS OF APOSTLES. May never cast Art spells. While in your Squad, all your Cybertronic warriors with V: 9 or less automatically kill anyone they wound.",
+        "type_code": "warrior",
+        "value": "10"
+    },
+    {
+        "armor": "2",
+        "clarification_text": "If a Doomtrooper wounds or kills one of your Bauhaus warriors, the Cop may IMPRISON the Doomtrooper. You may discard any cards attached to the prisoner when you IMPRISON it. While IMPRISONED, warriors are NONCOMBATANTS. If the Cop is discarded, all its prisoners return to their Combat Areas.",
+        "code": "03013",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "bauhaus"
+        ],
+        "fight": "2",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/bauhauscop.jpg",
+        "name": "BAUHAUS COP",
+        "octgn_id": "f65a8b9a-7fd5-4638-b899-26b77dd9050c",
+        "shoot": "2",
+        "text": "If a Doomtrooper wounds or kills your Bauhaus warrior, the Cop may IMPRISON the Doomtrooper. You may choose to discard any or all cards attached to the prisoner when you Imprison it. Prisoners may never attack or be attacked. If the Cop is discarded, all its prisoners return to their Squads.",
+        "type_code": "warrior",
+        "value": "4"
+    },
+    {
+        "armor": "26",
+        "code": "03014",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "legion"
+        ],
+        "fight": "22",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/biogiant.jpg",
+        "name": "BIO-GIANT",
+        "octgn_id": "9668d17f-6426-4ba9-af65-c07db9c9614d",
+        "shoot": "14",
+        "text": "FOLLOWER OF ALGEROTH. May never attack more than once in a turn. May never be bestowed with any Dark Symmetry cards, have Equipment, or gain the effects of Fortifications. You may not play Special cards on the Bio Giant, but other players may.",
+        "type_code": "warrior",
+        "value": "20"
+    },
+    {
+        "armor": "4",
+        "clarification_text": "GIVE TO ANY DARK LEGION WARRIOR. VEHICLE. Warrior may not use other Equipment with the Black Widow. Warrior gains +4 to F, S and A. Opponents of this warrior may not gain the benefits of Fortifications.",
+        "code": "03015",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "legion"
+        ],
+        "fight": "4",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/blackwidow.jpg",
+        "name": "BLACK WIDOW",
+        "octgn_id": "18892135-9e13-47a2-8257-2c8d637beb18",
+        "post_play": "+",
+        "shoot": "4",
+        "text": "GIVE TO ANY DARK LEGION WARRIOR. VEHICLE. A warrior may only have one VEHICLE. Warrior may not use other Equipment with the Black Widow. Warrior gains +4 to F, S and A. Opponents of this warrior may not gain the benefits of Fortifications.",
+        "type_code": "equipment"
+    },
+    {
+        "clarification_text": "ATTACH TO ANY BROTHERHOOD WARRIOR AS ONE ACTION. Starting immediately, and each turn hereafter (from your Draw step to your next Draw step), the affected warrior may only spend 3D on Art spells.",
+        "code": "03016",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "brotherhood"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/brainstrain.jpg",
+        "name": "BRAIN STRAIN",
+        "octgn_id": "dd0c2870-cd97-4d18-8607-0c9d224d0ded",
+        "post_play": "+",
+        "text": "PLAY ON ANY BROTHERHOOD WARRIOR AS ONE ACTION. THIS CARD REMAINS IN PLAY. Starting immediately, and each turn hereafter (from your Draw step to your next Draw step), the affected warrior may only spend 3 D on Art spells.",
+        "type_code": "special",
+        "value": "3"
+    },
+    {
+        "armor": "10",
+        "clarification_text": "FOLLOWER OF ALGEROTH. When you put the Brass Apocalypt into play, assign it to a Dark Legion warrior in the same Combat Area with V:6 or less. The chosen warrior may not be attacked while the Apocalypt is in play. If the chosen warrior is somehow killed or discarded, the Apocalypt is also discarded (no points are earned). The Apocalypt may attack and defend normally.",
+        "code": "03017",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "legion"
+        ],
+        "fight": "6",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/brassapocalypt.jpg",
+        "name": "BRASS APOCALYPT",
+        "octgn_id": "4ecad64b-ae1f-4c62-95ea-edabf066727d",
+        "shoot": "13",
+        "text": "FOLLOWER OF ALGEROTH. When put into play, assign the Apocalypt to a warrior in your Kohort with V: 6 or less. The chosen warrior may not be attacked while the Apocalypt is in play. If the chosen warrior is somehow killed or discarded, the Apocalypt is also discarded (no points are earned). The Apocalypt may attack and defend normally.",
+        "type_code": "warrior",
+        "value": "7"
+    },
+    {
+        "armor": "4",
+        "clarification_text": "STANDARD BEARER. This warrior inspires his comrades. Other Mishima warriors gain +2 to A while in the same Combat Area with the Bushi. The Bushi will not affect its own ratings, but others may.",
+        "code": "03018",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "mishima"
+        ],
+        "fight": "3",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/bushi.jpg",
+        "name": "BUSHI",
+        "octgn_id": "2ff16dc4-6365-4a2a-9093-9075b8aa86da",
+        "shoot": "3",
+        "text": "STANDARD BEARER. This warrior inspires his comrades. All Mishima warriors in the Squad gain +2 to A while this warrior is present. The Bushi will not affect its own ratings, but others may.",
+        "type_code": "warrior",
+        "value": "4"
+    },
+    {
+        "armor": "9",
+        "clarification_text": "COMMANDER. CAPTAIN. Bauhaus warriors with V:9 or less are SLAYERS while in the same Combat Area with the Capitaine.",
+        "code": "03019",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "bauhaus"
+        ],
+        "fight": "5",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/capitaine.jpg",
+        "name": "CAPITAINE",
+        "octgn_id": "91f4586a-fe3e-4854-a0a1-0c2d513aa599",
+        "shoot": "6",
+        "text": "COMMANDER (CAPTAIN). While in your Squad, all your Bauhaus warriors with V: 9 or less automatically kill anyone they wound.",
+        "type_code": "warrior",
+        "value": "10"
+    },
+    {
+        "armor": "7",
+        "clarification_text": "COMMANDER. CAPTAIN. Capitol warriors with V:8 or less are SLAYERS while in the same Combat Area with the Captain.",
+        "code": "03020",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "capitol"
+        ],
+        "fight": "6",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/captain.jpg",
+        "name": "CAPTAIN",
+        "octgn_id": "4c2b4b06-3cf0-4978-9327-c1bab763a976",
+        "shoot": "8",
+        "text": "COMMANDER (CAPTAIN). While in your Squad, all your Capitol warriors with V: 8 or less automatically kill anyone they wound.",
+        "type_code": "warrior",
+        "value": "9"
+    },
+    {
+        "armor": "11",
+        "clarification_text": "PERSONALITY. MINOR SYMMETRY IMMUNITY. PROFANE. Other Cybertronic warriors gain + to F, S, A and V while in the same Combat Area with Sykes.",
+        "code": "03021",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "cybertronic"
+        ],
+        "fight": "8",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/charlessykes.jpg",
+        "name": "CHARLES SYKES",
+        "octgn_id": "cd10892e-f1a9-4c2d-8f0d-8f62692fa516",
+        "shoot": "7",
+        "text": "PERSONALITY. IMMUNE TO THE EFFECTS OF DARK SYMMETRY GIFT CARDS, BUT NOT GIFTS OF APOSTLES. May never cast Art spells. While in the Squad, all of your Cybertronic warriors (but not Sykes himself) gain +3 to F, S, A and V.",
+        "type_code": "warrior",
+        "value": "13"
+    },
+    {
+        "armor": "3",
+        "clarification_text": "GENERIC WARZONE. ADD TO YOUR KOHORT. Warriors defending from this Warzone are SLAYERS. Doomtroopers who kill warriors defending from this Warzone earn double the modified V of the opponent.",
+        "code": "03022",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "legion"
+        ],
+        "fight": "3",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/citadelsanctum.jpg",
+        "name": "CITADEL SANCTUM",
+        "octgn_id": "f68c2cd4-dbe2-48de-8bb4-e58a252c5513",
+        "shoot": "3",
+        "text": "GENERIC WARZONE. ADD TO YOUR KOHORT IF YOU ARE A GRAND TACTICIAN. Warriors defending from this Warzone automatically kill any Doomtrooper they wound. Doomtroopers who kill warriors defending from this Warzone earn double the V of the opponent.",
+        "type_code": "warzone",
+        "value": "x2"
+    },
+    {
+        "clarification_text": "ATTACH TO ANY NON-CYBERTRONIC DOOMTROOPER AT ANY TIME. The warrior is considered a CLANSMAN and gains +2 to F and S. This card does not give the warrior Imperial affiliation.",
+        "code": "03023",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "imperial"
+        ],
+        "fight": "2",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/clanmembership.jpg",
+        "name": "CLAN MEMBERSHIP",
+        "octgn_id": "38e262a0-1662-4ba8-8c3d-f4b9d85fb39d",
+        "post_play": "+",
+        "shoot": "2",
+        "text": "PLAY ON ANY NON-CYBERTRONIC DOOMTROOPER AT ANY TIME. THIS CARD REMAINS IN PLAY. The warrior is considered a CLANSMAN and gains +2 to F and S. This card does not give the warrior Imperial affiliation.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "PLAY AT ANY TIME. For 8D, any one Dark Legion warrior in play is discarded. You may only use this card against one Dark Legion warrior. This is not considered an attack.",
+        "code": "03024",
+        "deck_limit": 1,
+        "expansion_code": "wz",
+        "faction_code": [
+            "brotherhood"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/cleansingflame.jpg",
+        "name": "CLEANSING FLAME",
+        "octgn_id": "1b03f1b7-4d93-41c1-ac2a-f9a30ebe2d7c",
+        "post_play": "x",
+        "text": "PLAY AT ANY TIME. ONCE USED, REMOVE THIS CARD FROM THE GAME ENTIRELY. For 8 D, any one Dark Legion warrior in play is discarded. You may only use this card against one Dark Legion warrior. This is not considered an Attack action.",
+        "type_code": "special",
+        "value": "8"
+    },
+    {
+        "clarification_text": "PLAY ON A WARRIOR DURING COMBAT. The affected warrior gains +5 to F during this combat. This card has no effect if the warrior's opponent is in or considered a VEHICLE.",
+        "code": "03025",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "general"
+        ],
+        "fight": "5",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/closeairsupport.jpg",
+        "name": "CLOSE AIR SUPPORT",
+        "notes": "CLOSE AIR SUPPORT is a U2 card, which means it is found twice on the uncommon card sheet. One of the cards gives +5 to F, the other gives +5 to S. The correct version is +5 to F (since ARTILLERY SUPPORT provides +5 to S). In OFFICIAL games, all CLOSE AIR SUPPORT cards will be assumed to have the +5 to F text (due to the fact that this mistake did not occur on non-English editions).",
+        "octgn_id": "64701fc1-78b1-4f30-b6f0-da60669e8066",
+        "post_play": "-",
+        "text": "PLAY ON A WARRIOR DURING COMBAT. The affected warrior gains +5 to F during this combat. This card has no effect if the warrior's opponent is in a VEHICLE, or is considered an AIRSHIP, TANK or VEHICLE.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "PLAY DURING COMBAT ON A WARRIOR USING A FIGHT WEAPON. The warrior slips and attacks a member of the affected warrior's Combat Area. The player of the card chooses which warrior is attacked. The attacked warrior may not retaliate. No points are earned, and no modifiers from any other cards apply during the combat.",
+        "code": "03026",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/clumsiness.jpg",
+        "name": "CLUMSINESS",
+        "octgn_id": "37df7fad-0eba-42a4-83da-0ab802cad7cb",
+        "post_play": "-",
+        "text": "PLAY DURING COMBAT ON A WARRIOR USING A FIGHT WEAPON. The warrior slips and attacks a member of the affected warrior's Squad/Kohort. The player of this card chooses which warrior is attacked. The attacked warrior may not retaliate. No points are earned, and no modifiers from any other cards apply during the combat.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "ATTACH TO ANY DOOMTROOPER AT ANY TIME. The warrior becomes a member of Bauhaus, in addition to any affiliations it currently holds. Warrior gains +2 to F and S, and may never attack a Doomtrooper with a lower total V.",
+        "code": "03027",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "bauhaus"
+        ],
+        "fight": "2",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/codeofhonor.jpg",
+        "name": "CODE OF HONOR",
+        "octgn_id": "d0397493-bc01-4188-a06a-b36e93309ab8",
+        "post_play": "+",
+        "shoot": "2",
+        "text": "PLAY ON ANY DOOMTROOPER AT ANY TIME. THIS CARD REMAINS IN PLAY. The warrior becomes a member of Bauhaus, in addition to any affiliations it currently holds. Warrior gains +2 to F and S, and may never attack a Doomtrooper with a lower total V.",
+        "type_code": "special",
+        "value": "<x"
+    },
+    {
+        "armor": "7",
+        "clarification_text": "COMMANDER. SERGEANT. MINOR SYMMETRY IMMUNITY. PROFANE. Assign a non-Personality Cybertronic warrior card to the Overseer. That card and copies of that card gain +4 to F, S, A and V while in the same Combat Area with the Overseer.",
+        "code": "03028",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "cybertronic"
+        ],
+        "fight": "4",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/combatoverseer.jpg",
+        "name": "COMBAT OVERSEER",
+        "octgn_id": "1f090b9f-34d0-419a-97f2-0536c8f0ac16",
+        "shoot": "3",
+        "text": "COMMANDER (SERGEANT). IMMUNE TO THE EFFECTS OF DARK SYMMETRY GIFT CARDS, BUT NOT GIFTS OF APOSTLES. May never cast Art spells. Assign a non-Personality Cybertronic warrior card to the Combat Overseer. That card, and copies of that card in your Squad gain +4 to F, S, A and V while this warrior is in the Squad.",
+        "type_code": "warrior",
+        "value": "7"
+    },
+    {
+        "clarification_text": "GIVE TO ANY COMMANDER. A warrior may only have one Command Helmet. This warrior may make one extra Tactical action every turn. The action must be used by the Warrior.",
+        "code": "03029",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "cybertronic"
+        ],
+        "illustrator": "Tony Bagge",
+        "image_url": "wz/commandhelmet.jpg",
+        "name": "COMMAND HELMET",
+        "octgn_id": "d3ffaf44-77ce-46dc-b796-edc45eaf94fe",
+        "post_play": "+",
+        "text": "GIVE TO ANY COMMANDER. A warrior may only have one Command Helmet. This warrior may make one extra attack action every turn in addition to its player's three actions.",
+        "type_code": "equipment"
+    },
+    {
+        "armor": "7",
+        "clarification_text": "COMMANDER. CAPTAIN. Imperial warriors with V:8 or less are SLAYERS while in the same Combat Area with the Chieftain.",
+        "code": "03030",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "imperial"
+        ],
+        "fight": "9",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/commanderchieftain.jpg",
+        "name": "COMMANDER CHIEFTAIN",
+        "octgn_id": "deda21d5-2615-4b74-a54d-22bc9658b1a7",
+        "shoot": "5",
+        "text": "COMMANDER (CAPTAIN). While in your Squad, all your Imperial warriors with V: 8 or less automatically kill anyone they wound.",
+        "type_code": "warrior",
+        "value": "9"
+    },
+    {
+        "clarification_text": "PLAY DURING COMBAT. Effects of Fortification cards do not apply during this combat.",
+        "code": "03031",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/commandoraid.jpg",
+        "name": "COMMANDO RAID",
+        "octgn_id": "e0dd70fd-6cfd-4310-95e4-f1d8c9a898ae",
+        "post_play": "-",
+        "text": "PLAY DURING COMBAT. No bonuses for Fortifications apply during this combat.",
+        "type_code": "special"
+    },
+    {
+        "armor": "2",
+        "clarification_text": "MERCURIAN WARZONE. ADD TO YOUR KOHORT. Warriors defending from this Warzone may freely receive any legal Dark Symmetry cards during combat and are SLAYERS when in Fight combats.",
+        "code": "03032",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "legion"
+        ],
+        "fight": "-3",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/craterofanatholia.jpg",
+        "name": "CRATER OF ANATHOLIA",
+        "octgn_id": "c911eb3f-6204-48a3-b7db-7fa00c04bb0b",
+        "shoot": "1",
+        "text": "MERCURIAN WARZONE. ADD TO YOUR KOHORT IF YOU ARE A GRAND TACTICIAN. Warriors defending from this Warzone may freely receive any legal Dark Symmetry cards during combat and automatically kill opponents they wound in Fight combats.",
+        "type_code": "warzone",
+        "value": "2"
+    },
+    {
+        "clarification_text": "GIVE TO ANY IMPERIAL WARRIOR. VEHICLE. ARTILLERY. As three actions (one must be a Tactical Action), this warrior may discard one Fortification, one Warzone and one VEHICLE card. All cards must be from the same Combat Area. A warrior in a discarded VEHICLE is killed and points are earned as usual. Annihilate this card after use.",
+        "code": "03033",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "imperial"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/crusadersprocketlauncher.jpg",
+        "name": "CRUSADER SP ROCKET LAUNCHER",
+        "octgn_id": "8c9ca55c-0c21-4711-a440-47eac952703e",
+        "post_play": "+",
+        "text": "GIVE TO ANY IMPERIAL WARRIOR. VEHICLE and ARTILLERY. As three actions, this warrior may discard one Fortification, one Warzone and one VEHICLE card. A warrior in a discarded VEHICLE is killed and points are earned as usual. This is considered an Attack action. Remove this card from the game after use.",
+        "type_code": "equipment"
+    },
+    {
+        "armor": "3",
+        "clarification_text": "MARTIAN WARZONE. ADD TO YOUR SQUAD. Cybertronic warriors defending from this Warzone gain an additional + to F, S, A and V. If the HOME TURF MARS card is played on this Warzone it affects Cybertronic warriors and not Capitol warriors.",
+        "code": "03034",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "general"
+        ],
+        "fight": "-1",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/cyberopolis.jpg",
+        "name": "CYBEROPOLIS",
+        "octgn_id": "aa286abd-4f0e-4f10-bfb7-4799de9271bc",
+        "shoot": "-1",
+        "text": "MARTIAN WARZONE. ADD TO YOUR SQUAD IF YOU ARE A GRAND TACTICIAN. Cybertronic warriors defending from this Warzone gain an additional +3 to F, S, A and V. If the HOME TURF MARS card is played on this Warzone it affects Cybertronic warriors and not Capitol warriors.",
+        "type_code": "warzone",
+        "value": "2"
+    },
+    {
+        "armor": "11",
+        "clarification_text": "PERSONALITY. CUIRASSIER. MINOR SYMMETRY IMMUNITY. PROFANE. When combating a Warrior of V:7 or less, Dent is a SLAYER.",
+        "code": "03035",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "cybertronic"
+        ],
+        "fight": "11",
+        "illustrator": "Paul Bonner",
+        "image_url": "wz/cyrildent.jpg",
+        "name": "CYRIL DENT",
+        "octgn_id": "0e2a4e64-9163-4e6b-8513-6fe3cef8f8a6",
+        "shoot": "8",
+        "text": "PERSONALITY. CONSIDERED A CUIRASSIER. IMMUNE TO THE EFFECTS OF DARK SYMMETRY GIFT CARDS, BUT NOT GIFT OF APOSTLE CARDS. May never cast Art spells. Opponents of total V: 7 or less are automatically killed when wounded by Cyril.",
+        "type_code": "warrior",
+        "value": "9"
+    },
+    {
+        "clarification_text": "GIVE TO ANY BROTHERHOOD WARRIOR WITH BASE V: 3 OR LESS. VEHICLE. Warrior may not use other Equipment with the Death Angel. Warrior gains +12 to S when in combat with a Dark Legion warrior.",
+        "code": "03036",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "brotherhood"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/deathangel.jpg",
+        "name": "DEATH ANGEL",
+        "octgn_id": "28472e87-30b6-48c5-b02d-4ea67969822a",
+        "post_play": "+",
+        "shoot": "12",
+        "text": "GIVE TO ANY BROTHERHOOD WARRIOR WITH V: 3 OR LESS. VEHICLE. A warrior may only have one VEHICLE. Warrior may not use other Equipment with the Death Angel. Warrior gains +12 to S when in combat with a Dark Legion warrior.",
+        "type_code": "equipment"
+    },
+    {
+        "clarification_text": "PLAY AS ONE ACTION ON ANY WARRIOR THAT IS IMPRISONED. You may discard this warrior by paying the warrior's base V in D. No points are earned.",
+        "code": "03037",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/deathrow.jpg",
+        "name": "DEATH ROW",
+        "octgn_id": "7461b852-df5b-4891-91d9-80414625c5b6",
+        "post_play": "-",
+        "text": "PLAY AS ONE ACTION ON ANY WARRIOR THAT IS IMPRISONED. You may discard this warrior by paying the warrior's V in D. No points are earned.",
+        "type_code": "special",
+        "value": "x"
+    },
+    {
+        "armor": "7",
+        "clarification_text": "FOLLOWER OF ALGEROTH. HERETIC. SLAYER (and killed warriors are annihilated instead of discarded).",
+        "code": "03038",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "legion"
+        ],
+        "fight": "7",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/destroyer.jpg",
+        "name": "DESTROYER",
+        "octgn_id": "b254038c-6973-4397-aeec-e8daf877ae85",
+        "shoot": "7",
+        "text": "FOLLOWER OF ALGEROTH. CONSIDERED A HERETIC. Warriors wounded by the Destroyer are automatically killed and permanently removed from the game.",
+        "type_code": "warrior",
+        "value": "7"
+    },
+    {
+        "clarification_text": "GIVE TO ANY MISHIMA WARRIOR. VEHICLE. SUBMARINE. Warrior gains FIRST STRIKE and is a SLAYER when using the Dragonfish. The warrior may not use other Equipment with the Dragonfish.",
+        "code": "03039",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "mishima"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/dragonfish.jpg",
+        "name": "DRAGONFISH",
+        "octgn_id": "49e5efc7-05d1-4fdb-926a-840537396811",
+        "post_play": "+",
+        "text": "GIVE TO ANY MISHIMA WARRIOR. VEHICLE and SUBMARINE. A warrior may only have one VEHICLE. The warrior may not use other Equipment with the Dragonfish. This warrior always strikes first in all combats. If the opponent survives, it may strike back. Opponents wounded by the Dragonfish are automatically killed.",
+        "type_code": "equipment"
+    },
+    {
+        "armor": "-",
+        "clarification_text": "FOLLOWER OF ALGEROTH. NONCOMBATANT. If your FOLLOWER OF ALGEROTH wounds (not kills) a DOOMTROOPER and survives the combat, the Justifier may IMPRISON him. The prisoner's attached cards are discarded. Prisoners are NONCOMBATANTS. If the Justifier is discarded, all its prisoners return to their Combat Areas.",
+        "code": "03040",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "legion"
+        ],
+        "fight": "-",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/eaonianjustifier.jpg",
+        "name": "EAONIAN JUSTIFIER",
+        "octgn_id": "e80b3a22-8b9d-4793-a345-523b3f6af782",
+        "shoot": "-",
+        "text": "FOLLOWER OF ALGEROTH. May never participate in combat or be in cover. If any of your FOLLOWERS OF ALGEROTH wounds (not kills) a Doomtrooper and survives the combat, the Justifier may IMPRISON the Doomtrooper. The prisoner's attached cards are discarded. Prisoners may never attack or be attacked. If the Justifier is discarded, all its prisoners return to their Squads.",
+        "type_code": "warrior",
+        "value": "10"
+    },
+    {
+        "clarification_text": "PLAY IMMEDIATELY AFTER A WARRIOR USING A VEHICLE IS WOUNDED. The warrior manages to eject and escapes the combat unharmed, even if the wound would have killed the warrior. Discard the VEHICLE. If the warrior entered the combat with a wound, it remains wounded.",
+        "code": "03041",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/ejectionseat.jpg",
+        "name": "EJECTION SEAT",
+        "octgn_id": "5a7d9f90-33c6-4718-a8e5-19a036caee34",
+        "post_play": "-",
+        "text": "PLAY IMMEDIATELY AFTER A WARRIOR USING A VEHICLE IS WOUNDED. The warrior manages to eject and escapes the combat unharmed, even if the wound would have killed the warrior. Discard the VEHICLE. If the warrior entered the combat with a wound, it remains wounded.",
+        "type_code": "special"
+    },
+    {
+        "armor": "2x",
+        "clarification_text": "ATTACH TO ANY DOOMTROOPER OF BASE V:4 OR LESS AS TWO ACTIONS. Affected warrior's base F, S, A and V are doubled.",
+        "code": "03042",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "general"
+        ],
+        "fight": "2x",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/elitetrooper.jpg",
+        "name": "ELITE TROOPER",
+        "octgn_id": "82023f99-017b-4b66-ab1c-66f14a70d125",
+        "post_play": "+",
+        "shoot": "2x",
+        "text": "PLAY ON ANY DOOMTROOPER OF V: 4 OR LESS AS TWO ACTIONS. THIS CARD REMAINS IN PLAY. Affected warrior's unmodified F, S, A and V are doubled.",
+        "type_code": "special",
+        "value": "2x"
+    },
+    {
+        "code": "03043",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/escape.jpg",
+        "name": "ESCAPE!",
+        "octgn_id": "380d9b38-c838-40d1-9684-0d38dc2bea76",
+        "post_play": "-",
+        "text": "PLAY ON YOUR IMPRISONED WARRIOR AS TWO ACTIONS. Affected warrior escapes, and returns to your hand.",
+        "type_code": "special"
+    },
+    {
+        "armor": "1",
+        "clarification_text": "PERSONALITY. A famous movie star of Bauhaus, Eva can also double as your spy. For each action dedicated to spying, all your Doomtroopers in play (but not Eva herself) gain +2 to F, S and A until the beginning of your next turn. An opponent must spend 1 Promotion Point to attack Eva.",
+        "code": "03044",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "bauhaus"
+        ],
+        "fight": "1",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/evavalmonte.jpg",
+        "name": "EVA VALMONTE",
+        "octgn_id": "0eda4fd1-5c90-4509-895f-ea38d9f2bba7",
+        "shoot": "1",
+        "text": "PERSONALITY. A famous movie star of Bauhaus, Eva can also double as your spy. For each action dedicated to spying, your Doomtroopers (but not Eva herself) gain +2 to F, S and A until the beginning of your next turn. An opponent must spend 1 Promotion Point to attack Eva.",
+        "type_code": "warrior",
+        "value": "4"
+    },
+    {
+        "armor": "2x",
+        "clarification_text": "PLAY AT ANY TIME ON ANY WARRIOR USING A DARK SYMMETRY ABILITY. The effects of one of the warrior's Dark Symmetry cards are doubled (when applicable) until the beginning of your next turn.",
+        "code": "03045",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "legion"
+        ],
+        "fight": "2x",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/excrutiatingpowerflow.jpg",
+        "name": "EXCRUTIATING POWER FLOW",
+        "octgn_id": "ccfd22c9-3cc2-47f0-8c01-f4c2f1f1e4e4",
+        "post_play": "-",
+        "shoot": "2x",
+        "text": "PLAY AT ANY TIME ON A WARRIOR USING A DARK SYMMETRY ABILITY. The effects of one of the warrior's Dark Symmetry cards are doubled (when applicable) until the beginning of your next turn.",
+        "type_code": "special",
+        "value": "2x"
+    },
+    {
+        "clarification_text": "PLAY IMMEDIATELY AFTER A PLAYER PLAYS ANY EQUIPMENT CARD. The just played Equipment card has no affect on the game. It is discarded.",
+        "code": "03046",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Paul Bonner",
+        "image_url": "wz/faultysupplies.jpg",
+        "name": "FAULTY SUPPLIES",
+        "octgn_id": "e8332c90-c885-448c-a3b2-b4413e974654",
+        "post_play": "-",
+        "text": "PLAY IMMEDIATELY AFTER A PLAYER PLAYS ANY EQUIPMENT CARD. The just played Equipment card has no affect on the game. It is discarded.",
+        "type_code": "special"
+    },
+    {
+        "armor": "-",
+        "clarification_text": "PERSONALITY. CORPORATE LEADER. NONCOMBATANT. While in play, you may convert any number of S-Actions to T-Actions, but converted T-Actions must be performed by Imperial warriors.",
+        "code": "03047",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "imperial"
+        ],
+        "fight": "-",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/fieldmarshaljohnstone.jpg",
+        "name": "FIELD MARSHAL JOHNSTONE",
+        "octgn_id": "299b924d-5b01-4a25-b655-520542508192",
+        "shoot": "-",
+        "text": "PERSONALITY. CORPORATE LEADER. May never participate in combat or be in cover. While in play, you may convert any number of non-attack actions to attack actions, but they must be performed by Imperial warriors.",
+        "type_code": "warrior",
+        "value": "20"
+    },
+    {
+        "clarification_text": "PLAY IMMEDIATELY AFTER ANY ART SPELL IS CAST. Spell is mis-cast and ineffective. The spell is discarded, and has no effect on play. Any actions or D spent casting the spell are wasted.",
+        "code": "03048",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "brotherhood"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/fizzle.jpg",
+        "name": "FIZZLE",
+        "octgn_id": "71fa0b08-ad6b-4733-a0b0-cb1571b231bb",
+        "post_play": "-",
+        "text": "PLAY IMMEDIATELY AFTER ANY ART SPELL IS CAST. Spell is mis-cast and ineffective. The spell is discarded, and has no effect on play. Any actions or D spent casting the spell are wasted.",
+        "type_code": "special"
+    },
+    {
+        "armor": "7",
+        "clarification_text": "COMMANDER. CAPTAIN. Capitol warriors with AIRSHIPS or are considered AIRSHIPS or VEHICLES gain + to their F, S, A and V while in the same Combat Area with the Commander. The Commander will not affect its own ratings, but others may.",
+        "code": "03049",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "capitol"
+        ],
+        "fight": "5",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/flightcommander.jpg",
+        "name": "FLIGHT COMMANDER",
+        "octgn_id": "430cc362-165f-4c76-bace-26696b6a878e",
+        "shoot": "9",
+        "text": "COMMANDER (CAPTAIN). While in the Squad, all of your Capitol warriors with AIRSHIPS, and all Capitol warriors that are considered AIRSHIPS or VEHICLES, gain +3 to their F, S, A and V. The Commander will not affect its own ratings, but others may.",
+        "type_code": "warrior",
+        "value": "9"
+    },
+    {
+        "clarification_text": "ATTACH TO ANY WARRIOR AS ONE ACTION. The warrior may discard this card to take any one Equipment card in play that is about to be discarded and give it to a legal warrior in its own Combat Area (even itself).",
+        "code": "03050",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Paul Bonner",
+        "image_url": "wz/fruitsofwar.jpg",
+        "name": "FRUITS OF WAR",
+        "octgn_id": "6cf854e0-bd7e-4465-bf7f-144c579a31ed",
+        "post_play": "+",
+        "text": "PLAY ON ANY WARRIOR AS ONE ACTION. The warrior may take any one Equipment card in play that is about to be discarded and give it to a legal warrior in its own Squad/Kohort (even itself). Discard this card after use.",
+        "type_code": "special"
+    },
+    {
+        "armor": "9",
+        "clarification_text": "PERSONALITY. Other Capitol warriors gain + to their F, S, A and V while in the same Combat Area with Kell.",
+        "code": "03051",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "capitol"
+        ],
+        "fight": "7",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/generalmichaelkell.jpg",
+        "name": "GENERAL MICHAEL KELL",
+        "octgn_id": "6078bfcf-5005-4e47-a881-6ce4da1d8691",
+        "shoot": "11",
+        "text": "PERSONALITY. While in the Squad, all of your Capitol warriors (but not Kell himself) gain +3 to their F, S, A and V.",
+        "type_code": "warrior",
+        "value": "12"
+    },
+    {
+        "clarification_text": "GIVE TO ANY FREELANCER OR HERETIC. VEHICLE. The warrior may not use Equipment when using the Giacchio Forza. This warrior gains FIRST STRIKE during Shoot combats.",
+        "code": "03052",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "bauhaus"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/giacchioforza750.jpg",
+        "name": "GIACCHIO FORZA 750",
+        "octgn_id": "eabfa8b3-d160-4573-a46d-6ee252e11692",
+        "post_play": "+",
+        "text": "GIVE TO ANY FREELANCER OR HERETIC. VEHICLE. A warrior may only have one VEHICLE. The warrior may not use Equipment when using the Giacchio Forza. This warrior always attacks first in Shoot combats. If opponent survives, it may shoot back.",
+        "type_code": "equipment"
+    },
+    {
+        "clarification_text": "PLAY AT ANY TIME EXCEPT DURING COMBAT. You may immediately perform one Tactical Action with one of your warriors.",
+        "code": "03053",
+        "deck_limit": 1,
+        "expansion_code": "wz",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Paul Bonner",
+        "image_url": "wz/grandassault.jpg",
+        "name": "GRAND ASSAULT",
+        "octgn_id": "4a811041-fd55-429e-9f15-ef9521069234",
+        "post_play": "-",
+        "text": "PLAY AT ANY TIME EXCEPT DURING COMBAT. You may immediately perform one attack action with one of your warriors.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "ATTACH TO YOURSELF AT ANY TIME. While attached, your warriors' combat opponents may not use Warzones.",
+        "code": "03054",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Paul Bonner",
+        "image_url": "wz/grandtactician.jpg",
+        "name": "GRAND TACTICIAN",
+        "octgn_id": "198a212d-6686-43bf-bcb9-07c8f10befc2",
+        "post_play": "+",
+        "text": "PLAY AT ANY TIME. THIS CARD REMAINS IN PLAY AND MAY NEVER BE DISCARDED. You are now considered a GRAND TACTICIAN and may add Warzone cards to your Squad/Kohort as one action each. Any number of identical Warzones may be in play. When your warrior is the Defender in a combat, that warrior may choose to defend from one of the Warzones in its Squad/Kohort. During the combat, the Defender gains the effects and modifiers to F, S, A and V listed on the Warzone card. If you defend from a Warzone, neither combatant may use effects from Fortification cards. Equipment and warriors that are considered Fortifications may be used. When attacking, you may not use your Warzones. Your Squad members may not use your Kohort's Warzones and vice versa.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "VENUSIAN WARZONE. ADD TO YOUR SQUAD OR KOHORT. SEA LIONS defending from the Graveton Archipelago gain an additional +4 to F, S and A.",
+        "code": "03055",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "general"
+        ],
+        "fight": "-1",
+        "illustrator": "Paul Bonner",
+        "image_url": "wz/gravetonarchipelago.jpg",
+        "name": "GRAVETON ARCHIPELAGO",
+        "octgn_id": "4272727d-91c3-4712-aa2f-26275fa9c484",
+        "shoot": "4",
+        "text": "VENUSIAN WARZONE. ADD TO YOUR SQUAD OR KOHORT IF YOU ARE A GRAND TACTICIAN. SEA LIONS defending from the Graveton Archipelago earn gain an additional +4 to F, S and A.",
+        "type_code": "warzone",
+        "value": "1"
+    },
+    {
+        "clarification_text": "GIVE TO ANY COMMANDER. VEHICLE. AIRSHIP. The warrior may not use Equipment while using the Great Grey. As two actions (one must be a Tactical Action), warrior may STRAFE any one warrior in play. A Strafed warrior automatically Seeks Cover (if normally allowed). A Strafed warrior already in cover (or not allowed to be in cover) is killed and points are earned.",
+        "code": "03056",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "capitol"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/greatgrey.jpg",
+        "name": "GREAT GREY",
+        "octgn_id": "10905aa4-921f-4144-8f4c-708089513156",
+        "post_play": "+",
+        "text": "GIVE TO ANY COMMANDER. AIRSHIP AND VEHICLE. A warrior may only have one VEHICLE. Warrior may not use Equipment while using the Great Grey. As two actions, warrior may STRAFE any one warrior in play. A Strafed warrior automatically Seeks Cover (if normally allowed). A Strafed warrior already in cover is killed and earns points. This is considered an Attack action.",
+        "type_code": "equipment"
+    },
+    {
+        "armor": "-2",
+        "clarification_text": "MARTIAN WARZONE. ADD TO YOUR SQUAD OR KOHORT. Any warrior wounded while combating in this Warzone is automatically killed.",
+        "code": "03057",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Paul Bonner",
+        "image_url": "wz/greatrustdesert.jpg",
+        "name": "GREAT RUST DESERT",
+        "octgn_id": "1da1af8b-2edd-4188-af84-b0c93e6c4e59",
+        "shoot": "6",
+        "text": "MARTIAN WARZONE. ADD TO YOUR SQUAD OR KOHORT IF YOU ARE A GRAND TACTICIAN. Any warrior wounded while combating in this Warzone is automatically killed.",
+        "type_code": "warzone",
+        "value": "2"
+    },
+    {
+        "armor": "2x",
+        "code": "03058",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "legion"
+        ],
+        "fight": "2x",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/grimreaper.jpg",
+        "name": "GRIM REAPER",
+        "octgn_id": "37616e2a-2d68-44d9-a51e-296fac8ed724",
+        "post_play": "+",
+        "shoot": "2x",
+        "text": "PLAY ON ANY DARK LEGION WARRIOR OF V; 4 OR LESS AS TWO ACTIONS. THIS CARD REMAINS IN PLAY. Affected warrior's F, S, A and V are doubled.",
+        "type_code": "special",
+        "value": "2x"
+    },
+    {
+        "armor": "2",
+        "clarification_text": "GIVE TO ANY DOOMTROOPER. VEHICLE. TANK. The warrior may not use Equipment while using the B52. Warrior gains +2 to S and A, and gains FIRST STRIKE when inside the B52.",
+        "code": "03059",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/gtoffroadb52.jpg",
+        "name": "GT OFFROAD B52",
+        "octgn_id": "013be9ba-e258-4423-b747-0d52fa3056e4",
+        "post_play": "+",
+        "shoot": "2",
+        "text": "GIVE TO ANY DOOMTROOPER. TANK AND VEHICLE. A warrior may only have one VEHICLE. The warrior may not use Equipment while using the B52. Warrior gains +2 to S and A. This warrior always attacks first in Shoot combats. If opponent survives, it may strike back.",
+        "type_code": "equipment"
+    },
+    {
+        "clarification_text": "GIVE TO ANY BAUHAUS OR CAPITOL COMMANDER. SHOOT WEAPON. SHOTGUN. May only be used in Fight combats. +4 to F. If warrior's modified F is more than double the modified A of its opponent, the opponent is automatically killed.",
+        "code": "03060",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "bauhaus",
+            "capitol"
+        ],
+        "fight": "4",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/hagelsturmm516dshotgun.jpg",
+        "name": "HAGELSTURM/M516D SHOTGUN",
+        "octgn_id": "e3e466c3-507a-40b1-a160-eb6c0f38b9c8",
+        "post_play": "+",
+        "text": "GIVE TO ANY BAUHAUS OR CAPITOL COMMANDER. SHOTGUN. Considered a SHOOT WEAPON, but may only be used in Fight combats. +4 to F. If the warrior's total F is more than double opponent's total A, opponent is automatically killed.",
+        "type_code": "equipment"
+    },
+    {
+        "armor": "3",
+        "clarification_text": "VENUSIAN WARZONE. ADD TO YOUR KOHORT. If your warrior kills a Doomtrooper in a Shoot combat while defending from this Warzone, you earn double points.",
+        "code": "03061",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "legion"
+        ],
+        "fight": "2",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/helstrommountains.jpg",
+        "name": "HELSTROM MOUNTAINS",
+        "octgn_id": "e782b95c-c171-454b-abf1-140194352635",
+        "shoot": "-3",
+        "text": "VENUSIAN WARZONE. ADD TO YOUR KOHORT IF YOU ARE A GRAND TACTICIAN. If your warrior kills a Doomtrooper in a Shoot combat while defending from this Warzone, your earn double points.",
+        "type_code": "warzone",
+        "value": "4"
+    },
+    {
+        "armor": "3",
+        "clarification_text": "ATTACH TO ANY DOOMTROOPER IMMEDIATELY AFTER IT KILLS A WARRIOR OF HIGHER TOTAL VALUE. The affected Doomtrooper gains + to F, S, A and V. A warrior may have any number of Hero Awards.",
+        "code": "03062",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "capitol"
+        ],
+        "fight": "3",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/heroaward.jpg",
+        "name": "HERO AWARD",
+        "octgn_id": "2f4205c3-35a8-44d9-aae5-ec14d1fb1b7f",
+        "post_play": "+",
+        "shoot": "3",
+        "text": "PLAY ON ANY DOOMTROOPER IMMEDIATELY AFTER IT KILLS A WARRIOR OF HIGHER TOTAL VALUE. THIS CARD REMAINS WITH THE WARRIOR. The affected Doomtrooper gains +3 to F, S, A and V. A warrior may have any number of Hero Awards.",
+        "type_code": "special",
+        "value": "3"
+    },
+    {
+        "clarification_text": "ATTACH TO ANY ASTEROID BELT WARZONE AT ANY TIME. Imperial warriors defending from this Warzone may ignore all of the Warzone's negative ratings modifiers, and are SLAYERS.",
+        "code": "03063",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "imperial"
+        ],
+        "illustrator": "Les Edwards",
+        "image_url": "wz/hometurfasteroidbelt.jpg",
+        "name": "HOME TURF ASTEROID BELT",
+        "octgn_id": "f8d1ed2c-a026-4a5c-97f6-face5cd9b570",
+        "post_play": "+",
+        "text": "PLAY AT ANY TIME ON AN ASTEROID BELT WARZONE. THIS CARD REMAINS IN PLAY. Imperial warriors defending from this Warzone may ignore all of the Warzone's negative ratings modifiers, and opponents wounded by defending Imperial warriors are automatically killed.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "ATTACH TO ANY MARTIAN WARZONE AT ANY TIME. Capitol warriors defending from this Warzone may ignore all of the Warzone's negative ratings modifiers, and are SLAYERS.",
+        "code": "03064",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "capitol"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/hometurfmars.jpg",
+        "name": "HOME TURF MARS",
+        "octgn_id": "2965da79-0395-40c9-a127-b0a562b68a08",
+        "post_play": "+",
+        "text": "PLAY AT ANY TIME ON A MARTIAN WARZONE. THIS CARD REMAINS IN PLAY. Capitol warriors defending from this Warzone may ignore all of the Warzone's negative ratings modifiers, and opponents wounded by defending Capitol warriors are automatically killed.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "ATTACH TO ANY MERCURIAN WARZONE AT ANY TIME.  Mishima warriors defending from this Warzone may ignore all of the Warzone's negative ratings modifiers, and are SLAYERS.",
+        "code": "03065",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "mishima"
+        ],
+        "illustrator": "Paul Bonner",
+        "image_url": "wz/hometurfmercury.jpg",
+        "name": "HOME TURF MERCURY",
+        "octgn_id": "b210bdb9-2310-4b16-acf3-56cef244d3f5",
+        "post_play": "+",
+        "text": "PLAY AT ANY TIME ON A MERCURIAN WARZONE. THIS CARD REMAINS IN PLAY. Mishima warriors defending from this Warzone may ignore all of the Warzone's negative ratings modifiers, and opponents wounded by defending Mishima warriors are automatically killed.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "ATTACH TO ANY VENUSIAN WARZONE AT ANY TIME.  Bauhaus warriors defending from this Warzone may ignore all of the Warzone's negative ratings modifiers, and are SLAYERS.",
+        "code": "03066",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "bauhaus"
+        ],
+        "illustrator": "Paul Bonner",
+        "image_url": "wz/hometurfvenus.jpg",
+        "name": "HOME TURF VENUS",
+        "octgn_id": "4b366105-8231-4518-bc92-ae21744bb9cb",
+        "post_play": "+",
+        "text": "PLAY AT ANY TIME ON A VENUSIAN WARZONE. THIS CARD REMAINS IN PLAY. Bauhaus warriors defending from this Warzone may ignore all of the Warzone's negative ratings modifiers, and opponents wounded by defending Bauhaus warriors are automatically killed.",
+        "type_code": "special"
+    },
+    {
+        "armor": "1",
+        "clarification_text": "ATTACH TO ANY DOOMTROOPER IMMEDIATELY AFTER IT KILLS A WARRIOR OF HIGHER TOTAL VALUE. The affected Doomtrooper gains +1 to F, S, A and V. A warrior may have any number of Honor Awards.",
+        "code": "03067",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "capitol"
+        ],
+        "fight": "1",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/honoraward.jpg",
+        "name": "HONOR AWARD",
+        "octgn_id": "d402ed39-60fd-4c4e-aa9e-b3ccaa4699cb",
+        "post_play": "+",
+        "shoot": "1",
+        "text": "PLAY ON ANY DOOMTROOPER IMMEDIATELY AFTER IT KILLS A WARRIOR OF HIGHER TOTAL VALUE. THIS CARD REMAINS WITH THE WARRIOR. The affected Doomtrooper gains +1 to F, S and A. A warrior may have any number of Honor Awards.",
+        "type_code": "special"
+    },
+    {
+        "armor": "6",
+        "code": "03068",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "legion"
+        ],
+        "fight": "3",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/immaculatespawn.jpg",
+        "name": "IMMACULATE SPAWN",
+        "octgn_id": "d862543e-27cb-448e-bc3a-7ebf9309d069",
+        "shoot": "9",
+        "text": "FOLLOWER OF ALGEROTH. Whenever the Immaculate Spawn kills a Doomtrooper, you may immediately replace the Spawn with an IMMACULATE FURY from your collection. All cards attached to the Spawn stay in play on the IMMACULATE FURY.",
+        "type_code": "warrior",
+        "value": "6"
+    },
+    {
+        "armor": "3",
+        "clarification_text": "ASTEROID BELT WARZONE. ADD TO YOUR KOHORT. Warriors defending from this Warzone against attacking Imperial warriors gain an additional +5 to F, S, A and V.",
+        "code": "03069",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "legion"
+        ],
+        "fight": "2",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/infestedasteroid.jpg",
+        "name": "INFESTED ASTEROID",
+        "octgn_id": "b85190b3-8081-4590-9dda-475c1ecfa04f",
+        "text": "ASTEROID BELT WARZONE. ADD TO YOUR KOHORT IF YOU ARE A GRAND TACTICIAN. Warriors defending from this Warzone against attacking Imperial warriors gain an additional +5 to F, S, A and V.",
+        "type_code": "warzone",
+        "value": "2"
+    },
+    {
+        "clarification_text": "GIVE TO ANY WARRIOR WITH BASE V:5 OR LESS. VEHICLE. AIRSHIP. Warrior may not use Equipment or gain the effects of Fortifications while using the Jet Pack. Opponents of this warrior never recieve any positive modifiers from Warzones.",
+        "code": "03070",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/jetpack.jpg",
+        "name": "JET PACK",
+        "octgn_id": "78ffc4b8-e89e-4d9a-bc77-79e91766b418",
+        "post_play": "+",
+        "text": "GIVE TO ANY WARRIOR WITH V: 5 OR LESS. AIRSHIP and VEHICLE. A warrior may only have one VEHICLE. Warrior may not use Equipment or gain the effects of Fortifications while using the Jet Pack. Opponents of this warrior never recieve any positive modifiers from Warzones.",
+        "type_code": "equipment"
+    },
+    {
+        "armor": "5",
+        "clarification_text": "COMMANDER. SERGEANT. Assign a non-Personality Mishima warrior card to the Jito. That card and copies of that card gain +4 to F, S, A and V while in the same Combat Area with the Jito.",
+        "code": "03071",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "mishima"
+        ],
+        "fight": "5",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/jito.jpg",
+        "name": "JITO",
+        "octgn_id": "fff48daa-9ab1-40ef-9308-524c3cce189d",
+        "shoot": "5",
+        "text": "COMMANDER (SERGEANT). Assign a non-Personality Mishima warrior card to the Jito. That card, and copies of that card in your Squad gain +4 to F, S, A and V while this warrior is in the Squad.",
+        "type_code": "warrior",
+        "value": "6"
+    },
+    {
+        "armor": "2",
+        "clarification_text": "FOLLOWER OF ALGEROTH. Each Karnophage in your Kohort will automatically kill one wounded warrior of your choice (never a NEPHARITE) during each of your Discard Phases. No points are earned. If there is no wounded warrior in play, the Karnophage is discarded. Your warriors are not exempt.",
+        "code": "03072",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "legion"
+        ],
+        "fight": "2",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/karnophage.jpg",
+        "name": "KARNOPHAGE",
+        "octgn_id": "ef8126f1-335f-4568-9cfe-4940d87af1bf",
+        "shoot": "2",
+        "text": "FOLLOWER OF ALGEROTH. Each Karnophage in your Kohort will automatically kill one wounded warrior of your choice (never a Nepharite) during each of your Discard phases. No points are earned. If there is no wounded warrior in play, the Karnophage is discarded.",
+        "type_code": "warrior",
+        "value": "3"
+    },
+    {
+        "armor": "5",
+        "clarification_text": "ADD TO YOUR SQUAD AS ONE ACTION. VEHICLE. AIRSHIP. Holds up to three Bauhaus warriors (enter or exit the Dragonfly as one action each). Warriors in the Dragonfly gain +5 to A, may not use other Equipment cards, and can only be wounded by opponents using SHOOT WEAPONS or VEHICLES. If Dragonfly is discarded all warriors in the Dragonfly are killed (points are earned).",
+        "code": "03073",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "bauhaus"
+        ],
+        "fight": "-",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/kleinhelitekdragonfly.jpg",
+        "name": "KLEIN HELITEK DRAGONFLY",
+        "octgn_id": "7ddd480b-01b0-451a-82ed-6c559914b267",
+        "post_play": "+",
+        "text": "ADD TO YOUR SQUAD AS ONE ACTION. AIRSHIP and VEHICLE. +5 to A. Holds up to three Bauhaus warriors (enter or exit the Dragonfly as one action each). Warriors in the Dragonfly may not use other Equipment cards, and can only be wounded by opponents using SHOOT WEAPONS or VEHICLES. If the Dragonfly is discarded all warriors in the Discarded are killed (points are earned as normal).",
+        "type_code": "equipment"
+    },
+    {
+        "armor": "9",
+        "clarification_text": "COMMANDER. CAPTAIN. Bauhaus warriors with TANKS or that are considered TANKS or VEHICLES gain +5 to their F, S, A and V while in the same Combat Area with the Kommandant. The Kommandant will not affect its own ratings, but others may.",
+        "code": "03074",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "bauhaus"
+        ],
+        "fight": "5",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/kommandant.jpg",
+        "name": "KOMMANDANT",
+        "octgn_id": "5c1db2db-5620-43d7-9b9c-ca9793965266",
+        "shoot": "6",
+        "text": "COMMANDER (CAPTAIN). While in the Squad, all of your Bauhaus warriors with TANKS, and all Bauhaus warriors that are considered TANKS or VEHICLES, gain +5 to their F, S, A and V. The Kommandant will not affect its own ratings, but others may.",
+        "type_code": "warrior",
+        "value": "10"
+    },
+    {
+        "clarification_text": "PLAY AS ONE ACTION. You may immediately perform a Muster Warrior action in which the warrior is legally added to an opponent's Combat Area. Treat the warrior as if the opponent put it into play. Opponent controls the warrior.",
+        "code": "03075",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/lambfortheslaughter.jpg",
+        "name": "LAMB FOR THE SLAUGHTER",
+        "octgn_id": "8bac9889-8fde-4553-8108-c02ee7b17043",
+        "post_play": "-",
+        "text": "PLAY AS ONE ACTION. You may immediately perform an Add Warrior action in which the warrior is added to an opponent's Squad/Kohort. Treat the warrior as if the opponent put it into play. Opponent controls the warrior.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "ADD TO YOUR SQUAD AS ONE ACTION. VEHICLE. AIRSHIP. You may add Equipment cards from your Squad or from your hand to the Lancelot face-up as one action each (it will hold three cards). The cards have no effect on the Lancelot, and may be given to any legal warrior in your Squad or discarded at any time. If the Lancelot is discarded, so are its Equipment cards.",
+        "code": "03076",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "imperial"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/lancelotlightfreighter.jpg",
+        "name": "LANCELOT LIGHT FREIGHTER",
+        "octgn_id": "00074010-888f-458e-9053-1b47640587dd",
+        "post_play": "+",
+        "text": "ADD TO YOUR SQUAD AS ONE ACTION. AIRSHIP and VEHICLE. You may add Equipment cards from your Squad or from your hand to the Lancelot as one action each. The cards have no effect on the Lancelot, and may be given to any legal warrior or discarded at any time. The Lancelot may never hold more than three Equipment cards at a time. If the Lancelot is discarded, so are its Equipment cards.",
+        "type_code": "equipment"
+    },
+    {
+        "armor": "-",
+        "clarification_text": "PERSONALITY. CORPORATE LEADER. NONCOMBATANT. While in play, you may convert any number of S-Actions to T-Actions, but converted T-Actions must be performed by Mishima warriors.",
+        "code": "03077",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "mishima"
+        ],
+        "fight": "-",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/lordnozaki.jpg",
+        "name": "LORD NOZAKI",
+        "octgn_id": "77041515-0399-45aa-ba8d-f47e5779b1ac",
+        "shoot": "-",
+        "text": "PERSONALITY. CORPORATE LEADER. May never participate in combat or be in cover. While in play, you may convert any number of non-attack actions to attack actions, but they must be performed by Mishima warriors.",
+        "type_code": "warrior",
+        "value": "20"
+    },
+    {
+        "clarification_text": "GIVE TO ANY IMPERIAL OR CYBERTRONIC COMMANDER. SHOOT WEAPON. SHOTGUN. May only be used in Fight combats. +5 to F. If warrior's modified F is more than double the modified A of its opponent, the opponent is automatically killed.",
+        "code": "03078",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "imperial",
+            "cybertronic"
+        ],
+        "fight": "5",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/mandiblesasg7200shotgun.jpg",
+        "name": "MANDIBLE/SA-SG 7200 SHOTGUN",
+        "octgn_id": "82800443-b0c1-41d0-af85-d51673b622ef",
+        "post_play": "+",
+        "text": "GIVE TO ANY IMPERIAL OR CYBERTRONIC COMMANDER. SHOTGUN. Considered a SHOOT WEAPON, but may only be used in Fight combats. +5 to F. If the warrior's total F is more than double the total A of its opponent, the opponent is automatically killed.",
+        "type_code": "equipment"
+    },
+    {
+        "armor": "2",
+        "clarification_text": "MARTIAN WARZONE. ADD TO YOUR SQUAD. Capitol warriors defending from this Warzone gain an additional +2 to F, S and A. While in play, you may add TRENCHERS to your Squad with no action or point cost.",
+        "code": "03079",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "capitol"
+        ],
+        "fight": "-1",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/mccraigline.jpg",
+        "name": "MCCRAIG LINE",
+        "octgn_id": "7e64f47c-f60b-4da2-822f-6478c74b44f4",
+        "shoot": "3",
+        "text": "MARTIAN WARZONE. ADD TO YOUR SQUAD IF YOU ARE A GRAND TACTICIAN. Capitol defending from this Warzone gain an additional +2 to F, S and A. When you have this Warzone in play, you may add TRENCHERS to your Squad with no action or point cost.",
+        "type_code": "warzone",
+        "value": "2"
+    },
+    {
+        "armor": "5",
+        "clarification_text": "MERCURIAN WARZONE. ADD TO YOUR SQUAD. If a Mishima warrior defending from this Warzone kills its opponent, the Mishima warrior earns 3 extra Promotion Points.",
+        "code": "03080",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "mishima"
+        ],
+        "fight": "-2",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/mercuriandiamondcaverns.jpg",
+        "name": "MERCURIAN DIAMOND CAVERNS",
+        "octgn_id": "6da0f026-b741-48b1-9ae8-359034059b66",
+        "shoot": "-2",
+        "text": "MERCURIAN WARZONE. ADD TO YOUR SQUAD IF YOU ARE A GRAND TACTICIAN. If a Mishima warrior defending from this Warzone kills its opponent, the Mishima warrior earns 3 extra Promotion Points.",
+        "type_code": "warzone",
+        "value": "4"
+    },
+    {
+        "armor": "6",
+        "code": "03081",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "legion"
+        ],
+        "fight": "8",
+        "illustrator": "Paul Bonner",
+        "image_url": "wz/mercurianmaculator.jpg",
+        "name": "MERCURIAN MACULATOR",
+        "octgn_id": "7b084020-6f63-44e6-81ec-6955d59e7321",
+        "shoot": "14",
+        "text": "FOLLOWER OF ALGEROTH. May only be added to your Kohort if you have a MERCURIAN WARZONE in play. If all your MERCURIAN WARZONES are discarded, all your Mercurian Maculators are also discarded (no points are earned).",
+        "type_code": "warrior",
+        "value": "6"
+    },
+    {
+        "clarification_text": "GIVE TO ANY DARK LEGION WARRIOR WITH BASE V:6 OR LESS. SHOOT WEAPON. Warrior gains +4 to S and is a SLAYER during Shoot combats. If this warrior is killed or otherwise discarded, shuffle the Meta Cannon into your Draw pile. If the warrior is annihilated, the Meta Cannon is put in the Discard pile.",
+        "code": "03082",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "legion"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/metacannon.jpg",
+        "name": "META CANNON",
+        "octgn_id": "3185496d-a19e-47c3-88cd-689bb130ef62",
+        "post_play": "+",
+        "shoot": "4",
+        "text": "GIVE TO ANY DARK LEGION WARRIOR WITH V: 6 OR LESS. SHOOT WEAPON. +4 to S. Warriors wounded by this warrior are automatically killed. If this warrior is killed or otherwise discarded, shuffle the Meta Cannon into your Draw pile. If the warrior is permanently removed from play, the Meta Cannon is put in the Discard pile.",
+        "type_code": "equipment"
+    },
+    {
+        "clarification_text": "PLAY DURING A FIGHT COMBAT IN WHICH YOUR WARRIOR IS THE DEFENDER. The attacker is automatically wounded and the combat ends immediately. If attacker is killed by the wound, points are earned.",
+        "code": "03083",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/minefield.jpg",
+        "name": "MINEFIELD",
+        "octgn_id": "cc217669-608f-4af7-bea0-a86ffb86d3a5",
+        "post_play": "x",
+        "text": "PLAY DURING A COMBAT IN WHICH YOUR WARRIOR IS THE DEFENDER. ONCE PLAYED, REMOVE THIS CARD FROM THE GAME ENTIRELY. The attacker is automatically wounded and the combat ends immediately. If attacker is killed by the wound, points are earned.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "PLAY DURING COMBAT ON A WARRIOR USING A SHOOT OR FIGHT/SHOOT WEAPON. The weapon misfires and attacks a member of the affected warrior's Combat Area. You choose which warrior is fired upon. The fired-upon warrior may not retaliate. No points are earned, and no modifiers from any other cards apply during the combat.",
+        "code": "03084",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/misfire.jpg",
+        "name": "MISFIRE",
+        "octgn_id": "38941541-9e0b-4ea1-9f34-70d5fd739d2f",
+        "post_play": "-",
+        "text": "PLAY DURING COMBAT ON A WARRIOR USING A SHOOT OR FIGHT/SHOOT WEAPON. The weapon misfires and attacks a member of the affected warrior's Squad/Kohort. The player of this card chooses which warrior is fired upon. The fired-upon warrior may not retaliate. No points are earned, and no modifiers from any other cards apply during the combat.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "GIVE TO ANY MISHIMA WARRIOR. VEHICLE. The warrior may not use Equipment when using the Dragonbike. Gives +2 to F and +5 to S. Warrior gains FIRST STRIKE during Shoot combats.",
+        "code": "03085",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "mishima"
+        ],
+        "fight": "2",
+        "illustrator": "Paul Bonner",
+        "image_url": "wz/mishimesedragonbike.jpg",
+        "name": "MISHIMESE DRAGONBIKE",
+        "octgn_id": "8ca7203d-c99f-4835-9984-3750b6672a7d",
+        "post_play": "+",
+        "shoot": "5",
+        "text": "GIVE TO ANY MISHIMA WARRIOR. VEHICLE. A warrior may only have one VEHICLE. The warrior may not use Equipment when using the Dragonbike. Gives +2 to F and +5 to S. This warrior always attacks first in Shoot combats. If opponent survives, it may shoot back.",
+        "type_code": "equipment"
+    },
+    {
+        "clarification_text": "PLAY AT ANY TIME. You may discard any one Warzone card currently in play.",
+        "code": "03086",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/naturaldisaster.jpg",
+        "name": "NATURAL DISASTER",
+        "octgn_id": "bc7245f3-2e1a-4d3a-b452-1c6fa074e083",
+        "post_play": "-",
+        "text": "PLAY AT ANY TIME. You may discard one Warzone card currently in play.",
+        "type_code": "special"
+    },
+    {
+        "armor": "1",
+        "clarification_text": "GENERIC WARZONE. ADD TO YOUR SQUAD OR KOHORT. FREELANCERS who kill their opponents while defending from this Warzone may earn Promotion Points.",
+        "code": "03087",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "general"
+        ],
+        "fight": "1",
+        "illustrator": "Paul Bonner",
+        "image_url": "wz/nomansland.jpg",
+        "name": "NO-MAN'S LAND",
+        "octgn_id": "831ebf84-f7ae-451f-a7ff-48de7f5cacca",
+        "shoot": "1",
+        "text": "GENERIC WARZONE. ADD TO YOUR SQUAD OR KOHORT IF YOU ARE A GRAND TACTICIAN. Freelancers who kill their opponents while defending from this Warzone may earn Promotion Points.",
+        "type_code": "warzone",
+        "value": "4"
+    },
+    {
+        "armor": "2",
+        "clarification_text": "Muster into any Combat Area (except the Outpost). May not use any Equipment cards. While in play, all warriors in the same Combat Area as the Paparazzo earn 3 extra points whenever killing an opponent in combat.",
+        "code": "03088",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "general"
+        ],
+        "fight": "2",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/paparazzo.jpg",
+        "name": "PAPARAZZO",
+        "octgn_id": "43d419c9-9f5b-4e31-a2cd-0089eb3a1500",
+        "shoot": "2",
+        "text": "May not use any Equipment cards. While in play, all your Doomtroopers earn three extra points whenever killing an opponent in combat.",
+        "type_code": "warrior",
+        "value": "4"
+    },
+    {
+        "armor": "3",
+        "clarification_text": "GIVE TO ANY CAPITOL WARRIOR WITH BASE V:4 OR LESS. VEHICLE. AIRSHIP. Warrior may use other Equipment while using the Pegasus. This warrior gains + to A and provides all warriors in the same Combat Area with + to A.",
+        "code": "03089",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "capitol"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/pegasusscoutbike.jpg",
+        "name": "PEGASUS SCOUT BIKE",
+        "octgn_id": "c37971af-4e03-4bc4-8f14-38ecafd07413",
+        "post_play": "+",
+        "text": "GIVE TO ANY CAPITOL WARRIOR WITH V: 4 OR LESS. AIRSHIP and VEHICLE. A warrior may only have one VEHICLE. Warrior may use other Equipment while using the Pegasus. This warrior flies recon and also gives +3 to A for all warriors in the same Squad, including this warrior.",
+        "type_code": "equipment"
+    },
+    {
+        "armor": "-1",
+        "clarification_text": "MARTIAN WARZONE. ADD TO YOUR KOHORT. FOLLOWERS OF SEMAI and MUAWIJHE defending from this Warzone against attacking DOOMTROOPERS gain an additional +5 to F, S and A.",
+        "code": "03090",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "legion"
+        ],
+        "fight": "1",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/phobosdeimos.jpg",
+        "name": "PHOBOS & DEIMOS",
+        "octgn_id": "c383ebce-25f8-47b2-9c4c-0c0d436ceb9a",
+        "shoot": "1",
+        "text": "MARTIAN WARZONE. ADD TO YOUR KOHORT IF YOU ARE A GRAND TACTICIAN. FOLLOWERS OF SEMAI and MUAWIJHE defending from this Warzone against attacking Doomtroopers gain an additional +5 to F, S and A.",
+        "type_code": "warzone",
+        "value": "2"
+    },
+    {
+        "clarification_text": "ATTACH TO YOUR NON-NONCOMBATANT WARRIOR AS ONE ACTION. If any warrior in the same Combat Area is attacked in a Fight combat, this warrior may defend instead. If it does this the Guard is automatically wounded after combat. If the Guard is killed in this way points are earned.",
+        "code": "03091",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/pointguard.jpg",
+        "name": "POINT GUARD",
+        "octgn_id": "5c71ea46-6544-4ffc-88f7-31aa689f2e62",
+        "post_play": "+",
+        "shoot": "-",
+        "text": "PLAY ON YOUR WARRIOR AS ONE ACTION. THIS CARD REMAINS IN PLAY. Move affected warrior in front of your Squad/Kohort. At any time the warrior may take the place of any warrior behind it who is attacked in a Fight combat. If it does this the Guard is automatically wounded after combat. If the Guard is killed in this way points are earned.",
+        "type_code": "special"
+    },
+    {
+        "armor": "-",
+        "clarification_text": "PERSONALITY. CORPORATE LEADER. NONCOMBATANT. While in play, you may convert any number of S-Actions to T-Actions, but converted T-Actions must be performed by Capitol warriors.",
+        "code": "03092",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "capitol"
+        ],
+        "fight": "-",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/presidentcharleswcolding.jpg",
+        "name": "PRESIDENT CHARLES W. COLDING",
+        "octgn_id": "43e8a19a-534a-4cbd-a34e-e3e3ee7fc1d8",
+        "shoot": "-",
+        "text": "PERSONALITY. CORPORATE LEADER. May never participate in combat or be in cover. While in play, you may convert any number of non-attack actions to attack actions, but they must be performed by Capitol warriors.",
+        "type_code": "warrior",
+        "value": "20"
+    },
+    {
+        "clarification_text": "ATTACH TO THE GAME IMMEDIATELY BEFORE YOUR DISCARD STEP. During each player's Draw Step, each of his or her warriors of V: 7 or higher go into cover, unless it is not allowed to be in cover or perform a Seek Cover action.",
+        "code": "03093",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/pressingmatters.jpg",
+        "name": "PRESSING MATTERS",
+        "octgn_id": "73850055-922a-4be4-811d-1b42d4312d2b",
+        "post_play": "+",
+        "text": "PLAY IMMEDIATELY BEFORE YOUR DISCARD STEP. THIS CARD REMAINS IN PLAY. During each player's Draw Step, each of his or her warriors of V: 7 or higher go into cover, unless it is not allowed to be in cover or perform a Seek Cover action.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "BUILD IN YOUR SQUAD. If one of your Doomtroopers wounds (not kills) a Doomtrooper and survives the combat, you may IMPRISON the opponent. All Prisoner's attached cards are discarded. Prisoners may never attack or be attacked. If Prison Camp is discarded, all its prisoners return to their Combat Areas.",
+        "code": "03094",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/prisoncamp.jpg",
+        "name": "PRISON CAMP",
+        "octgn_id": "42c15141-2a1c-4f2a-8329-661d51b11078",
+        "text": "ADD TO YOUR SQUAD AS ONE ACTION. If one of your Doomtroopers wounds (not kills) a Doomtrooper and survives the combat, you may IMPRISON the opponent. All Prisoner's attached cards are discarded. Prisoners may never attack or be attacked. If Prison Camp is discarded, all its prisoners return to their Squads.",
+        "type_code": "fortification"
+    },
+    {
+        "clarification_text": "PLAY AS ONE ACTION ON ANY DOOMTROOPER IN PLAY. Pay the warrior's modified V in D when you play this card. The warrior receives Cybertronic affiliation and is placed in your Squad. All other affiliations are removed. Warrior has MINOR SYMMETRY IMMUNITY and is PROFANE.",
+        "code": "03095",
+        "deck_limit": 1,
+        "expansion_code": "wz",
+        "faction_code": [
+            "cybertronic"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/programmed.jpg",
+        "name": "PROGRAMMED",
+        "octgn_id": "de2a3356-a667-4d3c-8f8e-f650de14a2f5",
+        "post_play": "+",
+        "text": "PLAY AS ONE ACTION ON ANY DOOMTROOPER IN PLAY. Pay the affected warrior's total V in D when you play this card. The affected warrior receives Cybertronic affiliation and is placed in your Squad. All other affiliations are removed. Warrior is immune to Dark Symmetry Gifts, but not Gifts from Apostles, and may never use the Art.",
+        "type_code": "special",
+        "value": "x"
+    },
+    {
+        "clarification_text": "GIVE TO ANY CAPITOL WARRIOR. VEHICLE. Warrior gains +5 to S. The warrior may not use Equipment when using the Rattlesnake. The warrior may attack two opponents as one Tactical Action. Choose two targets before combat begins. The same warrior may be attacked twice. Treat each attack separately.",
+        "code": "03096",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "capitol"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/rattlesnake.jpg",
+        "name": "RATTLESNAKE",
+        "octgn_id": "fdb02e4a-7f8a-4fef-a62c-2fd6f60b3090",
+        "post_play": "+",
+        "shoot": "5",
+        "text": "GIVE TO ANY CAPITOL WARRIOR. VEHICLE. A warrior may only have one VEHICLE. The warrior may not use Equipment when using the Rattlesnake. Warrior gains +5 to S. The warrior may attack two opponents as one attack action. Choose two targets before combat begins. The same warrior may be attacked twice. Treat each attack separately.",
+        "type_code": "equipment"
+    },
+    {
+        "armor": "6",
+        "clarification_text": "FOLLOWER OF ALGEROTH. HERETIC. SLAYER (when in a Fight combat).",
+        "code": "03097",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "legion"
+        ],
+        "fight": "8",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/reaperofsouls.jpg",
+        "name": "REAPER OF SOULS",
+        "octgn_id": "0b7c5b87-15aa-4ab8-a8e2-037733ff6120",
+        "shoot": "3",
+        "text": "FOLLOWER OF ALGEROTH. CONSIDERED A HERETIC. Warriors wounded by the Reaper in a Fight combat are automatically killed.",
+        "type_code": "warrior",
+        "value": "6"
+    },
+    {
+        "clarification_text": "ATTACH TO YOUR NON-NONCOMBATANT WARRIOR AS ONE ACTION. If any warrior in the same Combat Area is attacked in a Shoot combat, this warrior may defend instead. If it does this the Guard is automatically wounded after combat. If the Guard is killed in this way points are earned.",
+        "code": "03098",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "general"
+        ],
+        "fight": "-",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/rearguard.jpg",
+        "name": "REAR GUARD",
+        "octgn_id": "5a3dea38-87cf-4a0b-8480-0856f6337249",
+        "post_play": "+",
+        "text": "PLAY ON YOUR WARRIOR AS ONE ACTION. THIS CARD REMAINS IN PLAY. Move affected warrior behind your Squad/Kohort. At any time the warrior may take the place of any warrior in front of it who is attacked with a Shoot combat. If it does this the Guard is automatically wounded after combat. If the Guard is killed in this way points are earned.",
+        "type_code": "special"
+    },
+    {
+        "armor": "5",
+        "clarification_text": "ADD TO YOUR KOHORT AS ONE ACTION. VEHICLE. TANK. Holds up to three Dark Legion warriors (enter or exit the Reaver as one action each). Warriors in the Reaver gain +5 to A, may not use other Equipment cards, and can only be wounded by opponents using SHOOT WEAPONS or VEHICLES. If Reaver is discarded all warriors in the Reaver are killed (points are earned).",
+        "code": "03099",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "legion"
+        ],
+        "fight": "-",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/reavertroopcarrier.jpg",
+        "name": "REAVER TROOP CARRIER",
+        "octgn_id": "163c46d3-0026-4b17-9b46-0646e9625ed8",
+        "post_play": "+",
+        "text": "ADD TO YOUR KOHORT AS ONE ACTION. TANK and VEHICLE. +5 to A. Holds up to three Dark Legion warriors (enter or exit the Reaver as one action each). Warriors in the Reaver may not use other Equipment cards, and can only be wounded by opponents using SHOOT WEAPONS or VEHICLES. If Dragonfly is discarded all warriors in the Dragonfly are killed (points are earned as normal).",
+        "type_code": "equipment"
+    },
+    {
+        "clarification_text": "PLAY AS ONE ACTION ON ANY NON-CYBERTRONIC DOOMTROOPER IN PLAY. Pay the affected warrior's V in D when you play this card. Affected warrior receives Brotherhood affiliation and is placed in your Squad. All other affiliations are removed. It retains all abilities listed on its card and is BLESSED.",
+        "code": "03100",
+        "deck_limit": 1,
+        "expansion_code": "wz",
+        "faction_code": [
+            "brotherhood"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/recruitment.jpg",
+        "name": "RECRUITMENT",
+        "octgn_id": "336e39b2-3708-4442-bc0a-c29b999ad1bc",
+        "post_play": "+",
+        "text": "PLAY AS ONE ACTION ON ANY NON-CYBERTRONIC DOOMTROOPER IN PLAY. Pay the affected warrior's V in D when you play this card. Affected warrior receives Brotherhood affiliation and is placxed in your Squad. All other affiliations are removed. It may cast all Art spells and retains all abilities listed on its card.",
+        "type_code": "special"
+    },
+    {
+        "armor": "3",
+        "clarification_text": "GENERIC WARZONE. ADD TO YOUR SQUAD. Brotherhood warriors defending from this Warzone are BLESSED and SLAYERS. DOOMTROOPERS attacking a Brotherhood warrior defending from this Warzone are at -2 to F, S and A.",
+        "code": "03101",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "brotherhood"
+        ],
+        "fight": "3",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/sacredoutpost.jpg",
+        "name": "SACRED OUTPOST",
+        "octgn_id": "e39ba56b-4b8a-4e41-b1d1-18f149533c79",
+        "shoot": "3",
+        "text": "GENERIC WARZONE. ADD TO YOUR SQUAD IF YOU ARE A GRAND TACTICIAN. Brotherhood warriors defending from this Warzone may cast any Art spell and automatically kill any warrior they wound. Doomtroopers attacking a Brotherhood warrior defending from this Warzone are at -2 to F, S and A.",
+        "type_code": "warzone",
+        "value": "6"
+    },
+    {
+        "clarification_text": "PLAY AS TWO ACTIONS. Choose one type of COMMANDER (CAPTAIN or SERGEANT). All warriors in play with the chosen designation are shuffled back into their owner's Draw piles. Include their equipment in the shuffle, but discard all other attachments.",
+        "code": "03102",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/scheduledbriefings.jpg",
+        "name": "SCHEDULED BRIEFINGS",
+        "octgn_id": "e4c91a3d-669c-4ff4-b537-d652a3b2056d",
+        "post_play": "-",
+        "text": "PLAY AS TWO ACTIONS. Choose one type of COMMANDER (CAPTAIN or SERGEANT). All warriors in play with the chosen designation are shuffled back into their owner's Draw piles. Include their equipment in the shuffle, but discard all attached Special cards.",
+        "type_code": "special"
+    },
+    {
+        "armor": "1",
+        "clarification_text": "FOLLOWER OF ILIAN. May never be affected by any cards (except attacking warrior cards) or perform Attack actions. May never be attacked with a Fight combat. As two actions, the Scout Bat may look at any number of randomly picked cards in any player's hand. You must first pay 1 D per card.",
+        "code": "03103",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "legion"
+        ],
+        "fight": "-",
+        "illustrator": "Paul Bonner",
+        "image_url": "wz/scoutbat.jpg",
+        "name": "SCOUT BAT",
+        "octgn_id": "2198afcf-1f59-4eec-9c51-ca63fcb2fd29",
+        "shoot": "1",
+        "text": "FOLLOWER OF ILIAN. May never be affected by any cards (except attacking warrior cards) or perform Attack actions. As two actions, the Scout Bat may look at any number of randomly picked cards in any player's hand. You must first pay 1 D per card.",
+        "type_code": "warrior",
+        "value": "1"
+    },
+    {
+        "clarification_text": "PLAY AT ANY TIME AND PAY 8 D. Any one Doomtrooper in play, chosen by you, is discarded. You may only use this card against one Doomtrooper.",
+        "code": "03104",
+        "deck_limit": 1,
+        "expansion_code": "wz",
+        "faction_code": [
+            "legion"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/secretassassin.jpg",
+        "name": "SECRET ASSASSIN",
+        "octgn_id": "c4e06cbc-8f7a-47cb-847d-71cd2174e110",
+        "post_play": "x",
+        "text": "PLAY AT ANY TIME. ONCE USED, REMOVE THIS CARD FROM THE GAME ENTIRELY. For 8 D, and one Doomtrooper in play is discarded. You may only use this card against one Doomtrooper. This is not considered an Attack action.",
+        "type_code": "special",
+        "value": "8"
+    },
+    {
+        "clarification_text": "PLAY ON YOUR CYBERTRONIC WARRIOR DURING COMBAT. The affected warrior's base F is tripled until the end of the combat. After the combat, the affected warrior is killed. No other cards may save the warrior, and the opponent earns the points as normal.",
+        "code": "03105",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "cybertronic"
+        ],
+        "fight": "3x",
+        "illustrator": "Paul Bonner",
+        "image_url": "wz/selfdestructprogramming.jpg",
+        "name": "SELF-DESTRUCT PROGRAMMING",
+        "octgn_id": "0cdf1f56-7a5a-491e-81ca-27020d399551",
+        "post_play": "-",
+        "text": "PLAY ON YOUR CYBERTRONIC WARRIOR DURING COMBAT. The affected warrior's F is tripled until the end of the combat. After the combat, the affected warrior is killed. No other cards may save the warrior, and the opponent earns the points as normal.",
+        "type_code": "special"
+    },
+    {
+        "armor": "5",
+        "clarification_text": "COMMANDER. SERGEANT. Assign a non-Personality Capitol warrior card to the Sergeant. That card and copies of that card gain +4 to F, S, A and V while in the same Combat Area with the Sergeant.",
+        "code": "03106",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "capitol"
+        ],
+        "fight": "3",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/sergeant.jpg",
+        "name": "SERGEANT",
+        "octgn_id": "5ca67301-5a32-4494-8d82-eb351d383ab4",
+        "shoot": "7",
+        "text": "COMMANDER (SERGEANT). Assign a non-Personality Capitol warrior card to the Sergeant. That card, and copies of that card in your Squad gain +4 to F, S, A and V while this warrior is in the Squad.",
+        "type_code": "warrior",
+        "value": "6"
+    },
+    {
+        "clarification_text": "ATTACH TO ANY WOUNDED WARRIOR AS ONE ACTION. Put the warrior in cover. It will not Exit Cover unless healed. You may not play this card on a warrior who may never be in cover or a NONCOMBATANT.",
+        "code": "03107",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/shellshocked.jpg",
+        "name": "SHELL SHOCKED",
+        "octgn_id": "23580c5c-6227-478f-8eac-ff4ee3045998",
+        "post_play": "+",
+        "text": "PLAY ON ANY WOUNDED WARRIOR AS ONE ACTION. THIS CARD REMAINS IN PLAY. Put warrior in cover. Warrior will not Exit Cover unless healed. You may not play this card on a warrior who may never be in cover.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "PLAY DURING COMBAT. The combat ends immediately. Attacker may perform a new Tactical action, but may not attack the same warrior.",
+        "code": "03108",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/shelterofthecrowd.jpg",
+        "name": "SHELTER OF THE CROWD",
+        "octgn_id": "116c87ed-3edf-47d1-adf5-29eb4470765e",
+        "post_play": "-",
+        "text": "PLAY DURING COMBAT. The combat ends immediately. Attacker may perform a new Attack action, but may not attack the same warrior.",
+        "type_code": "special"
+    },
+    {
+        "armor": "-2",
+        "clarification_text": "MERCURIAN WARZONE. ADD TO YOUR SQUAD OR KOHORT. Warriors defending from this Warzone may be freely equipped with legal Equipment cards during the Modify Combat Ratings step of combat.",
+        "code": "03109",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "general"
+        ],
+        "fight": "3",
+        "illustrator": "Paul Bonner",
+        "image_url": "wz/shinrikyounderworld.jpg",
+        "name": "SHINRIKYO UNDERWORLD",
+        "octgn_id": "8becf83e-4e30-4560-a63b-5a569831d365",
+        "shoot": "3",
+        "text": "MERCURIAN WARZONE. ADD TO YOUR SQUAD OR KOHORT IF YOU ARE A GRAND TACTICIAN. Warriors defending from this Warzone may be freely equipped with legal Equipment cards during the Modify Combat Ratings step of combat.",
+        "type_code": "warzone",
+        "value": "3"
+    },
+    {
+        "armor": "7",
+        "clarification_text": "COMMANDER. CAPTAIN. Mishima warriors with V:8 or less are SLAYERS while in the same combat area with the Shugo.",
+        "code": "03110",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "mishima"
+        ],
+        "fight": "7",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/shugo.jpg",
+        "name": "SHUGO",
+        "octgn_id": "22a05fd6-c964-4d41-ad25-4cc6abedcfa5",
+        "shoot": "7",
+        "text": "COMMANDER (CAPTAIN). While in your Squad, all your Mishima warriors with V: 8 or less automatically kill anyone they wound.",
+        "type_code": "warrior",
+        "value": "9"
+    },
+    {
+        "clarification_text": "ATTACH TO ANY NON-PERSONALITY DOOMTROOPER AS ONE ACTION. While attached, as three actions, this warrior may discard any one attached Special card in play.",
+        "code": "03111",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/specialforcestraining.jpg",
+        "name": "SPECIAL FORCES TRAINING",
+        "octgn_id": "a2362b39-0677-4be5-9a72-5b5505ba95c2",
+        "post_play": "+",
+        "text": "PLAY ON ANY NON-PERSONALITY DOOMTROOPER AS ONE ACTION. THIS CARD REMAINS IN PLAY. As three actions, this warrior may discard any one Special card.",
+        "type_code": "special"
+    },
+    {
+        "armor": "5",
+        "clarification_text": "COMMANDER. SERGEANT. Assign a non-Personality Imperial warrior card to the Commander. That card and copies of that card gain +4 to F, S, A and V while in the same Combat Area with the Commander.",
+        "code": "03112",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "imperial"
+        ],
+        "fight": "7",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/squadroncommander.jpg",
+        "name": "SQUADRON COMMANDER",
+        "octgn_id": "2fbad306-a379-47c3-bb37-43efff7206d8",
+        "shoot": "3",
+        "text": "COMMANDER (SERGEANT). Assign a non-Personality Imperial warrior card to the Squadron Commander. That card, and copies of that card in your Squad gain +4 to F, S, A and V while this warrior is in the Squad.",
+        "type_code": "warrior",
+        "value": "6"
+    },
+    {
+        "armor": "-",
+        "clarification_text": "PERSONALITY. CORPORATE LEADER. NONCOMBATANT. While in play, you may convert any number of S-Actions to T-Actions, but converted T-Actions must be performed by Bauhaus warriors.",
+        "code": "03113",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "bauhaus"
+        ],
+        "fight": "-",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/staffgeneralconstanceromanov.jpg",
+        "name": "STAFF GENERAL CONSTANCE ROMANOV",
+        "octgn_id": "3551ef8f-a904-44ec-ad99-3d891dfbeb34",
+        "shoot": "-",
+        "text": "PERSONALITY. CORPORATE LEADER. May never participate in combat or be in cover. While in play, you may convert any number of non-attack actions to attack actions, but they must be performed by Bauhaus warriors.",
+        "type_code": "warrior",
+        "value": "20"
+    },
+    {
+        "code": "03114",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Paul Bonner",
+        "image_url": "wz/strategicbombing.jpg",
+        "name": "STRATEGIC BOMBING",
+        "octgn_id": "68ca9d67-bed8-4e92-95e4-8173904832e8",
+        "post_play": "-",
+        "text": "PLAY AT ANY TIME. All FACTORIES and INDUSTRIAL COMPLEXES in play are discarded.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "PLAY ON ANY PLAYER AS THREE ACTIONS. The affected player must discard his entire hand.",
+        "code": "03115",
+        "deck_limit": 1,
+        "expansion_code": "wz",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/subterfuge.jpg",
+        "name": "SUBTERFUGE",
+        "octgn_id": "e12f5e17-56e3-400e-91dd-7cbc5d897990",
+        "post_play": "x",
+        "text": "PLAY AS THREE ACTIONS. ONCE PLAYED, REMOVE THIS CARD FROM THE GAME ENTIRELY. You may force any player to discard his or her entire hand.",
+        "type_code": "special"
+    },
+    {
+        "code": "03116",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "legion"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/suddendeath.jpg",
+        "name": "SUDDEN DEATH",
+        "octgn_id": "8a3f4e98-f054-4170-a1ef-90fd307c7603",
+        "post_play": "-",
+        "text": "PLAY DURING A FIGHT COMBAT IN WHICH YOUR DARK LEGION WARRIOR IS DEFENDING AGAINST A DOOMTROOPER. The Doomtrooper is immediately discarded. No points are awarded.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "PLAY ON YOUR WARRIOR AS THREE ACTIONS (one is a T-Action). This warrior performs a suicide attack against any one player, who loses as many Promotion Points as this warrior's total V (or all Promotion Points if the player has less). This warrior is annihilated (no points are earned).",
+        "code": "03117",
+        "deck_limit": 0,
+        "expansion_code": "wz",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/suicideattack.jpg",
+        "name": "SUICIDE ATTACK",
+        "octgn_id": "0b89d950-a250-4ab5-94c8-e28f094862e5",
+        "post_play": "-",
+        "text": "PLAY ON YOUR WARRIOR AS THREE ACTIONS. This warrior performs a suicide attack against any one player, who loses as many Promotion Points as this warrior's total V (or all Promotion Points if the player has less). This warrior is discarded. This is not considered an attack and does not earn any points.",
+        "type_code": "special",
+        "value": "x"
+    },
+    {
+        "armor": "5",
+        "clarification_text": "FOLLOWER OF ALGEROTH. HERETIC. Other HERETICS gain + to F, S and A while in the same Combat Area as the Necromagus. The Necromagus will not affect its own ratings, but others may.",
+        "code": "03118",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "legion"
+        ],
+        "fight": "4",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/supremenecromagus.jpg",
+        "name": "SUPREME NECROMAGUS",
+        "octgn_id": "fcc7689e-7a3d-4a4e-b0a9-426d4ee045ca",
+        "shoot": "4",
+        "text": "FOLLOWER OF ALGEROTH. CONSIDERED A HERETIC. While in play, all your HERETICS (but not the Necromagus itself) gain +3 to F, S and A.",
+        "type_code": "warrior",
+        "value": "5"
+    },
+    {
+        "clarification_text": "ADD TO YOUR SQUAD AS ONE ACTION. VEHICLE. TANK. By spending three actions and one Promotion Point, this remote-controlled tank will discard any one Equipment, Fortification or Warzone card in play.",
+        "code": "03119",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "cybertronic"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/ta6500cybermech.jpg",
+        "name": "TA6500 CYBERMECH",
+        "octgn_id": "e061d946-247c-4a7b-864b-e32c74529daf",
+        "post_play": "+",
+        "text": "ADD TO YOUR SQUAD AS ONE ACTION. TANK and VEHICLE. By spending three actions and one Promotion Point, this remote-controlled tank will discard any one Equipment, Fortification or Warzone card in play.",
+        "type_code": "equipment",
+        "value": "1"
+    },
+    {
+        "code": "03120",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "cybertronic"
+        ],
+        "illustrator": "Tony Bagge",
+        "image_url": "wz/tacticalcomputer.jpg",
+        "name": "TACTICAL COMPUTER",
+        "octgn_id": "79ebca9f-0c3a-4944-8621-af54d2857d69",
+        "post_play": "+",
+        "text": "GIVE TO ANY COMMANDER. A warrior may only have one Tactical Computer. This warrior may change the Battle Tactics once during every combat in which it participates.",
+        "type_code": "equipment"
+    },
+    {
+        "armor": "4",
+        "clarification_text": "FOLLOWER OF ALGEROTH. HERETIC. The Technomancer may be equipped with any Equipment card regardless of affiliation restrictions.",
+        "code": "03121",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "legion"
+        ],
+        "fight": "3",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/technomancer.jpg",
+        "name": "TECHNOMANCER",
+        "octgn_id": "8237d04f-6b60-489d-a93f-63cb0f07ac7d",
+        "shoot": "3",
+        "text": "FOLLOWER OF ALGEROTH. CONSIDERED A HERETIC. The Technomancer may be equipped with any Equipment cards regardless of affiliation restrictions.",
+        "type_code": "warrior",
+        "value": "5"
+    },
+    {
+        "armor": "-",
+        "clarification_text": "PERSONALITY. CORPORATE LEADER. NONCOMBATANT. While in play, you may convert any number of S-Actions to T-Actions, but converted T-Actions must be performed by Cybertronic warriors.",
+        "code": "03122",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "cybertronic"
+        ],
+        "fight": "-",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/thenineteenthexecutive.jpg",
+        "name": "THE NINETEENTH EXECUTIVE",
+        "octgn_id": "7691e3ed-fd4d-4cd7-9bdc-cf2da4400f81",
+        "shoot": "-",
+        "text": "PERSONALITY. CORPORATE LEADER. May never participate in combat or be in cover. While in play, you may convert any number of non-attack actions to attack actions, but they must be performed by Cybertronic warriors.",
+        "type_code": "warrior",
+        "value": "20"
+    },
+    {
+        "clarification_text": "ATTACH TO THE GAME AT ANY TIME. While in play, Brotherhood warriors and Cybertronic warriors may freely attack each other.",
+        "code": "03123",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "brotherhood"
+        ],
+        "illustrator": "Paul Bonner",
+        "image_url": "wz/theunofficialdoctrine.jpg",
+        "name": "THE UNOFFICIAL DOCTRINE",
+        "octgn_id": "89b428f1-6fbc-44b7-b3a7-e75176a9741a",
+        "post_play": "+",
+        "text": "PLAY AT ANY TIME. THIS CARD REMAINS IN PLAY. While in play, Brotherhood warriors and Cybertronic warriors may freely attack each other.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "GIVE TO ANY DARK LEGION WARRIOR WITH BASE V:5 OR LESS. SHOOT WEAPON. FLAMETHROWER. May only be used in Fight combats. +6 to F. If the warrior's modified F is more than double the modified A of its opponent, the opponent is automatically killed.",
+        "code": "03124",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "legion"
+        ],
+        "fight": "6",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/tormentorincinerator.jpg",
+        "name": "TORMENTOR INCINERATOR",
+        "octgn_id": "b2dbfd48-c900-47ec-8089-7f4445cdc44b",
+        "post_play": "+",
+        "text": "GIVE TO ANY DARK LEGION WARRIOR WITH V: 5 OR LESS. FLAME THROWER. Considered a SHOOT WEAPON, but may only be used in Fight combats. +6 to F. If warrior's total F is more than double opponent's total A, opponent is automatically killed.",
+        "type_code": "equipment"
+    },
+    {
+        "clarification_text": "PLAY DURING COMBAT. The Attacker may choose which of the Defender's Warzones is used, or may decide that no Warzone is used.",
+        "code": "03125",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/transfer.jpg",
+        "name": "TRANSFER",
+        "octgn_id": "029ee874-c0c5-4d4e-99dd-bb81ba3139b4",
+        "post_play": "-",
+        "text": "PLAY DURING COMBAT. The Attacker may choose which of the Defender's Warzones that is in effect, or may decide that no Warzone is in effect.",
+        "type_code": "special"
+    },
+    {
+        "armor": "F/S/-",
+        "clarification_text": "PLAY ON YOUR WARRIOR DURING COMBAT. You may switch the warrior's F and S, F and A, or S and A. This effect lasts until the combat is over. This card will only let you switch ratings once, and you must make the switch when you play this card. You may not alter the warrior's V.",
+        "code": "03126",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "general"
+        ],
+        "fight": "-/S/A",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/turnofevents.jpg",
+        "name": "TURN OF EVENTS",
+        "octgn_id": "263de4c7-8324-4d17-8049-fe709c136ce8",
+        "post_play": "-",
+        "shoot": "F/-/A",
+        "text": "PLAY ON YOUR WARRIOR DURING COMBAT. You may switch the warrior's F and S, F and A, or S and A. This effect lasts until the combat is over. This card will only let you switch ratings once, and you must make the switch when you play this card. You may not alter the warrior's V.",
+        "type_code": "special"
+    },
+    {
+        "code": "03127",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "legion"
+        ],
+        "illustrator": "Peter Bergting",
+        "image_url": "wz/unholycarronade.jpg",
+        "name": "UNHOLY CARRONADE",
+        "notes": "Artist name on card is \"Studio Parente\", but drawing is made by Peter Bergting (confirmed with the artist).",
+        "octgn_id": "4832a5a1-68cf-4285-ab0b-9bed672b12f1",
+        "post_play": "+",
+        "text": "ADD TO YOUR KOHORT AS ONE ACTION. VEHICLE. As three actions, the Unholy Carronade may discard any one Warzone or Fortification in play.",
+        "type_code": "equipment"
+    },
+    {
+        "armor": "1",
+        "clarification_text": "FOLLOWER OF ILIAN. May never be affected by any other cards (except attacking warrior cards) or perform Attack actions. May never be attacked with a Fight combat. If you inspect a player's hand with a SCOUT BAT, the Venom Bat may automatically discard all warrior cards that you pick during the inspection.",
+        "code": "03128",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "legion"
+        ],
+        "fight": "-",
+        "illustrator": "Paul Bonner",
+        "image_url": "wz/venombat.jpg",
+        "name": "VENOM BAT",
+        "octgn_id": "a7fcfe00-ce27-413d-9fb7-cea571f143e7",
+        "shoot": "1",
+        "text": "FOLLOWER OF ILIAN. May never be affected by any other cards (except attacking warrior cards) or perform Attack actions. If you inspect a player's hand with a SCOUT BAT, the Venom Bat may automatically discard all warrior cards that you pick during the inspection.",
+        "type_code": "warrior",
+        "value": "1"
+    },
+    {
+        "armor": "2",
+        "clarification_text": "VENUSIAN WARZONE. ADD TO YOUR SQUAD. Warrior's combating in the Venusian Jungle may not use VEHICLES (and combat ends if either combatant is a VEHICLE). VENUSIAN RANGERS defending from this Warzone gain an additional + to F, S and A.",
+        "code": "03129",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "bauhaus"
+        ],
+        "fight": "3",
+        "illustrator": "Paul Bonner",
+        "image_url": "wz/venusianjungle.jpg",
+        "name": "VENUSIAN JUNGLE",
+        "octgn_id": "14b97c91-4591-4e72-8187-86ce58f4ef9d",
+        "shoot": "-1",
+        "text": "VENUSIAN WARZONE. ADD TO YOUR SQUAD IF YOU ARE A GRAND TACTICIAN. Warrior's combating in the Venusian Jungle may not use VEHICLES. VENUSIAN RANGERS defending from this Warzone gain an additional +3 to F, S and A.",
+        "type_code": "warzone",
+        "value": "2"
+    },
+    {
+        "armor": "2",
+        "clarification_text": "ASTEROID BELT WARZONE. ADD TO YOUR SQUAD. Imperial warriors defending from this Warzone gain an additional + to F, S and A.",
+        "code": "03130",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "imperial"
+        ],
+        "fight": "-1",
+        "illustrator": "Studio Parente",
+        "image_url": "wz/victoria.jpg",
+        "name": "VICTORIA",
+        "octgn_id": "f7fbc004-5c63-4c8f-bd46-065634e2d687",
+        "shoot": "3",
+        "text": "ASTEROID BELT WARZONE. ADD TO YOUR SQUAD IF YOU ARE A GRAND TACTICIAN. Imperial warriors defending from this Warzone gain an additional +3 to F, S and A.",
+        "type_code": "warzone",
+        "value": "2"
+    },
+    {
+        "armor": "5",
+        "clarification_text": "DOOMTROOPER. May never use any Equipment cards or be an Attacker. May heal any wounded DOOMTROOPER in the same Combat Area (including itself) as one action.",
+        "code": "03131",
+        "deck_limit": 5,
+        "expansion_code": "wz",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "wz/warmedic.jpg",
+        "name": "WAR MEDIC",
+        "octgn_id": "856043f0-d661-4861-aa7b-7742cb16dfb7",
+        "text": "May never use any Equipment cards or be an Attacker. May heal any wounded Doomtrooper as three actions.",
+        "type_code": "warrior",
+        "value": "3"
+    }
+]

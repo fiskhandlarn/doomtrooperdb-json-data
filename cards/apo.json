@@ -1,0 +1,1346 @@
+[
+    {
+        "clarification_text": "PLAY AT ANY TIME. You must spend 10D when you play this card. You may place any one non-Special, non-Personality card from your collection into your hand. You must show the card to your opponents. No other card may counter or effect this card (i.e. OH YEAH? and MISCOMMUNICATION).",
+        "code": "06001",
+        "deck_limit": 1,
+        "expansion_code": "apo",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/anastysurprise.jpg",
+        "name": "A NASTY SURPRISE",
+        "octgn_id": "2fa9a68d-518e-49a3-a44b-04fe6c71dc72",
+        "post_play": "x",
+        "text": "PLAY AT ANY TIME. You must spend 10 D when you play this card. You may place any one non-Special, non-Personality card from your collection into your hand. You must show the card to your opponents. No other card may counter or effect this card (i.e. OH YEAH? and MISCOMMUNICATION).",
+        "type_code": "special",
+        "value": "10"
+    },
+    {
+        "code": "06002",
+        "deck_limit": 1,
+        "expansion_code": "apo",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/asecondchance.jpg",
+        "name": "A SECOND CHANCE",
+        "octgn_id": "0b6af683-0700-4427-9a82-6c5172903c98",
+        "post_play": "x",
+        "text": "Play at any time. You may return one of your annihilated cards to your Draw pile, which must be shuffled.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "This warrior may not be automatically killed, but is normally wounded instead. Also, this warrior is not affected by Special card effects that wound or kill warriors.",
+        "code": "06003",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "mishima"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/adamantiumwill.jpg",
+        "name": "ADAMANTIUM WILL",
+        "octgn_id": "f2cb2f3a-2dac-49d9-afab-e1c41a87c487",
+        "post_play": "+",
+        "text": "Refer to the KI POWER RULES CARD. This warrior may not be automatically killed, but is normally wounded instead. Also, this warrior is not affected by Special card effects that wound or kill warriors.",
+        "type_code": "ki"
+    },
+    {
+        "clarification_text": "ATTACH TO ANY PLAYER AS ONE ACTION. Anytime the player earns Promotion Points, he or she must pay 1 D for each Point earned. Just-earned D may be used to pay for just-earned Promotion Points. Points not paid for are lost. Discard this card if player ever has 0 D. Multiple attachments of this card are cumulative.",
+        "code": "06004",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/administrativecrackdown.jpg",
+        "name": "ADMINISTRATIVE CRACKDOWN",
+        "octgn_id": "a65201ab-9f52-4998-9775-7d9cf7da10ef",
+        "post_play": "+",
+        "text": "ATTACH TO ANY PLAYER AS ONE ACTION. Anytime the player earns Promotion Points, he or she must pay 1 D for each Point earned. Just-earned D may be used to pay for just-earned Promotion Points. Points not paid for are lost. Discard this card if player ever has 0 D. Multiple attachments of this card are cumulative.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "GIVE TO ANY NON-BROTHERHOOD DOOMTROOPER AS THREE ACTIONS. This warrior automatically heals itself when wounded (unless killed automatically), but each time it loses -1 to its base A. If the base A reaches 0, the warrior is discarded (no points are earned).",
+        "code": "06005",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "cybertronic"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/adrenalineimplants.jpg",
+        "name": "ADRENALINE IMPLANTS",
+        "octgn_id": "db43ccd3-f440-46e6-83e2-68bf8248d8d1",
+        "post_play": "+",
+        "text": "GIVE TO ANY NON-BROTHERHOOD DOOMTROOPER AS THREE ACTIONS. This warrior automatically heals itself when wounded (unless killed automatically), but each time it loses -1 to its base A. If the base A reaches 0, the warrior is discarded (no points are earned).",
+        "type_code": "equipment"
+    },
+    {
+        "armor": "8",
+        "clarification_text": "PERSONALITY. BLOOD BERET. Other BLOOD BERETS gain + to F, S and A and are SLAYERS while in the same Combat Area with Drougan.",
+        "code": "06006",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "imperial"
+        ],
+        "fight": "5",
+        "illustrator": "Tony Bagge",
+        "image_url": "apo/andrewdrougan.jpg",
+        "name": "ANDREW DROUGAN",
+        "octgn_id": "175cd7a0-0a2e-41f5-b5fc-957ef1b29197",
+        "shoot": "9",
+        "text": "PERSONALITY. CONSIDERED A BLOOD BERET. While in play, all your BLOOD BERETS (except Drougan himself) gain +3 to F, S and A and automatically kill any warrior they wound.",
+        "type_code": "warrior",
+        "value": "9"
+    },
+    {
+        "clarification_text": "GIVE TO ANY WARRIOR. SPECIAL WEAPON. As one Tactical Action, this warrior may annihilate this card and automatically wound any non-NONCOMBATANT warrior in play, regardless of affiliation. If the warrior is killed, points are earned.",
+        "code": "06007",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/antipersonnelgrenade.jpg",
+        "name": "ANTIPERSONNEL GRENADE",
+        "octgn_id": "30bf598c-7077-4421-b912-82f7b03758ab",
+        "post_play": "+",
+        "text": "GIVE TO ANY WARRIOR. As one action, this warrior may annihilate this card and automatically wound any warrior in play, regardless of affiliation. The target must be able to be in combat. If the warrior is killed, points are earned. If the warrior is killed, points are earned. This is considered an attack action.",
+        "type_code": "equipment"
+    },
+    {
+        "clarification_text": "This warrior and all of its attachments have ART IMMUNITY and COMPLETE SYMMETRY IMMUNITY. It may spend 6 D immediately after any Art spell is cast or Dark Symmetry effect is used anywhere in play to negate the spell or effect.",
+        "code": "06008",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "mishima"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/auraofmysticalresistance.jpg",
+        "name": "AURA OF MYSTICAL RESISTANCE",
+        "octgn_id": "c9b2da89-7c59-4ba0-bff1-544e5ea8f54d",
+        "post_play": "+",
+        "text": "Refer to the KI POWER RULES CARD. This warrior and all of its attachments are immune to all effects of Art spells and Dark Symmetry effects. It may spend 6 D immediately after any Art spell is cast or Dark Symmetry effect is used to negate the spell or effect.",
+        "type_code": "ki",
+        "value": "6"
+    },
+    {
+        "clarification_text": "ATTACH TO THE GAME AT ANY TIME. Players do not have to wait until their last action (or actions) to use their Tactical Action. Standard Actions may be taken after Tactical Actions. A player is still normally limited to one Tactical Action per turn.",
+        "code": "06009",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/battlefieldchaos.jpg",
+        "name": "BATTLEFIELD CHAOS",
+        "octgn_id": "4a45973b-bf05-4490-8296-4bb2975c4163",
+        "post_play": "+",
+        "text": "ATTACH TO THE GAME AT ANY TIME. Players do not have to wait until their last action (or actions) to attack. Non-attack actions may be taken after attack actions. A player is still normally limited to one attack action per turn.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "BUILD IN YOUR SQUAD. Annihilate the Board Room as three actions to bring one CORPORATE LEADER from your collection into play. The CORPORATE LEADER is immediately added to your Squad for free.",
+        "code": "06010",
+        "deck_limit": 1,
+        "expansion_code": "apo",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/boardroom.jpg",
+        "name": "BOARD ROOM",
+        "octgn_id": "30b0e187-cd73-486f-90bb-dae2d27b13b5",
+        "text": "ADD TO YOUR SQUAD AS ONE ACTION. Annihilate the Board Room as three actions to bring one CORPORATE LEADER from your collection into play. The CORPORATE LEADER is immediately added to your Squad for free.",
+        "type_code": "fortification"
+    },
+    {
+        "clarification_text": "BUILD IN YOUR COMBAT AREA. Place 5 markers on this card. You may remove a marker at any time and add any warrior with a base V of 4 or less to your Combat Area (not in cover). You do not have to use actions or pay D. Discard when markers are gone.",
+        "code": "06011",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/bootcamp.jpg",
+        "name": "BOOT CAMP",
+        "octgn_id": "085d602e-f2f9-46c5-98e3-8a73bce8ae64",
+        "text": "ADD TO YOUR SQUAD OR KOHORT AS ONE ACTION. Place 5 markers on this card. You may remove a marker at any time and add any warrior with a base V of 4 or less to your Squad/Kohort (not in cover). You do not have to use actions or pay D. Discard when markers are gone.",
+        "type_code": "fortification"
+    },
+    {
+        "clarification_text": "GIVE TO ANY WARRIOR. If this warrior is killed in combat, you MUST set off the Bomb after combat is resolved. Its opponent is automatically killed as well, and points are earned. This card and the warrior it is attached to are then annihilated.",
+        "code": "06012",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "cybertronic"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/brainwavebomb.jpg",
+        "name": "BRAINWAVE BOMB",
+        "octgn_id": "83453dfd-61e7-4603-b4ea-131867680a6b",
+        "post_play": "+",
+        "text": "GIVE TO ANY WARRIOR. If this warrior is killed in combat, you MUST set off the Bomb after combat is resolved. Its opponent is killed as well, and points are earned. This card and the warrior it is attached to are then annihilated.",
+        "type_code": "equipment"
+    },
+    {
+        "armor": "6",
+        "clarification_text": "PERSONALITY. MORTIFICATOR. ASSASSIN. BLESSED. During combat, every 1D Claudius spends toward ART OF KINETICS spells counts as 3D.",
+        "code": "06013",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "brotherhood"
+        ],
+        "fight": "7",
+        "illustrator": "Simon Bisley",
+        "image_url": "apo/brotherclaudius.jpg",
+        "name": "BROTHER CLAUDIUS",
+        "octgn_id": "9786c9cd-274d-43a5-95af-43fba3b2afea",
+        "shoot": "7",
+        "text": "PERSONALITY. CONSIDERED A MORTIFICATOR. May cast any Art spell. During combat, every 1 D Claudius spends toward ART OF KINETICS spells counts as 3 D.",
+        "type_code": "warrior",
+        "value": "8"
+    },
+    {
+        "armor": "8",
+        "clarification_text": "PERSONALITY. SACRED WARRIOR. BLESSED. SLAYER. Other SACRED WARRIORS gain +5 to F, S and A and are SLAYERS while in the same Combat Area with Stern.",
+        "code": "06014",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "brotherhood"
+        ],
+        "fight": "8",
+        "illustrator": "Studio Parente",
+        "image_url": "apo/brotherstern.jpg",
+        "name": "BROTHER STERN",
+        "octgn_id": "992756ae-044c-4710-abc6-72d1d2f116e7",
+        "shoot": "6",
+        "text": "PERSONALITY. CONSIDERED A SACRED WARRIOR. May cast any Art spell. Stern automatically kills any warrior he wounds. While in play, all your SACRED WARRIORS (but not Stern himself) gain +5 to F, S and A and automatically kill any warrior they wound.",
+        "type_code": "warrior",
+        "value": "8"
+    },
+    {
+        "armor": "8",
+        "clarification_text": "PERSONALITY. COMMANDER. TRENCHER. Other TRENCHERS gain +6 to F, S and A while in the same Combat Area with Maxwell.",
+        "code": "06015",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "imperial"
+        ],
+        "fight": "9",
+        "illustrator": "Tony Bagge",
+        "image_url": "apo/colonelmaxwell.jpg",
+        "name": "COLONEL MAXWELL",
+        "octgn_id": "b6b89a48-6bed-4e1c-9ab3-0aca09502f42",
+        "shoot": "7",
+        "text": "PERSONALITY. CONSIDERED A COMMANDER AND A TRENCHER. While in play, your TRENCHERS (but not Maxwell himself) gain +6 to F, S and A.",
+        "type_code": "warrior",
+        "value": "9"
+    },
+    {
+        "clarification_text": "BUILD IN YOUR KOHORT. If your Dark Legion warrior is forced to be killed, discarded or annihilated at any time, you may return it to your hand instead (attachments are discarded). PERSONALITIES must still go to the GRAVEYARD if it is in play.",
+        "code": "06016",
+        "deck_limit": 1,
+        "expansion_code": "apo",
+        "faction_code": [
+            "legion"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/cryotechchamber.jpg",
+        "name": "CRYOTECH CHAMBER",
+        "octgn_id": "f775a1c8-ecaa-4b1d-84d5-4d5fe8fc96ba",
+        "text": "ADD TO YOUR KOHORT AS ONE ACTION. If your Dark Legion warrior is forced to be killed, discarded or annihilated at any time, you may return it to your hand instead (attachments are discarded). Personalities must still go to the GRAVEYARD if it is in play.",
+        "type_code": "fortification"
+    },
+    {
+        "armor": "5",
+        "clarification_text": "HERETIC. This warrior may receive Ki Powers as if it was a Mishima warrior. It may receive MINOR GIFTS as normal (but not MAJOR GIFTS). The Dark Mystic is not affected by cards that affect MYSTICS.",
+        "code": "06017",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "legion"
+        ],
+        "fight": "4",
+        "illustrator": "Studio Parente",
+        "image_url": "apo/darkmystic.jpg",
+        "name": "DARK MYSTIC",
+        "octgn_id": "0264196b-d180-47fe-a821-3bb2eae17d17",
+        "shoot": "5",
+        "text": "HERETIC. This warrior may receive Ki Powers as if it was a Mishima warrior. It may receive DARK SYMMETRY GIFTS as normal (but not GIFTS OF APOSTLES). The Dark Mystic is not affected by cards that affect MYSTICS.",
+        "type_code": "warrior",
+        "value": "7"
+    },
+    {
+        "armor": "7",
+        "clarification_text": "SHADOW WALKER. FIRST STRIKE. May never be a HERETIC. The Demon Hunter must attack a Dark Legion warrior or a warrior considered a HERETIC before any others.",
+        "code": "06018",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "mishima"
+        ],
+        "fight": "5",
+        "illustrator": "Studio Parente",
+        "image_url": "apo/demonhunter.jpg",
+        "name": "DEMON HUNTER",
+        "octgn_id": "df9b9c10-6c00-4923-976a-c4db051b5459",
+        "shoot": "5",
+        "text": "CONSIDERED A SHADOW WALKER. This warriors always strikes first in combat. May never be converted into a Heretic. The Demon Hunter must attack a Dark Legion warrior or a warrior considered a Heretic before any others.",
+        "type_code": "warrior",
+        "value": "7"
+    },
+    {
+        "clarification_text": "ATTACH TO THE GAME AT ANY TIME. ALL players perform one less action each turn, even you. Multiple copies of this card in play are cumulative. Players are always allowed to perform one action per turn. Additional actions from card effects are permitted.",
+        "code": "06019",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/direportents.jpg",
+        "name": "DIRE PORTENTS",
+        "octgn_id": "1092b73b-72e2-4d4f-9213-3bcc1a3eb960",
+        "post_play": "+",
+        "text": "ATTACH TO THE GAME AT ANY TIME. ALL players perform one less of their standard three actions each turn, even you. Multiple copies of this card in play are cumulative. Players are always allowed to perform one standard action per turn. Additional actions from card effects are permitted.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "BUILD IN YOUR SQUAD. While in play, all of your FREELANCERS may earn Promotion Points as normal.",
+        "code": "06020",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/discreetmeetingroom.jpg",
+        "name": "DISCREET MEETING ROOM",
+        "octgn_id": "fa789c04-ab0d-4ddc-8f88-3ecdfd4b3e8c",
+        "text": "ADD TO YOUR SQUAD AS ONE ACTION. While in play, all of your FREELANCERS may earn Promotion Points as normal.",
+        "type_code": "fortification"
+    },
+    {
+        "armor": "9",
+        "clarification_text": "MYSTIC. BLESSED. When casting spells from the ART OF ELEMENTS, every 1 D spent toward the spell effect counts as 5 D.",
+        "code": "06021",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "brotherhood"
+        ],
+        "fight": "8",
+        "illustrator": "Studio Parente",
+        "image_url": "apo/elementalmaster.jpg",
+        "name": "ELEMENTAL MASTER",
+        "octgn_id": "1b427b95-0b60-4ca4-9dfb-17b585a2e8da",
+        "shoot": "8",
+        "text": "CONSIDERED A MYSTIC. The Elemental Master may cast any Art spell. When casting spells from the ART OF ELEMENTS, every 1 D spent toward the spell effect counts as 5 D.",
+        "type_code": "warrior",
+        "value": "10"
+    },
+    {
+        "armor": "2x",
+        "clarification_text": "GIVE TO ANY NON-BROTHERHOOD DOOMTROOPER. ARMOR. The warrior's base A rating is doubled. Modifiers to A are applied after this doubling.",
+        "code": "06022",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "cybertronic"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/epidermalplates.jpg",
+        "name": "EPIDERMAL PLATES",
+        "octgn_id": "733095a7-49c2-46e0-aa70-ef4f8aba8520",
+        "post_play": "+",
+        "text": "GIVE TO ANY NON-BROTHERHOOD DOOMTROOPER. ARMOR. The warrior's base A rating is doubled. Modifiers to A are applied after this doubling. A warrior may only have one piece of ARMOR.",
+        "type_code": "equipment"
+    },
+    {
+        "code": "06023",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/escapehatch.jpg",
+        "name": "ESCAPE HATCH",
+        "octgn_id": "a3006d54-5664-49c1-acfe-b4a82ebfddba",
+        "post_play": "+",
+        "text": "ATTACH TO ANY VEHICLE. Warriors using this Vehicle may enter and exit it without spending actions, but only once between each of your Draw steps (per warrior). A Vehicle may have multiple Hatches attached to it.",
+        "type_code": "equipment"
+    },
+    {
+        "clarification_text": "GIVE TO ANY HERETIC. While in play, this HERETIC may have multiple copies of legal Dark Symmetry cards attached to it. Their effects are cumulative (when applicable). If the Eye is discarded, ALL Dark Symmetry cards on the HERETIC are discarded as well.",
+        "code": "06024",
+        "deck_limit": 1,
+        "expansion_code": "apo",
+        "faction_code": [
+            "legion"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/eyeofalgeroth.jpg",
+        "name": "EYE OF ALGEROTH",
+        "octgn_id": "7d747082-9ae4-4ca3-a63c-aa4d6eddc754",
+        "post_play": "+",
+        "text": "GIVE TO ANY HERETIC. While in play, this Heretic may have any number of copies of legal Dark Symmetry cards attached to it. Their effects are cumulative (when applicable). If the Eye is discarded, ALL Dark Symmetry cards on the Heretic are discarded as well.",
+        "type_code": "relic"
+    },
+    {
+        "clarification_text": "BUILD IN YOUR COMBAT AREA. While in play all FACTORIES in the same Combat Area with this card earn an additional 3D. This card is affected by STRATEGIC BOMBING. You may have multiple copies of this card in the same Combat Area.",
+        "code": "06025",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/factoryretrofit.jpg",
+        "name": "FACTORY RETROFIT",
+        "octgn_id": "6e9876b6-c43b-47bb-8de1-808e71e84ff6",
+        "text": "ADD TO YOUR SQUAD OR KOHORT AS ONE ACTION. For each Retrofit you have in play, all your FACTORIES in the same Squad/Kohort earn an additional 3 D. This card is affected by STRATEGIC BOMBING.",
+        "type_code": "fortification",
+        "value": "3"
+    },
+    {
+        "armor": "2",
+        "clarification_text": "BUILD IN YOUR COMBAT AREA. Warriors in the same Area gain +2 to A when attacked. You may attach Equipment cards to this card at any time and with no action cost. Each provides an additional +2 to A and may not be discarded unless this card is discarded as well. They have no other effect on play.",
+        "code": "06026",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/fortifiedentrenchment.jpg",
+        "name": "FORTIFIED ENTRENCHMENT",
+        "octgn_id": "22e4a809-be03-4794-8afb-4150597901be",
+        "text": "ADD TO ANY SQUAD OR KOHORT AS ONE ACTION. Warriors in the same Squad/Kohort gain +2 to A when attacked. You may attach Equipment cards to this card at any time and with no action cost. Each provides an additional +2 to A and may not be discarded unless this card is discarded as well. They have no other effect on play.",
+        "type_code": "fortification"
+    },
+    {
+        "armor": "6",
+        "clarification_text": "INFANTRY. ASSASSIN.",
+        "code": "06027",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "capitol"
+        ],
+        "fight": "3",
+        "illustrator": "Studio Parente",
+        "image_url": "apo/freedombrigadeer.jpg",
+        "name": "FREEDOM BRIGADEER",
+        "octgn_id": "de0f6400-a4d2-4d78-bbc0-b454349e5079",
+        "shoot": "7",
+        "text": "CONSIDERED INFANTRY. The Freedom Brigadeers may attack any warrior, regardless of affiliation.",
+        "type_code": "warrior",
+        "value": "7"
+    },
+    {
+        "armor": "6",
+        "clarification_text": "PERSONALITY. FREELANCER. Points earned by the Patriarch must be converted into D. Other FREELANCERS gain +5 to F, S and A and are SLAYERS while in the same Combat Area as the Patriarch.",
+        "code": "06028",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "general"
+        ],
+        "fight": "3",
+        "illustrator": "Paul Bonner",
+        "image_url": "apo/freelancerpatriarch.jpg",
+        "name": "FREELANCER PATRIARCH",
+        "octgn_id": "107f81d1-7224-4f38-9a7d-6df05fa02394",
+        "shoot": "3",
+        "text": "PERSONALITY. CONSIDERED A FREELANCER. Points earned by the patriarch must be converted into D. While in play, all FREELANCERS (but not the patriarch himself) gain +5 to F, S, and A and automatically kill anyone they wound.",
+        "type_code": "warrior",
+        "value": "5"
+    },
+    {
+        "code": "06029",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/goodluckcharm.jpg",
+        "name": "GOOD LUCK CHARM",
+        "octgn_id": "c25fc92a-f526-43ce-a771-0ee0c3c5a21b",
+        "post_play": "+",
+        "text": "GIVE TO ANY WARRIOR. While attached, this warrior may never be the target of cards that cause its F, S, A or V to be lowered. Any such cards already on the warrior are discarded, and no others may be added.",
+        "type_code": "equipment"
+    },
+    {
+        "clarification_text": "BUILD IN YOUR KOHORT. APersonality killed or annihilated in combat is placed under the Graveyard. It has no effect, but is still \"in play.\" No copies of thePersonality may enter play while underneath. If discarded, all cards go to their owners' annihilated piles. Only one Graveyard may be in play at a time.",
+        "code": "06030",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/graveyard.jpg",
+        "name": "GRAVEYARD",
+        "octgn_id": "bed832f6-c23e-42a3-881d-167e05e4c49e",
+        "text": "ADD TO THE GAME AS ONE ACTION. A Personality killed or annihilated in combat is placed under the Graveyard. It has no effect, but is still \"in play.\" No copies of the Personality may enter play while underneath. If discarded, all cards go to their owners' discard/annihilated piles. Only one Graveyard may be in play at a time.",
+        "type_code": "fortification"
+    },
+    {
+        "armor": "4",
+        "clarification_text": "May be given Ki Powers at any time and with no action cost. The Grey Mystic is not affected by cards that affect MYSTICS.",
+        "code": "06031",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "mishima"
+        ],
+        "fight": "5",
+        "illustrator": "Studio Parente",
+        "image_url": "apo/greymystic.jpg",
+        "name": "GREY MYSTIC",
+        "octgn_id": "5b8df527-e1cf-4588-9550-96faaf1e1fd3",
+        "shoot": "5",
+        "text": "Grey Mystics may be given Ki Powers at any time and with no action cost. The Grey Mystic is not affected by cards that affect MYSTICS.",
+        "type_code": "warrior",
+        "value": "8"
+    },
+    {
+        "clarification_text": "BUILD IN YOUR COMBAT AREA. If a warrior performs a Sabotage action, you may play a legal warrior from your hand to the same Combat Area (you must pay its V in D) and have that warrior combat the Sabotaging warrior. It must be a legal combatant, but affiliation is disregarded.",
+        "code": "06032",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/guardstation.jpg",
+        "name": "GUARD STATION",
+        "octgn_id": "9070670b-d148-4c59-a641-bde6bceb5fa6",
+        "text": "ADD TO YOUR SQUAD OR KOHORT AS ONE ACTION. If a warrior attacks YOU directly, you may play a warrior from your hand (you must pay its V in D) to the same Squad/Kohort and have that warrior defend in your place. It must be a legal combatant, but affiliation is disregarded.",
+        "type_code": "fortification"
+    },
+    {
+        "clarification_text": "During Fight combats, this warrior may choose to parry its opponent's blow at any time. Combat ends and neither warrior is affected. This may be used to counter a combat-modifying card. Warrior may not have this card and THE MONGOOSE'S ARTFUL DODGE.",
+        "code": "06033",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "mishima"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/handsofstone.jpg",
+        "name": "HANDS OF STONE",
+        "octgn_id": "6af8197c-985b-46f3-8ca6-e164f8e89a3e",
+        "post_play": "+",
+        "text": "Refer to the KI POWER RULES CARD. During Fight combats, this warrior may choose to parry its opponent's blow at any time. Combat ends and neither warrior is affected. This may be used to counter a combat-modifying card. Warrior may not have this card and THE MONGOOSE'S ARTFUL DODGE.",
+        "type_code": "ki"
+    },
+    {
+        "clarification_text": "GIVE TO ANY CYBERTRONIC WARRIOR. As two actions, this warrior may make a Fight combat at double its base F rating. Warrior is a SLAYER when using the Fist.",
+        "code": "06034",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "cybertronic"
+        ],
+        "fight": "2x",
+        "illustrator": "Studio Parente",
+        "image_url": "apo/hardenedfist.jpg",
+        "name": "HARDENED FIST",
+        "octgn_id": "c20dfe76-3a01-4e90-8327-b873668defe4",
+        "post_play": "+",
+        "text": "GIVE TO ANY CYBERTRONIC WARRIOR. As two actions, this warrior may make a Fight combat at double its base F rating. Warriors wounded by the Fist are automatically killed.",
+        "type_code": "equipment"
+    },
+    {
+        "code": "06035",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "mishima"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/innershame.jpg",
+        "name": "INNER SHAME",
+        "octgn_id": "b79bb88b-8bf2-4676-ae5f-d0a8819ef58a",
+        "post_play": "-",
+        "text": "PLAY AT ANY TIME. You may immediately discard any one Ki Power card in play.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "GIVE TO ANY OPPONENT'S WARRIOR AS ONE ACTION. All attached cards currently in play on the warrior are discarded, except this one. No new cards of any type may be attached to the warrior as long as this card is in play. Card effects that affect the warrior but are not attached to it are still valid.",
+        "code": "06036",
+        "deck_limit": 1,
+        "expansion_code": "apo",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/innocentbauble.jpg",
+        "name": "INNOCENT BAUBLE",
+        "octgn_id": "7c26396a-03fd-4874-ab53-317ab182729d",
+        "post_play": "+",
+        "text": "GIVE TO ANY OPPONENT'S WARRIOR AS ONE ACTION. All attached cards currently in play on the warrior are discarded, except this one. No new cards of any type may be attached to the warrior as long as this card is in play. Card effects that affect the warrior but are not attached are still valid.",
+        "type_code": "equipment"
+    },
+    {
+        "armor": "2",
+        "clarification_text": "FOLLOWER OF ALGEROTH. May never have Equipment, Relic or Dark Symmetry cards. Gains + to F, S and A, and +1 to V, for each other Kadaver in the same Combat Area. GRIM REAPER may not be played on a Kadaver.",
+        "code": "06037",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "legion"
+        ],
+        "fight": "2",
+        "illustrator": "Studio Parente",
+        "image_url": "apo/kadaver.jpg",
+        "name": "KADAVER",
+        "octgn_id": "51848130-74fd-4807-b311-6bb0db68311e",
+        "shoot": "2",
+        "text": "FOLLOWER OF ALGEROTH. May never have Equipment, Relic or Dark Symmetry cards. For each additional Kadaver in your Kohort, this Kadaver gains +3 to F, S, and A, but only +1 to V. GRIM REAPER may not be played on a Kadaver.",
+        "type_code": "warrior",
+        "value": "2"
+    },
+    {
+        "clarification_text": "This warrior has FIRST STRIKE, and its opponent loses any FIRST STRIKE ability. Also, this warrior may negate any Special card played DIRECTLY on it (or its attachment) if it spends 6 D immediately after the card is played. Global Special-effects are not affected.",
+        "code": "06038",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "mishima"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/kanjisluckysense.jpg",
+        "name": "KANJI'S LUCKY SENSE",
+        "octgn_id": "5d51a641-f7bc-4b44-83f3-a6585b5a37c0",
+        "post_play": "+",
+        "text": "Refer to the KI POWER RULES CARD. This warrior strikes first in combat, and its opponent loses any \"strike first\" ability. Also, this warrior may negate any Special card played DIRECTLY on it (or its attachment) if it spends 6 D immediately after the card is played. Global Special-effects are not affected.",
+        "type_code": "ki",
+        "value": "6"
+    },
+    {
+        "armor": "10",
+        "clarification_text": "PERSONALITY. COMMANDER. SAMURAI. SHOGUN. When equipped with the DAI-SHO OF THE ANCIENT EMPERORS, all your Mishima warriors in play may be given Ki Powers at any time and with no action cost. Other SHOGUN gain +4 to F, S and A while in the same Combat Area with Asano.",
+        "code": "06039",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "mishima"
+        ],
+        "fight": "11",
+        "illustrator": "Studio Parente",
+        "image_url": "apo/keitokuasano.jpg",
+        "name": "KEITOKU ASANO",
+        "octgn_id": "b7f9c42d-c71b-4502-8b22-511e6ca19cde",
+        "shoot": "7",
+        "text": "PERSONALITY. CONSIDERED A COMMANDER, A SAMURAI AND A SHOGUN. While in play all your SHOGUN (except Asano himself) gain +4 to F, S and A. If he is equipped with the DAI-SHO OF THE ANCIENT EMPERORS, all your Mishima warriors may be given Ki Powers at any time and with no action cost.",
+        "type_code": "warrior",
+        "value": "10"
+    },
+    {
+        "clarification_text": "If wounded, this warrior may perform a Seek Cover action to automatically heal itself. If for some reason Seeking Cover is not allowed, the warrior may not use this Ki Power.",
+        "code": "06040",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "mishima"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/kiselfhealing.jpg",
+        "name": "KI SELF HEALING",
+        "octgn_id": "e9b92c25-c496-471e-a437-a57e13226806",
+        "post_play": "+",
+        "text": "Refer to the KI POWER RULES CARD. If wounded, this warrior may perform a Seek Cover action to automatically heal itself. If for some reason Seeking Cover is not allowed, the warrior may not use this Ki Power.",
+        "type_code": "ki"
+    },
+    {
+        "clarification_text": "May only be given to a SHADOW WALKER. If attacked, this warrior may defend from any Warzone in play, even one found in another Combat Area, and even those controlled by other players.",
+        "code": "06041",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "mishima"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/kiteleportation.jpg",
+        "name": "KI TELEPORTATION",
+        "octgn_id": "3ae4d396-f3a9-423c-975f-03ba54cbb749",
+        "post_play": "+",
+        "text": "Refer to the KI POWER RULES CARD. May only be given to a SHADOW WALKER. If attacked, this warrior may defend from any Warzone in play, even one found in a Kohort, and even those controlled by other players.",
+        "type_code": "ki"
+    },
+    {
+        "armor": "10",
+        "clarification_text": "PERSONALITY. FOLLOWER AND NEPHARITE OF ILIAN. Other FOLLOWERS OF ILIAN gain +4 to F, S and A. while in the same Combat Area with Kritana. She may bestow any FOLLOWER OF ILIAN with any Dark Symmetry card, except those restricted to specific warrior types.",
+        "code": "06042",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "legion"
+        ],
+        "fight": "9",
+        "illustrator": "Studio Parente",
+        "image_url": "apo/kritana.jpg",
+        "name": "KRITANA",
+        "octgn_id": "9ca165da-ded4-4e52-b99d-13f95b65836b",
+        "shoot": "8",
+        "text": "PERSONALITY. FOLLOWER AND NEPHARITE OF ILIAN. While in play, all your FOLLOWERS OF ILIAN (but not Kritana herself) gain +4 to F, S and A. She may bestow any FOLLOWER OF ILIAN with any Dark  Symmetry card, except those restricted to specific warrior types.",
+        "type_code": "warrior",
+        "value": "11"
+    },
+    {
+        "armor": "8",
+        "clarification_text": "PERSONALITY. NEPHARITE AND FOLLOWER OF ALGEROTH. Maledrach may receive any MINOR GIFT and MINOR HERETIC GIFT. Maledrach is not considered a HERETIC.",
+        "code": "06043",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "legion"
+        ],
+        "fight": "6",
+        "illustrator": "Studio Parente",
+        "image_url": "apo/maledrach.jpg",
+        "name": "MALEDRACH",
+        "octgn_id": "2d2dd28b-e6b7-46b4-a2f9-56cc19f49050",
+        "shoot": "5",
+        "text": "PERSONALITY. NEPHARITE AND FOLLOWER OF ALGEROTH. Maledrach may receive any Dark Symmetry Gifts AND those Gifts that are restricted to HERETICS. Maledrach is not considered a Heretic.",
+        "type_code": "warrior",
+        "value": "10"
+    },
+    {
+        "clarification_text": "GIVE TO ANY MISHIMA WARRIOR. FIGHT WEAPON. Warrior gains +4 to F and is a SLAYER during Fight combats. Warriors equipped with the Blade may never lose their Mishima affiliation or be converted into Heretics.",
+        "code": "06044",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "mishima"
+        ],
+        "fight": "4",
+        "illustrator": "Studio Parente",
+        "image_url": "apo/mishimeseceremonialblade.jpg",
+        "name": "MISHIMESE CEREMONIAL BLADE",
+        "octgn_id": "d1350ecc-6120-422d-a440-71e6cae716d4",
+        "post_play": "+",
+        "text": "GIVE TO ANY MISHIMA WARRIOR. FIGHT WEAPON. Provides +4 to F. Warriors wounded by the Blade are automatically killed. Warriors equipped with the Blade may never lose their Mishima affiliation or be converted into Heretics.",
+        "type_code": "equipment"
+    },
+    {
+        "clarification_text": "BUILD IN YOUR SQUAD. A discarded or annihilated Relic is instead placed under the Museum. It has no effect, but is still \"in play.\" No copies of the Relic may enter play while underneath. If discarded, all cards go to their owners' annihilated piles. Only one Museum may be in play at a time.",
+        "code": "06045",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/museum.jpg",
+        "name": "MUSEUM",
+        "octgn_id": "04bfc462-91cb-45b6-831f-834e3af523dc",
+        "text": "ADD TO THE GAME AS ONE ACTION. A discarded or annihilated Relic is instead placed under the Museum. It has no effect, but is still \"in play.\" No copies of the Relic may enter play while underneath. If discarded, all cards go to their owners' discard/annihilated piles. Only one Museum may be in play at a time.",
+        "type_code": "fortification"
+    },
+    {
+        "armor": "10",
+        "clarification_text": "PERSONALITY. CLANSMAN. Other Imperial warriors gain +4 to F, S and A while in the same Combat Area with Brannaghan.",
+        "code": "06046",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "imperial"
+        ],
+        "fight": "7",
+        "illustrator": "Studio Parente",
+        "image_url": "apo/nicolabrannaghan.jpg",
+        "name": "NICOLA BRANNAGHAN",
+        "octgn_id": "3d0235b5-c3b3-4064-855f-103f85213da0",
+        "shoot": "9",
+        "text": "PERSONALITY. Considered a CLANSMAN. While in play, all Imperial warriors (except Brannaghan herself) gain +4 to F, S and A.",
+        "type_code": "warrior",
+        "value": "12"
+    },
+    {
+        "clarification_text": "For every 5 D (max 15 D) you spend during your turn, this warrior may take an additional action, even a Tactical Action. Tactical Actions must still occur after other actions.",
+        "code": "06047",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "mishima"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/nomurasquickenedstep.jpg",
+        "name": "NOMURA'S QUICKENED STEP",
+        "octgn_id": "9d35c1d9-1aa9-47f3-8b26-08396618fe38",
+        "post_play": "+",
+        "text": "Refer to the KI POWER RULES CARD. For every 5 D (max 15 D) you spend during your turn, this warrior may take an additional action, including attacking. Attacks must still occur after other actions.",
+        "type_code": "ki",
+        "value": "e5"
+    },
+    {
+        "clarification_text": "ATTACH TO ANY PLAYER AT ANY TIME. Affected player's hand size increases by one card (max five) for each Imperial warrior in his Squad. Immediately discard down to new hand size if number of warriors is reduced or this card is discarded. Multiple attachments of this card are not cumulative.",
+        "code": "06048",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/paladinesfavor.jpg",
+        "name": "PALADINE'S FAVOR",
+        "octgn_id": "91ab92a2-e2f8-4147-b73c-3df06511d993",
+        "post_play": "+",
+        "text": "ATTACH TO ANY PLAYER AT ANY TIME. Affected player's hand size increases by one card (max five) for each Imperial warrior in his Squad. Immediately discard down to new hand size if number of warriors is reduced or this card is discarded. Multiple attachments of this card are not cumulative.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "PLAY IMMEDIATELY AFTER ANY NON-ATTACHMENT SPECIAL CARD IS PLAYED. The original target is still affected by the Special, but you may take the Special and immediately play it on any legal target (pay any D cost). Cards played \"during your turn\" may be Passed, but those requiring actions may not. May not be played on MISCOMMUNICATION.",
+        "code": "06049",
+        "deck_limit": 1,
+        "expansion_code": "apo",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/passthebuck.jpg",
+        "name": "PASS THE BUCK",
+        "octgn_id": "fba9f8c7-7b47-4f4f-9ad5-d72139f8740d",
+        "post_play": "x",
+        "text": "PLAY IMMEDIATELY AFTER ANY SPECIAL CARD THAT DOES NOT REMAIN IN PLAY IS PLAYED. The original target is still affected by the Special, but you may take the Special and immediately play it on any player (pay any D cost). Cards played \"during your turn\" may be Passed, but those requiring actions may not.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "ATTACH TO ANY COMBAT AREA. When warriors in the same Area are attacked, NO warriors may FIRST STRIKE. Ignore all FIRST STRIKE abilities of all combatants. This takes precedence over all other \"first strike\" abilities (even those using the words \"always\" or \"never\").",
+        "code": "06050",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/perimeteralarm.jpg",
+        "name": "PERIMETER ALARM",
+        "octgn_id": "0acaacf2-c795-4236-9d86-3f91d34e1a28",
+        "post_play": "+",
+        "text": "ATTACH TO ANY SQUAD OR KOHORT. When warriors in the same Squad/Kohort are attacked, NO warriors may \"strike first\" AT ALL. Ignore ALL \"strike first\" abilities of ALL combatants. This takes precedence over all other \"strike first\" abilities (even those using the words \"always\" or \"never\").",
+        "type_code": "equipment"
+    },
+    {
+        "code": "06051",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/promoted.jpg",
+        "name": "PROMOTED",
+        "octgn_id": "500c6db0-d989-4e08-9e56-01aadac42a7d",
+        "post_play": "+",
+        "text": "ATTACH TO ANY NON-FREELANCER DOOMTROOPER AT ANY TIME. The affected warrior is now considered a COMMANDER.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "BUILD IN YOUR COMBAT AREA. Warriors in the same Area may hide behind the Wall as one action each. It will protect up to 3 warriors, who may leave at any time. Warriors behind it may not attack, be attacked, or prevent a Sabotage. If discarded all warriors behind it are wounded (no points are earned).",
+        "code": "06052",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/protectivewall.jpg",
+        "name": "PROTECTIVE WALL",
+        "octgn_id": "7b24ee7a-4876-461d-b043-7d23ba8ef675",
+        "text": "ADD TO YOUR SQUAD OR KOHORT AS ONE ACTION. Warriors in the same Squad/Kohort may hide behind the Wall as one action each. It will protect up to 3 warriors, who may leave at any time. Warriors behind it may not attack, be attacked, or prevent a PLAYER from being attacked. If discarded all warriors behind it are wounded (no points are earned).",
+        "type_code": "fortification"
+    },
+    {
+        "armor": "6",
+        "clarification_text": "FOLLOWER OF ALGEROTH. UNDEAD LEGIONNAIRES gain +5 to F, S, A and V and are SLAYERS while in the same Combat Area. While in play, SALADIN gains +1 to F and S, no matter where he is in play. Both effects are cummulative.",
+        "code": "06053",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "legion"
+        ],
+        "fight": "6",
+        "illustrator": "Studio Parente",
+        "image_url": "apo/redguardlegionnaire.jpg",
+        "name": "RED GUARD LEGIONNAIRE",
+        "octgn_id": "5b4af29e-7394-43cb-b0ac-97852b4132d4",
+        "shoot": "5",
+        "text": "FOLLOWER OF ALGEROTH. While in play, all your UNDEAD LEGIONNAIRES gain +5 to F, S, A and V and automatically kill anyone they wound. For each Red Guard Legionnaire in your Kohort, SALADIN gains +1 to F and S, no matter where he is in play.",
+        "type_code": "warrior",
+        "value": "7"
+    },
+    {
+        "armor": "3",
+        "clarification_text": "GIVE TO ANY NON-PERSONALITY DOOMTROOPER. ARMOR. Provides + to A. While attached, the warrior is considered a Mishima warrior and a SAMURAI.",
+        "code": "06054",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "mishima"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/samuraiarmor.jpg",
+        "name": "SAMURAI ARMOR",
+        "octgn_id": "7b240a8d-f160-40f8-9fe4-cb3be3215fd5",
+        "post_play": "+",
+        "text": "ATTACH TO ANY NON-PERSONALITY DOOMTROOPER. ARMOR. Provides +3 to A. While attached, the warrior is considered a Mishima warrior and a SAMURAI.",
+        "type_code": "equipment"
+    },
+    {
+        "clarification_text": "BUILD IN YOUR SQUAD. While in play, your Doomtroopers may never be annihilated. If a card effect causes a warrior to be annihilated, it is discarded instead.",
+        "code": "06055",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "brotherhood"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/sanctuary.jpg",
+        "name": "SANCTUARY",
+        "octgn_id": "6b9f2f71-17d0-4787-9f0d-7330eeb3ebd1",
+        "text": "ADD TO YOUR SQUAD AS ONE ACTION. While in play, your Doomtroopers may never be annihilated  (removed from the game). If a card effect causes a warrior to be annihilated, it is discarded instead.",
+        "type_code": "fortification"
+    },
+    {
+        "armor": "5",
+        "clarification_text": "SHADOW WALKER. ASSASSIN. May be attacked by any opposing warrior, regardless of affiliation. As three actions, you may annihilate the Master and automatically kill any NON-NONCOMBATANT warrior in play. This is considered an Attack action and points are earned by both players.",
+        "code": "06056",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "mishima"
+        ],
+        "fight": "6",
+        "illustrator": "Studio Parente",
+        "image_url": "apo/shadowmaster.jpg",
+        "name": "SHADOW MASTER",
+        "octgn_id": "d55ee0cf-2ee9-4e34-b37a-e2ed709be5a4",
+        "shoot": "5",
+        "text": "CONSIDERED A SHADOW WALKER. May attack and be attacked by any opposing warrior, regardless of affiliation. As three actions, you may annihilate the Master and automatically kill any warrior in play that is able to be in combat. This is considered an Attack action and points are earned by both players.",
+        "type_code": "warrior",
+        "value": "8"
+    },
+    {
+        "clarification_text": "The warrior is now considered a SHADOW WALKER and an ASSASSIN with FIRST STRIKE.",
+        "code": "06057",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "mishima"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/shadowwalk.jpg",
+        "name": "SHADOW WALK",
+        "octgn_id": "569ada00-8c69-4ba7-a312-a9189901f35f",
+        "post_play": "+",
+        "text": "Refer to the KI POWER RULES CARD. The warrior is now considered a SHADOW WALKER. It may attack any other warrior, and strikes first in combat. If the opponent survives, it may retaliate.",
+        "type_code": "ki"
+    },
+    {
+        "armor": "6",
+        "clarification_text": "SAMURAI. When uising a SCALPER, it provides an additional +6 to F, and its opponent's F is penalized by an additional -6. This effect is in addition to the Scalper's effects.",
+        "code": "06058",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "mishima"
+        ],
+        "fight": "5",
+        "illustrator": "Studio Parente",
+        "image_url": "apo/shogun.jpg",
+        "name": "SHOGUN",
+        "octgn_id": "0097851c-41ef-4bb4-b458-aa57f3277b30",
+        "shoot": "4",
+        "text": "CONSIDERED A SAMURAI. When the Shogun uses a SCALPER, it provides an additional +6 to F, and its opponent's F is penalized by an additional -6.",
+        "type_code": "warrior",
+        "value": "6"
+    },
+    {
+        "armor": "1",
+        "code": "06059",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "legion"
+        ],
+        "fight": "1",
+        "illustrator": "Studio Parente",
+        "image_url": "apo/soulwell.jpg",
+        "name": "SOUL WELL",
+        "octgn_id": "e278490c-a44d-46fa-91ab-acbf3d63a913",
+        "post_play": "+",
+        "shoot": "1",
+        "text": "GIVE TO ANY FOLLOWER OF ILIAN. While in play, any Doomtrooper killed by any FOLLOWER OF ILIAN in play is annihilated. This warrior also gains +1 to F, S and A for every Doomtrooper killed by any FOLLOWER OF ILIAN in play.",
+        "type_code": "relic"
+    },
+    {
+        "clarification_text": "CAST AS ONE ACTION. For 4 D, you may retrieve any Warzone from your Discard pile and immediately and legally put it into play in the same Combat Area with the Caster. Or for 8 D, you may take the Warzone from your Draw pile instead. You may only Summon one card.",
+        "code": "06060",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "brotherhood"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/summonwarzone.jpg",
+        "name": "SUMMON WARZONE",
+        "octgn_id": "74f6ebec-28e3-4178-bd59-f27e5e48ff99",
+        "post_play": "x",
+        "text": "ART OF SUMMONING. CAST AS ONE ACTION. For 4 D, you may retrieve any Warzone from your Discard pile and immediately put it into play. Or for 8 D, you may take the Warzone from your Draw pile instead. You may only summon one card.",
+        "type_code": "art",
+        "value": "4"
+    },
+    {
+        "clarification_text": "During combat, this warrior gains +X to its S, where X is the base S of its opponent.",
+        "code": "06061",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "mishima"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/supremeconcentration.jpg",
+        "name": "SUPREME CONCENTRATION",
+        "octgn_id": "b0dc1803-30cc-4a9f-b742-6000cb607860",
+        "post_play": "+",
+        "shoot": "+x",
+        "text": "Refer to the KI POWER RULES CARD. During combat, this warrior gains +X to its S, where X is the base S of its opponent.",
+        "type_code": "ki"
+    },
+    {
+        "code": "06062",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/surveillancebug.jpg",
+        "name": "SURVEILLANCE BUG",
+        "octgn_id": "56710146-a61d-4ec9-b70a-158e79111e25",
+        "post_play": "+",
+        "text": "ATTACH TO ANY WARRIOR AS ONE ACTION. Each time that warrior wishes to attack, its controller must reveal his or her hand for all to see, until the combat is over. You control this card.",
+        "type_code": "equipment"
+    },
+    {
+        "clarification_text": "GIVE TO ANY DARK LEGION WARRIOR. All Dark Symmetry cards in the same Combat Area as the Stone may not be discarded or annihilated unless this card is discarded first (or is placed in the MUSEUM). Cards that must be discarded/annihilated to be used may still be discarded/annihilated to be used.",
+        "code": "06063",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "legion"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/symmetrystone.jpg",
+        "name": "SYMMETRY STONE",
+        "octgn_id": "94ddd04a-fc39-48be-9cdd-6c79b48811dd",
+        "post_play": "+",
+        "text": "GIVE TO ANY DARK LEGION WARRIOR. All Dark Symmetry cards in the same Kohort as the Stone may not be discarded or annihilated unless this card is discarded first (or placed in the MUSEUM).",
+        "type_code": "relic"
+    },
+    {
+        "clarification_text": "BUILD IN YOUR SQUAD. You may Target any number of warriors as one action each (mark them). If a target is wounded by any of your Doomtroopers it is automatically killed. Target may not use cards that counter or heal the wound, or that prevent it from being automatically killed.",
+        "code": "06064",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/targetinginstallation.jpg",
+        "name": "TARGETING INSTALLATION",
+        "octgn_id": "4c9b35cd-40f8-48e5-8150-032d2d7f4801",
+        "text": "ADD TO YOUR SQUAD AS ONE ACTION. You may TARGET any number of warriors as one action each (mark them). If a target is wounded by any of your Doomtroopers it is automatically killed. Target may not use cards that counter or heal the wound, or that prevent it from being automatically killed.",
+        "type_code": "fortification"
+    },
+    {
+        "clarification_text": "May only be given to a SHADOW WALKER. On a case-by-case basis, this warrior may choose whether it is a NONCOMBATANT. If this occurs during combat in which the warrior is attacked, the attacker may immediately perform another attack action.",
+        "code": "06065",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "mishima"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/thechameleonsskin.jpg",
+        "name": "THE CHAMELEON'S SKIN",
+        "octgn_id": "9454c459-81a9-489c-aaf1-78ed7fca8a63",
+        "post_play": "+",
+        "text": "Refer to the KI POWER RULES CARD. May only be given to a SHADOW WALKER. On a case by case basis, this warrior may choose whether it may participate in combat at all. If not, it may not stop a PLAYER attack. If this occurs during combat in which the warrior is attacked, the attacker may immediately perform another attack action.",
+        "type_code": "ki"
+    },
+    {
+        "clarification_text": "This warrior may spend two actions to perform a Fight attack at double its base F rating.",
+        "code": "06066",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "mishima"
+        ],
+        "fight": "2x",
+        "illustrator": "Studio Parente",
+        "image_url": "apo/thecobrasvenomousstrike.jpg",
+        "name": "THE COBRA'S VENOMOUS STRIKE",
+        "octgn_id": "b5dfbbf3-56fd-4785-ba39-432583fea9a7",
+        "post_play": "+",
+        "text": "Refer to the KI POWER RULES CARD. This warrior may spend two actions to perform a Fight attack at double its base F rating.",
+        "type_code": "ki"
+    },
+    {
+        "armor": "-1",
+        "clarification_text": "For every 1 D this warrior spends during combat, its opponent loses -1 to A until combat ends. Points may continue to be spent throughout the combat.",
+        "code": "06067",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "mishima"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/thecrowspiercingglance.jpg",
+        "name": "THE CROW'S PIERCING GLANCE",
+        "octgn_id": "518474f9-d458-44ba-b744-efe855969a28",
+        "post_play": "+",
+        "text": "Refer to the KI POWER RULES CARD. For every 1 D this warrior spends during combat, its opponent loses -1 to A until combat ends. Points may continue to be spent throughout the combat.",
+        "type_code": "ki",
+        "value": "e1"
+    },
+    {
+        "clarification_text": "During Shoot combats, this warrior may choose to dodge its opponent's shot at any time. Combat ends and neither warrior is affected. This may be used to counter a combat-modifying card. Warrior may not have this card and HANDS OF STONE.",
+        "code": "06068",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "mishima"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/themongoosesartfuldodge.jpg",
+        "name": "THE MONGOOSE'S ARTFUL DODGE",
+        "octgn_id": "e98b7db6-dc78-4d04-a974-04eefba90eae",
+        "post_play": "+",
+        "text": "Refer to the KI POWER RULES CARD. During Shoot combats, this warrior may choose to dodge its opponent's shot at any time. Combat ends and neither warrior is affected. This may be used to counter a combat-modifying card. Warrior may not have this card and HANDS OF STONE.",
+        "type_code": "ki"
+    },
+    {
+        "armor": "+x",
+        "clarification_text": "During combat, this warrior gains +X to its A, where X is the base A of its opponent.",
+        "code": "06069",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "mishima"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/themonkeysfoot.jpg",
+        "name": "THE MONKEY'S FOOT",
+        "octgn_id": "f805c947-a749-4ffb-9846-83fe59de1823",
+        "post_play": "+",
+        "text": "Refer to the KI POWER RULES CARD. During combat, this warrior gains +X to its A, where X is the base A of its opponent.",
+        "type_code": "ki"
+    },
+    {
+        "clarification_text": "During combat, this warrior gains +X to its F, where X is the base F of its opponent.",
+        "code": "06070",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "mishima"
+        ],
+        "fight": "+x",
+        "illustrator": "Studio Parente",
+        "image_url": "apo/toronagasragingmight.jpg",
+        "name": "TORONAGA'S RAGING MIGHT",
+        "octgn_id": "94ab04d8-a3b2-4957-b067-0f57b897c006",
+        "post_play": "+",
+        "text": "Refer to the KI POWER RULES CARD. During combat, this warrior gains +X to its F, where X is the base F of its opponent.",
+        "type_code": "ki"
+    },
+    {
+        "clarification_text": "ATTACH TO THE GAME AS TWO ACTIONS. All warriors may freely attack all other warriors. Affiliation has no effect on combat. A player may still not attack his own warriors. Only one copy of this card may be in play at a time.",
+        "code": "06071",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/totalwar.jpg",
+        "name": "TOTAL WAR!",
+        "octgn_id": "8f45f9fa-cfe8-4ffb-89db-0adee65d0ea1",
+        "post_play": "+",
+        "text": "ATTACH TO THE GAME AS TWO ACTIONS. All warriors may freely attack all other warriors. Affiliation has no effect on combat. A player may still not attack his or her own warriors. Only one copy of this card may be in play at a time.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "ATTACH TO ANY COMBAT AREA. All warriors in the same Area as Scope gain + to S and opponents do not gain any bonuses from cover or Fortifications. Your warriors only gain these effects when they attack (not when they are attacked). Multiple Scopes in the same Area are cumulative.",
+        "code": "06072",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/triangulatingscope.jpg",
+        "name": "TRIANGULATING SCOPE",
+        "octgn_id": "b56c5ff3-62da-4d11-8247-8bb7399d525f",
+        "post_play": "+",
+        "shoot": "3",
+        "text": "ATTACH TO ANY SQUAD OR KOHORT. All warriors in the same Squad/Kohort as Scope gain +3 to S and opponents do not gain any bonuses from cover or Fortifications. Your warriors only gain these effects when they attack (not when they are attacked). Multiple Scopes in the same Area are cumulative.",
+        "type_code": "equipment"
+    },
+    {
+        "clarification_text": "GIVE TO ANY WARRIOR. Once in play, and as three actions, you may annihilate this card, search through any Draw pile, and annihilate any one card in that pile. Finally, the warrior using the Crystal is wounded. If it is killed, no points are earned.",
+        "code": "06073",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/visionarycrystal.jpg",
+        "name": "VISIONARY CRYSTAL",
+        "octgn_id": "38239fb8-1cad-44ee-9a9c-ad2af0f127dc",
+        "post_play": "+",
+        "text": "GIVE TO ANY WARRIOR AS ONE ACTIONS. Once in play, and as three actions, you may annihilate this card, search through any Draw pile, and annihilate any one card in that pile. Finally, the warrior using the Crystal is wounded. If it is killed, no points are earned.",
+        "type_code": "relic"
+    },
+    {
+        "clarification_text": "Attach to a Mishima warrior with at least one WEAPON, and choose which WEAPON is Linked. The bonus provided by the chosen WEAPON is doubled.",
+        "code": "06074",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "mishima"
+        ],
+        "fight": "2x",
+        "illustrator": "Studio Parente",
+        "image_url": "apo/weaponlink.jpg",
+        "name": "WEAPON LINK",
+        "octgn_id": "5c4c1732-ba23-43ef-a376-255dd744b7ab",
+        "post_play": "+",
+        "shoot": "2x",
+        "text": "Refer to the KI POWER RULES CARD. Attach to a Mishima warrior with at least one WEAPON, and choose which weapon is Linked. The bonus provided by the chosen weapon is doubled.",
+        "type_code": "ki"
+    },
+    {
+        "clarification_text": "ATTACH TO ANY DOOMTROOPER AT ANY TIME. This warrior may use two WEAPONS during combat. As two actions it may either attack a single opponent with both WEAPONS (effects are cumulative) or make two separate attacks (even a Fight and a Shoot), each with a different WEAPON. WEAPONS are restricted to their proper Battle Tactics as normal.",
+        "code": "06075",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/weaponsexpert.jpg",
+        "name": "WEAPONS EXPERT",
+        "octgn_id": "7cdee309-1ae8-478a-804f-3f815bc996f9",
+        "post_play": "+",
+        "text": "ATTACH TO ANY DOOMTROOPER AT ANY TIME. This warrior may use two WEAPONS during combat. As two actions it may either attack a single opponent with both weapons (effects are cumulative) or make two separate attacks (even a Fight and a Shoot), each with a different weapon. Weapons are restricted to their proper Battle Tactics as normal.",
+        "type_code": "special"
+    },
+    {
+        "armor": "6",
+        "clarification_text": "BLESSED, and every 1 D spent on a spell effect counts as 2 D toward that effect. The White Mystic is not affected by cards that affect MYSTICS.",
+        "code": "06076",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "mishima"
+        ],
+        "fight": "5",
+        "illustrator": "Studio Parente",
+        "image_url": "apo/whitemystic.jpg",
+        "name": "WHITE MYSTIC",
+        "octgn_id": "5487f324-d65e-4be9-a3e3-d954095233d2",
+        "shoot": "5",
+        "text": "May cast all aspects of the Art, and every 1 D spent on a spell effect counts as 2 D toward that effect. The White Mystic is not affected by cards that affect MYSTICS.",
+        "type_code": "warrior",
+        "value": "6"
+    },
+    {
+        "armor": "7",
+        "clarification_text": "CLANSMAN. WOLFBANE. When using a CLANSMAN CLAYMORE, warrior gains +8 to F (in addition to the effects of the Claymore).",
+        "code": "06077",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "imperial"
+        ],
+        "fight": "6",
+        "illustrator": "Studio Parente",
+        "image_url": "apo/wolfbanehonorguard.jpg",
+        "name": "WOLFBANE HONOR GUARD",
+        "octgn_id": "3e3dd9b4-704e-4f70-8243-0d78d76e4af1",
+        "shoot": "5",
+        "text": "CONSIDERED A CLANSMAN. When the Wolfbane Honor Guard uses a CLANSMAN CLAYMORE, it gains an additional +8 to F.",
+        "type_code": "warrior",
+        "value": "7"
+    },
+    {
+        "clarification_text": "ASSIGN TO ANY OPPONENT'S WARRIOR. You must pay the warrior's current modified V in D. If the warrior's controller wishes the warrior to attack, you must choose the Defender (it must be a legal target). This mission is fulfilled once the warrior kills another, and you get the P (even if it killed your warrior).",
+        "code": "06078",
+        "deck_limit": 1,
+        "expansion_code": "apo",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/workingonthesly.jpg",
+        "name": "WORKING ON THE SLY",
+        "octgn_id": "8de1fdc0-b84f-4b39-aa77-26f45b4b4f91",
+        "post_play": "+",
+        "text": "ASSIGN TO ANY OPPONENT'S WARRIOR. You must pay the warrior's current modified V in D. If the warrior's controller wishes the warrior to attack, you must choose the Defender (it must be a legal target). This mission is fulfilled once the warrior kills another, and you get the Promotion Points (even if it killed your warrior).",
+        "type_code": "mission",
+        "value": "x"
+    },
+    {
+        "code": "06079",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "mishima"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/yomurasamulet.jpg",
+        "name": "YOMURA'S AMULET",
+        "octgn_id": "eea410e9-caeb-462a-8d28-81f49167e484",
+        "post_play": "+",
+        "text": "GIVE TO ANY WARRIOR. This warrior's combat opponents may not use Ki Powers. This warrior may use its Ki Powers as normal (unless opponent also has an Amulet). This warrior may be attacked with an action obtained from NOMURA'S QUICKENED STEP.",
+        "type_code": "equipment"
+    },
+    {
+        "clarification_text": "During combat this warrior may discard any one WEAPON from its opponent before the Battle Tactic is announced. If the opponent has FIRST STRIKE the WEAPON is discarded after the initial strike.",
+        "code": "06080",
+        "deck_limit": 5,
+        "expansion_code": "apo",
+        "faction_code": [
+            "mishima"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "apo/yoramasdeflectinghands.jpg",
+        "name": "YORAMA'S DEFLECTING HANDS",
+        "octgn_id": "a89a127c-5877-4f37-a6e8-69bf71a84131",
+        "post_play": "+",
+        "text": "Refer to the KI POWER RULES CARD. During combat this warrior may discard any one WEAPON from its opponent before the Battle Tactic is announced. If the opponent \"strikes first\" the weapon is discarded after the initial strike.",
+        "type_code": "ki"
+    }
+]
