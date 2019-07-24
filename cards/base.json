@@ -5,7 +5,9 @@
         "code": "01001",
         "deck_limit": 5,
         "expansion_code": "base",
-        "faction_code": "cybertronic",
+        "faction_code": [
+            "cybertronic"
+        ],
         "fight": "3",
         "flavor": "",
         "illustrator": "",

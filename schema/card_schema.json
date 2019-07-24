@@ -31,20 +31,24 @@
             "type": "string"
         },
         "faction_code": {
-            "enum": [
-                "bauhaus",
-                "brotherhood",
-                "capitol",
-                "crescentia",
-                "cybertronic",
-                "general",
-                "imperial",
-                "legion",
-                "lutheran",
-                "mishima",
-                "rasputin",
-                "templars"
-            ]
+            "items": {
+                "enum": [
+                    "bauhaus",
+                    "brotherhood",
+                    "capitol",
+                    "crescentia",
+                    "cybertronic",
+                    "general",
+                    "imperial",
+                    "legion",
+                    "lutheran",
+                    "mishima",
+                    "rasputin",
+                    "templars"
+                ],
+                "type": "string"
+            },
+            "type": "array"
         },
         "fight": {
             "oneOf": [
