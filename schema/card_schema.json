@@ -166,7 +166,6 @@
         "expansion_code",
         "faction_code",
         "name",
-        "text",
         "type_code"
     ],
     "type": "object"
