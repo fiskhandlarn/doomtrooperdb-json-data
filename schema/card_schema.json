@@ -119,6 +119,19 @@
                 }
             ]
         },
+        "rarity": {
+            "enum": [
+                "C1",
+                "C2",
+                "C3",
+                "U",
+                "U1",
+                "U2",
+                "U3",
+                "R",
+                "P"
+            ]
+        },
         "shoot": {
             "oneOf": [
                 {
@@ -170,6 +183,7 @@
         "expansion_code",
         "faction_code",
         "name",
+        "rarity",
         "type_code"
     ],
     "type": "object"

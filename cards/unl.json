@@ -13,6 +13,7 @@
         "name": "AC-40 \"JUSTIFIER\"",
         "octgn_id": "4f7cf3a1-a8d2-4c13-9fef-f5c1f7c44582",
         "post_play": "+",
+        "rarity": "U",
         "shoot": "3",
         "text": "LIGHT MACHINE GUN WITH INTEGRATED CHAIN BAYONET. FIGHT/SHOOT. Warrior gains +3 to F and S.",
         "type_code": "equipment"
@@ -31,6 +32,7 @@
         "image_url": "unl/agentnickmichaels.jpg",
         "name": "AGENT NICK MICHAELS",
         "octgn_id": "e8fe7946-7c40-43c7-b659-d8b19ac9fb20",
+        "rarity": "C1",
         "shoot": "4",
         "text": "PERSONALITY. (Not considered part of the Brotherhood) He may never lose Cartel affiliation, nor may he ever become a Heretic.",
         "type_code": "warrior",
@@ -50,6 +52,7 @@
         "name": "AH/UH-19 GRAPESHOT GUARDIAN",
         "octgn_id": "9473895c-643f-46c7-93ed-67f2e28f3fb7",
         "post_play": "+",
+        "rarity": "R",
         "shoot": "2x",
         "text": "AIRSHIP AND VEHICLE. MAY BE GIVEN TO ANY CAPITOL DOOMTROOPER. A WARRIOR CAN ONLY HAVE 1 VEHICLE. When flying this airship, the warrior's S, A and V are doubled. No other weapons may be used when using the Guardian.",
         "type_code": "equipment",
@@ -69,6 +72,7 @@
         "image_url": "unl/airmantrevorbartholomew.jpg",
         "name": "AIRMAN TREVOR BARTHOLOMEW",
         "octgn_id": "2bc91fbd-2482-48ea-aa64-120a76c21f45",
+        "rarity": "U",
         "shoot": "6",
         "text": "PERSONALITY. CONSIDERED A RAMS AIR CAVALRY, AN AIRSHIP AND A VEHICLE. Can only take part in Shoot combats. Can't seek cover or use equipment. Attacks ignore opponent's fortifications. While in play, all RAMS AIR CAVALRY gain +1 to S and A.",
         "type_code": "warrior",
@@ -88,6 +92,7 @@
         "image_url": "unl/alakhaithecunning.jpg",
         "name": "ALAKHAI THE CUNNING",
         "octgn_id": "20614a25-0cbb-4d6e-aa1e-520ee7f1ea3b",
+        "rarity": "R",
         "shoot": "9",
         "text": "PERSONALITY. FOLLOWER AND NEPHARITE OF ALGEROTH. IMMUNE TO THE ART. Alakhai may have any Dark Symmetry cards, and Gifts of Algeroth may be bestowed on him at any time for no actions. Every 1D he spends on a Dark Symmetry effect is worth 2D.",
         "type_code": "warrior",
@@ -106,6 +111,7 @@
         "name": "AMBUSH",
         "octgn_id": "70e7cb03-5924-455d-986d-cefbcb1e2734",
         "post_play": "-",
+        "rarity": "U",
         "text": "Play during combat, Resolve the Defender's attack first. If the Attacker is wounded, the combat is over. If not, resolve the Attacker's attack. This happens after playing all combat modifiers.",
         "type_code": "special"
     },
@@ -124,6 +130,7 @@
         "name": "ANIMATE DEAD",
         "octgn_id": "edd58159-7080-4483-bf8d-4247c7ae23f4",
         "post_play": "+",
+        "rarity": "R",
         "shoot": "/2",
         "text": "GIFT OF DEMNOGONIS. Once per turn, as three actions, the warrior can raise the dead. Place a warrior from any player's discard pile in your Kohort. Halve its combat ratings (round up). If killed again, remove it from play. It can't use Art or Dark Symmetry.",
         "type_code": "symmetry",
@@ -143,6 +150,7 @@
         "image_url": "unl/archangel.jpg",
         "name": "ARCHANGEL",
         "octgn_id": "c5a66eca-876c-41e1-9ed7-bc38b5588f40",
+        "rarity": "C1",
         "shoot": "3",
         "text": "Archangels may conjure the Arts of Changeling and Elements. They may be equipped with any non-warrior airship, even those only allowed to certain affiliations.",
         "type_code": "warrior",
@@ -162,6 +170,7 @@
         "image_url": "unl/archinquisitornikodemus.jpg",
         "name": "ARCHINQUISITOR NIKODEMUS",
         "octgn_id": "2d646466-27e9-4cee-9f9f-cbbc2da38d28",
+        "rarity": "R",
         "shoot": "8",
         "text": "PERSONALITY. Nikodemus may use all Art cards and is immune to Dark Symmetry cards. While he's in play, Doomtroopers can't voluntarily seek cover. If he's wounded, you may spend 1 action and 5 D to heal him and wound another of your Doomtroopers.",
         "type_code": "warrior",
@@ -180,6 +189,7 @@
         "name": "ASSASSINATION",
         "octgn_id": "69fe9c0d-015b-48cb-a332-9d7694d2fec9",
         "post_play": "+",
+        "rarity": "R",
         "text": "Warrior - This warrior must choose a healthy warrior (one with no wounds) and kill it to complete the mission and earn points equal to twice the Value of the assassinated warrior.",
         "type_code": "mission"
     },
@@ -196,6 +206,7 @@
         "name": "AT PEACE WITH THE ART",
         "octgn_id": "461747de-1ffd-4a8a-bf53-c07a28bd1031",
         "post_play": "+",
+        "rarity": "U",
         "text": "GIVE TO ANY DOOMTROOPER AT ANY TIME. For the remainder of the game, the affected warrior may cast any non-Combat Art spell if you first spend 2 D for each casting.",
         "type_code": "special",
         "value": "e2"
@@ -213,6 +224,7 @@
         "name": "AUTOMATIC FIRE",
         "octgn_id": "48e64c7b-d01c-4dd2-bcf8-3a26f88d24af",
         "post_play": "-",
+        "rarity": "U",
         "shoot": "2x",
         "text": "Play during combat on Machine Gun - The bonus given by the weapon is doubled for this combat.",
         "type_code": "special"
@@ -231,6 +243,7 @@
         "name": "BACTERIA GRENADE",
         "octgn_id": "1cea1d65-052a-4220-b7b6-53b8ad8ad46e",
         "post_play": "+",
+        "rarity": "U",
         "shoot": "4",
         "text": "MAY ONLY BE GIVEN TO A DARK LEGION WARRIOR. SPECIAL WEAPON. Discard after one use. +4 to F and S. Unless opponent dies, it's diseased; during each of its player's Draw steps, he must either place a marker on the diseased warrior or spend 3 D. For every marker, warrior is -1 to V. If warriors drops to 0 V, it is discarded. Additional Grenades are ignored.",
         "type_code": "equipment",
@@ -249,6 +262,7 @@
         "name": "BAMBOOZLED!",
         "octgn_id": "1d64ac80-194e-40cd-bd67-86fcbe19ae41",
         "post_play": "-",
+        "rarity": "R",
         "text": "PLAY IMMEDIATELY AFTER A PLAYER EARNS PROMOTION POINTS. Spies discover the warrior's goals and defraud the results. All Promotion Points the player just earned are lost. Place twice the number of Destiny Points into your pool.",
         "type_code": "special"
     },
@@ -267,6 +281,7 @@
         "image_url": "unl/bauhausblitzer.jpg",
         "name": "BAUHAUS BLITZER",
         "octgn_id": "6d0f6400-f946-4e66-86f7-08cfb51ee4ad",
+        "rarity": "C2",
         "shoot": "3",
         "type_code": "warrior",
         "value": "3"
@@ -284,6 +299,7 @@
         "name": "BAUHAUS GREAT INFURIOR",
         "octgn_id": "707ac276-c3d6-458c-b4ef-4ffb6855c127",
         "post_play": "+",
+        "rarity": "R",
         "text": "YOU MAY PLACE THE INFURIOR IN YOUR SQUAD AS ONE ACTION. ARTILLERY. You must spend 6 Destiny Points to put the Infurior into play. Every turn, as three actions, you may discard any Fortification in play.",
         "type_code": "equipment",
         "value": "15"
@@ -302,6 +318,7 @@
         "name": "BAYONET",
         "octgn_id": "32218f5c-e7da-475b-8727-c65c9b8cb266",
         "post_play": "+",
+        "rarity": "C1",
         "text": "ATTACH TO ANY SHOOT WEAPON. The weapon can now be used as a Fight weapon too. Increase warrior's F by +2.",
         "type_code": "equipment"
     },
@@ -319,6 +336,7 @@
         "image_url": "unl/bigbobwatts.jpg",
         "name": "BIG BOB WATTS",
         "octgn_id": "dfa73544-9b32-4e23-ab2a-77c9e67455e4",
+        "rarity": "R",
         "shoot": "8",
         "text": "PERSONALITY. CONSIDERED A FREE MARINE. While Big Bob is in play, all of your Free Marines are immune to the effects of Dark Symmetry cards.",
         "type_code": "warrior",
@@ -338,6 +356,7 @@
         "image_url": "unl/billy.jpg",
         "name": "BILLY",
         "octgn_id": "d4740051-0294-45a2-8d9a-3444f597c4c0",
+        "rarity": "C1",
         "shoot": "4",
         "text": "PERSONALITY. Billy is considered a Heretic. He may have DARK SYMMETRY GIFT cards bestowed on him as normal, and for every 5 D, Billy may have one GIFT OF APOSTLE card bestowed on him.",
         "type_code": "warrior",
@@ -356,6 +375,7 @@
         "name": "BLESSED ARMOR",
         "octgn_id": "505d1301-6c22-4e4d-9862-0e6021cd2b8e",
         "post_play": "+",
+        "rarity": "R",
         "text": "ARMOR. GIVE ONLY TO A DOOMTROOPER. The warrior is immune to all Dark Symmetry cards. A warrior may only be equipped with one suit of ARMOR.",
         "type_code": "equipment"
     },
@@ -373,6 +393,7 @@
         "image_url": "unl/blessedlegionnaire.jpg",
         "name": "BLESSED LEGIONNAIRE",
         "octgn_id": "a1d91967-2f99-4bd5-b99e-70796e541561",
+        "rarity": "C2",
         "shoot": "2",
         "text": "FOLLOWER OF DEMNOGONIS. Warriors wounded by Blessed Legionnaires are automatically killed.",
         "type_code": "warrior",
@@ -392,6 +413,7 @@
         "image_url": "unl/blessedvestallaura.jpg",
         "name": "BLESSED VESTAL LAURA",
         "octgn_id": "5749791f-2d41-4c61-a968-83b9d5f2d14f",
+        "rarity": "U",
         "shoot": "4",
         "text": "PERSONALITY. CONSIDERED A VALKYRIE. While LAURA is in play, all of your VALKYRIE warriors may use all Disciples of the Art and are immune to Dark Symmetry cards.",
         "type_code": "warrior",
@@ -410,6 +432,7 @@
         "name": "BLIND FURY",
         "octgn_id": "71151b00-d5e2-4bc4-8dea-7891d7af3491",
         "post_play": "-",
+        "rarity": "U",
         "text": "PLAY ON ANY NON-PERSONALITY WARRIOR DURING COMBAT, BEFORE ATTACKER AND DEFENDER IS ANNOUNCED. This warrior is overtaken by a mad battle-frenzy, and may attack any other warrior in play, regardless of affiliation. Discard this card after the combat.",
         "type_code": "special"
     },
@@ -426,6 +449,7 @@
         "name": "BLINDNESS",
         "octgn_id": "a538aac9-c958-4de1-9c5d-052f3781ef91",
         "post_play": "+",
+        "rarity": "C1",
         "shoot": "-2",
         "text": "DARK SYMMETRY GIFT. The opponents of this warrior suffer a -2 penalty to their F and S.",
         "type_code": "symmetry"
@@ -444,6 +468,7 @@
         "image_url": "unl/bloodberet.jpg",
         "name": "BLOOD BERET",
         "octgn_id": "5831cb47-6e53-4961-8a5e-9e18acb11dc9",
+        "rarity": "C2",
         "shoot": "4",
         "text": "Immune to the effects of DARK SYMMETRY GIFT cards, but not GIFT OF APOSTLE cards.",
         "type_code": "warrior",
@@ -462,6 +487,7 @@
         "name": "BLOOD LUST",
         "octgn_id": "d5182cec-2076-4b25-a5c0-43be1ebee350",
         "post_play": "-",
+        "rarity": "C1",
         "text": "PLAY AT THE BEGINNING OF YOUR TURN. You may perform an extra attack action this turn. Do not choose the Attacker or Defender of the second attack until after the first attack is complete.",
         "type_code": "special"
     },
@@ -478,6 +504,7 @@
         "name": "BOGGED DOWN",
         "octgn_id": "35d2bda2-6370-4b4c-a701-d0eba8dc666b",
         "post_play": "x",
+        "rarity": "R",
         "text": "PLAY ON OPPONENT DURING YOUR TURN. The affected player misses his or her next turn.",
         "type_code": "special"
     },
@@ -495,6 +522,7 @@
         "name": "BORN WITH A SILVER SPOON",
         "octgn_id": "d8d6d3ff-25fe-4730-9ab5-3be71b382bde",
         "post_play": "-",
+        "rarity": "U",
         "text": "PLAY IMMEDIATELY AFTER A NON-BROTHERHOOD DOOMTROOPER IS PLACED IN YOUR SQUAD. You may spend 5 D and gain 3 Promotion Points, once.",
         "type_code": "special",
         "value": "5"
@@ -512,6 +540,7 @@
         "name": "BOTCHED ORDERS",
         "octgn_id": "ec3cbd07-5861-4cc9-9794-34a6c181e3d2",
         "post_play": "-",
+        "rarity": "R",
         "text": "PLAY AT ANY TIME. One mission, chosen by you, is discarded.",
         "type_code": "special",
         "value": "e5"
@@ -530,6 +559,7 @@
         "image_url": "unl/cairath.jpg",
         "name": "CAIRATH",
         "octgn_id": "dce5cca2-5f2c-4d0a-8e67-11fec6cafc35",
+        "rarity": "R",
         "shoot": "2",
         "text": "FOLLOWER OF DEMNOGONIS. Any warrior wounded by the Cairath is killed, and the warrior is taken out of play instead of simply discarded.",
         "type_code": "warrior",
@@ -549,6 +579,7 @@
         "image_url": "unl/callistonianintruder.jpg",
         "name": "CALLISTONIAN INTRUDER",
         "octgn_id": "97d20383-0bb9-4446-9ec3-3df607cf8a3d",
+        "rarity": "U",
         "shoot": "4",
         "text": "FOLLOWER OF SEMAI. If wounded, the Callistonian Intruder may heal itself at any time by spending 6 D.",
         "type_code": "warrior",
@@ -568,6 +599,7 @@
         "name": "CAP 7000P",
         "octgn_id": "5746f8e6-707c-46d4-9cd1-4b59563b20fe",
         "post_play": "+",
+        "rarity": "R",
         "shoot": "2x",
         "text": "AIRSHIP AND VEHICLE. MAY BE GIVEN TO ANY CYBERTRONIC DOOMTROOPER. A WARRIOR CAN ONLY HAVE 1 VEHICLE. When flying this airship, the warrior's S, A and V are doubled. No other weapons may be used when using the CAP 7000P.",
         "type_code": "equipment",
@@ -587,6 +619,7 @@
         "name": "CAPITOL SWORD OF HONOR",
         "octgn_id": "a785eb87-ed99-46d6-8ba3-9ed7fce9a155",
         "post_play": "+",
+        "rarity": "U",
         "text": "MAY ONLY BE GIVEN TO A CAPITOL DOOMTROOPER. FIGHT WEAPON. The warrior gains +1 to F.",
         "type_code": "equipment"
     },
@@ -604,6 +637,7 @@
         "image_url": "unl/cardinaldominic.jpg",
         "name": "CARDINAL DOMINIC",
         "octgn_id": "89e6635c-b0a9-45f7-b8c4-0eeb3bb04e67",
+        "rarity": "R",
         "shoot": "7",
         "text": "PERSONALITY. May use all aspects of the Art. May only attack the Dark Legion warrior in play with the highest V. Heretics cannot attack Dominic. All warriors wounded by him are killed. While he's in play. All Brotherhood members are Immune to Dark Symmetry cards.",
         "type_code": "warrior",
@@ -623,6 +657,7 @@
         "image_url": "unl/centurion.jpg",
         "name": "CENTURION",
         "octgn_id": "bdd39066-23d4-49ac-9481-f3d6eea1922d",
+        "rarity": "U",
         "shoot": "4",
         "text": "FOLLOWER OF ALGEROTH. Centurions are heretics transformed through Dark Symmetry to become elite soldiers and commanders in Algeroth's Legions.",
         "type_code": "warrior",
@@ -641,6 +676,7 @@
         "name": "CHANGELING EMPATHY",
         "octgn_id": "526249ce-d56f-48af-817b-4d42ba7b4193",
         "post_play": "+",
+        "rarity": "C1",
         "text": "PLAY ON ONE OF YOUR BROTHERHOOD WARRIORS AS ONE ACTION. From now on, all Brotherhood warriors in your Squad may use the Art of Changeling. If the warrior is killed, this card is discarded.",
         "type_code": "special"
     },
@@ -658,6 +694,7 @@
         "name": "CHASM!",
         "octgn_id": "4e08cdda-7156-430b-a9fa-9d782e7202c8",
         "post_play": "-",
+        "rarity": "C1",
         "text": "PLAY AT ANY TIME. Only shoot combat may be made until te beginning of your next turn. This instantly ends fight combat.",
         "type_code": "special"
     },
@@ -675,6 +712,7 @@
         "image_url": "unl/chasseur.jpg",
         "name": "CHASSEUR",
         "octgn_id": "b5d0ea90-5343-4fdc-8e0c-41038b7a7493",
+        "rarity": "C1",
         "shoot": "2",
         "text": "Immune to the effects of DARK SYMMETRY GIFT cards, but not GIFT OF APOSTLE cards. May never cast Art Spells.",
         "type_code": "warrior",
@@ -694,6 +732,7 @@
         "image_url": "unl/chemiman.jpg",
         "name": "CHEMIMAN",
         "octgn_id": "38a7cbff-d6aa-4c49-8593-32b3f450eacf",
+        "rarity": "U",
         "shoot": "4",
         "text": "Immune to the effects of DARK SYMMETRY GIFT cards, but not GIFT OF APOSTLE cards. May never cast Art Spells. Any warrior wounded by the ChemiMan is automatically killed.",
         "type_code": "warrior",
@@ -714,6 +753,7 @@
         "image_url": "unl/childofilian.jpg",
         "name": "CHILD OF ILIAN",
         "octgn_id": "b9e63a31-d49f-448a-9ec8-1b61ff8b3e20",
+        "rarity": "C2",
         "shoot": "3",
         "text": "FOLLOWER OF ILIAN.",
         "type_code": "warrior",
@@ -732,6 +772,7 @@
         "name": "CHOSEN",
         "octgn_id": "14496607-c12a-4c5f-bc10-0eed0aed4f25",
         "post_play": "+",
+        "rarity": "R",
         "text": "PLAY ON ANY DARK LEGION WARRIOR AT ANY TIME. This warrior may be bestowed with Dark Symmetry gifts from any Apostle.",
         "type_code": "special"
     },
@@ -748,6 +789,7 @@
         "image_url": "unl/citadelofalgeroth.jpg",
         "name": "CITADEL OF ALGEROTH",
         "octgn_id": "9311f9e4-2e52-48c1-a08a-84944b10ed5e",
+        "rarity": "U",
         "text": "THIS CARD MAY BE ADDED TO YOUR KOHORT AS ONE ACTION. All Followers of Algeroth in your Kohort gain +2 to their A while CITADEL OF ALGEROTH is in play. You may not have two identical Citadels in play simultaneously.",
         "type_code": "fortification"
     },
@@ -764,6 +806,7 @@
         "image_url": "unl/citadelofdemnogonis.jpg",
         "name": "CITADEL OF DEMNOGONIS",
         "octgn_id": "0ba35327-c480-4ad4-a82c-2d4d929e13cd",
+        "rarity": "U",
         "text": "THIS CARD MAY BE ADDED TO YOUR KOHORT AS ONE ACTION. All Followers of Demnogonis in your Kohort gain +2 to their A while CITADEL OF DEMNOGONIS is in play. You may not have two identical Citadels in play simultaneously.",
         "type_code": "fortification"
     },
@@ -780,6 +823,7 @@
         "image_url": "unl/citadelofilian.jpg",
         "name": "CITADEL OF ILIAN",
         "octgn_id": "eb2f5fc1-33f8-4384-ab1b-5d8aa62cd67e",
+        "rarity": "U",
         "text": "THIS CARD MAY BE ADDED TO YOUR KOHORT AS ONE ACTION. All Followers of Ilian in your Kohort gain +2 to their A while CITADEL OF ILIAN is in play. You may not have two identical Citadels in play simultaneously.",
         "type_code": "fortification"
     },
@@ -796,6 +840,7 @@
         "image_url": "unl/citadelofmuawijhe.jpg",
         "name": "CITADEL OF MUAWIJHE",
         "octgn_id": "1797eb59-e754-410f-8610-b90d476fa1cf",
+        "rarity": "U",
         "text": "THIS CARD MAY BE ADDED TO YOUR KOHORT AS ONE ACTION. All Followers of Muawijhe in your Kohort gain +2 to their A while CITADEL OF MUAWIJHE is in play. You may not have two identical Citadels in play simultaneously.",
         "type_code": "fortification"
     },
@@ -812,6 +857,7 @@
         "image_url": "unl/citadelofsemai.jpg",
         "name": "CITADEL OF SEMAI",
         "octgn_id": "74d79513-f7b8-4486-8958-e921a0c7e7cc",
+        "rarity": "U",
         "text": "THIS CARD MAY BE ADDED TO YOUR KOHORT AS ONE ACTION. All Followers of Semai in your Kohort gain +2 to their A while CITADEL OF SEMAI is in play. You may not have two identical Citadels in play simultaneously.",
         "type_code": "fortification"
     },
@@ -828,6 +874,7 @@
         "name": "CLAN INFIGHTING",
         "octgn_id": "0a3ae86e-46be-4110-b9bb-d2ecc52b7058",
         "post_play": "+",
+        "rarity": "R",
         "text": "ASSIGN TO ANY IMPERIAL DOOMTROOPER. This warrior must kill a Imperial Doomtrooper to complete mission and earn twice the normal V. The mission-holder may attack non-Personality Imperial Doomtroopers until mission is fulfilled or otherwise removed.",
         "type_code": "mission"
     },
@@ -845,6 +892,7 @@
         "image_url": "unl/clansman.jpg",
         "name": "CLANSMAN",
         "octgn_id": "1c6a90fd-1343-48ef-9a50-a3ab5b9daa0d",
+        "rarity": "C2",
         "shoot": "2",
         "text": "Clansmen gain +1 to F when attacking the Dark Legion. When defending, F is normal.",
         "type_code": "warrior",
@@ -865,6 +913,7 @@
         "name": "CLANSMAN CLAYMORE",
         "octgn_id": "10b367f0-1f25-4e1a-95b3-ef42d1867133",
         "post_play": "+",
+        "rarity": "U",
         "text": "MAY ONLY BE GIVEN TO AN IMPERIAL DOOMTROOPER. FIGHT WEAPON. +1 to F (always) and +1 to A (when Fighting the Dark Legion). With a Clansman, +2 to F (always) and +2 to A (when Fighting the Dark Legion) instead.",
         "type_code": "equipment"
     },
@@ -881,6 +930,7 @@
         "name": "COMBAT ARMOR",
         "octgn_id": "bfbdb4fb-a9d0-4ab0-88e4-d8b1f9909712",
         "post_play": "+",
+        "rarity": "C1",
         "text": "Warrior gains +1 to A.",
         "type_code": "equipment"
     },
@@ -899,6 +949,7 @@
         "image_url": "unl/combatwarhead.jpg",
         "name": "COMBAT WARHEAD",
         "octgn_id": "81283cb4-4177-4b3d-b5d3-855fabf68dd9",
+        "rarity": "U",
         "shoot": "4",
         "text": "IMMUNE TO ALL DARK SYMMETRY CARDS.",
         "type_code": "warrior",
@@ -917,6 +968,7 @@
         "name": "COMMAND",
         "octgn_id": "9c1b6cfa-cfa2-496c-9839-b32da0e6a8bf",
         "post_play": "-",
+        "rarity": "U",
         "text": "ART OF CHANGELING. CAST AS AN ATTACK ACTION. Cost 6 D. Force an opponent's warrior to attack a warrior of your choice. If Attacker is hurt, its controller gets D equal to twice of its V. If the Defender is hurt, you get D equal to the Defender's V.",
         "type_code": "art",
         "value": "6"
@@ -935,6 +987,7 @@
         "name": "COMPOSITE ARMOR",
         "octgn_id": "e2268fd4-f8da-4117-864b-a32fb08cdcf6",
         "post_play": "+",
+        "rarity": "R",
         "text": "ARMOR. Warrior gains +4 to A. A warrior may only be equipped with one suit of Armor.",
         "type_code": "equipment"
     },
@@ -951,6 +1004,7 @@
         "name": "CONFUSE",
         "octgn_id": "1389d45a-bf78-40ed-b7fd-0f2f09d7f6dc",
         "post_play": "+",
+        "rarity": "R",
         "text": "GIFT OF MUAWIJHE. This warrior may change the Battle Tactics of a combat it is involved in at any time.",
         "type_code": "symmetry"
     },
@@ -967,6 +1021,7 @@
         "name": "CONTROL MIND",
         "octgn_id": "42613f0d-6377-49e8-b9bc-57fea9532e4f",
         "post_play": "+",
+        "rarity": "U",
         "text": "GIFT OF SEMAI. Once per turn, as 3 actions, choose 1 enemy warrior and declare that it must or must not attack during its player's next turn. If attacking, its player chooses the Defender. If not, its player may attack with a different warrior.",
         "type_code": "symmetry"
     },
@@ -983,6 +1038,7 @@
         "name": "CORPORATE SHENANIGANS",
         "octgn_id": "78556960-0d15-44fd-ad31-dc7f7a1ea1c5",
         "post_play": "-",
+        "rarity": "R",
         "text": "PLAY AT ANY TIME. All players lose half their Promotion Points (round down) and all of their Destiny Points.",
         "type_code": "special"
     },
@@ -999,6 +1055,7 @@
         "name": "CORRUPT SHIELD",
         "octgn_id": "1667af84-15b9-442c-a1c8-e2876a505bdc",
         "post_play": "+",
+        "rarity": "U",
         "text": "PLAY ON A DARK LEGION WARRIOR AT ANY TIME. The affected warrior is Immune to the effects of Art cards. This card remains with the warrior.",
         "type_code": "special"
     },
@@ -1015,6 +1072,7 @@
         "name": "COWARDICE",
         "octgn_id": "2ee6d96e-cc3b-4fb5-81bd-ce3d9e349680",
         "post_play": "-",
+        "rarity": "U",
         "text": "PLAY ON ANY PLAYER AT ANY TIME. All of the affected player's warriors go into cover, and any warrior that already is in cover is discarde, unless its player spends 5 D.",
         "type_code": "special"
     },
@@ -1032,6 +1090,7 @@
         "image_url": "unl/crenshawthemortificator.jpg",
         "name": "CRENSHAW THE MORTIFICATOR",
         "octgn_id": "2c90e6c0-12dd-496f-912b-16183f437a67",
+        "rarity": "R",
         "shoot": "7",
         "text": "PERSONALITY. CONSIDERED A MORTIFICATOR. Crenshaw may conjure all aspects of the Art. While Crenshaw is in play, any warriors wounded by Mortificators are automatically killed.",
         "type_code": "warrior",
@@ -1051,6 +1110,7 @@
         "image_url": "unl/cuirassier.jpg",
         "name": "CUIRASSIER",
         "octgn_id": "9e1c575f-c5a7-477b-9a92-75308716697b",
+        "rarity": "C2",
         "shoot": "3",
         "text": "Immune to the effects of DARK SYMMETRY GIFT cards, but not GIFT OF APOSTLE cards. May never cast Art Spells.",
         "type_code": "warrior",
@@ -1070,6 +1130,7 @@
         "image_url": "unl/curator.jpg",
         "name": "CURATOR",
         "octgn_id": "8c4b89f2-5d7d-429e-94ff-0532210e1883",
+        "rarity": "U",
         "shoot": "4",
         "text": "FOLLOWER OF DEMNOGONIS.",
         "type_code": "warrior",
@@ -1089,6 +1150,7 @@
         "name": "CURATOR SWORD",
         "octgn_id": "f5807eac-fec7-4724-92cd-442e71fa4c89",
         "post_play": "+",
+        "rarity": "U",
         "text": "MAY ONLY BE GIVEN TO A DARK LEGION WARRIOR. FIGHT WEAPON. Warriors gains +2 F. A Curator wit this sword gets a +4 F instead. A warrior wounded by the Curator Sword is automatically killed.",
         "type_code": "equipment"
     },
@@ -1106,6 +1168,7 @@
         "image_url": "unl/cybercuritymp.jpg",
         "name": "CYBERCURITY MP",
         "octgn_id": "ee695a26-bb71-413e-82ec-a31ba5fc9daf",
+        "rarity": "C2",
         "shoot": "3",
         "text": "Immune to the effects of DARK SYMMETRY GIFT cards, but not GIFT OF APOSTLE cards. May never cast Art Spells.",
         "type_code": "warrior",
@@ -1125,6 +1188,7 @@
         "name": "CYBERNETIC POWER ARM",
         "octgn_id": "e82e6246-8686-4e6d-9420-5442e465873f",
         "post_play": "+",
+        "rarity": "R",
         "text": "FIGHT WEAPON. Warrior gains +6 to F.",
         "type_code": "equipment"
     },
@@ -1142,6 +1206,7 @@
         "name": "CYBERNETIC RETINAS",
         "octgn_id": "ce1db5e9-88cc-4432-aab4-0c98074d1dbf",
         "post_play": "+",
+        "rarity": "R",
         "shoot": "3",
         "text": "The warrior's F and S are +3, and the warrior is immune to cards which cause blindness.",
         "type_code": "equipment"
@@ -1159,6 +1224,7 @@
         "name": "DARK FIRE",
         "octgn_id": "6ad548c8-f91d-4c0f-8f87-778c19727a36",
         "post_play": "+",
+        "rarity": "C1",
         "text": "DARK SYMMETRY GIFT. Dark Fire flows over the warrior's hands, giving a +1 to its F.",
         "type_code": "symmetry"
     },
@@ -1175,6 +1241,7 @@
         "name": "DARK KOHORT",
         "octgn_id": "f7b33c6d-3418-4df3-b75a-1403d710d004",
         "post_play": "+",
+        "rarity": "R",
         "text": "ASSIGN TO ANY PLAYER. Keep at least one Follower of each of the five Dark Apostles in your Kohort for one full turn (from the end of this turn until the end of your next turn) to complete the mission and earn 10 Promotion Points.",
         "type_code": "mission",
         "value": "10"
@@ -1192,6 +1259,7 @@
         "name": "DARK VISITATION",
         "octgn_id": "4ebc4284-782a-4e6f-ae51-7204e7180875",
         "post_play": "+",
+        "rarity": "U",
         "text": "PLAY ON ANY DOOMTROOPER ANY TIME. This warrior is now considered a Heretic of the Dark Legion, not a Doomtrooper. All cards that affect Heretics affect this warrior as well, and Dark Symmetry Gifts may be bestowed on it.",
         "type_code": "special"
     },
@@ -1208,6 +1276,7 @@
         "name": "DEATHLOCKDRUM",
         "octgn_id": "6864abfa-f023-4aa7-b921-19c35c48be27",
         "post_play": "+",
+        "rarity": "R",
         "shoot": "3",
         "text": "HEAVY MACHINE GUN. SHOOT WEAPON. Warrior gains +3 to S and -2 is also applied to opponent's S.",
         "type_code": "equipment"
@@ -1225,6 +1294,7 @@
         "name": "DECAY",
         "octgn_id": "9621fa3e-60c8-487a-bb62-277543138451",
         "post_play": "+",
+        "rarity": "U",
         "text": "GIFT OF DEMNOGONIS. By spending 10 D at any time, this warrior may discard any one equipment card in play.",
         "type_code": "symmetry",
         "value": "e10"
@@ -1243,6 +1313,7 @@
         "name": "DEFORM",
         "octgn_id": "51c2566d-3b36-4ce7-866f-630377cebb92",
         "post_play": "+",
+        "rarity": "U",
         "text": "GIFT OF DEMNOGONIS. All combat opponents of this warrior suffer a -2 penalty to their A.",
         "type_code": "symmetry"
     },
@@ -1259,6 +1330,7 @@
         "name": "DEMOLITION KIT",
         "octgn_id": "df4e45db-b915-4042-84fb-3f3f3bccf7d7",
         "post_play": "+",
+        "rarity": "U",
         "text": "The warrior may use this piece of equipment during a combat in which it or its opponent is affected by a Fortification. The warrior may set an explosive charge by discarding this card. The Fortification is also discarded.",
         "type_code": "equipment"
     },
@@ -1275,6 +1347,7 @@
         "name": "DEMOTED",
         "octgn_id": "ebecdb18-cd00-45df-aca7-77a92e2322e6",
         "post_play": "+",
+        "rarity": "U",
         "text": "PLAY ON ANY WARRIOR AT ANY TIME. Affected warrior is permanently -2 to V. If the warrior's V becomes 0, the warrior is discarded. A warrior may be demoted any number of times.",
         "type_code": "special",
         "value": "-2"
@@ -1291,6 +1364,7 @@
         "name": "DESPERATE MEASURES",
         "octgn_id": "b683396b-f1b5-4afd-bfcb-c836a7365177",
         "post_play": "-",
+        "rarity": "R",
         "text": "PLAY AT ANY TIME. All missions in play are discarded.",
         "type_code": "special"
     },
@@ -1307,6 +1381,7 @@
         "name": "DESTROY KOHORT",
         "octgn_id": "1c9c0aae-f5ab-460b-83a3-287ab278f0bc",
         "post_play": "+",
+        "rarity": "R",
         "text": "ASSIGN TO ANY PLAYER. One of your Doomtroopers must kill a player's last Kohort member in play to complete the mission and earn an additional 5 points. Additional Kohort members may enter play later.",
         "type_code": "mission",
         "value": "5"
@@ -1324,6 +1399,7 @@
         "name": "DESTROY SQUAD",
         "octgn_id": "724d027b-9515-45a2-ade2-4365c29b75e6",
         "post_play": "+",
+        "rarity": "R",
         "text": "ASSIGN TO ANY PLAYER. One of your Dark Legion warriors must kill a player's last Squad member in play to complete the mission and earn an additional 5 points. Additional Squad members may enter play later.",
         "type_code": "mission",
         "value": "5"
@@ -1341,6 +1417,7 @@
         "name": "DIMENSIONAL HOLE",
         "octgn_id": "8a014d28-578b-4f7d-a7da-a4cfac74cfdf",
         "post_play": "+",
+        "rarity": "U",
         "text": "GIFT OF ILIAN. Opponents wounded by this warrior are automatically killed.",
         "type_code": "symmetry"
     },
@@ -1357,6 +1434,7 @@
         "name": "DIMENSIONAL WARP",
         "octgn_id": "a7af0bc5-95dc-4ec0-9745-6e0d25fa0682",
         "post_play": "+",
+        "rarity": "U",
         "text": "GIFT OF ALGEROTH. Opponents wounded by this warrior are automatically killed.",
         "type_code": "symmetry"
     },
@@ -1372,6 +1450,7 @@
         "name": "DISCERN TRUTH",
         "octgn_id": "ec7ea151-ec19-440d-91d8-24b1698a6d1c",
         "post_play": "-",
+        "rarity": "U",
         "text": "ART OF MANIPULATION. Cast Any Time. For every 3 D, you may ask an opponent 1 \"yes\" or \"no\" question about his or her hand. The opponent must answer truthfully or refuse to answer for 5 D. The same question can be asked again (for 3 D).",
         "type_code": "art",
         "value": "e3"
@@ -1390,6 +1469,7 @@
         "name": "DISCOVERED",
         "octgn_id": "f60eed69-1485-4965-9e3d-ee81ddf6cbab",
         "post_play": "-",
+        "rarity": "U",
         "text": "PLAY ON ANY WARRIOR IN COVER AT ANY TIME. Flip the warrior card face up.",
         "type_code": "special"
     },
@@ -1406,6 +1486,7 @@
         "name": "DISRUPT POWER",
         "octgn_id": "1fa6ebc7-8730-4b1b-b142-98042a4f2392",
         "post_play": "+",
+        "rarity": "U",
         "text": "GIFT OF ILIAN. Warrior is immune to the effects of Dark Symmetry and Art cards.",
         "type_code": "symmetry"
     },
@@ -1422,6 +1503,7 @@
         "name": "DISTORT",
         "octgn_id": "5f67c987-0f84-4a72-b416-e5358a445573",
         "post_play": "+",
+        "rarity": "U",
         "text": "GIFT OF ALGEROTH. By spending 10 D at any time, this warrior may choose one weapon or equipment card in play to be discarded.",
         "type_code": "symmetry",
         "value": "e10"
@@ -1439,6 +1521,7 @@
         "name": "DIVINE INSPIRATION",
         "octgn_id": "3215e597-b2cc-4d5c-8196-8df6e07a564a",
         "post_play": "x",
+        "rarity": "R",
         "text": "PLAY AT ANY TIME DURING YOUR TURN. As 3 actions, you may search through your collection and put one card into your hand.",
         "type_code": "special"
     },
@@ -1455,6 +1538,7 @@
         "name": "DOOMED",
         "octgn_id": "51f3cf51-e005-4995-93c4-ab7cd9affc2e",
         "post_play": "+",
+        "rarity": "U",
         "text": "PLAY ON ANY PLAYER AT ANY TIME. The affected player loses 3 D at the beginning of his or her Draw step every turn. If the player ever has zero D at the beginning of his or her Draw step, this card is discarded.",
         "type_code": "special",
         "value": "e-3"
@@ -1474,6 +1558,7 @@
         "image_url": "unl/dragoon.jpg",
         "name": "DRAGOON",
         "octgn_id": "050a56d5-7c97-49d6-adbb-43b541867c3d",
+        "rarity": "C1",
         "shoot": "3",
         "type_code": "warrior",
         "value": "3"
@@ -1490,6 +1575,7 @@
         "name": "DULL BLADE",
         "octgn_id": "b29b966b-6c6a-4983-bfa5-d3f3fbfb2175",
         "post_play": "-",
+        "rarity": "C1",
         "text": "PLAY ON ANY FIGHT WEAPON (NOT FIGHT/SHOOT) DURING COMBAT. The affected weapon has lost its edge and may not be used during this combat. The weapon is considered sharpened after the combat has finished.",
         "type_code": "special"
     },
@@ -1506,6 +1592,7 @@
         "name": "DUTIFUL SERVICE",
         "octgn_id": "9af8eb9a-abd2-4a8b-83e8-0a8d0e933a01",
         "post_play": "+",
+        "rarity": "U",
         "text": "PLAY ON ANY NON-MISHIMA DOOMTROOPER AT ANY TIME. The affected warrior is now considered a member of the Mishima Corporation in addtion to any memberships it currently holds.",
         "type_code": "special"
     },
@@ -1522,6 +1609,7 @@
         "name": "EARTHQUAKE",
         "octgn_id": "9b62a8e1-7624-4b4d-bcfb-e02ac2d34da8",
         "post_play": "-",
+        "rarity": "R",
         "text": "PLAY AT ANY TIME. All citadels and cities in play are discarded.",
         "type_code": "special"
     },
@@ -1539,6 +1627,7 @@
         "image_url": "unl/edwardsmurdoch.jpg",
         "name": "EDWARD S. MURDOCH",
         "octgn_id": "2fcbad72-0307-43da-ab19-e6d36205851e",
+        "rarity": "R",
         "shoot": "4",
         "text": "PERSONALITY. CONSIDERED A GOLDEN LION. While Murdoch is in play, all of your Golden Lions are immune to the effects of Dark Symmetry cards.",
         "type_code": "warrior",
@@ -1557,6 +1646,7 @@
         "name": "EFFICIENCY TRAINING",
         "octgn_id": "43766585-99d1-43a8-a51a-824e53769189",
         "post_play": "-",
+        "rarity": "U",
         "text": "PLAY THIS CARD AS ONE ACTION - Weapon and equipment cards may be exchanged among all your warriors, even between your squad and kohort.",
         "type_code": "special"
     },
@@ -1573,6 +1663,7 @@
         "name": "ELEMENTAL BALL",
         "octgn_id": "f8ad01b5-25f6-4fcc-9ab6-016d29190e13",
         "post_play": "-",
+        "rarity": "C1",
         "text": "ART OF ELEMENTS. PERSONAL COMBAT SPELL. For every 2 D, caster gains +2 to F.",
         "type_code": "art",
         "value": "e2"
@@ -1589,6 +1680,7 @@
         "name": "ELEMENTAL BOLT",
         "octgn_id": "1cdbc416-09f6-444f-912e-2f839b47cb15",
         "post_play": "-",
+        "rarity": "C1",
         "shoot": "2",
         "text": "ART OF ELEMENTS. PERSONAL COMBAT SPELL. For every 2 D, caster gains +2 to S.",
         "type_code": "art",
@@ -1607,6 +1699,7 @@
         "name": "ELEMENTAL EMPATHY",
         "octgn_id": "92676834-24d9-4cf7-874e-4fd016450ab6",
         "post_play": "+",
+        "rarity": "C1",
         "text": "PLAY ON ONE OF YOUR BROTHERHOOD WARRIORS AS ONE ACTION. From now on, all Brotherhood warriors in your Squad may use the Art of Elements. If the warrior is killed, this card is discarded.",
         "type_code": "special"
     },
@@ -1623,6 +1716,7 @@
         "name": "ELEMENTAL WALL",
         "octgn_id": "20968759-13b4-4151-a6b7-af5d344c56e8",
         "post_play": "-",
+        "rarity": "C1",
         "text": "ART OF ELEMENTS. PERSONAL COMBAT SPELL. For every 2 D, caster gains +2 to A.",
         "type_code": "art",
         "value": "e2"
@@ -1639,6 +1733,7 @@
         "name": "EMPATHY",
         "octgn_id": "333303ac-db0c-4180-9713-4590523a2fd8",
         "post_play": "-",
+        "rarity": "R",
         "text": "ART OF CHANGELING. CAST AS ONE ACTION. For every 10 D, a player must tell you the details of any attack plans for his or her next turn(s), including the Attacker, Defender, battle tactic and if there will be an attack. If possible, the player must follow the plans.",
         "type_code": "art"
     },
@@ -1655,6 +1750,7 @@
         "name": "ESSENCE OF CLARITY",
         "octgn_id": "f1a723cd-e19e-4203-838c-b8f30d782bc8",
         "post_play": "-",
+        "rarity": "R",
         "text": "PLAY AT ANY TIME. YOU MUST HAVE A BROTHERHOOD WARRIOR IN YOUR SQUAD. All Followers of Muawijhe in play must discard all of their Dark Symmetry cards and are wounded.",
         "type_code": "special"
     },
@@ -1671,6 +1767,7 @@
         "name": "ESSENCE OF INTEGRITY",
         "octgn_id": "8d57ba0a-45b9-4939-9417-3b74076ffb5f",
         "post_play": "-",
+        "rarity": "R",
         "text": "PLAY AT ANY TIME. YOU MUST HAVE A BROTHERHOOD WARRIOR IN YOUR SQUAD. All Followers of Semai in play must discard all of their Dark Symmetry cards and are wounded.",
         "type_code": "special"
     },
@@ -1687,6 +1784,7 @@
         "name": "ESSENCE OF MORALITY",
         "octgn_id": "1249cca4-bd43-4f25-ad42-414307fbd3a3",
         "post_play": "-",
+        "rarity": "R",
         "text": "PLAY AT ANY TIME. YOU MUST HAVE A BROTHERHOOD WARRIOR IN YOUR SQUAD. Followers of Demnogonis in play must discard all of their Dark Symmetry cards and are wounded.",
         "type_code": "special"
     },
@@ -1703,6 +1801,7 @@
         "name": "ESSENCE OF PURITY",
         "octgn_id": "625f57fd-5e92-4607-88cc-226bf57f8354",
         "post_play": "-",
+        "rarity": "R",
         "text": "PLAY AT ANY TIME. YOU MUST HAVE A BROTHERHOOD WARRIOR IN YOUR SQUAD. All Followers of Ilian in play must discard all of their Dark Symmetry cards and are wounded.",
         "type_code": "special"
     },
@@ -1719,6 +1818,7 @@
         "name": "ESSENCE OF RECTITUDE",
         "octgn_id": "f2f9bd45-27d0-4a93-b147-97d56a3d4f63",
         "post_play": "-",
+        "rarity": "R",
         "text": "PLAY AT ANY TIME. YOU MUST HAVE A BROTHERHOOD WARRIOR IN YOUR SQUAD. All Heretics in play must discard all of their Dark Symmetry cards.",
         "type_code": "special"
     },
@@ -1735,6 +1835,7 @@
         "name": "ESSENCE OF VIRTUE",
         "octgn_id": "15735356-e1f4-4db3-b2d7-a2cdf538df7a",
         "post_play": "-",
+        "rarity": "R",
         "text": "PLAY AT ANY TIME. YOU MUST HAVE A BROTHERHOOD WARRIOR IN YOUR SQUAD. All Followers of Algeroth in play must discard all of their Dark Symmetry cards and are wounded.",
         "type_code": "special"
     },
@@ -1751,6 +1852,7 @@
         "name": "ESTABLISH DEFENSIVE PERIMETER",
         "octgn_id": "951344c0-9ff2-4e57-ac90-4aee74c7857b",
         "post_play": "+",
+        "rarity": "R",
         "text": "ASSIGN TO ANY PLAYER. For every different titled of Fortification card brought into play, you earn one Promotion Point. This mission is never completed.",
         "type_code": "mission",
         "value": "e1"
@@ -1769,6 +1871,7 @@
         "image_url": "unl/etoilesmortant.jpg",
         "name": "ETOILES MORTANT",
         "octgn_id": "0232f026-a545-44fb-bbd6-bba8e0ff8cd2",
+        "rarity": "C1",
         "shoot": "2",
         "text": "The Etoiles Mortant may only attack Dark Legion warriors during your turn if there are any in play, even if they are in your own Kohort. Otherwise, it can attack normally.",
         "type_code": "warrior",
@@ -1788,6 +1891,7 @@
         "name": "EVASION TRAINING",
         "octgn_id": "bf0212d0-c603-4249-9b06-8cdbbd1bf4e0",
         "post_play": "+",
+        "rarity": "R",
         "text": "PLAY ON ANY WARRIOR AS THREE ACTIONS. The affected warrior gains +1 to A for every 2 D spent during combat. This card remains with the warrior.",
         "type_code": "special",
         "value": "e2"
@@ -1806,6 +1910,7 @@
         "name": "EVASIVE ACTION",
         "octgn_id": "b2a66239-05a8-4a94-a8b0-7fb8297aed8e",
         "post_play": "-",
+        "rarity": "C1",
         "text": "PLAY ON ANY WARRIOR DURING COMBAT. The affected warrior gains +2 to A during this combat.",
         "type_code": "special"
     },
@@ -1823,6 +1928,7 @@
         "image_url": "unl/exbauhausfreelancer.jpg",
         "name": "EX-BAUHAUS FREELANCER",
         "octgn_id": "a1182798-3860-4ed6-8601-f256590cd61e",
+        "rarity": "C1",
         "shoot": "2",
         "text": "Points earned by the Freelancer must be made into D. The warrior may use cards meant for Bauhaus warriors, but only if you pay 3 D when each card is played.",
         "type_code": "warrior",
@@ -1842,6 +1948,7 @@
         "image_url": "unl/excapitolfreelancer.jpg",
         "name": "EX-CAPITOL FREELANCER",
         "octgn_id": "5118bae8-1fca-416a-b4cf-630c54776838",
+        "rarity": "C1",
         "shoot": "4",
         "text": "Points earned by the Freelancer must be made into D. The warrior may use cards meant for Capitol warriors, but only if you pay 3 D when each card is played.",
         "type_code": "warrior",
@@ -1861,6 +1968,7 @@
         "image_url": "unl/excybertronicfreelancer.jpg",
         "name": "EX-CYBERTRONIC FREELANCER",
         "octgn_id": "4391d122-eb2f-47da-8712-d10d45c85c7f",
+        "rarity": "C1",
         "shoot": "2",
         "text": "Immune to the effects of DARK SYMMETRY GIFT cards, but not GIFT OF APOSTLE cards. Points earned by the Freelancer must be made into D. The warrior may use cards meant for Cybertronic warriors, but only if you pay 3 D when each card is played.",
         "type_code": "warrior",
@@ -1880,6 +1988,7 @@
         "image_url": "unl/eximperialfreelancer.jpg",
         "name": "EX-IMPERIAL FREELANCER",
         "octgn_id": "eb56df0d-12b3-4597-b444-8e7d2bc7a906",
+        "rarity": "C1",
         "shoot": "2",
         "text": "Points earned by the Freelancer must be made into D. The warrior may use cards meant for Imperial warriors, but only if you pay 3 D when each card is played.",
         "type_code": "warrior",
@@ -1899,6 +2008,7 @@
         "image_url": "unl/exmishimafreelancer.jpg",
         "name": "EX-MISHIMA FREELANCER",
         "octgn_id": "6adeec18-a1f2-49cd-9cd8-4d7dce0384bd",
+        "rarity": "C1",
         "shoot": "3",
         "text": "Points earned by the Freelancer must be made into D. The warrior may use cards meant for Mishima warriors, but only if you pay 3 D when each card is played.",
         "type_code": "warrior",
@@ -1917,6 +2027,7 @@
         "name": "EXONERATED RONIN",
         "octgn_id": "4b82cce5-222f-4be9-baf2-c11556b457a6",
         "post_play": "+",
+        "rarity": "R",
         "text": "ASSIGN TO ANY MISHIMA DOOMTROOPER. This warrior must kill a Mishima Doomtrooper to complete the mission and earn twice the normal V. The mission-holder may attack non-Personality Mishima Doomtroopers until mission is fulfilled or otherwise removed.",
         "type_code": "mission",
         "value": "2x"
@@ -1933,6 +2044,7 @@
         "name": "EXORCISE DARK INFLUENCES",
         "octgn_id": "10d1a9a5-24f8-4342-a8f5-4e3b0a7383a0",
         "post_play": "-",
+        "rarity": "C1",
         "text": "ART OF EXORCISM. COMBAT SPELL. For every 1 D, affected warrior is immune to the effects of one DARK SYMMETRY GIFT card.",
         "type_code": "art",
         "value": "e1"
@@ -1950,6 +2062,7 @@
         "name": "EXORCISE DISEASE",
         "octgn_id": "5b35e73e-1006-4c95-b892-44a8d84af6de",
         "post_play": "-",
+        "rarity": "C1",
         "text": "ART OF EXORCISM. COMBAT SPELL. For every 2 D, affected warriors gains +1 A or is immune to the effects of one GIFT OF DEMNOGONIS card.",
         "type_code": "art",
         "value": "e2"
@@ -1967,6 +2080,7 @@
         "name": "EXORCISE EVIL THOUGHTS",
         "octgn_id": "f92cedc6-70ab-429c-814b-b6cfa691b07f",
         "post_play": "-",
+        "rarity": "C1",
         "text": "ART OF EXORCISM. COMBAT SPELL. For every 2 D, affected warriors gains +1 A or is immune to the effects of one GIFT OF MUAWIJHE card.",
         "type_code": "art",
         "value": "e2"
@@ -1984,6 +2098,7 @@
         "name": "EXORCISE INFECTION",
         "octgn_id": "bb39aec9-1a4f-407a-a628-2dac75371346",
         "post_play": "-",
+        "rarity": "C1",
         "text": "ART OF EXORCISM. COMBAT SPELL. For every 2 D, affected warriors gains +1 A or is immune to the effects of one GIFT OF ILIAN card.",
         "type_code": "art",
         "value": "e2"
@@ -2001,6 +2116,7 @@
         "name": "EXORCISE POISON",
         "octgn_id": "996956c5-359e-4318-be66-9f0eb321912a",
         "post_play": "-",
+        "rarity": "C1",
         "text": "ART OF EXORCISM. COMBAT SPELL. For every 2 D, affected warriors gains +1 A or is immune to the effects of one GIFT OF SEMAI card.",
         "type_code": "art",
         "value": "e2"
@@ -2018,6 +2134,7 @@
         "name": "EXORCISE SELF",
         "octgn_id": "8e6c1f25-7ea3-4773-bfe6-b6872121ba48",
         "post_play": "-",
+        "rarity": "U",
         "text": "ART OF MENTALISM. CAST AT ANY TIME. The caster is unaffected by Dark Symmetry cards until beginning of your next turn.",
         "type_code": "art"
     },
@@ -2034,6 +2151,7 @@
         "name": "EXORCISE WOUND",
         "octgn_id": "3d0ac678-e33c-4cd1-9e2f-22115a068b4c",
         "post_play": "-",
+        "rarity": "C1",
         "text": "ART OF EXORCISM. COMBAT SPELL. For every 2 D, affected warriors gains +1 A or is immune to the effects of one GIFT OF ALGEROTH card.",
         "type_code": "art",
         "value": "e2"
@@ -2051,6 +2169,7 @@
         "name": "EXORCISM",
         "octgn_id": "acd68304-3615-43aa-be90-0bf1cc07fd1b",
         "post_play": "-",
+        "rarity": "U",
         "text": "ART OF CHANGELING. CAST AT ANY TIME. For every 5 D, one Doomtrooper corrupted into a Heretic is redeemed and is now back to normal. Any Dark Symmetry cards played on the warrior must first be discarded at the cost of 3 D each.",
         "type_code": "art",
         "value": "e5"
@@ -2068,6 +2187,7 @@
         "name": "EXORCISM EMPATHY",
         "octgn_id": "32f51429-8187-43f5-8fa1-f248c74f29a6",
         "post_play": "+",
+        "rarity": "C1",
         "text": "PLAY ON ONE OF YOUR BROTHERHOOD WARRIORS AS ONE ACTION. From now on, all Brotherhood warriors in your Squad may use the Art of Exorcism. If the warrior is killed, this card is discarded.",
         "type_code": "special"
     },
@@ -2084,6 +2204,7 @@
         "name": "EXPEDITE REQUEST",
         "octgn_id": "68e1c8d0-b3d7-4490-9e7b-f89a954c8952",
         "post_play": "x",
+        "rarity": "U",
         "text": "PLAY AT ANY TIME DURING YOUR TURN. Search through your draw pile, put one card into your hand, then shuffle your draw pile.",
         "type_code": "special"
     },
@@ -2101,6 +2222,7 @@
         "name": "EXPLOSION",
         "octgn_id": "048d22a2-bb9f-452e-986f-e4bd25ddf4a3",
         "post_play": "-",
+        "rarity": "R",
         "shoot": "5",
         "text": "ART OF KINETICS. PERSONAL COMBAT SPELL. For every 3 D spent, the caster's F and S are +5.",
         "type_code": "art",
@@ -2120,6 +2242,7 @@
         "image_url": "unl/ezoghoul.jpg",
         "name": "EZOGHOUL",
         "octgn_id": "8043cd1a-30ee-46b3-8eef-3d7c8df287a7",
+        "rarity": "R",
         "shoot": "8",
         "text": "FOLLOWER OF ALGEROTH.",
         "type_code": "warrior",
@@ -2138,6 +2261,7 @@
         "name": "FALLEN FROM FAVOR",
         "octgn_id": "2454efc7-1aac-4b65-bb5a-3598ccf79adb",
         "post_play": "-",
+        "rarity": "C1",
         "text": "PLAY ON ANY DARK LEGION WARRIOR AT ANY TIME. One of the warrior's Dark Symmetry cards, choosen by you, is discarded.",
         "type_code": "special"
     },
@@ -2155,6 +2279,7 @@
         "image_url": "unl/fayklaus.jpg",
         "name": "FAY & KLAUS",
         "octgn_id": "cb5c9d0c-bfd4-44bd-8ba4-3594451286f0",
+        "rarity": "U",
         "shoot": "3",
         "text": "PERSONALITY. Immune to the effects of DARK SYMMETRY GIFTS, but not GIFT OF APOSTLE cards. This card is considered a single warrior. Fay & Klaus may battle as a team for 5 D. If so F, S, A and V are +3 until the end of the combat.",
         "type_code": "warrior",
@@ -2173,6 +2298,7 @@
         "name": "FIFTEEN MINUTES OF FAME",
         "octgn_id": "c1e39777-5652-4a38-a50e-13a83a06134a",
         "post_play": "+",
+        "rarity": "R",
         "text": "ASSIGN TO ANY NON-PERSONALITY WARRIOR. This warrior must kill a Personality to complete the mission and earn 5 additional points.",
         "type_code": "mission",
         "value": "5"
@@ -2190,6 +2316,7 @@
         "name": "FILE TRANSFER",
         "octgn_id": "432bb866-29c5-48f1-a509-cff04b7db39b",
         "post_play": "-",
+        "rarity": "U",
         "text": "PLAY ON ANY UNFULFILLED MISSION AT ANY TIME. You may reassign the affected mission to any other warrior in play (or any player if it is a player mission). The mission is no longer assigned to the original recipient.",
         "type_code": "special"
     },
@@ -2206,6 +2333,7 @@
         "name": "FIRST AID KIT",
         "octgn_id": "5f2d8d01-07c9-47ef-9001-7e13b24d1979",
         "post_play": "+",
+        "rarity": "C1",
         "text": "This warrior may discard the First Aid Kit to heal one wounded comrade (or him or herself). A Doomtrooper may not heal a Dark Legion warrior, nor may a Dark Legion warrior heal a Doomtrooper. The First Aid Kit may not be used on a just-killed warrior.",
         "type_code": "equipment"
     },
@@ -2222,6 +2350,7 @@
         "name": "FLOW OF ACID",
         "octgn_id": "d11a4a49-ec99-4aad-b90b-4b6792981995",
         "post_play": "+",
+        "rarity": "R",
         "text": "GIFT OF ALGEROTH. Once per turn, as 3 actions, this warrior may invoke a Flow of Acid. This counts as an attack. For every 3 D, each warrior in play takes 1 point of damage. If this is not less than a warrior's A, it is wounded.",
         "type_code": "symmetry",
         "value": "e10"
@@ -2239,6 +2368,7 @@
         "name": "FLUSH OUT THE COWARD",
         "octgn_id": "bf06aff0-e928-4568-ae66-14c77a5c33fc",
         "post_play": "+",
+        "rarity": "R",
         "text": "ASSIGN TO ANY WARRIOR. Kill a warrior in cover to complete the mission and earn points equal to twice the slain warrior's Value.",
         "type_code": "mission",
         "value": "2x"
@@ -2258,6 +2388,7 @@
         "name": "FLY",
         "octgn_id": "76f96179-0b4b-4c63-b55f-37d1dc3b46f0",
         "post_play": "-",
+        "rarity": "U",
         "shoot": "2",
         "text": "ART OF MENTALISM. CAST AT ANY TIME ON CASTER. The caster may not be attacked until the beginning of your next turn. If the caster attacks, it gains +2 to F, S, A and V.",
         "type_code": "art",
@@ -2276,6 +2407,7 @@
         "name": "FORCED MARCH",
         "octgn_id": "272cdce3-1f46-4abd-9c59-b57c13924c60",
         "post_play": "-",
+        "rarity": "U",
         "text": "PLAY ON A PLAYER AT ANY TIME. The affected player is limited to performing one less action on his or her next turn.",
         "type_code": "special"
     },
@@ -2292,6 +2424,7 @@
         "name": "FORTUNE OF WAR",
         "octgn_id": "8aa04b37-9e95-47a1-8f68-64a73e5be321",
         "post_play": "+",
+        "rarity": "U",
         "text": "PLAY AT ANY TIME. For the rest of the game, you do not have to discard cards during the Discard step, if you have over 7 cards in your hand.",
         "type_code": "special"
     },
@@ -2310,6 +2443,7 @@
         "name": "FOXHOLE",
         "octgn_id": "93a66e4d-731e-4add-b1ee-9a2b06679c14",
         "post_play": "+",
+        "rarity": "U",
         "text": "GIVE THIS CARD TO A WARRIOR AS ONE ACTION. The warrior gets +2 A and -2 to F. The warrior cannot make a Fight attack but may be attacked by one. This card may be given to a different warrior as one action.",
         "type_code": "fortification"
     },
@@ -2326,6 +2460,7 @@
         "name": "FRAMED!",
         "octgn_id": "ff54c7e1-5491-4a7f-b213-e7912c6853f9",
         "post_play": "-",
+        "rarity": "U",
         "text": "PLAY ON ANY PLAYER AT ANY TIME. Affected player loses 1 Promotion Points for every 5 D you spend. You may not cause your opponent's Promotion Point pool to drop below 0.",
         "type_code": "special",
         "value": "e5"
@@ -2346,6 +2481,7 @@
         "name": "FREE MARINE",
         "notes": "1st printing lower stat: 2/4/2/1",
         "octgn_id": "d13ab23f-e2f3-49ef-83c0-0cc3195fbcdc",
+        "rarity": "C1",
         "shoot": "6",
         "type_code": "warrior",
         "value": "5"
@@ -2363,6 +2499,7 @@
         "image_url": "unl/fukido.jpg",
         "name": "FUKIDO",
         "octgn_id": "b829974b-53aa-4881-80c6-344b84fcf0e3",
+        "rarity": "U",
         "text": "THIS CARD MAY BE ADDED TO YOUR SQUAD AS ONE ACTION. IMPERIAL CITY. All of your Imperial members gain +2 to their A while FUKIDO is in play. You may not have two identical Cities in play simultaneously.",
         "type_code": "fortification"
     },
@@ -2380,6 +2517,7 @@
         "name": "FUKIMURA NO. 12 \"KAMIKAZE\"",
         "octgn_id": "90becdc3-78be-49a0-82c5-d026882cfae1",
         "post_play": "+",
+        "rarity": "R",
         "shoot": "2x",
         "text": "AIRSHIP AND VEHICLE. MAY BE GIVEN TO ANY MISHIMA DOOMTROOPER. A WARRIOR CAN ONLY HAVE 1 VEHICLE. When flying this airship, the warrior's S, A and V are doubled. No other weapons may be used when using the Kamikaze.",
         "type_code": "equipment",
@@ -2398,6 +2536,7 @@
         "name": "FURY OF THE CLANSMEN",
         "octgn_id": "af47945a-6b7b-4ca5-86f9-e46bf3b0117b",
         "post_play": "+",
+        "rarity": "R",
         "text": "ASSIGN TO ANY CLANSMAN. Kill any Dark Legion warrior in play to complete thee mission and receive either four times its V in Destiny Points or twice its V in Promotion Points.",
         "type_code": "mission"
     },
@@ -2414,6 +2553,7 @@
         "name": "GALE FORCE WINDS",
         "octgn_id": "2384ca0a-c929-456a-84a9-a29759f52e53",
         "post_play": "+",
+        "rarity": "R",
         "text": "PLAY AT ANY TIME. All airships are discarded. This card may be kept in play for 3 D each turn. During this time, no airships can be played.",
         "type_code": "special",
         "value": "e3"
@@ -2431,6 +2571,7 @@
         "name": "GAZE",
         "octgn_id": "4a9535cf-bb01-4574-b27c-9f3601b4e856",
         "post_play": "-",
+        "rarity": "R",
         "text": "ART OF PREMONITION. Cast any time. For every 10 D you may examine an opponent's playing deck. Once you have looked through the deck, the deck's owner may reshuffle it.",
         "type_code": "art"
     },
@@ -2447,6 +2588,7 @@
         "name": "GEHENNA PUKER",
         "octgn_id": "3e06321a-2942-4c88-92b0-dbb107b95986",
         "post_play": "+",
+        "rarity": "R",
         "shoot": "6",
         "text": "FLAME-THROWER. SHOOT WEAPON. Warrior gains +6 to S.",
         "type_code": "equipment"
@@ -2464,6 +2606,7 @@
         "name": "GIFT OF FATE",
         "octgn_id": "71238296-6ca0-4745-aa27-19cd57ecd1af",
         "post_play": "x",
+        "rarity": "U",
         "text": "PLAY AT ANY TIME DURING YOUR TURN. Return any one card from your Discard pile to your hand. You may also spend 8 D at this time to return a second card to your hand.",
         "type_code": "special",
         "value": "8"
@@ -2483,6 +2626,7 @@
         "image_url": "unl/goldenlion.jpg",
         "name": "GOLDEN LION",
         "octgn_id": "b6c0a8a8-f817-4851-b691-8f1002f53435",
+        "rarity": "C2",
         "shoot": "3",
         "type_code": "warrior",
         "value": "3"
@@ -2500,6 +2644,7 @@
         "name": "GREATER DOMINATION",
         "octgn_id": "0751485c-2f43-4282-81d8-1bf12bfabe91",
         "post_play": "x",
+        "rarity": "R",
         "text": "ART OF MANIPULATION. Cast any time. For every 5 D you may look at opponent's hand and discard 2 of his or her cards.",
         "type_code": "art",
         "value": "e5"
@@ -2517,6 +2662,7 @@
         "name": "GREATER HYPNOSIS",
         "octgn_id": "94922aba-e413-48c5-b3a0-82188231c7b1",
         "post_play": "-",
+        "rarity": "R",
         "text": "ART OF CHANGELING. COMBAT SPELL. You may change the Defender of the combat to any other warrior in play, regardless of that warrior's affiliation with a corporation or the Dark Legion.",
         "type_code": "art"
     },
@@ -2533,6 +2679,7 @@
         "name": "GREATER TELEPATHY",
         "octgn_id": "f42ef5e7-eab5-46e6-88db-c75d96419b0c",
         "post_play": "-",
+        "rarity": "R",
         "text": "Art of Manipulation. Combat Spell. The caster may change the Attacker and Defender in the battle to any two warriors in play, even if the new Attacker would not normally be allowed to attack the new Defender. The caster may also dictate the battle tactic used.",
         "type_code": "art"
     },
@@ -2549,6 +2696,7 @@
         "name": "GRENADE LAUNCHER",
         "octgn_id": "013a1129-458b-42ce-b6cc-f1bdeb2c0715",
         "post_play": "+",
+        "rarity": "R",
         "shoot": "3",
         "text": "ATTACH TO ANY SHOOT WEAPON. Warrior gains +3 to S.",
         "type_code": "equipment"
@@ -2567,6 +2715,7 @@
         "name": "HAND OF DEATH",
         "octgn_id": "8a0d748c-8035-40e0-be00-e69bb1fa8212",
         "post_play": "+",
+        "rarity": "U",
         "shoot": "2",
         "text": "GIFT OF ILIAN. This warrior F and S are +2.",
         "type_code": "symmetry"
@@ -2585,6 +2734,7 @@
         "image_url": "unl/hatamoto.jpg",
         "name": "HATAMOTO",
         "octgn_id": "bbb601f7-189c-46a4-9bcf-9af2269e6349",
+        "rarity": "C2",
         "shoot": "4",
         "text": "Missions given to a Hatamoto must be completed before any of your other missions. If you complete another mission first, no bonus points are earned.",
         "type_code": "warrior",
@@ -2603,6 +2753,7 @@
         "name": "HEAVY FOG",
         "octgn_id": "eff67db7-28f4-4f51-9f31-64df60b4d15d",
         "post_play": "-",
+        "rarity": "C1",
         "shoot": "x",
         "text": "PLAY AT ANY TIME. Only Fight combat may be performed until the beginning of your next turn. This instantly ends a Shoot combat.",
         "type_code": "special"
@@ -2620,6 +2771,7 @@
         "image_url": "unl/heimburg.jpg",
         "name": "HEIMBURG",
         "octgn_id": "28fedaac-ecf5-42cf-870a-54ef24d47640",
+        "rarity": "U",
         "text": "THIS CARD MAY BE ADDED TO YOUR SQUAD AS ONE ACTION. BAUHAUS CITY. All of your Bauhaus members gain +2 to their A while HEIMBURG is in play. You may not have two identical Cities in play simultaneously.",
         "type_code": "fortification"
     },
@@ -2637,6 +2789,7 @@
         "image_url": "unl/heretic.jpg",
         "name": "HERETIC",
         "octgn_id": "6bede282-e51f-4dc7-b67f-34f2c3cacf21",
+        "rarity": "C2",
         "shoot": "2",
         "text": "You may bestow Dark Symmetry Gifts on the Heretic, but not GIFT OF APOSTLE cards.",
         "type_code": "warrior",
@@ -2656,6 +2809,7 @@
         "name": "HIDDEN IN THE SHADOWS",
         "octgn_id": "bfcc80ca-6a05-4a23-ae44-75d6642e5602",
         "post_play": "+",
+        "rarity": "C1",
         "text": "PLAY ON A WARRIOR AT ANY TIME. This card is discarded during your next Draw step. The affected warrior gains +3 to A.",
         "type_code": "special"
     },
@@ -2672,6 +2826,7 @@
         "name": "HMG MK. XIXB \"CHARGER\"",
         "octgn_id": "1142a6d3-fb43-4715-aaa0-789a5f153ebb",
         "post_play": "+",
+        "rarity": "R",
         "shoot": "5",
         "text": "HEAVY MACHINE GUN. SHOOT WEAPON. Warrior gains +5 to S.",
         "type_code": "equipment"
@@ -2689,6 +2844,7 @@
         "name": "HONORARY BAPTISM",
         "octgn_id": "dc1de875-a85c-424d-b62a-0baeb442ed67",
         "post_play": "+",
+        "rarity": "U",
         "text": "PLAY ON ANY NON-BROTHERHOOD, NON-CYBERTRONIC DOOMTROOPER ANY TIME. The warrior is now a member of the Brotherhood in addition to any memberships it currently holds. This card does not allow the warrior to cast the Art.",
         "type_code": "special"
     },
@@ -2707,6 +2863,7 @@
         "image_url": "unl/hussar.jpg",
         "name": "HUSSAR",
         "octgn_id": "2ea1e020-ec88-41bc-a2cb-dfcbd5cd36c6",
+        "rarity": "C2",
         "shoot": "2",
         "type_code": "warrior",
         "value": "2"
@@ -2724,6 +2881,7 @@
         "name": "ILLUSION",
         "octgn_id": "1f976948-28b7-4d42-a878-aa039546b052",
         "post_play": "+",
+        "rarity": "U",
         "text": "GIFT OF SEMAI. This warrior may cancel a combat it's in at any time. Any cards played during the combat are discarded, and this warrior must immediately go into cover. This costs 3 D, but no actions.",
         "type_code": "symmetry",
         "value": "3"
@@ -2742,6 +2900,7 @@
         "image_url": "unl/immaculatefury.jpg",
         "name": "IMMACULATE FURY",
         "octgn_id": "29d879f5-9c7f-453f-9a5f-d790606ded33",
+        "rarity": "R",
         "shoot": "12",
         "text": "FOLLOWER OF ALGEROTH. Artificial killing machines created by the Heretic Marcus, the wails and shrieks of the Immaculate Furies are enough to strike fear into the boldest of heroes.",
         "type_code": "warrior",
@@ -2760,6 +2919,7 @@
         "name": "IMPERIAL DOOMLORD",
         "octgn_id": "4a7e56d3-9142-481c-bb9e-3c54f06cbf5d",
         "post_play": "+",
+        "rarity": "R",
         "shoot": "2x",
         "text": "AIRSHIP AND VEHICLE. MAY BE GIVEN TO ANY IMPERIAL DOOMTROOPER. A WARRIOR CAN ONLY HAVE 1 VEHICLE. When flying this airship, the warrior's S, A and V are doubled. No other weapons may be used when using the Doomlord.",
         "type_code": "equipment",
@@ -2777,6 +2937,7 @@
         "name": "IMPERIAL SOUTHPAW",
         "octgn_id": "f1dcfc06-3f86-4a9e-bef3-9fc2e5178a95",
         "post_play": "+",
+        "rarity": "R",
         "shoot": "4",
         "text": "ROCKET LAUNCHER. SHOOT WEAPON. Warrior gains +4 to S. If the opponent is an airship, or is equipped with one, this warrior gains an additional +2 to S.",
         "type_code": "equipment"
@@ -2796,6 +2957,7 @@
         "name": "IMPROVE SELF",
         "octgn_id": "db3882a7-8b48-41ff-b1de-1c2416e6408a",
         "post_play": "-",
+        "rarity": "U",
         "shoot": "2x",
         "text": "ART OF MENTALISM. Cast any time. The caster's F, S, A and V are doubled until the beginning of your next turn.",
         "type_code": "art",
@@ -2815,6 +2977,7 @@
         "name": "INDIGESTION",
         "octgn_id": "f2bc5f64-f2dd-40b3-aa04-1edeaf885855",
         "post_play": "+",
+        "rarity": "U",
         "text": "GIFT OF ALGEROTH. All combat opponents of this warrior suffer a -2 penalty to their A.",
         "type_code": "symmetry"
     },
@@ -2833,6 +2996,7 @@
         "image_url": "unl/infantry.jpg",
         "name": "INFANTRY",
         "octgn_id": "e68851d8-9770-4d99-babc-6ffe32a1986b",
+        "rarity": "C2",
         "shoot": "3",
         "type_code": "warrior",
         "value": "2"
@@ -2850,6 +3014,7 @@
         "name": "INFECTION",
         "octgn_id": "03c15aaf-37a3-4d34-9319-8539b697f9f5",
         "post_play": "+",
+        "rarity": "U",
         "text": "GIFT OF DEMNOGONIS. Opponents wounded by this warrior are automatically killed.",
         "type_code": "symmetry"
     },
@@ -2866,6 +3031,7 @@
         "name": "INFILTRATION",
         "octgn_id": "c7755886-68a6-4ee4-a283-cc938c5b2bc2",
         "post_play": "+",
+        "rarity": "R",
         "text": "ASSIGN TO ANY PLAYER. Destroy any City, Cathedral or Citadel in play to complete the mission and receive 6 Promotion Points.",
         "type_code": "mission"
     },
@@ -2882,6 +3048,7 @@
         "name": "INFLUENCE",
         "octgn_id": "bfa5628a-9ad5-4b95-a116-72d03234af60",
         "post_play": "-",
+        "rarity": "U",
         "text": "PLAY ON ANY PLAYER AT ANY TIME. For every 1 D you spend, the affected player loses 1 D. You may not cause the affected warrior to have less than 0 D.",
         "type_code": "special",
         "value": "e1"
@@ -2899,6 +3066,7 @@
         "name": "INITIATIVE",
         "octgn_id": "81bba0db-8869-4dfc-b32d-e71bb53575e2",
         "post_play": "-",
+        "rarity": "C1",
         "text": "PLAY AT THE BEGINNING OF YOUR TURN. You may take an extra action this turn, even an extra attack. You may not play more than one INITIATIVE per turn.",
         "type_code": "special"
     },
@@ -2916,6 +3084,7 @@
         "image_url": "unl/inquisitor.jpg",
         "name": "INQUISITOR",
         "octgn_id": "be4210b3-82ec-45ff-b4f9-0709248181bf",
+        "rarity": "C1",
         "shoot": "4",
         "text": "Inquisitors may conjure the Arts of Exorcism and Mentalism.",
         "type_code": "warrior",
@@ -2935,6 +3104,7 @@
         "image_url": "unl/inquisitormajoris.jpg",
         "name": "INQUISITOR MAJORIS",
         "octgn_id": "2871c487-7fda-4f4c-a842-21462cb8f353",
+        "rarity": "R",
         "shoot": "7",
         "text": "THE INQUISITOR MAJORIS MAY CONJURE ALL DISCIPLINES OF THE ART.",
         "type_code": "warrior",
@@ -2954,6 +3124,7 @@
         "name": "INSANE DANCE",
         "octgn_id": "8d5a292d-73fa-42cc-bfab-66b7903d90d4",
         "post_play": "+",
+        "rarity": "U",
         "shoot": "-2",
         "text": "GIFT OF MUAWIJHE. This warrior's combat opponents suffer a -2 penalty to their F and S.",
         "type_code": "symmetry"
@@ -2971,6 +3142,7 @@
         "name": "INSPIRE THE MASSES",
         "octgn_id": "5b527b65-d457-4a99-9a33-9fe6f9bb24b4",
         "post_play": "+",
+        "rarity": "R",
         "text": "GIVE TO CARDINAL DOMINIC IF THE CATHEDRAL IS IN PLAY. Use 3 actions to complete the mission. All your Doomtroopers currently in play are healed and from now on immune to all Dark Symmetry cards. All Brothers can use all Art cards. Warriors played later are not affected.",
         "type_code": "mission",
         "value": "e2"
@@ -2988,6 +3160,7 @@
         "name": "INSPIRED",
         "octgn_id": "87269aa3-4900-4505-b670-3db1120868e3",
         "post_play": "-",
+        "rarity": "C1",
         "text": "PLAY AT ANY TIME. You may immediately take up to three non-attack actions. If played during your turn, these are in addition to your normal actions.",
         "type_code": "special"
     },
@@ -3006,6 +3179,7 @@
         "name": "INSTALLATION",
         "octgn_id": "e9aa0941-0719-4628-8c3a-c0cd4cbb8e86",
         "post_play": "+",
+        "rarity": "R",
         "text": "GIVE THIS CARD TO A WARRIOR AS ONE ACTION. The warrior seeks the shelter of a defensive installation. It gets +3 to its A and -3 to its F. The warrior may not make a Fight attack but may be attacked by one. This card may be given to a different warrior as one action.",
         "type_code": "fortification"
     },
@@ -3022,6 +3196,7 @@
         "name": "INSUBORDINATION",
         "octgn_id": "a958810d-d6a5-44a7-b00d-c0847e866a6a",
         "post_play": "+",
+        "rarity": "U",
         "text": "PLAY ON ANY DOOMTROOPER ANY TIME. The warrior loses membership in 1 organization of your choice. Lose card-earned memberships first. If the warrior loses all memberships, it's a Freelancer until it gets another. Any points it earns become D.",
         "type_code": "special"
     },
@@ -3038,6 +3213,7 @@
         "name": "INTERNAL AFFAIRS CRACKDOWN",
         "octgn_id": "0545a9c0-bde0-4005-819f-978cdcb37230",
         "post_play": "+",
+        "rarity": "R",
         "text": "ASSIGN TO ANY CAPITOL DOOMTROOPER. This warrior must kill a Capitol Doomtrooper to complete the mission and earn twice the normal V. The mission-holder may attack non-Personality Capitol Doomtrooper until mission is fulfilled or otherwise removed.",
         "type_code": "mission",
         "value": "2x"
@@ -3055,6 +3231,7 @@
         "name": "INVOKE FRENZY",
         "octgn_id": "f24588fa-5d26-4a40-9e3b-f236129640aa",
         "post_play": "+",
+        "rarity": "R",
         "text": "GIFT OF ALGEROTH. As one action this warrior may Invoke Frenzy on 1 of your wounded Dark Legion warriors. Put a marker on the warrior. It is healed. For each marker, the warrior's A is -1.",
         "type_code": "symmetry"
     },
@@ -3071,6 +3248,7 @@
         "name": "INVOKE PAIN",
         "octgn_id": "48b3147b-2ae4-4247-8995-f113ffaa9ca9",
         "post_play": "+",
+        "rarity": "U",
         "text": "DARK SYMMETRY GIFT. INVOKE DURING AN OPPONENT'S ATTACK ACTION, BEFORE THE ATTACKER AND DEFENDER ARE ANNOUNCED. For every 3 D one chosen warrior may not attack until the beginning of your next turn.",
         "type_code": "symmetry",
         "value": "e3"
@@ -3088,6 +3266,7 @@
         "name": "INVULNERABILITY",
         "octgn_id": "da4f23e9-e88d-4fe1-a7fe-bdb84c9c0008",
         "post_play": "-",
+        "rarity": "U",
         "text": "ART OF MENTALISM. Cast any time. The caster may not be wounded or killed until the beginning of your next turn.",
         "type_code": "art"
     },
@@ -3104,6 +3283,7 @@
         "name": "ITEM VISION",
         "octgn_id": "b15bbcf7-dc01-4e04-b87b-89a05c914483",
         "post_play": "-",
+        "rarity": "U",
         "text": "ART OF PREMONITION. Cast at any time. For every 4 D spent, you may look at an opponent's hand.",
         "type_code": "art",
         "value": "e4"
@@ -3121,6 +3301,7 @@
         "name": "JOY OF VICTORY",
         "octgn_id": "991e39a8-e5f3-488a-8e56-64ec1671ce6f",
         "post_play": "-",
+        "rarity": "C1",
         "text": "PLAY AFTER ONE OF YOUR ATTACKERS HAS SURVIVED COMBAT, EVEN IF IT WAS WOUNDED. The battle was exactly what the warrior needed to boost its morale. 5 D are added to your pool. If the warrior was wounded in the combat, it is healed.",
         "type_code": "special",
         "value": "5"
@@ -3139,6 +3320,7 @@
         "image_url": "unl/keeperoftheart.jpg",
         "name": "KEEPER OF THE ART",
         "octgn_id": "ffe8b495-9b21-4409-a5ed-a3205885c37b",
+        "rarity": "R",
         "shoot": "3",
         "text": "THE KEEPER OF THE ART MAY CONJURE ALL DISCIPLINES OF THE ART. All Personal Combat Spells are considered Combat Spells when cast by the Keeper, and every 1 D spent on a spell effect is actually worth 2 D toward that effect.",
         "type_code": "warrior",
@@ -3157,6 +3339,7 @@
         "name": "KINETIC EMPATHY",
         "octgn_id": "201bba25-7821-4863-b083-cb98d2b0f3a2",
         "post_play": "+",
+        "rarity": "C1",
         "text": "PLAY ON ONE OF YOUR BROTHERHOOD WARRIORS AS ONE ACTION. From now on, all Brotherhood warriors in your Squad may use the Art of Kinetics. If the warrior is killed, this card is discarded.",
         "type_code": "special"
     },
@@ -3173,6 +3356,7 @@
         "name": "KNIGHTHOOD",
         "octgn_id": "1d8b2ed8-3ef4-4d33-a57c-5eb02fd47abf",
         "post_play": "+",
+        "rarity": "U",
         "text": "PLAY ON ANY NON-IMPERIAL DOOMTROOPER AT ANY TIME. The affected warrior is now considered a member of the Imperial Corporation in addition to any memberships it currently holds.",
         "type_code": "special"
     },
@@ -3189,6 +3373,7 @@
         "name": "KRATACH",
         "octgn_id": "e2cd8d86-338d-4f5f-8ada-dd10984ec462",
         "post_play": "+",
+        "rarity": "U",
         "shoot": "3",
         "text": "MAY ONLY BE GIVEN TO A DARK LEGION WARRIOR. SHOOT WEAPON. Warrior gains +3 to S. This weapon behaves like a machine gun and is affected by cards that affect machine guns.",
         "type_code": "equipment"
@@ -3206,6 +3391,7 @@
         "name": "L&A PLASMA CARBINE",
         "octgn_id": "ac2ffb3e-8458-4b6d-9dff-ed60820a7b38",
         "post_play": "+",
+        "rarity": "U",
         "shoot": "3",
         "text": "ASSUALT RIFLE. SHOOT WEAPON. Warrior gains +3 to S.",
         "type_code": "equipment"
@@ -3223,6 +3409,7 @@
         "image_url": "unl/lanechung.jpg",
         "name": "LANE CHUNG",
         "octgn_id": "4abfadaa-476e-4e1a-a50b-e64cb08eef05",
+        "rarity": "U",
         "shoot": "6",
         "text": "PERSONALITY. Lane Chung likes to boast. To attack with him, you must announce it the turn before the attack. Then Lane must attack next turn. You do not have to signify the Defender or the battle tactic.",
         "type_code": "warrior",
@@ -3243,6 +3430,7 @@
         "image_url": "unl/legionnaireofsemai.jpg",
         "name": "LEGIONNAIRE OF SEMAI",
         "octgn_id": "732bfa25-7330-415a-a541-f45f6af7f61b",
+        "rarity": "C2",
         "shoot": "2",
         "text": "FOLLOWER OF SEMAI.",
         "type_code": "warrior",
@@ -3261,6 +3449,7 @@
         "name": "LESSER DOMINATION",
         "octgn_id": "424429ed-1f13-469a-8328-6dae83f1e218",
         "post_play": "x",
+        "rarity": "C1",
         "text": "ART OF CHANGELING. CAST ANY TIME. For every 5 D, you may look at an opponent's hand and discard one of his or her cards.",
         "type_code": "art",
         "value": "e5"
@@ -3278,6 +3467,7 @@
         "name": "LESSER HYPNOSIS",
         "octgn_id": "795055d4-edd5-4665-ac61-9f18546656c5",
         "post_play": "-",
+        "rarity": "C1",
         "text": "ART OF MANIPULATION. COMBAT SPELL. You may change the Defender of the combat to any other warrior in play. The Attacker must be eligible to attack the new Defender.",
         "type_code": "art"
     },
@@ -3294,6 +3484,7 @@
         "name": "LESSER TELEPATHY",
         "octgn_id": "8d24ec5c-c669-4843-a796-e0fb5ce61c68",
         "post_play": "-",
+        "rarity": "C1",
         "text": "ART OF PREMONITION. COMBAT SPELL. You may change the battle tactic used for this combat.",
         "type_code": "art"
     },
@@ -3312,6 +3503,7 @@
         "name": "LEVITATION",
         "octgn_id": "0da5af6f-16d8-41ed-9159-2e03c0255c53",
         "post_play": "-",
+        "rarity": "U",
         "shoot": "1",
         "text": "ART OF KINETICS. PERSONAL COMBAT SPELL. For every 1 D spent, the caster's F, S and A increase by +1.",
         "type_code": "art",
@@ -3330,6 +3522,7 @@
         "image_url": "unl/longshore.jpg",
         "name": "LONGSHORE",
         "octgn_id": "48238742-7dfe-4256-8c23-21a81b0d1fe6",
+        "rarity": "U",
         "text": "THIS CARD MAY BE ADDED TO YOUR SQUAD AS ONE ACTION. MISHIMA CITY. All of your Mishima members gain +2 to their A while LONGSHORE is in play. You may not have two identical Cities in play simultaneously.",
         "type_code": "fortification"
     },
@@ -3346,6 +3539,7 @@
         "name": "LOST PAPERWORK",
         "octgn_id": "4720cb88-4402-4b5b-8573-16096b07dac6",
         "post_play": "-",
+        "rarity": "U",
         "text": "PLAY ON ANY PLAYER AT ANY TIME. Affected player loses 3 Promotion Points.",
         "type_code": "special",
         "value": "-3"
@@ -3363,6 +3557,7 @@
         "name": "LUCKY SHOT",
         "octgn_id": "5fb0ef0f-2823-4c34-bb61-1f74cd089332",
         "post_play": "-",
+        "rarity": "C1",
         "shoot": "2",
         "text": "PLAY ON ANY WARRIOR DURING COMBAT. The affected warrior gains +2 to S during this combat.",
         "type_code": "special"
@@ -3381,6 +3576,7 @@
         "image_url": "unl/machinator.jpg",
         "name": "MACHINATOR",
         "octgn_id": "6067bacf-af5e-4c4c-ae2e-b5650fc516a1",
+        "rarity": "C2",
         "shoot": "3",
         "text": "Immune to the effects of DARK SYMMETRY GIFT cards, but not GIFT OF APOSTLE cards. May never cast Art Spells.",
         "type_code": "warrior",
@@ -3399,6 +3595,7 @@
         "name": "MALFUNCTION!",
         "octgn_id": "4c5f8f3f-fc31-46ce-9763-daae6df06dc7",
         "post_play": "-",
+        "rarity": "C1",
         "text": "PLAY ON ANY WARRIOR AT ANY TIME. One of the affected warrior's weapons or equipment cards, chosen by you, is discarded.",
         "type_code": "special"
     },
@@ -3415,6 +3612,7 @@
         "name": "MANIFEST DESTINY",
         "octgn_id": "cd2efc74-a6be-42a1-b6cd-fdb4db0ddcea",
         "post_play": "+",
+        "rarity": "R",
         "text": "PLAY AT BEGINNING OF YOU DRAW STEP. For the rest of the game, you may Draw cards during your Draw step until there are 10 cards in your hand, but you have to discard cards during the Discard step if you have over 10 cards in your hand.",
         "type_code": "special"
     },
@@ -3431,6 +3629,7 @@
         "name": "MANIPULATIVE EMPATHY",
         "octgn_id": "e6d07ba1-4029-4660-a523-ee6d27ff71e7",
         "post_play": "+",
+        "rarity": "C1",
         "text": "PLAY ON ONE OF YOUR BROTHERHOOD WARRIORS AS ONE ACTION. From now on, all Brotherhood warriors in your Squad may use the Art of Manipulation. If the warrior is killed, this card is discarded.",
         "type_code": "special"
     },
@@ -3448,6 +3647,7 @@
         "name": "MARTIAL TRAINING",
         "octgn_id": "4c6a1296-1192-470c-a40a-d20dd7db60ad",
         "post_play": "+",
+        "rarity": "R",
         "text": "PLAY ON ANY WARRIOR AS 3 ACTIONS. The affected warrior gains +1 to its F for every 2 D spent during combat. This card remains with the warrior.",
         "type_code": "special",
         "value": "e2"
@@ -3467,6 +3667,7 @@
         "image_url": "unl/martianbanshee.jpg",
         "name": "MARTIAN BANSHEE",
         "octgn_id": "b87c3d42-99ce-47a8-84f5-dab2eb68ebdf",
+        "rarity": "C1",
         "shoot": "5",
         "type_code": "warrior",
         "value": "3"
@@ -3485,6 +3686,7 @@
         "image_url": "unl/maxsteiner.jpg",
         "name": "MAX STEINER",
         "octgn_id": "55f4aa01-f985-47c9-a365-ae375f490475",
+        "rarity": "R",
         "shoot": "7",
         "text": "PERSONALITY. CONSIDERED A VENUSIAN RANGER. While Steiner is in play, all of your Venusian Rangers are immune to the effects of Dark Symmetry cards.",
         "type_code": "warrior",
@@ -3503,6 +3705,7 @@
         "name": "MENTAL CONSTITUTION",
         "octgn_id": "eb8d9b56-8a0e-4242-ac0f-5781fbcf6ef9",
         "post_play": "+",
+        "rarity": "U",
         "text": "PLAY ON A DOOMTROOPER AT ANY TIME. The affected warrior is Immune to the effects of Dark Symmetry or Art cards, unless you choose otherwise. You may deem that the warrior is affected by an Art or Dark Symmetry effect on a case-by-case basis. This card remains with the warrior.",
         "type_code": "special"
     },
@@ -3519,6 +3722,7 @@
         "name": "MENTALISM EMPATHY",
         "octgn_id": "7336ab17-253f-44ad-9582-a10a720f4731",
         "post_play": "+",
+        "rarity": "C1",
         "text": "PLAY ON ONE OF YOUR BROTHERHOOD WARRIORS AS ONE ACTION. From now on, all Brotherhood warriors in your Squad may use the Art of Mentalism. If the warrior is killed, this card is discarded.",
         "type_code": "special"
     },
@@ -3536,6 +3740,7 @@
         "name": "MIND MELT",
         "octgn_id": "6e684814-6478-46a1-aa01-74e9fc5d8730",
         "post_play": "+",
+        "rarity": "U",
         "shoot": "2",
         "text": "GIFT OF SEMAI. The warrior gains +2 to its F and S.",
         "type_code": "symmetry"
@@ -3552,6 +3757,7 @@
         "name": "MIND WALL",
         "octgn_id": "98be120e-866f-4410-8854-f055d8d8ddd6",
         "post_play": "-",
+        "rarity": "C1",
         "text": "ART OF CHANGELING. CAST AT ANY TIME, For every 1 D, the affected warrior is immune to the effects of any one Dark Symmetry card until the beginning of your next turn.",
         "type_code": "art",
         "value": "e1"
@@ -3569,6 +3775,7 @@
         "name": "MISCOMMUNICATION",
         "octgn_id": "b8e74153-89bc-4c43-b0a8-8845e15437ef",
         "post_play": "-",
+        "rarity": "U",
         "text": "PLAY IMMEDIATELY AFTER A PLAYER PLAYS ANY CARD. The card just played has no effect on play. It is discarded.",
         "type_code": "special"
     },
@@ -3586,6 +3793,7 @@
         "image_url": "unl/mitchhunter.jpg",
         "name": "MITCH HUNTER",
         "octgn_id": "f50dabc7-053e-437e-87ea-ef0780ba1cb2",
+        "rarity": "R",
         "shoot": "7",
         "text": "PERSONALITY. CONSIDERED AN INFANTRY WARRIOR. While Hunter is in play, all of your Infantry are immune to the effects of Dark Symmetry cards.",
         "type_code": "warrior",
@@ -3605,6 +3813,7 @@
         "image_url": "unl/mortificator.jpg",
         "name": "MORTIFICATOR",
         "octgn_id": "db765a80-c516-49cc-b06d-892fae08c575",
+        "rarity": "C2",
         "shoot": "3",
         "text": "The Mortificators are the Brotherhood's secret assassins. They may conjure the Arts of Kinetics and Manipulation. They may attack any warrior in play regardless of affiliation.",
         "type_code": "warrior",
@@ -3624,6 +3833,7 @@
         "name": "MORTIS SWORD",
         "octgn_id": "bb50488a-b13d-4017-b3f8-cb29030ede98",
         "post_play": "+",
+        "rarity": "U",
         "text": "MAY ONLY BE GIVEN TO A BROTHERHOOD WARRIOR. FIGHT WEAPON. +1 to F. As 1 action you can give 1 Art card that owner can cast to sword. For every Art card with the Sword the Brother's F is another +1.",
         "type_code": "equipment"
     },
@@ -3641,6 +3851,7 @@
         "image_url": "unl/mystic.jpg",
         "name": "MYSTIC",
         "octgn_id": "4bd29a3e-348d-4fb3-97ff-d75654c6b7b6",
+        "rarity": "U",
         "shoot": "4",
         "text": "The Mystic may conjure all Disciples of the Art. Skilled in the use of the Art, a Mystic's mission in life is to detect, locate and combat Dark Legion wherever encountered.",
         "type_code": "warrior",
@@ -3659,6 +3870,7 @@
         "name": "MYSTICAL TRAINING",
         "octgn_id": "81cd87d1-c095-41aa-ad5e-c8e6d4e65834",
         "post_play": "+",
+        "rarity": "R",
         "text": "PLAY ON ONE BROTHERHOOD MEMBER AS THREE ACTIONS. The affected Brother is now able to use all disciplines of the Art. This card remains with the warrior.",
         "type_code": "special"
     },
@@ -3675,6 +3887,7 @@
         "name": "NARROW ESCAPE!",
         "octgn_id": "97740753-8293-465d-aa08-fdc5b2947790",
         "post_play": "-",
+        "rarity": "U",
         "text": "PLAY IMMEDIATELY AFTER ONE OF YOUR WARRIORS IS KILLED. The warrior is not killed, remains at its current status.",
         "type_code": "special"
     },
@@ -3692,6 +3905,7 @@
         "image_url": "unl/necromutant.jpg",
         "name": "NECROMUTANT",
         "octgn_id": "f5e90b8c-0f8d-465b-882b-7b0acfa5f132",
+        "rarity": "C1",
         "shoot": "4",
         "text": "FOLLOWER OF ALGEROTH.",
         "type_code": "warrior",
@@ -3710,6 +3924,7 @@
         "name": "NECROMUTANT FRENZY",
         "octgn_id": "b0e8ca60-1c24-4402-a1a5-08d349a515c6",
         "post_play": "+",
+        "rarity": "U",
         "text": "PLAY AT ANY TIME. For the remainder of the game, all NECROMUTANTS resolve their attacks first when Fighting (not Shooting). If the opponent survives, it may then attack the NECROMUTANT. This has no effect if the opponent is another NECROMUTANT.",
         "type_code": "special"
     },
@@ -3726,6 +3941,7 @@
         "name": "NECROVISUAL LINK",
         "octgn_id": "d2fed095-9a8d-49e5-a9b4-1c180335d54b",
         "post_play": "+",
+        "rarity": "R",
         "text": "GIFT OF ALGEROTH. May only be bestowed on a Nepharite of any Apostle (even non-Algeroth). As one action, you may look at another player's hand.",
         "type_code": "symmetry"
     },
@@ -3742,6 +3958,7 @@
         "name": "NEGATIVE KARMA",
         "octgn_id": "1c087ff9-17e8-44fc-b434-2ba1f560fb87",
         "post_play": "-",
+        "rarity": "R",
         "text": "PLAY ON ANY PLAYER AT ANY TIME. The affected player's Destiny Points pool is emptied.",
         "type_code": "special"
     },
@@ -3758,6 +3975,7 @@
         "name": "NEPHARITE HUNT",
         "octgn_id": "bc038490-d6e7-4021-83b9-c071636b1f65",
         "post_play": "+",
+        "rarity": "R",
         "text": "ASSIGN TO ANY DOOMTROOPER. Kill any Nepharite to complete the mission and receive either four times its V in Destiny Points or twice its V in Promotion Points.",
         "type_code": "mission",
         "value": "2x"
@@ -3776,6 +3994,7 @@
         "image_url": "unl/nephariteofalgeroth.jpg",
         "name": "NEPHARITE OF ALGEROTH",
         "octgn_id": "809533e5-c65e-405c-afdb-205f9b6b3dc7",
+        "rarity": "R",
         "shoot": "5",
         "text": "FOLLOWER OF ALGEROTH. IMMUNE TO THE ART. Generals in the endless armies of the Lord of Dark Technology, these are among the most feared enemies on the battlefield.",
         "type_code": "warrior",
@@ -3795,6 +4014,7 @@
         "image_url": "unl/nephariteofdemnogonis.jpg",
         "name": "NEPHARITE OF DEMNOGONIS",
         "octgn_id": "08f69642-0565-44ee-8dd3-7633730a4240",
+        "rarity": "R",
         "shoot": "5",
         "text": "FOLLOWER OF DEMNOGONIS. IMMUNE TO THE ART. Every 1D it spends on a Dark Symmetry effect is actually worth 2D toward that effect. If wounded, the Nepharite can heal itself by spending 7 D.",
         "type_code": "warrior",
@@ -3814,6 +4034,7 @@
         "image_url": "unl/nephariteofilian.jpg",
         "name": "NEPHARITE OF ILIAN",
         "octgn_id": "84e88b62-191f-4bbd-93f5-a7b7ac7da5f2",
+        "rarity": "R",
         "shoot": "5",
         "text": "FOLLOWER OF ILIAN. IMMUNE TO THE ART. A warrior wounded in a Fight combat by the Nepharite of Ilian is automatically killed.",
         "type_code": "warrior",
@@ -3833,6 +4054,7 @@
         "image_url": "unl/nephariteofmuawijhe.jpg",
         "name": "NEPHARITE OF MUAWIJHE",
         "octgn_id": "5a6e8110-06b9-4724-bca4-b970c3e7bc61",
+        "rarity": "R",
         "shoot": "8",
         "text": "FOLLOWER OF MUAWIJHE. IMMUNE TO THE ART. Warriors wounded by the Nepharite are killed. If the Nepharite kills a warrior, place a SCREAMING LEGIONNAIRE from your collection into your Kohort. You still earn points from the kill.",
         "type_code": "warrior",
@@ -3852,6 +4074,7 @@
         "image_url": "unl/nephariteofsemai.jpg",
         "name": "NEPHARITE OF SEMAI",
         "octgn_id": "7cc2634c-22d7-4d1d-a9cd-02d039acc8b6",
+        "rarity": "R",
         "shoot": "4",
         "text": "FOLLOWER OF SEMAI. IMMUNE TO THE ART. Warriors wounded by the Nepharite are killed. If the Nepharite kills a warrior, place a LEGIONNAIRE OF SEMAI from your collection into your Kohort. You still earn points from the kill.",
         "type_code": "warrior",
@@ -3870,6 +4093,7 @@
         "name": "NIMROD AUTOCANNON",
         "octgn_id": "d259f3dd-1113-4557-b5a0-49daee01c273",
         "post_play": "+",
+        "rarity": "R",
         "shoot": "3",
         "text": "ARTILLERY. SHOOT WEAPON. +3 to S. The warrior may attack two opponents in one attack action. Choose two targets before combat begins. The same warrior may be attacked twice. Treat each attack separately.",
         "type_code": "equipment"
@@ -3887,6 +4111,7 @@
         "name": "NOTED EFFICIENCY",
         "octgn_id": "38c09671-d17e-4519-afa1-f17dd48caa77",
         "post_play": "+",
+        "rarity": "U",
         "text": "PLAY ON ANY NON-CYBERTRONIC DOOMTROOPER AT ANY TIME. The affected warrior is now considered a member of the Cybertronic Corporation in addtion to any memberships it currently holds.",
         "type_code": "special"
     },
@@ -3902,6 +4127,7 @@
         "name": "OUT OF AMMO",
         "octgn_id": "d478fa65-8802-4956-b5a5-a7e0b1a71a80",
         "post_play": "-",
+        "rarity": "C1",
         "text": "PLAY ON AN OPPONENT'S SHOOT OF FIGHT/SHOOT WEAPON DURING COMBAT. The affected weapon may not be used during this combat. The weapon is considered reloaded after the combat is over.",
         "type_code": "special"
     },
@@ -3919,6 +4145,7 @@
         "image_url": "unl/pamafton.jpg",
         "name": "PAM AFTON",
         "octgn_id": "ed8be801-b112-458d-ad2d-92cbcb01bbb7",
+        "rarity": "U",
         "shoot": "5",
         "text": "PERSONALITY. Pam Afton is Lane Chung's partner. If you have both PAM AFTON and LANE CHUNG in play, Lane Chung does not have to \"boast\" before attacking.",
         "type_code": "warrior",
@@ -3937,6 +4164,7 @@
         "name": "PERSONAL ANTI-PERSONNEL MINES",
         "octgn_id": "de578b64-8876-406e-92dc-c973b1cba221",
         "post_play": "+",
+        "rarity": "R",
         "text": "This warrior may automatically kill an opponent by discarding this card and becomming wounded.",
         "type_code": "equipment"
     },
@@ -3953,6 +4181,7 @@
         "name": "PHANTASM",
         "octgn_id": "d6d317cd-41c5-4dde-8dea-10468e03a56f",
         "post_play": "-",
+        "rarity": "U",
         "text": "ART OF KINETICS. PERSONAL COMBAT SPELL. The caster appears like any Brotherhood member in play (for 4 D), any Doomtrooper in play (for 6 D), or any Dark Legion warrior in play (for 10 D). The caster uses the F, S, A and V of the original.",
         "type_code": "art"
     },
@@ -3970,6 +4199,7 @@
         "name": "PORTABLE FORCE SHIELD",
         "octgn_id": "c97bc207-27bd-408a-b33e-63d000843318",
         "post_play": "+",
+        "rarity": "R",
         "text": "CONSIDERED A FORTIFICATION. Warrior gains +6 to A.",
         "type_code": "equipment"
     },
@@ -3986,6 +4216,7 @@
         "name": "PORTAL OF DARK HEALING",
         "octgn_id": "c433a5bc-e16a-4374-b402-ad8ef963624c",
         "post_play": "+",
+        "rarity": "R",
         "text": "GIFT OF ALGEROTH. May be bestowed on a Nepharite of any Apostle (even non-Algeroth). If the Nepharite is wounded it may heal itself as three actions.",
         "type_code": "symmetry"
     },
@@ -4002,6 +4233,7 @@
         "name": "PORTAL OF THE GREAT CONQUEROR",
         "octgn_id": "872ba0bb-3f7f-4499-a69b-51822c66b2fb",
         "post_play": "+",
+        "rarity": "R",
         "text": "ASSIGN TO A NEPHARITE OF ALGEROTH IF A CITADEL OF ALGEROTH IS IN YOUR KOHORT. The Nepharite must kill a Brother of V 3 or more to complete the mission. No points are earned from the killed Brother. Instead, all warriors in play lose the ability to cast the Art. Those added later are not affected.",
         "type_code": "mission"
     },
@@ -4018,6 +4250,7 @@
         "name": "PORTAL OF UNDEATH",
         "octgn_id": "160f151c-2a73-4868-a7f6-06021fe0c4a2",
         "post_play": "+",
+        "rarity": "R",
         "text": "GIFT OF ALGEROTH. ONLY BESTOW ON A NEPHARITE OF ALGEROTH. If the Nepharite kills a warrior, place an UNDEAD LEGIONNAIRE from your collection into your Kohort. You still earn points from the kill.",
         "type_code": "symmetry"
     },
@@ -4035,6 +4268,7 @@
         "name": "PORTENTS OF VICTORY",
         "octgn_id": "8fd9e6b8-c51d-416f-adc5-182ae710b3b5",
         "post_play": "-",
+        "rarity": "U",
         "text": "PLAY IMMEDIATELY AFTER ONE OF YOUR WARRIORS HAS EARNED PROMOTION POINTS. For every Promotion Points just earned, place 2 D into your pool.",
         "type_code": "special",
         "value": "e2"
@@ -4052,6 +4286,7 @@
         "name": "POSITIVE KARMA",
         "octgn_id": "f7a19ab4-46a3-4b0f-9f06-2e14644e184a",
         "post_play": "-",
+        "rarity": "U",
         "text": "PLAY AT ANY TIME. Add 10 D to your Destiny Pool.",
         "type_code": "special",
         "value": "10"
@@ -4069,6 +4304,7 @@
         "name": "POSSESS",
         "octgn_id": "e4853a82-436c-4a34-99c0-4f5a56747afc",
         "post_play": "+",
+        "rarity": "R",
         "text": "GIFT OF SEMAI. A Doomtrooper killed by this warrior is not discarded. Instead it become a Heretic of the Dark Legion. Move it to its controller's Kohort. Dark Symmetry cards may be played on the new Heretic.",
         "type_code": "symmetry"
     },
@@ -4086,6 +4322,7 @@
         "name": "POWERFUL BLOW",
         "octgn_id": "51384bd8-db66-4f97-b62c-550a1445ac76",
         "post_play": "-",
+        "rarity": "C1",
         "text": "PLAY ON ANY WARRIOR DURING COMBAT. The affected warrior gains +2 to F during this combat.",
         "type_code": "special"
     },
@@ -4102,6 +4339,7 @@
         "name": "PREMONITION",
         "octgn_id": "c27bfdb4-7455-46f8-bcfe-2e4cf9781930",
         "post_play": "-",
+        "rarity": "U",
         "text": "ART OF PREMONITION. COMBAT SPELL. YOU MAY change the Defender in an attack to any of your other warriors.",
         "type_code": "art"
     },
@@ -4118,6 +4356,7 @@
         "name": "PREMONITION EMPATHY",
         "octgn_id": "aa3a7ed2-1897-4993-a420-cbf54a4fd0c3",
         "post_play": "+",
+        "rarity": "C1",
         "text": "PLAY ON ONE OF YOUR BROTHERHOOD WARRIORS AS ONE ACTION. From now on, all Brotherhood warriors in your Squad may use the Art of Premonition. If the warrior is killed, this card is discarded.",
         "type_code": "special"
     },
@@ -4134,6 +4373,7 @@
         "name": "PRESENCE",
         "octgn_id": "57e66dd0-2f48-4e70-bd26-e90734c9ce44",
         "post_play": "-",
+        "rarity": "C1",
         "text": "ART OF PREMONITION. COMBAT SPELL. MAY ONLY BE CAST IF AFFECTED WARRIOR IS FIGHTING A DARK LEGION WARRIOR. For every 1 D, the affected warrior gains +1 to A.",
         "type_code": "art",
         "value": "e1"
@@ -4152,6 +4392,7 @@
         "image_url": "unl/pretorianstalker.jpg",
         "name": "PRETORIAN STALKER",
         "octgn_id": "69eba39a-229e-442b-a9bc-9747296af1e2",
+        "rarity": "R",
         "shoot": "3",
         "text": "FOLLOWER OF ALGEROTH. IMMUNE TO THE ART. May not have Dark Symmetry cards. If you have two or more Pretorian Stalkers in your Kohort, add +2 to F and S when either is in combat.",
         "type_code": "warrior",
@@ -4169,6 +4410,7 @@
         "name": "PROFICIENCY",
         "octgn_id": "5645af34-3e11-4189-9528-b0bba5d3ef11",
         "post_play": "-",
+        "rarity": "C1",
         "text": "ART OF MENTALISM. CAST AT THE BEGINNING OF YOUR TURN. All spells this caster casts this turn cost 1 D less to cast or improve (minimum of 1 D). For instance, a spell that costs 3 D to give +1 to A would now only cost 2 D per +1.",
         "type_code": "art",
         "value": "e-1"
@@ -4186,6 +4428,7 @@
         "name": "PROVE YOUR VALOR",
         "octgn_id": "e5c3abdc-f87f-43ae-a0e4-a616d7f27eb4",
         "post_play": "+",
+        "rarity": "R",
         "text": "ASSIGN TO ANY WARRIOR. Choose a warrior with a V of at least twice this warrior's. This warrior must kill that warrior and survive the combat to complete the mission and earn points equal to three times the V of the slain warrior.",
         "type_code": "mission"
     },
@@ -4202,6 +4445,7 @@
         "name": "PSYCHO-SCANNER",
         "octgn_id": "35ffaab1-938b-42a0-81c1-4229df468e47",
         "post_play": "+",
+        "rarity": "R",
         "text": "If this warrior is attacked, it may immediately go into cover. Flip the warrior card face down for free.",
         "type_code": "equipment"
     },
@@ -4219,6 +4463,7 @@
         "name": "PUNISHER BLADE",
         "octgn_id": "144d365a-9038-4d60-b9e0-c996596b534e",
         "post_play": "+",
+        "rarity": "U",
         "text": "FIGHT WEAPON. This warrior gains +1 to F.",
         "type_code": "equipment"
     },
@@ -4236,6 +4481,7 @@
         "name": "PUNISHER HANDGUN",
         "octgn_id": "23dcbc3b-ece6-45cf-9eb1-bdd87f287727",
         "post_play": "+",
+        "rarity": "U",
         "shoot": "1",
         "text": "HANDGUN. FIGHT/SHOOT WEAPON. Warrior gains +1 to F and S. A warrior may attack using two handguns.",
         "type_code": "equipment"
@@ -4254,6 +4500,7 @@
         "name": "PURPLE SHARK",
         "octgn_id": "c0b22829-ee23-492a-b8a9-8980262ea532",
         "post_play": "+",
+        "rarity": "R",
         "shoot": "4",
         "text": "AIRSHIP AND VECHICLE. A WARRIOR CAN ONLY HAVE 1 VEHICLE. While flying this airship, the warrior's S and A are +4. For 5 D, it may escape a Fight combat. When the warrior uses the Purple Shark, flip a coin. If heads, the warrior is wounded, and the Purple Shark is discarded.",
         "type_code": "equipment"
@@ -4270,6 +4517,7 @@
         "name": "RADAR SCANNER",
         "octgn_id": "257fca7c-c02f-4ad6-8fe7-304581e244de",
         "post_play": "+",
+        "rarity": "C1",
         "text": "GIVE TO ANY WARRIOR. This warrior may not be attacked by airships.",
         "type_code": "equipment"
     },
@@ -4287,6 +4535,7 @@
         "image_url": "unl/ramsaircavalry.jpg",
         "name": "RAMS AIR CAVALRY",
         "octgn_id": "05255276-970c-44c9-bf92-48357f47e9a3",
+        "rarity": "U",
         "shoot": "4",
         "text": "CONSIDERED AN AIRSHIP AND A VEHICLE. Can only take part in shoot combats. Can't seek cover or use equipment. Attacks ignore opponent's fortifications.",
         "type_code": "warrior",
@@ -4306,6 +4555,7 @@
         "image_url": "unl/razide.jpg",
         "name": "RAZIDE",
         "octgn_id": "ea320161-fec5-4ed0-aa9b-cdd6b00ddf59",
+        "rarity": "R",
         "shoot": "2",
         "text": "FOLLOWER OF ALGEROTH.",
         "type_code": "warrior",
@@ -4324,6 +4574,7 @@
         "name": "RECALLED",
         "octgn_id": "c9c8f6d4-f86d-4dd1-848b-691847fbcb40",
         "post_play": "+",
+        "rarity": "R",
         "text": "ASSIGN TO ANY CYBERTRONIC DOOMTROOPER. This warrior must kill a Cybertronic Doomtrooper to complete the mission and earn twice the normal V. The mission-holder may attack non-Personality Cybertronic Doomtroopers until mission is fulfilled or otherwise removed.",
         "type_code": "mission"
     },
@@ -4341,6 +4592,7 @@
         "name": "REINFORCEMENTS!",
         "octgn_id": "20365d47-2be6-446d-8502-3de6a6156588",
         "post_play": "-",
+        "rarity": "U",
         "shoot": "+x",
         "text": "PLAY ON A WARRIOR DURING COMBAT. For every 7 D, one of your warriors assists the affected warrior this combat. The F's and S's of the group are added together. The opponent may choose which warrior to attach. Doomtrooper may not reinforce the Dark Legion and vice versa, nor may reinforcements be of the same corp as the opponent.",
         "type_code": "special",
@@ -4361,6 +4613,7 @@
         "name": "REINSTATEMENT",
         "octgn_id": "af63d9d0-76de-4f2b-af50-f3866cd0079d",
         "post_play": "+",
+        "rarity": "U",
         "shoot": "1",
         "text": "PLAY ON ANY FREELANCER AS ONE ACTION. The warrior is redeemed. It is now a member of its home corp again. It can now earn Promotion Points and has full acces to all cards specific to its home corporation. Its F, S, A and V are +1. Keep this card with the warrior. If it loses membership again, this card (and its effects) are discarded.",
         "type_code": "special",
@@ -4379,6 +4632,7 @@
         "name": "REPENTANCE",
         "octgn_id": "877849c1-428d-4221-a099-db0229f88115",
         "post_play": "-",
+        "rarity": "R",
         "text": "PLAY AT ANY TIME. All heretics in play are discarded.",
         "type_code": "special"
     },
@@ -4395,6 +4649,7 @@
         "name": "REPUTATION",
         "octgn_id": "f62057eb-469d-47c2-8bd7-76c0469bd0c1",
         "post_play": "+",
+        "rarity": "R",
         "text": "PLAY ON ANY WARRIOR AS THREE ACTIONS. The affected warrior gains +3 to its V. This card remains with the warrior.",
         "type_code": "special",
         "value": "3"
@@ -4412,6 +4667,7 @@
         "name": "RESIST ELEMENTS",
         "octgn_id": "bce7a763-36ab-4569-a614-4b808144e5a4",
         "post_play": "-",
+        "rarity": "C1",
         "text": "ART OF ELEMENTS. PERSONAL COMBAT SPELL. Caster automatically gains +1 to A. For every 2 D, the caster gains +1 to A.",
         "type_code": "art",
         "value": "e2"
@@ -4429,6 +4685,7 @@
         "name": "RESIST PAIN",
         "octgn_id": "e278330e-54cc-471a-a995-edfcea753b83",
         "post_play": "+",
+        "rarity": "C1",
         "text": "DARK SYMMETRY GIFT. The warrior gains +1 to A.",
         "type_code": "symmetry"
     },
@@ -4445,6 +4702,7 @@
         "name": "RETRAINING",
         "octgn_id": "cd0697ef-805d-4419-88e6-c25a6418ae8a",
         "post_play": "x",
+        "rarity": "U",
         "text": "PLAY THIS CARD AS ONE ACTION. Your earned Promotion Points and Destiny Points may be freely exchanged in either direction at a ratio of 5 Destiny Points to 1 Promotion Points.",
         "type_code": "special",
         "value": "1:5"
@@ -4462,6 +4720,7 @@
         "name": "RETREAT!",
         "octgn_id": "4fcc4002-5f2a-4e80-b705-b50f140945d9",
         "post_play": "-",
+        "rarity": "C1",
         "text": "PLAY DURING COMBAT. Your warrior withdraws from the battle. Being partially victorious, your opponent received Promotion Points equal to half of the V (round up) of your warrior.",
         "type_code": "special",
         "value": "/2"
@@ -4478,6 +4737,7 @@
         "name": "REVELATION",
         "octgn_id": "a6612603-74f2-4bce-9115-0cec6bd75037",
         "post_play": "-",
+        "rarity": "U",
         "text": "PLAY ON ANY DOOMTROOPER AT ANY TIME. The affected warrior may immediately cast any Art spell. You must immediately play the Art card that the warrior is casting. You must still pay any costs listed on the Art card.",
         "type_code": "special"
     },
@@ -4495,6 +4755,7 @@
         "name": "REVERBERATING SHARPENER",
         "octgn_id": "c9d9da17-3fb0-47fd-bf83-b4bec7e67beb",
         "post_play": "+",
+        "rarity": "C1",
         "text": "ATTACH TO ANY FIGHT, BUT NOT A FIGHT/SHOOT WEAPON. Warrior gains +1 to F.",
         "type_code": "equipment"
     },
@@ -4511,6 +4772,7 @@
         "name": "REVERSAL OF FORTUNE",
         "octgn_id": "3f565a06-950b-444f-bf9d-6f4f59a6752c",
         "post_play": "-",
+        "rarity": "R",
         "text": "PLAY AT ANY TIME. You may switch the Destiny Points in your pool with the Destiny Points in another player's pool.",
         "type_code": "special"
     },
@@ -4528,6 +4790,7 @@
         "image_url": "unl/revisor.jpg",
         "name": "REVISOR",
         "octgn_id": "d70ef46d-b582-4331-b93a-9f37a4b201e7",
+        "rarity": "C1",
         "shoot": "3",
         "text": "Revisors may conjure the Arts of Manipulation and Mentalism.",
         "type_code": "warrior",
@@ -4547,6 +4810,7 @@
         "image_url": "unl/rogue.jpg",
         "name": "ROGUE",
         "octgn_id": "e4ef9eb5-8738-472a-a399-f3a7492951a9",
+        "rarity": "U",
         "shoot": "3",
         "text": "You may not add the Rouge to your Squad if you have other Imperial warriors there already, and Imperial warriors may not be added to your Squad if the Rouge is already there.",
         "type_code": "warrior",
@@ -4565,6 +4829,7 @@
         "name": "RUTHLESS EFFICIENCY",
         "octgn_id": "33522c51-aa7b-4ea1-b5a2-8a5ca6b3eb4d",
         "post_play": "x",
+        "rarity": "R",
         "text": "PLAY AT THE END OF YOUR TURN. You may immediately take another turn.",
         "type_code": "special"
     },
@@ -4581,6 +4846,7 @@
         "name": "SABOTAGE!",
         "octgn_id": "dae3ebf4-07c4-4d1c-9b26-aaafdad707a7",
         "post_play": "-",
+        "rarity": "R",
         "text": "PLAY AT ANY TIME. Choose one of the five corporations, the Brotherhood, or the Dark Legion. All members of that organization in play must discard all of their equipment cards.",
         "type_code": "special"
     },
@@ -4598,6 +4864,7 @@
         "image_url": "unl/sacredwarrior.jpg",
         "name": "SACRED WARRIOR",
         "octgn_id": "1161e0e8-e4fd-4c6c-afd9-ea9d8a7a3796",
+        "rarity": "C1",
         "shoot": "3",
         "text": "Sacred Warriors may conjure the Arts of Premonition and Exorcism.",
         "type_code": "warrior",
@@ -4618,6 +4885,7 @@
         "image_url": "unl/samurai.jpg",
         "name": "SAMURAI",
         "octgn_id": "15424c25-a751-494a-ac73-901441dc4d7e",
+        "rarity": "C2",
         "shoot": "3",
         "type_code": "warrior",
         "value": "3"
@@ -4635,6 +4903,7 @@
         "image_url": "unl/sandorado.jpg",
         "name": "SAN DORADO",
         "octgn_id": "902389e0-be19-4b39-9bcf-0b9727010932",
+        "rarity": "U",
         "text": "THIS CARD MAY BE ADDED TO YOUR SQUAD AS ONE ACTION. CAPITOL CITY. All of your Capitol members gain +2 to their A while SAN DORADO is in play. You may not have two identical Cities in play simultaneously.",
         "type_code": "fortification"
     },
@@ -4652,6 +4921,7 @@
         "name": "SCALPER",
         "octgn_id": "3460971f-69ca-4103-aa6c-f8837f729e73",
         "post_play": "+",
+        "rarity": "U",
         "text": "MAY ONLY BE GIVEN TO A MISHIMA DOOMTROOPER. FIGHT WEAPON. The warrior gains +1 to its F, and -1 is applied to its opponent's F in combat due to the horrific nature of the weapon.",
         "type_code": "equipment"
     },
@@ -4669,6 +4939,7 @@
         "image_url": "unl/screaminglegionnaire.jpg",
         "name": "SCREAMING LEGIONNAIRE",
         "octgn_id": "83881e49-887d-4bb8-9dc9-9b4c215001ea",
+        "rarity": "C2",
         "shoot": "2",
         "text": "FOLLOWER OF MUAWIJHE. NO DARK SYMMETRY CARDS ALLOWED. Once per game as 3 actions you can invoke WINDS OF INSANITY. For each of your Screaming Legionnaires, every warrior in play takes 1 point of damage. If this is equal to or greater than a warriors A is it wounded.",
         "type_code": "warrior",
@@ -4688,6 +4959,7 @@
         "name": "SCYTHE OF SEMAI",
         "octgn_id": "4ad07147-5c7e-4d3d-928f-2286b1183682",
         "post_play": "+",
+        "rarity": "R",
         "shoot": "4",
         "text": "MAY ONLY BE GIVEN TO A DARK LEGION WARRIOR. FIGHT/SHOOT WEAPON. Warrior gains +4 to F and S. Warriors wounded by the Scyth of Semai are automatically killed. If given to a Pretorian Stalker, that warrior gains +8 to S instead of +4.",
         "type_code": "equipment"
@@ -4707,6 +4979,7 @@
         "image_url": "unl/sealion.jpg",
         "name": "SEA LION",
         "octgn_id": "6718527d-cad0-4cf7-b8a0-6fe370d23b93",
+        "rarity": "C2",
         "shoot": "4",
         "type_code": "warrior",
         "value": "4"
@@ -4725,6 +4998,7 @@
         "image_url": "unl/seangallagher.jpg",
         "name": "SEAN GALLAGHER",
         "octgn_id": "5909bc16-9ec4-4577-bd89-184865b33d88",
+        "rarity": "R",
         "shoot": "3",
         "text": "PERSONALITY. CONSIDERED A CLANSMAN. If you attack with Sean Gallagher, you must attack a Dark Legion warrior if there is one available. While Gallagher is in play all of your Clansmen warriors are immune to the effects of Dark Symmetry cards.",
         "type_code": "warrior",
@@ -4742,6 +5016,7 @@
         "image_url": "unl/secretheadquarters.jpg",
         "name": "SECRET HQ",
         "octgn_id": "f51e4082-1fe6-4532-8bc2-57f22bd4707b",
+        "rarity": "R",
         "text": "Spend 5 D and and put this card in play as one action. If you don't have any warriors in play, enemy warriors may not attack you. You must spend 5 D during your Draw step each turn to keep this card in play.",
         "type_code": "fortification",
         "value": "e5"
@@ -4759,6 +5034,7 @@
         "name": "SECRET MISSION",
         "octgn_id": "07ecb826-b990-406b-bb43-cbbb64e36e0d",
         "post_play": "-",
+        "rarity": "U",
         "text": "You may conduct a secret mission. When the mission is done, play its card and this card. You must be able to prove that you completed the mission fairly and legally. You gain all of the benefits of the completed mission.",
         "type_code": "special"
     },
@@ -4774,6 +5050,7 @@
         "name": "SEND DREAMS",
         "octgn_id": "1b66e62f-ad56-4f19-87d2-848ae8ce2559",
         "post_play": "+",
+        "rarity": "U",
         "text": "GIFT OF MUAWIJHE. By spending 5 D at any time, this warrior may send horrific dreams to any enemy warrior, causing it to go into cover. Flip the affected warrior face down.",
         "type_code": "symmetry",
         "value": "5"
@@ -4792,6 +5069,7 @@
         "image_url": "unl/sgtmcbride.jpg",
         "name": "SGT. MCBRIDE",
         "octgn_id": "811858cb-5f8e-436b-9e92-50baf7200070",
+        "rarity": "U",
         "shoot": "5",
         "text": "PERSONALITY. CONSIDERED A BLOOD BERET. While McBride is in play, all Blood Berets (but not McBride himself) gain +1 to F and  S.",
         "type_code": "warrior",
@@ -4810,6 +5088,7 @@
         "name": "SHARPSHOOTER",
         "octgn_id": "d5f5ead7-a980-402d-9ad5-5b820cd0688c",
         "post_play": "+",
+        "rarity": "R",
         "shoot": "1",
         "text": "PLAY ON ANY WARRIOR AS 3 ACTIONS. The affected warrior gains +1 to its S for every 2 D spent during combat. This card remains with the warrior.",
         "type_code": "special",
@@ -4829,6 +5108,7 @@
         "name": "SHERMAN .74 MODEL 13 \"BOLTER\"",
         "octgn_id": "968620fc-8daa-42f6-99fe-196d23d3dbe5",
         "post_play": "+",
+        "rarity": "U",
         "shoot": "2",
         "text": "HANDGUN. FIGHT/SHOOT WEAPON. Warrior gains +2 to F and S. A warrior may attack using two handguns.",
         "type_code": "equipment"
@@ -4846,6 +5126,7 @@
         "name": "SHIELD",
         "octgn_id": "18aed85e-1c95-41fd-a837-8d9df482d7ac",
         "post_play": "-",
+        "rarity": "C1",
         "text": "ART OF KINETICS. PERSONAL COMBAT SPELL. For every 1 D spent, caster gains +1 to A",
         "type_code": "art",
         "value": "e1"
@@ -4863,6 +5144,7 @@
         "name": "SHRIEKETH",
         "octgn_id": "a70e3316-7d55-4988-a205-5398295c2e2b",
         "post_play": "+",
+        "rarity": "R",
         "shoot": "1",
         "text": "MAY ONLY BE GIVEN TO A DARK LEGION WARRIOR. SHOOT WARRIOR. +1 TO S. Warriors killed with the Shrieketh become Heretics under your control. Place a Heretic card from your collection into your Kohort. If you can't, still discard the warrior.",
         "type_code": "equipment"
@@ -4881,6 +5163,7 @@
         "name": "SHROUD",
         "octgn_id": "13456b59-696d-433e-a9bb-22ac02b450c1",
         "post_play": "+",
+        "rarity": "R",
         "shoot": "x",
         "text": "GIFT OF SEMAI. As one action no combat may take place until the begining of your next turn.",
         "type_code": "symmetry"
@@ -4898,6 +5181,7 @@
         "name": "SIEGE OF THE CITADEL",
         "octgn_id": "bc859dce-e89c-44d7-b3a6-c45df9213870",
         "post_play": "+",
+        "rarity": "R",
         "text": "ASSIGN TO ANY PLAYER. Kill a warrior protected by a Citadel to earn twice its normal V.",
         "type_code": "mission"
     },
@@ -4914,6 +5198,7 @@
         "name": "SLEEP",
         "octgn_id": "63f1a004-47f6-4ea5-a01d-e0b20dcc3cd7",
         "post_play": "+",
+        "rarity": "R",
         "text": "GIFT OF MUAWIJHE. As one action, this warrior may put any enemy warrior to sleep. The affected warrior may not attack or be attacked until the begining of your next turn.",
         "type_code": "symmetry"
     },
@@ -4930,6 +5215,7 @@
         "name": "SMG MK. III \"INTERCEPTOR\"",
         "octgn_id": "21a80851-a182-4c60-836e-d2d3ad41b827",
         "post_play": "+",
+        "rarity": "U",
         "shoot": "2",
         "text": "SUB-MACHINE GUN. SHOOT WEAPON. Warrior gains +2 to S.",
         "type_code": "equipment"
@@ -4947,6 +5233,7 @@
         "name": "SMOKE BOMB",
         "octgn_id": "23bd75e1-10e0-4149-a183-4195b472845c",
         "post_play": "+",
+        "rarity": "U",
         "text": "A warrior may detonate a smoke bomb by discarding this card. The warrior may retreat from a combat before it begins, end the attack action.",
         "type_code": "equipment"
     },
@@ -4963,6 +5250,7 @@
         "name": "SNUB THE CARDINAL",
         "octgn_id": "2ff8d9db-951c-4681-affc-2fbd6c32c322",
         "post_play": "+",
+        "rarity": "R",
         "text": "ASSIGN TO ANY PLAYER. Kill a Brotherhood warrior to complete the mission and earn 3 extra Promotion Points. Alternatively, turn a Brotherhood member into a Heretic and earn 10 Promotion Points.",
         "type_code": "mission",
         "value": "10"
@@ -4980,6 +5268,7 @@
         "name": "SPECIAL COMMENDATION",
         "octgn_id": "fe59aeb7-acf7-4dbc-b14c-8244a2d76829",
         "post_play": "+",
+        "rarity": "U",
         "text": "PLAY ON ANY NON-CAPITOL DOOMTROOPER AT ANY TIME. The affected warrior is now considered a member of the Capitol Corporation, in addition to any memberships it currently holds.",
         "type_code": "special"
     },
@@ -4996,6 +5285,7 @@
         "name": "SPEED",
         "octgn_id": "a9b5f498-2d5c-4c2c-9fdc-0f89c52c8642",
         "post_play": "-",
+        "rarity": "U",
         "text": "ART OF MENTALISM. PERSONAL COMBAT SPELL. The caster strikes at its opponent first. If the caster wounds the opponent, the combat is over. If not, then check if the caster is wounded. This all happens after playing all combat modifiers.",
         "type_code": "art"
     },
@@ -5014,6 +5304,7 @@
         "name": "SPIKED BARRICADE",
         "octgn_id": "c0983435-2af8-4d06-86c1-3b3e463ca77d",
         "post_play": "+",
+        "rarity": "C1",
         "text": "GIVE THIS CARD TO A WARRIOR AS ONE ACTION. The warrior is protected by a spike-covered wall and gains +1 to A. The warrior can not make a Fight attack but may be attacked by one. You can give this card to a different warrior as one action.",
         "type_code": "fortification"
     },
@@ -5030,6 +5321,7 @@
         "name": "SPOKE IN THE COG",
         "octgn_id": "cc38002c-3375-46fc-a901-e7d79c367764",
         "post_play": "+",
+        "rarity": "U",
         "text": "PLAY ON ANY NON-BAUHAUS DOOMTROOPER AT ANY TIME. The affected warrior is now considered a member of the Bauhaus Corporation in addition to any membership it currently holds.",
         "type_code": "special"
     },
@@ -5046,6 +5338,7 @@
         "name": "SPY IN THE RANKS",
         "octgn_id": "6f4934c1-88da-46ab-b7fe-37c7b7082673",
         "post_play": "-",
+        "rarity": "R",
         "text": "PLAY WHEN AN OPPONENT'S WARRIOR COMPLETES A MISSION. You gain all the points the warrior earned,and its controller receives nothing. Also, the warrior is discarded.",
         "type_code": "special"
     },
@@ -5062,6 +5355,7 @@
         "name": "STIGMATA",
         "octgn_id": "a0d85804-f539-42bc-977a-c6deb95083eb",
         "post_play": "+",
+        "rarity": "R",
         "text": "PLAY ANY TIME ON A HERETIC WITH AT LEAST 1 DARK SYMMETRY GIFT. The Dark Symmetry mutates the Heretic. It is forever a member of the Dark Legion and may receive any Dark Symmetry gift from any Dark Apostle at any time at no action cost.",
         "type_code": "special"
     },
@@ -5078,6 +5372,7 @@
         "name": "STRATEGIC RESTRUCTURING",
         "octgn_id": "bdce6265-4748-4123-b6f3-59140c722b09",
         "post_play": "-",
+        "rarity": "U",
         "text": "PLAY AT ANY TIME DURING YOUR TURN, EXCEPT DURING COMBAT. You may return one of your cards in play to your hand.",
         "type_code": "special"
     },
@@ -5093,6 +5388,7 @@
         "name": "STRENGTH OF WILL",
         "octgn_id": "2e6915b4-cc4a-4a02-82f3-a8e7c031e8d6",
         "post_play": "-",
+        "rarity": "C1",
         "text": "PLAY AT ANY TIME. Your warriors are not affected by Dark Symmetry cards until the beginning of your next turn. Your Dark Legion warriors may still use their Dark Symmetry gifts as normal.",
         "type_code": "special"
     },
@@ -5108,6 +5404,7 @@
         "name": "STRIKE",
         "octgn_id": "38e4cd49-875f-4b05-97d1-25b59fa4e810",
         "post_play": "-",
+        "rarity": "C1",
         "shoot": "1",
         "text": "ART OF KINETICS. PERSONAL COMBAT SPELL. For every 1 D spent, the caster gains +1 to S.",
         "type_code": "art",
@@ -5125,6 +5422,7 @@
         "name": "SUGGESTION",
         "octgn_id": "1f4d7db3-9591-476d-b0c4-d0ac2f38bae6",
         "post_play": "-",
+        "rarity": "U",
         "text": "ART OF MANIPULATION. Cast during an opponent's attack action, before the Attacker is announced. Tell the affected player which of his or her warriors is the Attacker for this combat. That warrior must attack, but its player picks the Defender.",
         "type_code": "art"
     },
@@ -5141,6 +5439,7 @@
         "name": "SUICIDE MISSION",
         "octgn_id": "5dd8699e-eeb9-4b4e-989d-0fb953afe284",
         "post_play": "+",
+        "rarity": "R",
         "text": "ASSIGN TO ANY WARRIOR. If this warrior is killed, the mission is completed. The player controlling the warrior earns Promotion Points equal to the warrior's V, and 3 more if the warrior killed another warrior in its final battle.",
         "type_code": "mission"
     },
@@ -5157,6 +5456,7 @@
         "image_url": "unl/suicidewarhead.jpg",
         "name": "SUICIDE WARHEAD",
         "octgn_id": "0ac07db0-ec2e-4271-9b44-a2d6fb698b63",
+        "rarity": "U",
         "text": "IMMUNE TO ALL DARK SYMMETRY CARDS. May not use equipment. The Suicide Warhead is killed if it becomes wounded.",
         "type_code": "warrior",
         "value": "3"
@@ -5176,6 +5476,7 @@
         "image_url": "unl/sunsetstriker.jpg",
         "name": "SUNSET STRIKER",
         "octgn_id": "1ab5f3fd-87b3-4b8f-b22a-905c4176c78b",
+        "rarity": "C2",
         "shoot": "3",
         "type_code": "warrior",
         "value": "3"
@@ -5193,6 +5494,7 @@
         "name": "SURPRISE ATTACK",
         "octgn_id": "16912569-197c-4da3-9ad2-b559e17d80d1",
         "post_play": "-",
+        "rarity": "U",
         "text": "PLAY DURING COMBAT. The combat is not simultaneous. Resolve the Attacker's attack first. If the Defender is wounded, the combat is over. If not, resolve the Defender's attack. This all happens after playing all combat modifiers.",
         "type_code": "special"
     },
@@ -5209,6 +5511,7 @@
         "name": "SURPRISE INVASION!",
         "octgn_id": "38399fbc-aaea-46d4-8cd4-570b1e949a09",
         "post_play": "-",
+        "rarity": "R",
         "text": "PLAY AT ANY TIME. As one action, one Fortification in play, chosen by you, is discarded.",
         "type_code": "special"
     },
@@ -5225,6 +5528,7 @@
         "name": "SWORN VENGEANCE",
         "octgn_id": "45e8d477-184e-408f-82b8-2f0edd6f8676",
         "post_play": "-",
+        "rarity": "U",
         "text": "PLAY IMMEDIATELY AFTER ANY MISHIMA WARRIOR IS KILLED IN COMBAT. The warrior who killed the Mishima warrior receives a wound. If it is killed, you earn the Value points. If more than one Sworn Vengeance card is played, only the first one played takes effect.",
         "type_code": "special"
     },
@@ -5243,6 +5547,7 @@
         "name": "T-32 \"WOLFCLAW\" JBT",
         "octgn_id": "60581f1e-70b8-48f0-957b-53ddc3072f38",
         "post_play": "+",
+        "rarity": "R",
         "shoot": "2x",
         "text": "MAY BE GIVEN TO ANY BAUHAUS DOOMTROOPER. TANK AND VEHICLE. A WARRIOR CAN ONLY HAVE 1 VEHICLE. With this tank, the warrior's F, S, A and V are doubled. No other weapons may be used when using the Wolfclaw.",
         "type_code": "equipment",
@@ -5261,6 +5566,7 @@
         "name": "TACTICAL ADVANTAGE",
         "octgn_id": "5bcb17f3-1aa9-443c-9bf8-1281ae3fa7e2",
         "post_play": "-",
+        "rarity": "U",
         "text": "PLAY DURING COMBAT. You may change the battle tactics for this combat.",
         "type_code": "special"
     },
@@ -5276,6 +5582,7 @@
         "name": "TAINTED CONJURER",
         "octgn_id": "fc77caa5-1729-4bca-8716-a02a6cd5f025",
         "post_play": "+",
+        "rarity": "U",
         "text": "GIVE TO ANY HERETIC ANY TIME. For the remainder of the game, the affected Heretic may cast any Art spell if you first spend 3 D for each casting.",
         "type_code": "special",
         "value": "e3"
@@ -5293,6 +5600,7 @@
         "name": "TAINTED!",
         "octgn_id": "4f43ad02-fd3d-464e-bdac-b94471950747",
         "post_play": "+",
+        "rarity": "R",
         "text": "PLAY ANY TIME ON ANY DOOMTROOPER. This warrior is now a Dark Legion spy. It keeps all Doomtrooper memberships, but it is also considered a Heretic of the Dark Legion. Dark Symmetry cards can be played on it.",
         "type_code": "special"
     },
@@ -5310,6 +5618,7 @@
         "name": "TAKE AIM",
         "octgn_id": "9a995560-c277-4ce0-9f39-aeb56a767383",
         "post_play": "-",
+        "rarity": "C1",
         "shoot": "1",
         "text": "PLAY DURING COMBAT. Warrior gains +1 to F and S.",
         "type_code": "special"
@@ -5327,6 +5636,7 @@
         "name": "TAKE COVER",
         "octgn_id": "aa667a85-0b29-458e-99a3-4d589b7e5154",
         "post_play": "-",
+        "rarity": "C1",
         "text": "PLAY ON YOUR WARRIOR DURING COMBAT IF IT IS THE DEFENDER. Your warrior hastily finds cover. Flip its cards over. The hasty cover only gives a +3 to A. After the combat, the warrior remains in cover, and the cover becomes normal.",
         "type_code": "special"
     },
@@ -5344,6 +5654,7 @@
         "image_url": "unl/tatsu.jpg",
         "name": "TATSU",
         "octgn_id": "7018a0ab-6a98-4d50-9664-bc4aa65f433a",
+        "rarity": "R",
         "shoot": "6",
         "text": "PERSONALITY. CONSIDERED A SAMURAI. While Tatsu is in play, all of your Samurai are immune to the effects of Dark Symmetry cards.",
         "type_code": "warrior",
@@ -5362,6 +5673,7 @@
         "name": "TELEPATHIC MESSAGE",
         "octgn_id": "63ccb83f-e26a-4b2d-8aad-292bdc398740",
         "post_play": "-",
+        "rarity": "U",
         "text": "ART OF MANIPULATION. Cast any time. You may tell an opponent that he or she must attack a specific warrior during his or her next turn. That player gets to choose which of his or her warriors to attack with.",
         "type_code": "art"
     },
@@ -5377,6 +5689,7 @@
         "name": "TELEPORTATION",
         "octgn_id": "3e476f3d-bbdc-4ed9-b474-d48ed35341ca",
         "post_play": "-",
+        "rarity": "C1",
         "text": "ART OF KINETICS. CAST ANY TIME. For every 1 D spent, you may transfer any one equipment card from any Doomtrooper to any other Doomtrooper in play in the same Squad. Your equipment cards may also be teleported back into your hand.",
         "type_code": "art"
     },
@@ -5393,6 +5706,7 @@
         "name": "TELESCOPIC SIGHT",
         "octgn_id": "cd17ef8b-791c-48ff-8244-9aef4316f3c6",
         "post_play": "+",
+        "rarity": "C1",
         "shoot": "1",
         "text": "ATTACH TO ANY SHOOT WEAPON. Warrior gains +1 to S.",
         "type_code": "equipment"
@@ -5411,6 +5725,7 @@
         "image_url": "unl/templar.jpg",
         "name": "TEMPLAR",
         "octgn_id": "e1840b4a-f8af-43e7-9c6a-ad9e90c5b745",
+        "rarity": "U",
         "shoot": "7",
         "text": "FOLLOWER OF ILIAN.",
         "type_code": "warrior",
@@ -5429,6 +5744,7 @@
         "name": "TERROR",
         "octgn_id": "d9de037b-59d0-42a9-bc2f-f3ee77309484",
         "post_play": "+",
+        "rarity": "C1",
         "text": "DARK SYMMETRY GIFT. Opponents of this warrior are stricken with nearly paralyzing fear which causes -1 to their A.",
         "type_code": "symmetry"
     },
@@ -5445,6 +5761,7 @@
         "image_url": "unl/thecathedral.jpg",
         "name": "THE CATHEDRAL",
         "octgn_id": "a69d74bd-2d5d-4733-b737-a78d8ce2e111",
+        "rarity": "U",
         "text": "THIS CARD MAY BE ADDED TO YOUR SQUAD AS ONE ACTION. BROTHERHOOD CITY. All of your Brotherhood members gain +2 to their A while THE CATHEDRAL is in play. You may not have two identical Cathedrals in play simultaneously.",
         "type_code": "fortification"
     },
@@ -5461,6 +5778,7 @@
         "image_url": "unl/thehq.jpg",
         "name": "THE HQ",
         "octgn_id": "a5f9e6d2-ca8f-4f5f-81c6-f0f97bbb0ca0",
+        "rarity": "U",
         "text": "THIS CARD MAY BE ADDED TO YOUR SQUAD AS ONE ACTION. CYBERTRONIC CITY. All of your Cybertronic members gain +2 to their A while THE HQ is in play. You may not have two identical Cities in play simultaneously.",
         "type_code": "fortification"
     },
@@ -5479,6 +5797,7 @@
         "name": "TICKER",
         "octgn_id": "8f1318bf-a516-49a8-91e6-d09e9665cd86",
         "post_play": "+",
+        "rarity": "C1",
         "shoot": "2",
         "text": "GIVE TO ANY NON-BROTHERHOOD DOOMTROOPER. The warrior may take Ticker during combat by discarding this card. Once taken, the warrior's F and S are +2, and it may not be wounded or killed. After the combat, Ticker wears off, and the warrior automatically receives one wound.",
         "type_code": "equipment"
@@ -5496,6 +5815,7 @@
         "name": "TIME DEATH",
         "octgn_id": "d521a073-c15b-4896-ac50-ba5668c2e2a8",
         "post_play": "+",
+        "rarity": "R",
         "text": "GIFT OF ILIAN. This warrior always gets the upper hand in battle. Resolve its attack first. If it wounds its opponent, the combat is over. If not, then resolve the opponent's attack. This all happens after playing all combat modifiers.",
         "type_code": "symmetry"
     },
@@ -5512,6 +5832,7 @@
         "name": "TIME ROT",
         "octgn_id": "1c7a6c3a-3711-48ac-96a0-81c5b6a9775c",
         "post_play": "+",
+        "rarity": "R",
         "text": "GIFT OF DEMNOGONIS. As 1 action, this warrior may age an enemy warrior. Place a marker on the affected warrior. For every 3 age markers, that warrior suffers a -1 F, S, A and V. If the warriors V reaches zero, discard the warrior.",
         "type_code": "symmetry"
     },
@@ -5528,6 +5849,7 @@
         "name": "TRAITOR DISCOVERED",
         "octgn_id": "17e213e4-5378-47f3-ab4c-a19b298702b6",
         "post_play": "+",
+        "rarity": "R",
         "text": "ASSIGN TO ANY BAUHAUS DOOMTROOPER. This warrior must kill a Bauhaus Doomtrooper to complete the mission and earn twice the normal V. The mission-holder may attack non-Personality Bauhaus Doomtrooper until mission is fulfilled or otherwise removed.",
         "type_code": "mission",
         "value": "2x"
@@ -5546,6 +5868,7 @@
         "image_url": "unl/trencher.jpg",
         "name": "TRENCHER",
         "octgn_id": "4c8195db-17c6-4354-b110-1d6838288eca",
+        "rarity": "C2",
         "shoot": "2",
         "text": "The Trencher may dig a FOXHOLE as three actions. If this is done, take a FOXHOLE card from your collection and place it with this warrior. The Trencher is then in the FOXHOLE.",
         "type_code": "warrior",
@@ -5564,6 +5887,7 @@
         "name": "TRUE GATE",
         "octgn_id": "97836be3-dae9-4070-847c-938a5507dedf",
         "post_play": "+",
+        "rarity": "R",
         "text": "GIFT OF ILIAN. For every 10 D, this warrior may call a reinforcement from your Kohort to assit in a battle it is involved in. Your warriors add their attack ratings together. The Defender chooses which warrior to attack.",
         "type_code": "symmetry"
     },
@@ -5579,6 +5903,7 @@
         "name": "TRUE PATH",
         "octgn_id": "d5e88daa-8695-4a26-a565-ddad7cf7e865",
         "post_play": "-",
+        "rarity": "C1",
         "text": "ART OF PREMONITION. CAST DURING YOUR DRAW STEP BEFORE DRAWING. For every 3 D draw 1 extra card. Keep 1 of the cards and discard the rest. Before drawing decide how many extra cards to draw.",
         "type_code": "art",
         "value": "e3"
@@ -5596,6 +5921,7 @@
         "name": "TWIST OF FATE",
         "octgn_id": "421fcd41-2336-49e8-b19f-a516933ce472",
         "post_play": "-",
+        "rarity": "U",
         "text": "PLAY AT ANY TIME YOU HAVE 5 PROMOTION POINTS OR MORE. Flip a coin. If the result is heads, you gain 20 D. If the result is tails, you lose 5 Promotion Points.",
         "type_code": "special",
         "value": "5"
@@ -5614,6 +5940,7 @@
         "image_url": "unl/twitcher.jpg",
         "name": "TWITCHER",
         "octgn_id": "63525de2-1db0-4634-b809-436b113f04c9",
+        "rarity": "C1",
         "shoot": "2",
         "text": "If the Twitcher is equipped with TICKER, its F and S ratings increase by +1 in addition to the effects of TICKER. Twitcher is not wounded by TICKER.",
         "type_code": "warrior",
@@ -5633,6 +5960,7 @@
         "image_url": "unl/undeadlegionnaire.jpg",
         "name": "UNDEAD LEGIONNAIRE",
         "octgn_id": "52b8a17f-a6a8-4ebf-96e4-957182ba7396",
+        "rarity": "C2",
         "shoot": "1",
         "text": "FOLLOWER OF ALGEROTH. Undead Legionnaires are zombies; humans killed in battle and reanimated with the help of the Dark Symmetry.",
         "type_code": "warrior",
@@ -5651,6 +5979,7 @@
         "name": "UNDERCOVER AGENTS",
         "octgn_id": "3b4da540-e234-4a1a-84ff-559572573e2e",
         "post_play": "-",
+        "rarity": "R",
         "text": "PLAY AS ONE ACTION. For every 3 D, one mission card in play, chosen by you, is discarded.",
         "type_code": "special"
     },
@@ -5668,6 +5997,7 @@
         "image_url": "unl/valerieduval.jpg",
         "name": "VALERIE DUVAL",
         "octgn_id": "24988e13-8d9e-420d-9020-4dc5e9db86f5",
+        "rarity": "R",
         "shoot": "4",
         "text": "PERSONALITY. CONSIDERED A MEMBER OF THE ÉTOILES MOURANTES. While Valerie Duval is in play, all of your Étoiles Mourantes are immune to the effeckts of Dark Symmetry cards.",
         "type_code": "warrior",
@@ -5687,6 +6017,7 @@
         "image_url": "unl/valkyrie.jpg",
         "name": "VALKYRIE",
         "octgn_id": "97930dea-0822-43e5-bc3b-2645b5cd8d93",
+        "rarity": "C1",
         "shoot": "3",
         "text": "Valkyries may conjure the Arts of Changeling and Premonition.",
         "type_code": "warrior",
@@ -5706,6 +6037,7 @@
         "name": "VASSHT",
         "octgn_id": "2514586a-d64e-41f5-ba01-87fcee553c21",
         "post_play": "+",
+        "rarity": "U",
         "text": "MAY ONLY BE GIVEN TO A DARK LEGION WARRIOR. FIGHT WEAPON. Once equipped, the Vassht may never be given to another warrior, and this warrior may never own another Fight or Fight/Shoot weapon. It gives the warrior +2 to its F.",
         "type_code": "equipment"
     },
@@ -5723,6 +6055,7 @@
         "image_url": "unl/venusianranger.jpg",
         "name": "VENUSIAN RANGER",
         "octgn_id": "5d7c20dc-db58-44ee-885c-79cbc6a62df0",
+        "rarity": "C2",
         "shoot": "3",
         "text": "Venusian Rangers are immune to the effects of all DARK SYMMETRY GIFT cards, but not GIFT OF APOSTLE cards.",
         "type_code": "warrior",
@@ -5742,6 +6075,7 @@
         "name": "VIOLATOR SWORD",
         "octgn_id": "65906441-876f-43eb-9985-ec07ebcf26ae",
         "post_play": "+",
+        "rarity": "U",
         "text": "MAY ONLY BE GIVEN TO A BAUHAUS Doomtrooper. FIGHT WEAPON. The warrior gains +2 to F.",
         "type_code": "equipment"
     },
@@ -5758,6 +6092,7 @@
         "name": "WELL-ROUNDED SQUAD",
         "octgn_id": "7d845c6f-3321-47ce-9c61-2f1f0cf33e19",
         "post_play": "+",
+        "rarity": "R",
         "text": "ASSIGN TO ANY PLAYER. Keep at least one warrior from each of the five Corporations and the Brotherhood in your squad for one full turn (from the end of this turn until the end of your next turn) to complete the mission and earn 10 Promotion Points.",
         "type_code": "mission",
         "value": "5"
@@ -5775,6 +6110,7 @@
         "name": "WHISPERS OF HERESY",
         "octgn_id": "cc340ae0-7ab2-4415-a1fc-b11ac1c87c71",
         "post_play": "+",
+        "rarity": "R",
         "text": "ASSIGN TO ANY MORTIFICATOR. This warrior must kill a Brotherhood warrior to complete the mission and earn twice the normal V. The killed warrior may not be a Personality.",
         "type_code": "mission"
     },
@@ -5792,6 +6128,7 @@
         "name": "WIND OF INSANITY",
         "octgn_id": "e6b63817-8c2e-475e-8d7f-2af6014d24ce",
         "post_play": "+",
+        "rarity": "U",
         "text": "GIFT OF MUAWIJHE. Once per turn, as 1 action, this warrior may invoke Winds of Insanity. For every 5 D, each warrior in play takes 1 point damage. If this is equal to or greater than a warrior's A, it is wounded. Warriors killed this way earn points. This doesn't count as an attack.",
         "type_code": "symmetry",
         "value": "e5"
@@ -5810,6 +6147,7 @@
         "image_url": "unl/wolfbanelightcavalry.jpg",
         "name": "WOLFBANE LIGHT CAVALRY",
         "octgn_id": "462a232d-1e61-41fa-8594-5343b48b315c",
+        "rarity": "U",
         "shoot": "4",
         "text": "Opponents of the Wolfbane Cavalry suffer a -3 to A unless the opponent is protected by a fortification, in which case their A is increased by +3.",
         "type_code": "warrior",
@@ -5829,6 +6167,7 @@
         "image_url": "unl/yojimbo.jpg",
         "name": "YOJIMBO",
         "octgn_id": "f2febb6c-4a6e-457f-a91b-bac354b6799c",
+        "rarity": "R",
         "shoot": "5",
         "text": "PERSONALITY. CONSIDERED A HATAMOTO. While Yojimbo is in play, all of your Hatamoto are immune to the effects of Dark Symmetry cards.",
         "type_code": "warrior",
@@ -5848,6 +6187,7 @@
         "image_url": "unl/youngguard.jpg",
         "name": "YOUNG GUARD",
         "octgn_id": "a5872271-8424-451e-92b9-89bab3a7a3db",
+        "rarity": "C1",
         "shoot": "4",
         "text": "Young Guards may never voluntarily seek cover, and they refuse to gain the benefits of fortifications.",
         "type_code": "warrior",
@@ -5867,6 +6207,7 @@
         "image_url": "unl/zenithiansoulslayer.jpg",
         "name": "ZENITHIAN SOULSLAYER",
         "octgn_id": "812d4e6d-87c1-4548-9bbb-4bf5a0b96836",
+        "rarity": "U",
         "shoot": "2",
         "text": "FOLLOWER OF MUAWIJHE.",
         "type_code": "warrior",
