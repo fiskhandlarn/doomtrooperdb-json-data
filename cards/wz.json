@@ -1008,6 +1008,7 @@
         "type_code": "special"
     },
     {
+        "armor": "0",
         "clarification_text": "VENUSIAN WARZONE. ADD TO YOUR SQUAD OR KOHORT. SEA LIONS defending from the Graveton Archipelago gain an additional +4 to F, S and A.",
         "code": "03055",
         "deck_limit": 5,
@@ -1052,6 +1053,7 @@
         "faction_code": [
             "general"
         ],
+        "fight": "0",
         "illustrator": "Paul Bonner",
         "image_url": "wz/greatrustdesert.jpg",
         "name": "GREAT RUST DESERT",
@@ -1283,6 +1285,7 @@
         "name": "INFESTED ASTEROID",
         "octgn_id": "b85190b3-8081-4590-9dda-475c1ecfa04f",
         "rarity": "C2",
+        "shoot": "0",
         "text": "ASTEROID BELT WARZONE. ADD TO YOUR KOHORT IF YOU ARE A GRAND TACTICIAN. Warriors defending from this Warzone against attacking Imperial warriors gain an additional +5 to F, S, A and V.",
         "type_code": "warzone",
         "value": "2"
@@ -2425,11 +2428,13 @@
         "faction_code": [
             "general"
         ],
+        "fight": "0",
         "illustrator": "Studio Parente",
         "image_url": "wz/warmedic.jpg",
         "name": "WAR MEDIC",
         "octgn_id": "856043f0-d661-4861-aa7b-7742cb16dfb7",
         "rarity": "C3",
+        "shoot": "0",
         "text": "May never use any Equipment cards or be an Attacker. May heal any wounded Doomtrooper as three actions.",
         "type_code": "warrior",
         "value": "3"

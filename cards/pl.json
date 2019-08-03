@@ -259,6 +259,7 @@
         "value": "4"
     },
     {
+        "armor": "0",
         "clarification_text": "DARK EDEN WARZONE. ADD TO YOUR OUTPOST. Only Crescentia-affiliated warriors may defend from this Warzone (unless permitted by another card). Warriors using Beasts while defending from this Warzone gain an additional + to F, S and A.",
         "code": "07015",
         "deck_limit": 5,
@@ -274,7 +275,8 @@
         "rarity": "C1",
         "shoot": "2",
         "text": "DARK EDEN WARZONE. ADD TO YOUR OUTPOST. Only Crescentia-affiliated warriors may defend from this Warzone (unless permitted by another card). Warzones using Beasts while defendeing from this Warzone gain an additional +3 to F, S and A.",
-        "type_code": "warzone"
+        "type_code": "warzone",
+        "value": "0"
     },
     {
         "armor": "7",
@@ -450,6 +452,7 @@
         "name": "CRESCENTIAN TWOTUSK",
         "octgn_id": "0953f995-0592-443d-91b4-28291b6ccbd8",
         "rarity": "U2",
+        "shoot": "0",
         "text": "GIVE TO A CRESCENTIA WARRIOR.",
         "type_code": "beast",
         "value": "4"
@@ -491,6 +494,7 @@
         "value": "2"
     },
     {
+        "armor": "0",
         "clarification_text": "GIVE TO A CRESCENTIA WARRIOR. As three actions, another non-BEAST Crescentia warrior in the same Combat Area may jump on the Mammoth's back (it may not jump off). It will hold three warriors. They add their F, S, A and V together and are considered a single warrior during combat, but may be affected by cards individually. If discarded the warriors separate.",
         "code": "07027",
         "deck_limit": 5,
@@ -498,13 +502,16 @@
         "faction_code": [
             "crescentia"
         ],
+        "fight": "0",
         "illustrator": "Paul Bonner",
         "image_url": "pl/eclipsemammoth.jpg",
         "name": "ECLIPSE MAMMOTH",
         "octgn_id": "5ddfc238-8c53-4fa8-95cf-e818c89c9011",
         "rarity": "C1",
+        "shoot": "0",
         "text": "GIVE TO A CRESCENTIA WARRIOR. As three actions, another non-Beast Crescentia warrior in your Outpost may jump on the Mammoth's back (it may not jump off). It will hold three warriors. They add F, S, A and V together and are considered a single warrior during combat, but may be affected by cards individually. If discarded the warriors seperate.",
-        "type_code": "beast"
+        "type_code": "beast",
+        "value": "0"
     },
     {
         "clarification_text": "PLAY AT ANY TIME. Until the beginning of your next turn, you may Transfer non-Beast, non-VEHICLE Tribal warriors to and from your Squad/Kohort (as one action each as normal). While in the Squad, they are considered DOOMTROOPERS as well as Tribal warriors. While in the Kohort they are considered Dark Legion HERETICS as well as Tribal warriors.",
@@ -538,8 +545,10 @@
         "name": "EQUINE",
         "octgn_id": "09db8bd3-b996-4bd3-b010-6965588fdf84",
         "rarity": "C3",
+        "shoot": "0",
         "text": "GIVE TO A LUTHERAN TRIAD WARRIOR. The warrior is now also considered a CAVALIER in addition to any other designations.",
-        "type_code": "beast"
+        "type_code": "beast",
+        "value": "0"
     },
     {
         "clarification_text": "Give to any ISLAND TEAM MEMBER or SKULL SEEKER as two actions. One of four KEY-CODE SKULLS. If the warrior has possession of all four KEY-CODE SKULLS, it may automatically kill all the warriors in any one Area (except your own) as three actions (ignore affiliations). This uses your Tactical Action and points are earned.",
@@ -1123,7 +1132,8 @@
         "rarity": "U2",
         "shoot": "-4",
         "text": "GIVE TO A TEMPLAR WARRIOR. A warrior with a Marine Serett may not be attacked with AIRSHIPS. If given to a TEMPLAR MARINE, it provides +4 to F and A instead.",
-        "type_code": "beast"
+        "type_code": "beast",
+        "value": "0"
     },
     {
         "armor": "9",
@@ -1300,11 +1310,13 @@
         "faction_code": [
             "lutheran"
         ],
+        "fight": "0",
         "illustrator": "Marcus Thorell",
         "image_url": "pl/northwesterneurope.jpg",
         "name": "NORTHWESTERN EUROPE",
         "octgn_id": "7092c4cb-7e45-42b9-91dd-b222b9bcc12f",
         "rarity": "C1",
+        "shoot": "0",
         "text": "DARK EDEN WARZONE. ADD TO YOUR OUTPOST. Only Lutheran Triad-affiliated warriors may defend from this Warzone (unless permitted by another card). Warzones defending from this Warzone gain an additional +X to F, S and A, where X is the base V of ONE of your non-combating Lutheran Triad warriors you discard during combat.",
         "type_code": "warzone",
         "value": "1"
@@ -1740,6 +1752,7 @@
         "name": "RIVETBULL",
         "octgn_id": "32084893-439c-4bcd-ae6b-aecc33260a3f",
         "rarity": "C1",
+        "shoot": "0",
         "text": "GIVE TO A RASPUTIN WARRIOR.",
         "type_code": "beast",
         "value": "2"
@@ -1929,6 +1942,7 @@
         "name": "SOUTHERN EUROPE",
         "octgn_id": "16ae242a-8efa-45c8-bf8f-af2c6a2b9fe4",
         "rarity": "C1",
+        "shoot": "0",
         "text": "DARK EDEN WARZONE. ADD TO YOUR OUTPOST. Only Templars-affiliated warriors may defend from this Warzone (unless permitted by another card). A warrior defending from this Warzone gains an additional +3 to F, S and A if its opponent is another Tribal warrior.",
         "type_code": "warzone",
         "value": "2"
@@ -1960,13 +1974,16 @@
         "faction_code": [
             "crescentia"
         ],
+        "fight": "0",
         "illustrator": "Paul Bonner",
         "image_url": "pl/supportartilleryox.jpg",
         "name": "SUPPORT ARTILLERY OX",
         "octgn_id": "e8bbf8f0-5a88-44d1-bb91-8fc5749226c0",
         "rarity": "C1",
+        "shoot": "0",
         "text": "GIVE TO A CRESCENTIA WARRIOR. A warrior with an Ox may attack a PLAYER as two actions, even if the opponent has warriors in play. This is considered an attack action. If successful the warrior only gains 3 Promotion Points.",
-        "type_code": "beast"
+        "type_code": "beast",
+        "value": "0"
     },
     {
         "armor": "6",

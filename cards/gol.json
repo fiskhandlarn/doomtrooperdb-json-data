@@ -231,6 +231,7 @@
         "octgn_id": "8c8dd034-cee2-4a9c-894f-2196d9903ebd",
         "post_play": "+",
         "rarity": "C1",
+        "shoot": "0",
         "text": "ARMOR. MAY ONLY BE GIVEN TO A DARK LEGION WARRIOR. A warrior may only have one suit of ARMOR. The warrior's base F is doubled, its base S becomes 0, and it gains +5 to A. The warrior may not use any other Equipment with the Carcass Suit.",
         "type_code": "equipment"
     },

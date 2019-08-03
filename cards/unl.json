@@ -5444,6 +5444,7 @@
         "type_code": "mission"
     },
     {
+        "armor": "0",
         "clarification_text": "COMPLETE SYMMETRY IMMUNITY. May never use Equipment. The Suicide Warhead is killed if it becomes wounded.",
         "code": "01300",
         "deck_limit": 5,
@@ -5457,6 +5458,7 @@
         "name": "SUICIDE WARHEAD",
         "octgn_id": "0ac07db0-ec2e-4271-9b44-a2d6fb698b63",
         "rarity": "U",
+        "shoot": "0",
         "text": "IMMUNE TO ALL DARK SYMMETRY CARDS. May not use equipment. The Suicide Warhead is killed if it becomes wounded.",
         "type_code": "warrior",
         "value": "3"

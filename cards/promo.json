@@ -280,7 +280,8 @@
         "rarity": "P",
         "shoot": "-",
         "text": "PLAY WHENEVER AN OPPONENT ADDS A WARRIOR. This card replaces the added warrior, which is reshuffled into its player's Draw Pile. The Bitch may never participate in combat but is considered a warrior and a PERSONALITY. While in a player's Squad/Kohort, no more warriors may be added to it.",
-        "type_code": "special"
+        "type_code": "special",
+        "value": "0"
     },
     {
         "armor": "6",
