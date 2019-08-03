@@ -80,7 +80,7 @@
         "name": "GOLGOTHA–THE WARRIOR PRINCESS",
         "octgn_id": "d70d8ccc-8c1d-4f43-932b-0c436b9bc611",
         "rarity": "P",
-        "shoot": "-",
+        "shoot": "–",
         "text": "FOLLOWER AND NEPHARITE OF ALGEROTH. PERSONALITY. May never participate in a Shoot combat or be in cover. May only be wounded by a Doomtrooper equipped with any Relic.",
         "type_code": "warrior",
         "value": "12"
@@ -263,7 +263,7 @@
         "type_code": "symmetry"
     },
     {
-        "armor": "-",
+        "armor": "–",
         "clarification_text": "PLAY IMMEDIATELY AFTER AN OPPONENT MUSTERS ANY WARRIOR. This card replaces that warrior on the table. Warrior is returned to its owner's hand. The Bitch is considered a NONCOMBATANT PERSONALITY WARRIOR. While in a player's Combat Area, no more warriors may be added to it. As three actions, any player may annihilate the Bitch.",
         "code": "08016",
         "deck_limit": 0,
@@ -271,14 +271,14 @@
         "faction_code": [
             "legion"
         ],
-        "fight": "-",
+        "fight": "–",
         "illustrator": "Simon Bisley",
         "image_url": "promo/primalbitch.jpg",
         "name": "PRIMAL BITCH",
         "octgn_id": "46e7a173-f47e-4e95-b714-eea388338e58",
         "post_play": "+",
         "rarity": "P",
-        "shoot": "-",
+        "shoot": "–",
         "text": "PLAY WHENEVER AN OPPONENT ADDS A WARRIOR. This card replaces the added warrior, which is reshuffled into its player's Draw Pile. The Bitch may never participate in combat but is considered a warrior and a PERSONALITY. While in a player's Squad/Kohort, no more warriors may be added to it.",
         "type_code": "special",
         "value": "0"

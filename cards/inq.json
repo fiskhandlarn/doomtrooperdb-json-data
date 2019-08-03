@@ -74,7 +74,7 @@
         "value": "3"
     },
     {
-        "armor": "-",
+        "armor": "–",
         "clarification_text": "PERSONALITY. APOSTLE. NONCOMBATANT. While in play, your Dark Legion warriors may be equipped with any equipment card, regardless of affiliation requirements, at any time and with no action cost. Algeroth may also discard any equipment card in play as three actions.",
         "code": "02005",
         "deck_limit": 5,
@@ -82,13 +82,13 @@
         "faction_code": [
             "legion"
         ],
-        "fight": "-",
+        "fight": "–",
         "illustrator": "Studio Parente",
         "image_url": "inq/algerothapostleofwar.jpg",
         "name": "ALGEROTH–APOSTLE OF WAR",
         "octgn_id": "ef8d0956-1628-4ed9-a964-959f8d46cce8",
         "rarity": "U1",
-        "shoot": "-",
+        "shoot": "–",
         "text": "PERSONALITY. APOSTLE. May never participate in combat or be in cover. While in play, your Dark Legion warriors may be equipped with any Equipment card, regardless of affiliation requirements, at any time and with no action cost. Algeroth may also discard any Equipment card in play as three actions.",
         "type_code": "warrior",
         "value": "20"
@@ -536,7 +536,7 @@
         "rarity": "U1",
         "text": "ADD TO YOUR SQUAD AS ONE ACTION. While in play, your earned Destiny Points and Promotion Points may not be manipulated by any player but you. You may only have one Cardinal's Bank in play at any one time.",
         "type_code": "fortification",
-        "value": "-"
+        "value": "–"
     },
     {
         "code": "02030",
@@ -796,7 +796,7 @@
         "value": "3"
     },
     {
-        "armor": "-",
+        "armor": "–",
         "clarification_text": "PERSONALITY. APOSTLE. NONCOMBATANT. As three actions, may discard any DOOMTROOPER in play by paying its modified V in D. No points are earned.",
         "code": "02044",
         "deck_limit": 5,
@@ -804,13 +804,13 @@
         "faction_code": [
             "legion"
         ],
-        "fight": "-",
+        "fight": "–",
         "illustrator": "Studio Parente",
         "image_url": "inq/demnogonisthebefouler.jpg",
         "name": "DEMNOGONIS–THE BEFOULER",
         "octgn_id": "c19baafe-6275-4fe5-a630-f4de6bb2cb30",
         "rarity": "U1",
-        "shoot": "-",
+        "shoot": "–",
         "text": "PERSONALITY. APOSTLE. May never participate in combat or be in cover. While in play, as three actions, you may discard any Doomtrooper in play by paying its V in D. You do not earn any points for this.",
         "type_code": "warrior",
         "value": "20"
@@ -1497,7 +1497,7 @@
         "value": "5"
     },
     {
-        "armor": "-",
+        "armor": "–",
         "clarification_text": "PERSONALITY. APOSTLE. NONCOMBATANT. While in play, your Dark Legion warriors may receive any MAJOR GIFT of any Apostle at any time with no action cost. While in play may cancel any SYMMETRY IMMUNITY (MINOR or COMPLETE) at any time.",
         "code": "02082",
         "deck_limit": 5,
@@ -1505,13 +1505,13 @@
         "faction_code": [
             "legion"
         ],
-        "fight": "-",
+        "fight": "–",
         "illustrator": "Studio Parente",
         "image_url": "inq/ilianmistressofthevoid.jpg",
         "name": "ILIAN–MISTRESS OF THE VOID",
         "octgn_id": "7c11d340-eb51-4cca-8598-c912a37e1e8a",
         "rarity": "U1",
-        "shoot": "-",
+        "shoot": "–",
         "text": "PERSONALITY. APOSTLE. May never participate in combat or be in cover. While in play, your Dark Legion warriors may receive any Gift of any Apostle at any time with no action cost. Ilian may cancel any immunity against the Dark Symmetry at any time.",
         "type_code": "warrior",
         "value": "20"
@@ -1770,7 +1770,7 @@
         "value": "3"
     },
     {
-        "armor": "-",
+        "armor": "–",
         "clarification_text": "PERSONALITY. APOSTLE. NONCOMBATANT. While in play, all your Dark Legion warriors in play have FIRST STRIKE.",
         "code": "02097",
         "deck_limit": 5,
@@ -1778,13 +1778,13 @@
         "faction_code": [
             "legion"
         ],
-        "fight": "-",
+        "fight": "–",
         "illustrator": "Studio Parente",
         "image_url": "inq/muawijhelordofvisions.jpg",
         "name": "MUAWIJHE–LORD OF VISIONS",
         "octgn_id": "5ae27ad1-7c51-4ecc-902e-ba53f0079228",
         "rarity": "U1",
-        "shoot": "-",
+        "shoot": "–",
         "text": "PERSONALITY. APOSTLE. May never participate in combat or be in cover. While in play, all Dark Legion warriors attack their opponents first in combat. If opponent survives, it may strike back.",
         "type_code": "warrior",
         "value": "20"
@@ -1967,7 +1967,7 @@
         "rarity": "C1",
         "text": "ART OF MENTALISM. PERSONAL COMBAT SPELL. All warriors involved in this combat are immediately discarded. No points are earned.",
         "type_code": "art",
-        "value": "-"
+        "value": "–"
     },
     {
         "clarification_text": "MAJOR GIFT OF ILIAN. Choose any non-Personality warrior in play. While bestowed, this warrior has the special abilities (not ratings) written on the choosen warrior's card. You may only choose the plagiarized warrior when playing this card, and it may never be changed.",
@@ -2071,7 +2071,7 @@
         "rarity": "C1",
         "text": "ART OF KINETICS. PERSONAL COMBAT SPELL. The caster forces its opponent to retreat, immediately ending the combat and wounding the opponent and the caster. Warriors killed in this manner do not earn points.",
         "type_code": "art",
-        "value": "-"
+        "value": "–"
     },
     {
         "clarification_text": "GIVE TO ANY DOOMTROOPER. FIGHT/SHOOT WEAPON. Warrior gains +2 to F and S. If given to a FREELANCER or HERETIC, the warrior gains +5 to F and S instead.",
@@ -2223,7 +2223,7 @@
         "value": "3"
     },
     {
-        "armor": "-",
+        "armor": "–",
         "clarification_text": "PERSONALITY. APOSTLE. NONCOMBATANT. While in play, all DOOMTROOPERS in play are allowed to attack any other DOOMTROOPER in play (not in the same Combat Area), and they must pay 4D to attack Dark Legion warriors.",
         "code": "02122",
         "deck_limit": 5,
@@ -2231,13 +2231,13 @@
         "faction_code": [
             "legion"
         ],
-        "fight": "-",
+        "fight": "–",
         "illustrator": "Studio Parente",
         "image_url": "inq/semailordofspite.jpg",
         "name": "SEMAI–LORD OF SPITE",
         "octgn_id": "570c5013-ac7d-4ab4-8e43-fbf7523f6e35",
         "rarity": "U1",
-        "shoot": "-",
+        "shoot": "–",
         "text": "PERSONALITY. APOSTLE. May never participate in combat or be in cover. While in play, Doomtroopers are allowed to attack any other Doomtrooper in play (not in the same Squad), and they must pay 4 D to attack Dark Legion warriors.",
         "type_code": "warrior",
         "value": "20"
@@ -2615,7 +2615,7 @@
         "type_code": "special"
     },
     {
-        "armor": "-",
+        "armor": "–",
         "clarification_text": "PERSONALITY. NONCOMBATANT. The Great Darkness; Lord of all Apostles. While in play, all Dark Legion warriors in play are SLAYERS when combating DOOMTROOPERS.",
         "code": "02144",
         "deck_limit": 5,
@@ -2623,13 +2623,13 @@
         "faction_code": [
             "legion"
         ],
-        "fight": "-",
+        "fight": "–",
         "illustrator": "Studio Parente",
         "image_url": "inq/thatwhichisnottobenamed.jpg",
         "name": "THAT WHICH IS NOT TO BE NAMED",
         "octgn_id": "3a4d3862-9e66-4cf7-b533-1a43f22932b1",
         "rarity": "U1",
-        "shoot": "-",
+        "shoot": "–",
         "text": "PERSONALITY. The Great Darkness; Lord of all Apostles. May never participate in combat or be in cover. While in play, any Doomtrooper wounded by a Dark Legion warrior is automatically killed.",
         "type_code": "warrior",
         "value": "25"

@@ -800,7 +800,7 @@
         "value": "10"
     },
     {
-        "armor": "-",
+        "armor": "–",
         "clarification_text": "PERSONALITY. FOLLOWER AND NEPHARITE OF ALGEROTH. BLESSED (and may cast spells on any warrior). May never participate in a Shoot combat or be in cover. May only be wounded by a DOOMTROOPER equipped with any Relic.",
         "code": "04047",
         "deck_limit": 0,
@@ -808,13 +808,13 @@
         "faction_code": [
             "legion"
         ],
-        "fight": "-",
+        "fight": "–",
         "illustrator": "Simon Bisley",
         "image_url": "mort/golgothaunleashed.jpg",
         "name": "GOLGOTHA UNLEASHED",
         "octgn_id": "b27241e6-be3a-4ce8-a4fc-d6bd8f6fcef5",
         "rarity": "U2",
-        "shoot": "-",
+        "shoot": "–",
         "text": "FOLLOWER AND NEPHARITE OF ALGEROTH. PERSONALITY. May never participate in a Shoot combat or be in cover. May only be wounded by a Doomtrooper equipped with any Relic. May cast any Art spell on any warrior.",
         "type_code": "warrior",
         "value": "12"
@@ -1699,7 +1699,7 @@
         "value": "e3"
     },
     {
-        "armor": "-",
+        "armor": "–",
         "clarification_text": "PERSONALITY. NONCOMBATANT. While in play, all Brotherhood warriors in play are SLAYERS when combating Dark Legion warriors, and are BLESSED. As FOUR actions, the Spirit will discard any APOSTLE.",
         "code": "04098",
         "deck_limit": 5,
@@ -1707,13 +1707,13 @@
         "faction_code": [
             "brotherhood"
         ],
-        "fight": "-",
+        "fight": "–",
         "illustrator": "Studio Parente",
         "image_url": "mort/spiritofnathaniel.jpg",
         "name": "SPIRIT OF NATHANIEL",
         "octgn_id": "4c8230b8-db9c-408c-8efc-ba89f6bf4162",
         "rarity": "U2",
-        "shoot": "-",
+        "shoot": "–",
         "text": "PERSONALITY. May never participate in combat or be in cover. While in play, all Brotherhood warriors in play may cast all Art spells, and automatically kill any Dark Legion warrior they wound in combat. As FOUR actions, the Spirit will discard any APOSTLE.",
         "type_code": "warrior",
         "value": "30"

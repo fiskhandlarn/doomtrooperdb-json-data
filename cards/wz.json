@@ -731,7 +731,7 @@
         "type_code": "equipment"
     },
     {
-        "armor": "-",
+        "armor": "–",
         "clarification_text": "FOLLOWER OF ALGEROTH. NONCOMBATANT. If your FOLLOWER OF ALGEROTH wounds (not kills) a DOOMTROOPER and survives the combat, the Justifier may IMPRISON him. The prisoner's attached cards are discarded. Prisoners are NONCOMBATANTS. If the Justifier is discarded, all its prisoners return to their Combat Areas.",
         "code": "03040",
         "deck_limit": 5,
@@ -739,13 +739,13 @@
         "faction_code": [
             "legion"
         ],
-        "fight": "-",
+        "fight": "–",
         "illustrator": "Studio Parente",
         "image_url": "wz/eaonianjustifier.jpg",
         "name": "EAONIAN JUSTIFIER",
         "octgn_id": "e80b3a22-8b9d-4793-a345-523b3f6af782",
         "rarity": "U1",
-        "shoot": "-",
+        "shoot": "–",
         "text": "FOLLOWER OF ALGEROTH. May never participate in combat or be in cover. If any of your FOLLOWERS OF ALGEROTH wounds (not kills) a Doomtrooper and survives the combat, the Justifier may IMPRISON the Doomtrooper. The prisoner's attached cards are discarded. Prisoners may never attack or be attacked. If the Justifier is discarded, all its prisoners return to their Squads.",
         "type_code": "warrior",
         "value": "10"
@@ -863,7 +863,7 @@
         "type_code": "special"
     },
     {
-        "armor": "-",
+        "armor": "–",
         "clarification_text": "PERSONALITY. CORPORATE LEADER. NONCOMBATANT. While in play, you may convert any number of S-Actions to T-Actions, but converted T-Actions must be performed by Imperial warriors.",
         "code": "03047",
         "deck_limit": 5,
@@ -871,13 +871,13 @@
         "faction_code": [
             "imperial"
         ],
-        "fight": "-",
+        "fight": "–",
         "illustrator": "Studio Parente",
         "image_url": "wz/fieldmarshaljohnstone.jpg",
         "name": "FIELD MARSHAL JOHNSTONE",
         "octgn_id": "299b924d-5b01-4a25-b655-520542508192",
         "rarity": "U1",
-        "shoot": "-",
+        "shoot": "–",
         "text": "PERSONALITY. CORPORATE LEADER. May never participate in combat or be in cover. While in play, you may convert any number of non-attack actions to attack actions, but they must be performed by Imperial warriors.",
         "type_code": "warrior",
         "value": "20"
@@ -1356,7 +1356,7 @@
         "faction_code": [
             "bauhaus"
         ],
-        "fight": "-",
+        "fight": "–",
         "illustrator": "Studio Parente",
         "image_url": "wz/kleinhelitekdragonfly.jpg",
         "name": "KLEIN HELITEK DRAGONFLY",
@@ -1421,7 +1421,7 @@
         "type_code": "equipment"
     },
     {
-        "armor": "-",
+        "armor": "–",
         "clarification_text": "PERSONALITY. CORPORATE LEADER. NONCOMBATANT. While in play, you may convert any number of S-Actions to T-Actions, but converted T-Actions must be performed by Mishima warriors.",
         "code": "03077",
         "deck_limit": 5,
@@ -1429,13 +1429,13 @@
         "faction_code": [
             "mishima"
         ],
-        "fight": "-",
+        "fight": "–",
         "illustrator": "Studio Parente",
         "image_url": "wz/lordnozaki.jpg",
         "name": "LORD NOZAKI",
         "octgn_id": "77041515-0399-45aa-ba8d-f47e5779b1ac",
         "rarity": "U1",
-        "shoot": "-",
+        "shoot": "–",
         "text": "PERSONALITY. CORPORATE LEADER. May never participate in combat or be in cover. While in play, you may convert any number of non-attack actions to attack actions, but they must be performed by Mishima warriors.",
         "type_code": "warrior",
         "value": "20"
@@ -1698,12 +1698,12 @@
         "octgn_id": "5c71ea46-6544-4ffc-88f7-31aa689f2e62",
         "post_play": "+",
         "rarity": "C2",
-        "shoot": "-",
+        "shoot": "–",
         "text": "PLAY ON YOUR WARRIOR AS ONE ACTION. THIS CARD REMAINS IN PLAY. Move affected warrior in front of your Squad/Kohort. At any time the warrior may take the place of any warrior behind it who is attacked in a Fight combat. If it does this the Guard is automatically wounded after combat. If the Guard is killed in this way points are earned.",
         "type_code": "special"
     },
     {
-        "armor": "-",
+        "armor": "–",
         "clarification_text": "PERSONALITY. CORPORATE LEADER. NONCOMBATANT. While in play, you may convert any number of S-Actions to T-Actions, but converted T-Actions must be performed by Capitol warriors.",
         "code": "03092",
         "deck_limit": 5,
@@ -1711,13 +1711,13 @@
         "faction_code": [
             "capitol"
         ],
-        "fight": "-",
+        "fight": "–",
         "illustrator": "Studio Parente",
         "image_url": "wz/presidentcharleswcolding.jpg",
         "name": "PRESIDENT CHARLES W. COLDING",
         "octgn_id": "43e8a19a-534a-4cbd-a34e-e3e3ee7fc1d8",
         "rarity": "U1",
-        "shoot": "-",
+        "shoot": "–",
         "text": "PERSONALITY. CORPORATE LEADER. May never participate in combat or be in cover. While in play, you may convert any number of non-attack actions to attack actions, but they must be performed by Capitol warriors.",
         "type_code": "warrior",
         "value": "20"
@@ -1819,7 +1819,7 @@
         "faction_code": [
             "general"
         ],
-        "fight": "-",
+        "fight": "–",
         "illustrator": "Studio Parente",
         "image_url": "wz/rearguard.jpg",
         "name": "REAR GUARD",
@@ -1838,7 +1838,7 @@
         "faction_code": [
             "legion"
         ],
-        "fight": "-",
+        "fight": "–",
         "illustrator": "Studio Parente",
         "image_url": "wz/reavertroopcarrier.jpg",
         "name": "REAVER TROOP CARRIER",
@@ -1911,7 +1911,7 @@
         "faction_code": [
             "legion"
         ],
-        "fight": "-",
+        "fight": "–",
         "illustrator": "Paul Bonner",
         "image_url": "wz/scoutbat.jpg",
         "name": "SCOUT BAT",
@@ -2090,7 +2090,7 @@
         "value": "6"
     },
     {
-        "armor": "-",
+        "armor": "–",
         "clarification_text": "PERSONALITY. CORPORATE LEADER. NONCOMBATANT. While in play, you may convert any number of S-Actions to T-Actions, but converted T-Actions must be performed by Bauhaus warriors.",
         "code": "03113",
         "deck_limit": 5,
@@ -2098,13 +2098,13 @@
         "faction_code": [
             "bauhaus"
         ],
-        "fight": "-",
+        "fight": "–",
         "illustrator": "Studio Parente",
         "image_url": "wz/staffgeneralconstanceromanov.jpg",
         "name": "STAFF GENERAL CONSTANCE ROMANOV",
         "octgn_id": "3551ef8f-a904-44ec-ad99-3d891dfbeb34",
         "rarity": "U1",
-        "shoot": "-",
+        "shoot": "–",
         "text": "PERSONALITY. CORPORATE LEADER. May never participate in combat or be in cover. While in play, you may convert any number of non-attack actions to attack actions, but they must be performed by Bauhaus warriors.",
         "type_code": "warrior",
         "value": "20"
@@ -2251,7 +2251,7 @@
         "value": "5"
     },
     {
-        "armor": "-",
+        "armor": "–",
         "clarification_text": "PERSONALITY. CORPORATE LEADER. NONCOMBATANT. While in play, you may convert any number of S-Actions to T-Actions, but converted T-Actions must be performed by Cybertronic warriors.",
         "code": "03122",
         "deck_limit": 5,
@@ -2259,13 +2259,13 @@
         "faction_code": [
             "cybertronic"
         ],
-        "fight": "-",
+        "fight": "–",
         "illustrator": "Studio Parente",
         "image_url": "wz/thenineteenthexecutive.jpg",
         "name": "THE NINETEENTH EXECUTIVE",
         "octgn_id": "7691e3ed-fd4d-4cd7-9bdc-cf2da4400f81",
         "rarity": "U1",
-        "shoot": "-",
+        "shoot": "–",
         "text": "PERSONALITY. CORPORATE LEADER. May never participate in combat or be in cover. While in play, you may convert any number of non-attack actions to attack actions, but they must be performed by Cybertronic warriors.",
         "type_code": "warrior",
         "value": "20"
@@ -2368,7 +2368,7 @@
         "faction_code": [
             "legion"
         ],
-        "fight": "-",
+        "fight": "–",
         "illustrator": "Paul Bonner",
         "image_url": "wz/venombat.jpg",
         "name": "VENOM BAT",
