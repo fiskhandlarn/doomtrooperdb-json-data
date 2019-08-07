@@ -1,6 +1,42 @@
 [
     {
-        "code": "base",
-        "name": "Base Set"
+        "code": "unl",
+        "name": "Unlimited (Base Set)",
+        "size": 341
+    },
+    {
+        "code": "inq",
+        "name": "Inquisition",
+        "size": 175
+    },
+    {
+        "code": "wz",
+        "name": "Warzone",
+        "size": 131
+    },
+    {
+        "code": "mort",
+        "name": "Mortificator",
+        "size": 122
+    },
+    {
+        "code": "gol",
+        "name": "Golgotha",
+        "size": 80
+    },
+    {
+        "code": "apo",
+        "name": "Apocalypse",
+        "size": 80
+    },
+    {
+        "code": "pl",
+        "name": "Paradise Lost",
+        "size": 124
+    },
+    {
+        "code": "promo",
+        "name": "Promotion cards",
+        "size": 20
     }
 ]
