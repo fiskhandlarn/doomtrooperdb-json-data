@@ -1,0 +1,1443 @@
+[
+    {
+        "clarification_text": "BUILD IN YOUR SQUAD. You may attach Equipment cards face-up to the Armory at any time without action cost. Will never hold more than 5 cards. Warriors in your Squad may place or take legal Equipment from the Armory as one action each. You may discard equipment in the Armory at any time.",
+        "code": "05001",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "gol/armory.jpg",
+        "name": "ARMORY",
+        "octgn_id": "c2816459-e333-4eb5-82c2-bbcfd60b32a2",
+        "rarity": "C1",
+        "text": "ADD TO YOUR SQUAD AS ONE ACTION. You may attach Equipment cards to the Armory at any time without action cost. Will never hold more than 5 cards. Warriors in your Squad may place or take legal Equipment from the Armory as one action each. You may discard equipment in the Armory at any time.",
+        "type_code": "fortification"
+    },
+    {
+        "clarification_text": "ATTACH TO YOUR TEAM AT ANY TIME DURING A TEAM GAME. While in play, all members of your team may transfer Equipment cards between legal warriors as one action each. Cards may be moved between Combat Areas.",
+        "code": "05002",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "gol/armsconvoy.jpg",
+        "name": "ARMS CONVOY",
+        "octgn_id": "7917f3d1-8c3a-4e02-b5e3-5e193a60ce63",
+        "post_play": "-",
+        "rarity": "C1",
+        "text": "PLAY DURING YOUR TURN. ONLY USABLE DURING TEAM GAMES. All members of your team may transfer Equipment cards between legal warriors as one action each. Cards may be moved between Squads and Kohorts.",
+        "type_code": "special"
+    },
+    {
+        "armor": "8",
+        "clarification_text": "PERSONALITY. CUIRASSIER. COMPLETE SYMMETRY IMMUNITY. PROFANE. SLAYER. Other CUIRASSIERS are SLAYERS while in the same Combat Area with Atilla III.",
+        "code": "05003",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "cybertronic"
+        ],
+        "fight": "8",
+        "illustrator": "Terry Oakes",
+        "image_url": "gol/atillaiii.jpg",
+        "name": "ATILLA III",
+        "octgn_id": "87ffa02d-4cfe-4f68-aa19-fa459000be8b",
+        "rarity": "C1",
+        "shoot": "7",
+        "text": "PERSONALITY. CONSIDERED A CUIRASSIER. IMMUNE TO ALL DARK SYMMETRY CARDS. May never cast Art spells. While in play, all your CUIRASSIERS automatically kill anyone they wound.",
+        "type_code": "warrior",
+        "value": "9"
+    },
+    {
+        "clarification_text": "ATTACH TO GAME AS TWO ACTIONS. At the beginning of each player's turn, before anything else takes effect, that player must pay 1D per Warrior, Equipment, Fortification, Relic and Warzone card he or she has in play. Cards not paid for are discarded.",
+        "code": "05004",
+        "deck_limit": 1,
+        "expansion_code": "gol",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "gol/attrition.jpg",
+        "name": "ATTRITION",
+        "octgn_id": "31b06bba-d771-4788-890d-7c2d2b4bf3f6",
+        "post_play": "+",
+        "rarity": "C1",
+        "text": "ATTACH TO GAME AS TWO ACTIONS. REMAINS IN PLAY. At the beginning of each player's turn, before anything else takes effect, that player must pay 1D per Warrior, Equipment, Fortification, Relic and Warzone card he or she has in play. Cards not paid for are discarded.",
+        "type_code": "special",
+        "value": "e1"
+    },
+    {
+        "armor": "-x",
+        "code": "05005",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "general"
+        ],
+        "fight": "-x",
+        "illustrator": "Studio Parente",
+        "image_url": "gol/backlash.jpg",
+        "name": "BACKLASH",
+        "octgn_id": "001bd31f-9e21-4a09-bcfb-85f8512653e2",
+        "post_play": "-",
+        "rarity": "C2",
+        "shoot": "-x",
+        "text": "PLAY DURING COMBAT ON A WARRIOR BESTOWED WITH A DARK SYMMETRY CARD. All Dark Symmetry effects providing positive modifiers to F, S or A instead provide negative modifiers during this combat. A value may not drop below 0.",
+        "type_code": "special",
+        "value": "-x"
+    },
+    {
+        "clarification_text": "CAST AS TWO ACTIONS AND PAY 5D. The caster forces any one Dark Legion warrior in play to return to its owner's hand. That warrior's attachments are discarded.",
+        "code": "05006",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "brotherhood"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "gol/banishment.jpg",
+        "name": "BANISHMENT",
+        "octgn_id": "1285955f-56fa-4d14-9a28-3aca0e6313a4",
+        "post_play": "-",
+        "rarity": "C1",
+        "text": "ART OF MANIPULATION. CAST AS TWO ACTIONS AND PAY 5 D. The caster forces any one Dark Legion warrior in play to return to its owner's hand. Attached cards are discarded.",
+        "type_code": "art",
+        "value": "5"
+    },
+    {
+        "clarification_text": "BUILD IN YOUR SQUAD. While The Barracks is in play you only pay half the V (rounded up) to bring Doomtroopers into play. PERSONALITIES, Brotherhood warriors, and warriors that are considered VEHICLES or COMMANDERS are not affected by this card.",
+        "code": "05007",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "gol/barracks.jpg",
+        "name": "BARRACKS",
+        "octgn_id": "7a42df42-182d-4fef-a15c-e06676eb70a7",
+        "rarity": "C1",
+        "text": "ATTACH TO YOUR SQUAD AS ONE ACTION. While The Barracks is in play you only pay half the V (rounded up) to bring Doomtroopers into play. Personalities, Brotherhood warriors, and warriors that are considered VEHICLES or COMMANDERS are not affected by this card.",
+        "type_code": "fortification",
+        "value": "/2"
+    },
+    {
+        "clarification_text": "Equipment cards attached to your Bauhaus warriors may never be discarded unless possessing warrior is also discarded. Equipment that must be discarded to be used may still be discarded in this manner.",
+        "code": "05008",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "bauhaus"
+        ],
+        "illustrator": "Paul Bonner",
+        "image_url": "gol/bauhaus.jpg",
+        "name": "BAUHAUS",
+        "octgn_id": "d5d16b37-58f5-4c84-9bb3-ed26b060d67b",
+        "post_play": "+",
+        "rarity": "C2",
+        "text": "ALLIANCE. Refer to the ALLIANCES RULES CARD. Equipment cards attached to your Bauhaus warriors may never be discarded unless possessing warrior is also discarded.",
+        "type_code": "alliance"
+    },
+    {
+        "clarification_text": "BUILD IN YOUR COMBAT AREA.  May never be discarded or annihilated. You may spend D you do not have. Keep track of D you spend \"on credit\". D on credit may be erased at any time by paying 2D per 1D on credit. You may never have more than 10D on credit. You may not win the game while you have D on credit. D gained by this card are not affected by ECONOMIC BREAKDOWN.",
+        "code": "05009",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "bauhaus"
+        ],
+        "illustrator": "Angus McKie",
+        "image_url": "gol/bauhausbank.jpg",
+        "name": "BAUHAUS BANK",
+        "octgn_id": "2326d9c3-52d0-4a69-b88c-b7addb6df117",
+        "rarity": "C1",
+        "text": "PLAY AT ANY TIME. May never be discarded or removed from game. You may spend D you do not have. Keep track of D you spend \"on credit\". D on credit may be erased at any time by paying 2D per 1D on credit. You may not win the game while you have D on credit. D gained by this card are not affected by ECONOMIC BREAKDOWN. You may never have more than 10D on credit.",
+        "type_code": "fortification",
+        "value": "2x"
+    },
+    {
+        "armor": "+2/6",
+        "clarification_text": "ARMOR. MAY ONLY BE GIVEN TO A FOLLOWER OF ALGEROTH. +2 to A. If given to a PRETORIAN BEHEMOTH, it instead provides +6 to A and allows the warrior to be bestowed with GIFTS OF ALGEROTH.",
+        "code": "05010",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "legion"
+        ],
+        "illustrator": "Paul Bonner",
+        "image_url": "gol/behemotharmor.jpg",
+        "name": "BEHEMOTH ARMOR",
+        "octgn_id": "534a4f93-054d-49ac-b5c9-d3e9a27bacad",
+        "post_play": "+",
+        "rarity": "C1",
+        "text": "ARMOR. MAY ONLY BE GIVEN TO A FOLLOWER OF ALGEROTH. A warrior may only have one suit of ARMOR. +2 to A. If given to a PRETORIAN BEHEMOTH, it instead provides +6 to A and allows the warrior to be bestowed with GIFTS OF ALGEROTH.",
+        "type_code": "equipment"
+    },
+    {
+        "armor": "7",
+        "clarification_text": "FOLLOWER OF SEMAI. SLAYER.",
+        "code": "05011",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "legion"
+        ],
+        "fight": "12",
+        "illustrator": "Terry Oakes",
+        "image_url": "gol/callistoniansundancer.jpg",
+        "name": "CALLISTONIAN SUNDANCER",
+        "octgn_id": "7eb1f4c5-0ae5-4a2e-8fe8-82c9df8a8380",
+        "rarity": "C2",
+        "shoot": "4",
+        "text": "FOLLOWER OF SEMAI. The Sundancer automatically kills any Dark Legion warrior it wounds.",
+        "type_code": "warrior",
+        "value": "9"
+    },
+    {
+        "clarification_text": "You may Muster Capitol warriors into your Squad at any time with no action cost. You must still pay the warrior's V in D.",
+        "code": "05012",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "capitol"
+        ],
+        "illustrator": "Paul Bonner",
+        "image_url": "gol/capitol.jpg",
+        "name": "CAPITOL",
+        "octgn_id": "478d481a-f5fd-4738-a87f-fa39c9dbf1b2",
+        "post_play": "+",
+        "rarity": "C2",
+        "text": "ALLIANCE. Refer to the ALLIANCES RULES CARD. You may add Capitol warriors to your Squad at any time with no action cost. You must still pay the warrior's V in D.",
+        "type_code": "alliance",
+        "value": "x"
+    },
+    {
+        "armor": "5",
+        "clarification_text": "ARMOR. MAY ONLY BE GIVEN TO A DARK LEGION WARRIOR. The warrior's base F is doubled, its base S becomes 0, and it gains +5 to A. The warrior may not use any other Equipment with the Carcass Suit.",
+        "code": "05013",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "legion"
+        ],
+        "fight": "2x",
+        "illustrator": "Studio Parente",
+        "image_url": "gol/carcasssuit.jpg",
+        "name": "CARCASS SUIT",
+        "octgn_id": "8c8dd034-cee2-4a9c-894f-2196d9903ebd",
+        "post_play": "+",
+        "rarity": "C1",
+        "shoot": "0",
+        "text": "ARMOR. MAY ONLY BE GIVEN TO A DARK LEGION WARRIOR. A warrior may only have one suit of ARMOR. The warrior's base F is doubled, its base S becomes 0, and it gains +5 to A. The warrior may not use any other Equipment with the Carcass Suit.",
+        "type_code": "equipment"
+    },
+    {
+        "clarification_text": "ATTACH TO ANY PLAYER AS ONE ACTION. While attached, the player's wariors will not initiate combat with any opponent who would wound/kill that warrior based on all current stats when the attack is announced (combat stats that MAY be modified during the combat are not considered). Current attachments and effects factor into the warrior's ability to attack.",
+        "code": "05014",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "gol/cartelenforcement.jpg",
+        "name": "CARTEL ENFORCEMENT",
+        "octgn_id": "edfb356f-df91-46ee-b23c-21c8ddb5f2fb",
+        "post_play": "+",
+        "rarity": "C2",
+        "text": "ATTACH TO GAME AT ANY TIME. MAY NEVER BE DISCARDED. While in play, only D are awarded when a player kills a warrior in his or her own Squad or Kohort.",
+        "type_code": "special"
+    },
+    {
+        "code": "05015",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Angus McKie",
+        "image_url": "gol/changeinmomentum.jpg",
+        "name": "CHANGE IN MOMENTUM",
+        "octgn_id": "b40add95-1539-41f0-bc72-fff5f603485d",
+        "post_play": "-",
+        "rarity": "C1",
+        "text": "PLAY AT ANY TIME. THIS CARD MAY ONLY EFFECT EACH GAME ONCE. If unsuccessfully played, other copies of this card may be played until it successfully takes effect. The direction of play changes to the opposite direction after the current player's turn.",
+        "type_code": "special"
+    },
+    {
+        "armor": "+/-x",
+        "clarification_text": "MAJOR GIFT OF ILIAN. You may alter the warrior's unmodified F, S and A to anything you want, as long as the three numbers add up to the total of its actual F, S and A. None may be altered below 0.",
+        "code": "05016",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "legion"
+        ],
+        "fight": "+/-x",
+        "illustrator": "Studio Parente",
+        "image_url": "gol/changelingpower.jpg",
+        "name": "CHANGELING POWER",
+        "octgn_id": "234fe60d-28d5-4952-8098-180fe1ba2ee5",
+        "post_play": "+",
+        "rarity": "C1",
+        "shoot": "+/-x",
+        "text": "GIFT OF ILIAN. You may alter the warrior's unmodified F, S and A to anything you want, as long as the three numbers add up to the total of its actual F, S and A. None may be altered below 0.",
+        "type_code": "symmetry"
+    },
+    {
+        "armor": "8",
+        "clarification_text": "PERSONALITY. SEA LION. Other SEA LIONS gain + to F, S and A and may use any non-Dark Legion Equipment while in the same Combat Area with Jackson.",
+        "code": "05017",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "capitol"
+        ],
+        "fight": "4",
+        "illustrator": "Terry Oakes",
+        "image_url": "gol/chrisjackson.jpg",
+        "name": "CHRIS JACKSON",
+        "octgn_id": "4499cf12-b928-4fd4-b3b8-c7f4d292d590",
+        "rarity": "C2",
+        "shoot": "8",
+        "text": "PERSONALITY. CONSIDERED A SEA LION. While in play, all your SEA LIONS (but not Jackson himself) gain + 3 to F, S and A and may use any non-Dark Legion Equipment.",
+        "type_code": "warrior",
+        "value": "7"
+    },
+    {
+        "clarification_text": "ATTACH TO ANOTHER PLAYER'S DOOMTROOPER IMMEDIATELY AFTER IT IS KILLED. The warrior is miraculously saved and regains the status it had before the combat. While attached, the warrior may not attack your Doomtroopers.",
+        "code": "05018",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "gol/cliffhanger.jpg",
+        "name": "CLIFFHANGER",
+        "octgn_id": "502fb2ec-4795-4bf0-b743-ae029203983c",
+        "post_play": "+",
+        "rarity": "C1",
+        "text": "PLAY IMMEDIATELY AFTER ANOTHER PLAYER's DOOMTROOPER IS KILLED. The warrior is miraculously saved and regains the status it had before the combat. Attach this card to the warrior. While attached, the warrior may not attack your Doomtroopers.",
+        "type_code": "special"
+    },
+    {
+        "code": "05019",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "gol/closebutnocigar.jpg",
+        "name": "CLOSE BUT NO CIGAR",
+        "octgn_id": "b46597e5-4daa-4e35-96e9-bbcd0faeea54",
+        "post_play": "-",
+        "rarity": "C1",
+        "text": "PLAY IMMEDIATELY AFTER AN OPPONENT HAS WON THE GAME. May only be played once during each game, and may never be countered. The victory condition is raised to the opponent's current amount of Promotion Points, plus 3.",
+        "type_code": "special",
+        "value": "x+3"
+    },
+    {
+        "clarification_text": "PLAY IMMEDIATELY AFTER ONE OF YOUR ATTACHED SPECIAL CARDS IS DISCARDED. You may immediately take the discarded attachment back into your hand.",
+        "code": "05020",
+        "deck_limit": 1,
+        "expansion_code": "gol",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "gol/closecall.jpg",
+        "name": "CLOSE CALL!",
+        "octgn_id": "d494db2a-dd82-43db-bd4f-fd7fb2986f38",
+        "post_play": "x",
+        "rarity": "C1",
+        "text": "PLAY IMMEDIATELY AFTER ONE OF YOUR SPECIAL CARDS THAT HAS \"REMAINED IN PLAY\" IS DISCARDED, THEN REMOVE THIS CARD FROM GAME. You may immediately take the discarded card back into your hand. You may only have one Close Call in your deck.",
+        "type_code": "special"
+    },
+    {
+        "armor": "/2",
+        "clarification_text": "PLAY AS ONE ACTION ON ANY COMBAT AREA. All warriors in the affected Area are at half their base F, S and A (rounded up) until the beginning of your next turn.",
+        "code": "05021",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "general"
+        ],
+        "fight": "/2",
+        "illustrator": "Studio Parente",
+        "image_url": "gol/combatfatigue.jpg",
+        "name": "COMBAT FATIGUE",
+        "octgn_id": "1e0565ea-36fb-49c5-b5a4-ed510f0b91a2",
+        "post_play": "-",
+        "rarity": "C1",
+        "shoot": "/2",
+        "text": "PLAY AS ONE ACTION ON ANY SQUAD OR KOHORT. All warriors in the affected Squad/Kohort are at half their base F, S and A (rounded up) until the beginning of your next turn.",
+        "type_code": "special"
+    },
+    {
+        "armor": "7",
+        "clarification_text": "PERSONALITY. HERO. CHASSEUR. MINOR SYMMETRY IMMUNITY. PROFANE. Other CHASSEURS gain +2 to their F, S and A while in the same Combat Area with Coral Beach.",
+        "code": "05022",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "cybertronic"
+        ],
+        "fight": "7",
+        "illustrator": "Terry Oakes",
+        "image_url": "gol/coralbeach.jpg",
+        "name": "CORAL BEACH",
+        "octgn_id": "3dee60a1-e428-47a2-9303-449fe1c4e4de",
+        "rarity": "C2",
+        "shoot": "8",
+        "text": "PERSONALITY. CONSIDERED A CHASSEUR. IMMUNE TO THE EFFECTS OF DARK SYMMETRY GIFT CARDS, BUT NOT GIFTS OF APOSTLES. May never cast Art spells. While in play, all of your CHASSEURS (but not Beach himself) gain +2 to their F, S and A.",
+        "type_code": "warrior",
+        "value": "8"
+    },
+    {
+        "clarification_text": "All your Cybertronic warriors may use all Equipment and Relic cards regardless of affiliation or warrior restrictions, except those restricted to the Dark Legion.",
+        "code": "05023",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "cybertronic"
+        ],
+        "illustrator": "Paul Bonner",
+        "image_url": "gol/cybertronic.jpg",
+        "name": "CYBERTRONIC",
+        "octgn_id": "1b185626-ae19-426d-86ab-18ac911a6464",
+        "post_play": "+",
+        "rarity": "C2",
+        "text": "ALLIANCE. Refer to the ALLIANCES RULES CARD. All your Cybertronic warriors may use all Equipment and Relic cards except those restricted to the Dark Legion.",
+        "type_code": "alliance"
+    },
+    {
+        "armor": "4",
+        "code": "05024",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "capitol"
+        ],
+        "fight": "3",
+        "illustrator": "Paul Bonner",
+        "image_url": "gol/desertscorpion.jpg",
+        "name": "DESERT SCORPION",
+        "octgn_id": "c86b509c-7ad7-48cb-9c6a-94e0626e69c4",
+        "rarity": "C2",
+        "shoot": "6",
+        "text": "Desert Scorpions may attack in Shoot combat while in cover. May enter cover at any time without performing a Seek Cover action.",
+        "type_code": "warrior",
+        "value": "5"
+    },
+    {
+        "armor": "7",
+        "clarification_text": "FOLLOWER OF MUAWIJHE. While in play, you and all your FOLLOWERS OF MUAWIJHE in play have ART IMMUNITY.",
+        "code": "05025",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "legion"
+        ],
+        "fight": "3",
+        "illustrator": "Terry Oakes",
+        "image_url": "gol/doomsdayproclaimer.jpg",
+        "name": "DOOMSDAY PROCLAIMER",
+        "octgn_id": "844d197f-e6c3-4263-97a5-f40b57c1e7b0",
+        "rarity": "C2",
+        "shoot": "7",
+        "text": "FOLLOWER OF MUAWIJHE. While in play, you and all your FOLLOWERS OF MUAWIJHE are immune to the Art.",
+        "type_code": "warrior",
+        "value": "5"
+    },
+    {
+        "clarification_text": "ATTACH TO YOURSELF AS TWO ACTIONS. While in play, you may discard up to two cards during each of your discard steps. Playing this card discards your MANIFEST DESTINY and vice versa.",
+        "code": "05026",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "gol/doubletime.jpg",
+        "name": "DOUBLE TIME",
+        "octgn_id": "807f096e-2301-4043-89c0-3b1be28ef9c5",
+        "post_play": "+",
+        "rarity": "C2",
+        "text": "PLAY AS TWO ACTIONS. While in play, you may discard up to two cards during each of your discard steps. Playing this card discards your MANIFEST DESTINY and vice versa.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "PLAY AT ANY TIME. All players lose half their D (round up) and all FACTORIES and INDUSTRIAL COMPLEXES in play are flipped over and considered shut down. You must spend two actions to reactivate a FACTORY and three actions to reactivate an INDUSTRIAL COMPLEX.",
+        "code": "05027",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "gol/economiccollapse.jpg",
+        "name": "ECONOMIC COLLAPSE",
+        "octgn_id": "3b046bf4-2d65-4261-a6fc-0ec5985a89c8",
+        "post_play": "-",
+        "rarity": "C1",
+        "text": "PLAY AT ANY TIME. All players lose half their D (round up) and all FACTORIES and INDUSTRIAL COMPLEXES in play are flipped over and considered shut down. You must spend two actions to reactivate a FACTORY and three actions to reactivate an INDUSTRIAL COMPLEX.",
+        "type_code": "special",
+        "value": "/2"
+    },
+    {
+        "clarification_text": "ATTACH TO THE GAME AS ONE ACTION. While in play, no player may ever perform more than one Tactical Action between his or her Draw steps.",
+        "code": "05028",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "gol/equalrights.jpg",
+        "name": "EQUAL RIGHTS",
+        "octgn_id": "46a28ed4-49d5-44b0-8a1f-883470ec5cc8",
+        "post_play": "+",
+        "rarity": "C2",
+        "text": "ATTACH TO GAME AS ONE ACTION. While in play, no player may ever perform more than one attack action between his or her Draw steps.",
+        "type_code": "special"
+    },
+    {
+        "code": "05029",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "gol/extortion.jpg",
+        "name": "EXTORTION",
+        "octgn_id": "848a40ab-2f99-4b2b-98f7-3a603d4363ed",
+        "post_play": "-",
+        "rarity": "C1",
+        "text": "PLAY ON ANY PLAYER DURING HIS OR HER TURN, BEFORE ACTIONS ARE PERFORMED. For every 4 D you spend, the player loses one action. You may never take away a player's last action.",
+        "type_code": "special",
+        "value": "e4"
+    },
+    {
+        "code": "05030",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "gol/festeringwounds.jpg",
+        "name": "FESTERING WOUNDS",
+        "octgn_id": "1e3454b6-fb79-4155-9bd8-f3ddb907b667",
+        "post_play": "-",
+        "rarity": "C1",
+        "text": "PLAY AT ANY TIME. All wounded warriors in play are discarded. No points are earned.",
+        "type_code": "special"
+    },
+    {
+        "code": "05031",
+        "deck_limit": 1,
+        "expansion_code": "gol",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "gol/foolsgold.jpg",
+        "name": "FOOL'S GOLD",
+        "octgn_id": "d56ca997-62f8-4f6c-b4a8-1bd18eaa70bd",
+        "post_play": "-",
+        "rarity": "C1",
+        "text": "PLAY IMMEDIATELY AFTER A WARRIOR HAS BEEN PAID FOR. The D spent was counterfeit and must be repaid. If not paid, the warrior is discarded.",
+        "type_code": "special",
+        "value": "x"
+    },
+    {
+        "clarification_text": "ATTACH TO YOUR WARZONE AT ANY TIME. While in play, warriors may not Sabotage you and earn Promotion Points. They may still Sabotage you to earn Destiny Points. Discard this card when a warrior is placed in any of your Combat Areas.",
+        "code": "05032",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "gol/fortifywarzone.jpg",
+        "name": "FORTIFY WARZONE",
+        "octgn_id": "bbcfe802-12fb-49de-b299-2de88ce054f8",
+        "post_play": "+",
+        "rarity": "C1",
+        "text": "PLAY ON YOUR WARZONE AT ANY TIME. Warriors may no longer attack YOU and earn Promotion Points. They may still attack you to earn Destiny Points. Discard this card when a warrior is placed in your Squad or Kohort.",
+        "type_code": "special"
+    },
+    {
+        "armor": "7",
+        "clarification_text": "May conjure the Arts of PREMONITION and EXORCISM. Once in play, you may at any time assign the Guard to any one BrotherhoodPersonality in play. It will battle in that warrior's place during combat if you so choose. You may reassign the Guard to another Brotherhood warrior by spending 5D at any time.",
+        "code": "05033",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "brotherhood"
+        ],
+        "fight": "5",
+        "illustrator": "Studio Parente",
+        "image_url": "gol/furyeliteguard.jpg",
+        "name": "FURY ELITE GUARD",
+        "octgn_id": "ffd36e37-3edb-41b7-9f81-e3e4a146f96e",
+        "rarity": "C2",
+        "shoot": "6",
+        "text": "May conjure the Arts of Premonition and Exorcism. Once in play, you may at any time assign the Guard to any one Brotherhood personality. It will battle in that warrior's place during combat if you so choose. You may assign the Fury to another Brotherhood warrior by spending 5 D at any time.",
+        "type_code": "warrior",
+        "value": "7"
+    },
+    {
+        "armor": "6",
+        "clarification_text": "PERSONALITY. FOLLOWER AND NEPHARITE OF ALGEROTH. NONCOMBATANT. BLESSED (and may cast spells on any warrior). May provide any Dark Legion warrior with any Dark Symmetry card at any time with no action cost.",
+        "code": "05034",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "legion"
+        ],
+        "fight": "14",
+        "illustrator": "Studio Parente",
+        "image_url": "gol/golgothamistressofsymmetry.jpg",
+        "name": "GOLGOTHA–MISTRESS OF SYMMETRY",
+        "octgn_id": "edad2b41-296a-4c12-b7c1-23550aa2bf8f",
+        "rarity": "C1",
+        "shoot": "–",
+        "text": "FOLLOWER AND NEPHARITE OF ALGEROTH. PERSONALITY. May never participate in a combat or be in cover. May provide any Dark Legion warrior with any Dark Symmetry card at any time with no action cost. May cast any Art spell on any warrior.",
+        "type_code": "warrior",
+        "value": "12"
+    },
+    {
+        "clarification_text": "PLACE DIRECTLY INTO YOUR KOHORT AS TWO ACTIONS. While the Mirror is in play, you only pay half the V (rounded up) to bring non-Personality Dark Legion warriors into play.",
+        "code": "05035",
+        "deck_limit": 1,
+        "expansion_code": "gol",
+        "faction_code": [
+            "legion"
+        ],
+        "illustrator": "Angus McKie",
+        "image_url": "gol/golgothasmirror.jpg",
+        "name": "GOLGOTHA'S MIRROR",
+        "octgn_id": "62f91bf4-ad6c-4435-bd37-cf3f9b64bfba",
+        "post_play": "+",
+        "rarity": "C1",
+        "text": "PLACE DIRECTLY INTO YOUR KOHORT AS TWO ACTIONS. While the Mirror is in play, you only pay half the V (rounded up) to bring non-Personality Dark Legion warriors into play. You may only have one Golgotha's Mirror in your deck.",
+        "type_code": "equipment",
+        "value": "/2"
+    },
+    {
+        "code": "05036",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "mishima"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "gol/honortheemperor.jpg",
+        "name": "HONOR THE EMPEROR",
+        "octgn_id": "779d9cb1-699f-4dbf-9139-84bfe047c8b5",
+        "post_play": "+",
+        "rarity": "C1",
+        "text": "ASSIGN TO ANY PLAYER. While this Mission is in play the assigned player gains 1 Promotion Point for each Mishima warrior that is put into play by any player. This Mission is never fulfilled.",
+        "type_code": "mission",
+        "value": "e1"
+    },
+    {
+        "clarification_text": "PLAY AS ONE ACTION. You may immediately annihilate any one ALLIANCE card.",
+        "code": "05037",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Les Edwards",
+        "image_url": "gol/hostiletakeover.jpg",
+        "name": "HOSTILE TAKEOVER",
+        "octgn_id": "0bdc7fc7-66c8-4e8d-a310-b8d23a2ff44c",
+        "post_play": "-",
+        "rarity": "C2",
+        "text": "PLAY AS ONE ACTION. You may immediately remove any one ALLIANCE card from the game.",
+        "type_code": "special"
+    },
+    {
+        "armor": "+x",
+        "clarification_text": "PLAY IMMEDIATELY AFTER A DARK LEGION WARRIOR WOUNDS AN OPPONENT DURING A FIGHT COMBAT. The warrior permanently impales its opponent (no points are earned if the opponent was killed). Attach the opponent to the Dark Legion warrior. The impaled warrior provides +X to A, where X is the base V of the impaled warrior. The warrior may only have that one impaled warrior.",
+        "code": "05038",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "legion"
+        ],
+        "illustrator": "Paul Bonner",
+        "image_url": "gol/impale.jpg",
+        "name": "IMPALE",
+        "octgn_id": "0569885f-0b7c-4706-b766-66d0072789a5",
+        "post_play": "-",
+        "rarity": "C1",
+        "text": "PLAY ON A DARK LEGION WARRIOR DURING A FIGHT COMBAT. The warrior permanently impales its opponent if it manages to wound it (no points are earned). Place the opponent under the Dark Legion warrior. The impaled warrior provides +X to A, where X is the base V of the impaled warrior. The warrior may only have that one impaled warrior.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "Imperial warriors may defend from any Warzone in play (except Dark Legion-affiliated) and use the stat bonuses and card effects provided by the Warzone regardless of affiliation restrictions.",
+        "code": "05039",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "imperial"
+        ],
+        "illustrator": "Paul Bonner",
+        "image_url": "gol/imperial.jpg",
+        "name": "IMPERIAL",
+        "octgn_id": "eb3b2a31-7d11-43b9-8893-c9de4224c10b",
+        "post_play": "+",
+        "rarity": "C2",
+        "text": "ALLIANCE. Refer to the ALLIANCES RULES CARD. If your Imperial warrior is wounded when combating a Dark Legion warrior, it is immediately healed unless the wound causes the warrior to be automatically killed.",
+        "type_code": "alliance"
+    },
+    {
+        "armor": "5",
+        "clarification_text": "INFANTRY. May perform a Shoot attack against any warrior that attacks any other Capitol warrior in play. This attack occurs before the Battle Tactic is announced. The original combat continues if the warrior survives. If more than one Sniper wishes to Shoot, the original Defender chooses the order of attacks.",
+        "code": "05040",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "capitol"
+        ],
+        "fight": "3",
+        "illustrator": "Terry Oakes",
+        "image_url": "gol/infantrysniper.jpg",
+        "name": "INFANTRY SNIPER",
+        "octgn_id": "55400a3a-b2d2-4e6d-b152-310e4d2fa38b",
+        "rarity": "C1",
+        "shoot": "9",
+        "text": "May perform a Shoot attack against any warrior that attacks any other Capitol warrior in play. This attack occurs before the Battle Tactic is announced. The original combat continues if the warrior survives. If more than one Sniper wishes to Shoot, the original Defender chooses the order of attacks.",
+        "type_code": "warrior",
+        "value": "9"
+    },
+    {
+        "clarification_text": "GIVE TO ANY WARRIOR. User gains +2 to S and is not affected by HEAVY FOG. Opponents may not HIDE IN SHADOWS against the user.",
+        "code": "05041",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "gol/infraredgoggles.jpg",
+        "name": "INFRARED GOGGLES",
+        "octgn_id": "db93bd1f-2363-4330-89f3-dd05aca9192e",
+        "post_play": "+",
+        "rarity": "C2",
+        "shoot": "2",
+        "text": "User gains +2 to S and is not affected by HEAVY FOG. Opponents may not HIDE IN SHADOWS against the user.",
+        "type_code": "equipment"
+    },
+    {
+        "code": "05042",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "brotherhood"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "gol/inquisition.jpg",
+        "name": "INQUISITION",
+        "octgn_id": "d0b561ee-eefd-4f41-acc2-2b32bf7b33dd",
+        "post_play": "+",
+        "rarity": "C1",
+        "text": "ATTACH TO ANY BROTHERHOOD WARRIOR AS ONE ACTION. This warrior may now force any CULTIST in play to switch declared affiliation (Doomtrooper or Heretic) at any time. This takes precedence over the CULTIST's wishes.",
+        "type_code": "special"
+    },
+    {
+        "armor": "8",
+        "clarification_text": "PERSONALITY. INQUISITOR. BLESSED. SLAYER (when combating Dark Legion warriors). May never be turned into a HERETIC.",
+        "code": "05043",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "brotherhood"
+        ],
+        "fight": "5",
+        "illustrator": "Studio Parente",
+        "image_url": "gol/inquisitorsimon.jpg",
+        "name": "INQUISITOR SIMON",
+        "octgn_id": "9d81d29d-67c2-4c06-9bac-02b4c60ee457",
+        "rarity": "C2",
+        "shoot": "10",
+        "text": "PERSONALITY. CONSIDERED AN INQUISITOR. May cast all aspects of the Art. May never be turned into a Heretic. Dark Legion warriors wounded by Simon are automatically killed.",
+        "type_code": "warrior",
+        "value": "9"
+    },
+    {
+        "clarification_text": "ATTACH TO ANY BROTHERHOOD WARRIOR AS ONE ACTION. While attached, this warrior may not attack and is PROFANE. The warrior may be attacked as normal.",
+        "code": "05044",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "gol/lackoffaith.jpg",
+        "name": "LACK OF FAITH",
+        "octgn_id": "645d2e7e-487a-41cd-92bf-e3ceed38c5e5",
+        "post_play": "+",
+        "rarity": "C1",
+        "text": "ATTACH TO ANY BROTHERHOOD WARRIOR AS ONE ACTION. This warrior may not attack or use the Art as long as this card remains in play. It may be attacked as normal.",
+        "type_code": "special"
+    },
+    {
+        "armor": "8",
+        "clarification_text": "FOLLOWER OF DEMNOGONIS. As three actions, the Ritesman may transform any non-Personality DOOMTROOPER in play into a FOLLOWER OF DEMNOGONIS. It loses all other affiliations and now-illegal attached cards. Move it to your Kohort.",
+        "code": "05045",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "legion"
+        ],
+        "fight": "3",
+        "illustrator": "Terry Oakes",
+        "image_url": "gol/lastritesman.jpg",
+        "name": "LAST RITESMAN",
+        "octgn_id": "46b60d73-53b7-41d2-bbdb-6704cc950dcf",
+        "rarity": "C2",
+        "shoot": "7",
+        "text": "FOLLOWER OF DEMNOGONIS. As three actions, the Ritesman may transform any non-Personality Doomtrooper in play into a FOLLOWER OF DEMNOGONIS. It loses all other affiliations and now-illegal attached cards.",
+        "type_code": "warrior",
+        "value": "7"
+    },
+    {
+        "code": "05046",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "gol/leashed.jpg",
+        "name": "LEASHED",
+        "octgn_id": "d85453ff-f313-4a80-bd4e-665616d6d399",
+        "post_play": "+",
+        "rarity": "C1",
+        "text": "ATTACH TO ANY DARK LEGION WARRIOR AS ONE ACTION. The affected warrior may not attack unless its controller first pays 5 D.",
+        "type_code": "special",
+        "value": "e5"
+    },
+    {
+        "clarification_text": "PLAY AS THREE ACTIONS. All cards in play, except warriors, are discarded.",
+        "code": "05047",
+        "deck_limit": 1,
+        "expansion_code": "gol",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "gol/leveledfield.jpg",
+        "name": "LEVELED FIELD",
+        "octgn_id": "ef09b6d9-e316-4a08-8317-6ffb8f152f69",
+        "post_play": "x",
+        "rarity": "C1",
+        "text": "PLAY AS THREE ACTIONS AND REMOVE FROM GAME. All cards in play, except warriors, are discarded. You may only have one Leveled Field in your deck.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "ATTACH TO GAME AT ANY TIME. While in play, any warrior that successfully Sabotages a player only earns Destiny Points. It may not gain Promotion Points.",
+        "code": "05048",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Simon Bisley",
+        "image_url": "gol/limitedresources.jpg",
+        "name": "LIMITED RESOURCES",
+        "octgn_id": "815d22ea-8dd3-40ae-8fc0-92566d96eb76",
+        "post_play": "+",
+        "rarity": "C2",
+        "text": "ATTACH TO GAME AT ANY TIME. MAY NEVER BE DISCARDED. While in play, any warrior that successfully attacks a PLAYER only earns Destiny Points. It may not gain Promotion Points.",
+        "type_code": "special"
+    },
+    {
+        "armor": "2",
+        "clarification_text": "ATTACH TO THE GAME IMMEDIATELY AFTER A DOOMTROOPER PERSONALITY IS KILLED. The death of the Personality inspires all the other warriors of the same affiliation in play, giving them +2 to F, S, and A. This card remains in play until the Personality is brought back into play.",
+        "code": "05049",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "general"
+        ],
+        "fight": "2",
+        "illustrator": "Studio Parente",
+        "image_url": "gol/martyr.jpg",
+        "name": "MARTYR",
+        "octgn_id": "602d3718-5f97-4a7d-b49c-5465e7a22824",
+        "post_play": "+",
+        "rarity": "C1",
+        "shoot": "2",
+        "text": "PLAY IMMEDIATELY AFTER A DOOMTROOPER PERSONALITY IS KILLED. The death of the Personality inspires all the other Doomtroopers of the same affiliation in play, giving them +2 to F, S, and A. This card remains in play until the corresponding Personality is brought back into play.",
+        "type_code": "special"
+    },
+    {
+        "armor": "5",
+        "clarification_text": "Your Mishima warriors gain +5 to F, S and A when combating Dark Legion warriors and may be given Ki Powers at any time with no action or D cost.",
+        "code": "05050",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "mishima"
+        ],
+        "fight": "5",
+        "illustrator": "Paul Bonner",
+        "image_url": "gol/mishima.jpg",
+        "name": "MISHIMA",
+        "octgn_id": "9dfd1680-6ba2-41f2-adf3-bf7cf45f46ac",
+        "post_play": "+",
+        "rarity": "C2",
+        "shoot": "5",
+        "text": "ALLIANCE. Refer to the ALLIANCES RULES CARD. Your Mishima warriors gain +5 to F, S and A when combating Dark Legion warriors.",
+        "type_code": "alliance"
+    },
+    {
+        "clarification_text": "ATTACH TO ANY DOOMTROOPER AT ANY TIME. While in play, the warrior is considered MISSING IN ACTION and a NONCOMBATANT. It may not perform any actions or use the Art.",
+        "code": "05051",
+        "deck_limit": 1,
+        "expansion_code": "gol",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "gol/missinginaction.jpg",
+        "name": "MISSING IN ACTION",
+        "octgn_id": "caeaac78-eb59-46c4-82a5-9514dd4b899c",
+        "post_play": "+",
+        "rarity": "C1",
+        "text": "ATTACH TO ANY DOOMTROOPER AT ANY TIME. While in play, the warrior is considered MISSING IN ACTION and may not perform any actions, be attacked or use the Art. Solitary MIA warriors do not prevent a PLAYER from being attacked!",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "PLAY AS ONE TACTICAL ACTION ON AN ENEMY, NON-NONCOMBATANT DARK LEGION WARRIOR. The warrior attacks its controller and you earn half its modified V (rounded down) in Promotion Points. No combat is conducted.",
+        "code": "05052",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "legion"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "gol/mutiny.jpg",
+        "name": "MUTINY",
+        "octgn_id": "1b31638f-c2e5-4683-9236-80592c512eef",
+        "post_play": "x",
+        "rarity": "C2",
+        "text": "PLAY AS ONE ATTACK ACTION ON AN ENEMY DARK LEGION WARRIOR THAT MAY PARTICIPATE IN COMBAT, THEN REMOVE THIS CARD FROM GAME. The warrior attacks its controller and you earn half its modified V (rounded down) in Promotion Points.",
+        "type_code": "special",
+        "value": "/2"
+    },
+    {
+        "clarification_text": "PLAY AS ONE ACTION. You may immediately change seats with any other player. Only the seating order changes and all players keep their own cards. May not be played during 2-player games.",
+        "code": "05053",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "gol/nothingissacred.jpg",
+        "name": "NOTHING IS SACRED",
+        "octgn_id": "26f6d4fc-a755-412c-b1ab-7d87891b09cc",
+        "post_play": "x",
+        "rarity": "C1",
+        "text": "PLAY AS ONE ACTION AND REMOVE FROM GAME. You may immediately change places with any other player. Only the seating order changes and all players keep their own cards. May not be used in 2-player games.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "PLAY AS ONE ACTION. All VEHICLES and cards that are considered VEHICLES in play are discarded. Warriors discarded in this way do not earn points.",
+        "code": "05054",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "gol/outoffuel.jpg",
+        "name": "OUT OF FUEL",
+        "octgn_id": "314b3b57-d938-4df9-bfb6-71cb0a146a71",
+        "post_play": "x",
+        "rarity": "C1",
+        "text": "PLAY AS ONE ACTION AND REMOVE FROM GAME. All VEHICLES and cards that are considered VEHICLES in play are discarded. Warriors discarded in this way do not earn points.",
+        "type_code": "special"
+    },
+    {
+        "armor": "9",
+        "clarification_text": "FOLLOWER OF ALGEROTH. PRETORIAN STALKER. ART IMMUNITY. May not have Dark Symmetry cards. Gains +2 to F if another PRETORIAN STALKER is in the same Combat Area.",
+        "code": "05055",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "legion"
+        ],
+        "fight": "13",
+        "illustrator": "Paul Bonner",
+        "image_url": "gol/pretorianbehemoth.jpg",
+        "name": "PRETORIAN BEHEMOTH",
+        "octgn_id": "c835f21b-36dd-4324-8735-e71b194dcfcc",
+        "rarity": "C2",
+        "shoot": "7",
+        "text": "FOLLOWER OF ALGEROTH. Considered a PRETORIAN STALKER. Immune to the Art. May not use Dark Symmetry. The Behemoth gains +2 to F if another PRETORIAN STALKER is in the same Kohort.",
+        "type_code": "warrior",
+        "value": "10"
+    },
+    {
+        "clarification_text": "PLAY AS ONE ACTION. All your warriors that are IMPRISONED or considered MISSING IN ACTION are returned to play. They are placed in the Combat Areas in which they would normally be mustered.",
+        "code": "05056",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "gol/rescuemission.jpg",
+        "name": "RESCUE MISSION",
+        "octgn_id": "b0721cfa-ebae-4cd4-b0ba-6e255401f90c",
+        "post_play": "-",
+        "rarity": "C2",
+        "text": "PLAY AS ONE ACTION. All your warriors that are IMPRISONED or considered MISSING IN ACTION are returned to your Squad and/or Kohort.",
+        "type_code": "special"
+    },
+    {
+        "armor": "10",
+        "clarification_text": "PERSONALITY. FOLLOWER AND NEPHARITE OF ALGEROTH. ART IMMUNITY. May not be in the same Combat Area as ALAKHAI THE CUNNING and may only attack ALAKHAI if he is in play.",
+        "code": "05057",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "legion"
+        ],
+        "fight": "12",
+        "illustrator": "Studio Parente",
+        "image_url": "gol/saladin.jpg",
+        "name": "SALADIN",
+        "octgn_id": "bd655eaa-dc56-4b86-acb4-f46c41334327",
+        "rarity": "C1",
+        "shoot": "8",
+        "text": "FOLLOWER AND NEPHARITE OF ALGEROTH. PERSONALITY. Immune to the Art. Saladin may not be in the same Kohort as ALAKHAI THE CUNNING and may only attack ALAKHAI if he is in play.",
+        "type_code": "warrior",
+        "value": "11"
+    },
+    {
+        "clarification_text": "GIVE TO ANY WARRIOR. Annihilate this card at any time to discard any one Special card attachment currently in play.",
+        "code": "05058",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "gol/scramblingdevice.jpg",
+        "name": "SCRAMBLING DEVICE",
+        "octgn_id": "de9d0d40-66e6-4132-a81d-1cde576161fe",
+        "post_play": "+",
+        "rarity": "C1",
+        "text": "GIVE TO ANY DOOMTROOPER OR HERETIC. Remove from game at any time to discard any one Special card currently in play.",
+        "type_code": "equipment"
+    },
+    {
+        "clarification_text": "PLAY DURING COMBAT. The combat immediately ends and all warriors involved return to their controllers' hands. Attachments on the combatants are discarded.",
+        "code": "05059",
+        "deck_limit": 1,
+        "expansion_code": "gol",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "gol/secondthoughts.jpg",
+        "name": "SECOND THOUGHTS",
+        "octgn_id": "783a0bd0-278d-4df7-b993-af9971d689d7",
+        "post_play": "x",
+        "rarity": "C1",
+        "text": "PLAY DURING COMBAT, THEN REMOVE FROM GAME. The combat immediately ends and all warriors involved return to their controllers' hands. Attachments on the combatants are discarded.",
+        "type_code": "special"
+    },
+    {
+        "armor": "8",
+        "clarification_text": "PERSONALITY. INFANTRY. COMMANDER. SERGEANT. Non-Personality INFANTRY gain +4 to F, S and A while in the same Combat Area with Carter. Other SERGEANTS have no effect on these cards.",
+        "code": "05060",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "capitol"
+        ],
+        "fight": "2",
+        "illustrator": "Terry Oakes",
+        "image_url": "gol/sergeantcarter.jpg",
+        "name": "SERGEANT CARTER",
+        "octgn_id": "713bec7c-c275-4bf7-9a43-90ba460b3b34",
+        "rarity": "C1",
+        "shoot": "6",
+        "text": "PERSONALITY. CONSIDERED INFANTRY. COMMANDER (SERGEANT). While in play all your non-Personality INFANTRY gain +4 to F, S and A. Other SERGEANTS have no effect on these cards.",
+        "type_code": "warrior",
+        "value": "7"
+    },
+    {
+        "armor": "8",
+        "clarification_text": "PERSONALITY. HATAMOTO. COMMANDER. CAPTAIN. Non-Personality HATAMOTO gain +5 to F, S and A while in the same Combat Area with Shinobi.",
+        "code": "05061",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "mishima"
+        ],
+        "fight": "5",
+        "illustrator": "Terry Oakes",
+        "image_url": "gol/shinobi.jpg",
+        "name": "SHINOBI",
+        "octgn_id": "e1bfee30-9453-483a-8096-5394171a170a",
+        "rarity": "C1",
+        "shoot": "9",
+        "text": "PERSONALITY. CONSIDERED A HATAMOTO. COMMANDER (CAPTAIN). While in play all your non-Personality HATAMOTO gain +5 to F, S and A.",
+        "type_code": "warrior",
+        "value": "8"
+    },
+    {
+        "clarification_text": "PLAY IMMEDIATELY AFTER A SPECIAL CARD HAS BEEN PLAYED BY AN OPPONENT. The opponent may not use the card but you MUST immediately play the card on a legal target (or you may not play this card). You may not play this card on MISCOMMUNICATION. Note: playing this card on a just-played STOLEN PAPERWORK causes that card to be ineffective.",
+        "code": "05062",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "gol/stolenpaperwork.jpg",
+        "name": "STOLEN PAPERWORK",
+        "octgn_id": "5a904304-f40f-4db8-853f-6d36d285f19a",
+        "post_play": "x",
+        "rarity": "C1",
+        "text": "PLAY IMMEDIATELY AFTER A SPECIAL CARD HAS BEEN PLAYED BY AN OPPONENT. THEN REMOVE THIS CARD FROM GAME. The opponent may not use the card but YOU are free to use the card as you wish. You must be able to use the card, and it must be played immediately.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "ATTACH TO YOURSELF AT ANY TIME. While in play, you are immune to the ATTRITION and the ECONOMIC BREAKDOWN cards.",
+        "code": "05063",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Paul Bonner",
+        "image_url": "gol/surplus.jpg",
+        "name": "SURPLUS",
+        "octgn_id": "c56687ac-35aa-4dd0-bedb-7d0eacc0e3fa",
+        "post_play": "+",
+        "rarity": "C2",
+        "text": "PLAY AT ANY TIME. REMAINS IN PLAY. While in play, you are immune to the ATTRITION and the ECONOMIC BREAKDOWN cards.",
+        "type_code": "special"
+    },
+    {
+        "code": "05064",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "brotherhood"
+        ],
+        "illustrator": "Angus McKie",
+        "image_url": "gol/symmetryfailure.jpg",
+        "name": "SYMMETRY FAILURE",
+        "octgn_id": "2ba8c453-10ea-44f8-a15e-cc01d7685f20",
+        "post_play": "-",
+        "rarity": "C1",
+        "text": "PLAY AT ANY TIME. All Dark Symmetry cards in play are discarded.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "PLAY AS ONE ACTION. Discard one of your warriors in play to gain twice its modified V in D.",
+        "code": "05065",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "gol/taxrefund.jpg",
+        "name": "TAX REFUND",
+        "octgn_id": "09d14150-3ae9-4da4-811d-b6f4781d23da",
+        "post_play": "x",
+        "rarity": "C1",
+        "text": "PLAY AS ONE ACTION AND REMOVE FROM THE GAME. Discard one of your warriors in play to gain twice its modified V in D.",
+        "type_code": "special",
+        "value": "2x"
+    },
+    {
+        "armor": "+x",
+        "clarification_text": "PLAY ON A WARRIOR ATTACKING A WARRIOR DEFENDING FROM A WARZONE. The attacking warrior gains EITHER all the positive modifiers OR all the negative modifiers to F, S A and V listed on the Warzone card (you choose which). The Defender gains the Warzone modifiers as normal.",
+        "code": "05066",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "general"
+        ],
+        "fight": "+x",
+        "illustrator": "Studio Parente",
+        "image_url": "gol/territorialadvantage.jpg",
+        "name": "TERRITORIAL ADVANTAGE",
+        "octgn_id": "09ebc33f-dc33-4018-9eb2-5659716850b9",
+        "post_play": "-",
+        "rarity": "C2",
+        "shoot": "+x",
+        "text": "PLAY ON A WARRIOR ATTACKING A WARRIOR DEFENDING FROM A WARZONE. The attacking warrior gains EITHER all the positive modifiers OR all the negative modifiers to F, S A and V listed on the Warzone card (you choose which). The Defender gains the Warzone modifiers as normal.",
+        "type_code": "special",
+        "value": "+x"
+    },
+    {
+        "clarification_text": "All your Brotherhood warriors are BLESSED, and they treat all PERSONAL COMBAT SPELLS as COMBAT SPELLS.",
+        "code": "05067",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "brotherhood"
+        ],
+        "illustrator": "Paul Bonner",
+        "image_url": "gol/thebrotherhood.jpg",
+        "name": "THE BROTHERHOOD",
+        "octgn_id": "3553afbf-7e1e-413d-9fbe-bb2b0437e7e8",
+        "post_play": "+",
+        "rarity": "C2",
+        "text": "ALLIANCE. Refer to the ALLIANCES RULES CARD. All your Brotherhood warriors may cast all Art cards, and they treat all PERSONAL COMBAT SPELLS as COMBAT SPELLS.",
+        "type_code": "alliance"
+    },
+    {
+        "clarification_text": "You may bestow any Dark Symmetry cards on your Dark Legion warriors at any time with no D or action cost.",
+        "code": "05068",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "legion"
+        ],
+        "illustrator": "Paul Bonner",
+        "image_url": "gol/thedarklegion.jpg",
+        "name": "THE DARK LEGION",
+        "octgn_id": "2c3bc65b-7e2d-4dea-a6e4-c01de0e1212a",
+        "post_play": "+",
+        "rarity": "C2",
+        "text": "ALLIANCE. Refer to the ALLIANCES RULES CARD. You may bestow any Dark Symmetry cards on your Dark Legion warriors at any time with no D or action cost.",
+        "type_code": "alliance"
+    },
+    {
+        "code": "05069",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Angus McKie",
+        "image_url": "gol/thefirstamendment.jpg",
+        "name": "THE FIRST AMENDMENT",
+        "octgn_id": "b60acd61-7f7c-4724-9ec9-403dace0dbe9",
+        "post_play": "+",
+        "rarity": "C2",
+        "text": "ATTACH TO GAME AT ANY TIME. MAY NEVER BE DISCARDED. All warriors that are \"considered\" something will also get all the special abilities written on the card they are considered, but only when that other card is in play.",
+        "type_code": "special"
+    },
+    {
+        "armor": "7",
+        "clarification_text": "PERSONALITY. GOLDEN LION. Non-Personality GOLDEN LIONS gain +4 to F, S and A and are SLAYERS (when combating Dark Legion warriors) while in the same Combat Area with MacGuire.",
+        "code": "05070",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "imperial"
+        ],
+        "fight": "4",
+        "illustrator": "Terry Oakes",
+        "image_url": "gol/timothymacguire.jpg",
+        "name": "TIMOTHY MACGUIRE",
+        "octgn_id": "403ad1ef-b72f-4908-8309-75257f1daf6c",
+        "rarity": "C1",
+        "shoot": "10",
+        "text": "PERSONALITY. CONSIDERED A GOLDEN LION. While in play, all your non-Personality GOLDEN LIONS gain +4 to F, S and A and automatically kill any Dark Legion warriors they wound.",
+        "type_code": "warrior",
+        "value": "7"
+    },
+    {
+        "armor": "7",
+        "clarification_text": "PERSONALITY. SHADOW WALKER. ASSASSIN. SLAYER. FIRST STRIKE. May never be in cover. Other SHADOW WALKERS are SLAYERS while in the same Combat Area with Toshiro.",
+        "code": "05071",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "mishima"
+        ],
+        "fight": "10",
+        "illustrator": "Terry Oakes",
+        "image_url": "gol/toshiro.jpg",
+        "name": "TOSHIRO",
+        "octgn_id": "7ec0b764-10e5-4942-9527-a08f7da4fb66",
+        "rarity": "C2",
+        "shoot": "2",
+        "text": "PERSONALITY. CONSIDERED A SHADOW WALKER. May never be in cover. Toshiro always strikes first in combat. While in play, all your SHADOW WALKERS automatically kill any warrior they wound.",
+        "type_code": "warrior",
+        "value": "7"
+    },
+    {
+        "clarification_text": "PLAY AT ANY TIME. Flip ALL in-play cards face-down. Face-down cards do not have ANY effect on the game (except warriors, who are considered in cover). A player must spend one action to flip any one card in play face-up. Attachements are not flipped face-up with their base cards; they must be individually flipped to again take effect.",
+        "code": "05072",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "gol/totaleclipse.jpg",
+        "name": "TOTAL ECLIPSE",
+        "octgn_id": "f92b9121-6d1b-41aa-87c2-e769936c1508",
+        "post_play": "-",
+        "rarity": "C1",
+        "text": "PLAY AT ANY TIME. Flip ALL cards currently in play face-down. Face-down cards do not have ANY effect on the game (except warriors, who are considered in cover). A player must spend one action to flip any one card in play face-up. Attachements are not flipped face-up with their base cards; they must be individually flipped to again take effect.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "ATTACH TO ANY HERETIC AT ANY TIME. This warrior has been turned to the forces of good and is considered a non-affiliated Doomtrooper while attached. All attached Dark Legion affiliated cards are discarded. If the warrior is a Doomtrooper affected by DARK VISITATION and/or TAINTED, then those cards and this one are all discarded.",
+        "code": "05073",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "brotherhood"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "gol/touchedbythelight.jpg",
+        "name": "TOUCHED BY THE LIGHT",
+        "octgn_id": "9d5f4cba-c5f7-405c-948e-34f778e95313",
+        "post_play": "+",
+        "rarity": "C1",
+        "text": "PLAY ON ANY HERETIC AT ANY TIME. This warrior has been turned to the forces of good and is now considered a non-affiliated Doomtrooper. All attached Dark Legion affiliated cards are discarded. This card will cancel DARK VISITATION and TAINTED.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "PLAY DURING YOUR TURN. ONLY USABLE DURING TEAM GAMES. All members of your team may transfer warriors between individual Combat Areas as one action each. Warriors must remain in the same type of Combat Area (Squad to a Squad, etc.).",
+        "code": "05074",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "gol/trooptransfer.jpg",
+        "name": "TROOP TRANSFER",
+        "octgn_id": "800c605e-82c3-44c1-af2c-5ea393dc3ae9",
+        "post_play": "-",
+        "rarity": "C1",
+        "text": "PLAY DURING YOUR TURN. ONLY USABLE DURING TEAM GAMES. All members of your team may transfer warriors between your Squads and between your Kohorts as one action each. Warriors may not be transfered from a Squad to a Kohort and vice versa.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "PLAY AT ANY TIME DURING A TEAM GAME. Choose two teams when playing this card. Until the beginning of your next turn, warriors from those two teams may not perform Tactical Actions directed against one another, or play Special cards designed to impede one another.",
+        "code": "05075",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "gol/truce.jpg",
+        "name": "TRUCE",
+        "octgn_id": "14b9512f-031f-47e7-b4b4-297420952391",
+        "post_play": "-",
+        "rarity": "C1",
+        "text": "PLAY AT ANY TIME DURING A TEAM GAME. Choose two teams when playing this card. Until the beginning of your next turn, warriors from those two teams may not perform attack actions directed against one another, or play Special cards designed to impede one another.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "PLAY ON ANY PLAYER AT ANY TIME. Affected player must replace all the cards in his hand with an equal amount of cards from the bottom of his or her Draw pile (then put the original hand on the bottom of the Draw pile).",
+        "code": "05076",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "gol/tuckedaway.jpg",
+        "name": "TUCKED AWAY",
+        "octgn_id": "84ee76ac-9d5a-46bf-97d4-f84f10a28e95",
+        "post_play": "-",
+        "rarity": "C1",
+        "text": "PLAY ON ANY PLAYER AT ANY TIME. Affected player must replace all the cards in his or her hand with an equal amount of cards from the bottom of his or her Draw pile (put the original hand on the bottom of the Draw pile).",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "ATTACH TO ANY DOOMTROOPER AS ONE ACTION. This warrior will never change allegiance, gain another affiliation, or be turned into a HERETIC as long as this card remains in play. If the warrior already has gained a different affiliation, it reverts to its original affiliation.",
+        "code": "05077",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "gol/undyingloyalty.jpg",
+        "name": "UNDYING LOYALTY",
+        "octgn_id": "b9e63c2e-17d4-45e0-aabc-3b87f934eacc",
+        "post_play": "+",
+        "rarity": "C1",
+        "text": "ATTACH TO ANY DOOMTROOPER AS ONE ACTION. This warrior will never change allegiance, gain another affiliation, or be turned into a Heretic as long as this card remains in play. If the warrior already has gained a different affiliation, it reverts to its original affiliation only.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "PLAY IMMEDIATELY AFTER A PLAYER DECIDES TO EARN PROMOTION POINTS FROM KILLING ONE OF YOUR WARRIORS. The player must pay you 2D for each earned Promotion Point. If the player cannot pay for ALL the points, he earns none of them. Any D taken is kept, and may be used to pay for the Promotion Points.",
+        "code": "05078",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "gol/wartimeretribution.jpg",
+        "name": "WARTIME RETRIBUTION",
+        "octgn_id": "cdabea3d-c540-43de-ada3-c2de117ec3f1",
+        "post_play": "-",
+        "rarity": "C1",
+        "text": "PLAY IMMEDIATELY AFTER A PLAYER DECIDES TO EARN PROMOTION POINTS FROM ATTACKING ONE OF YOUR WARRIORS. The player must pay you 2 D for each earned Promotion Point. If the player cannot pay for ALL the points, he or she earns none of them. Any D earned is kept, and may be used to pay for the Promotion Points.",
+        "type_code": "special",
+        "value": "e2"
+    },
+    {
+        "clarification_text": "GIVE TO ANY DOOMTROOPER OR HERETIC. Each time this warrior kills another warrior, it gains two extra points. Any other modifications to the total points gained are made BEFORE adding these points. This Mission is never fulfilled.",
+        "code": "05079",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "gol/yahoo.jpg",
+        "name": "YAHOO!",
+        "octgn_id": "4cfbde56-5d0e-4933-b152-347401c3dca2",
+        "post_play": "+",
+        "rarity": "C1",
+        "text": "GIVE TO ANY DOOMTROOPER OR HERETIC. Each time this warrior kills another warrior, it gains two extra points. Any other modifications to the total points gained are made BEFORE adding these points.",
+        "type_code": "mission",
+        "value": "2"
+    },
+    {
+        "armor": "9",
+        "clarification_text": "PERSONALITY. SAMURAI. COMPLETE SYMMETRY IMMUNITY. Yuichiro and other SAMURAI in the same Combat Area gain double the modifications provided by their FIGHT WEAPONS.",
+        "code": "05080",
+        "deck_limit": 5,
+        "expansion_code": "gol",
+        "faction_code": [
+            "mishima"
+        ],
+        "fight": "7",
+        "illustrator": "Terry Oakes",
+        "image_url": "gol/yuichiro.jpg",
+        "name": "YUICHIRO",
+        "octgn_id": "f2490b83-809b-4fb2-8fb0-8d79136f76a8",
+        "rarity": "C2",
+        "shoot": "7",
+        "text": "PERSONALITY. CONSIDERED A SAMURAI. Immune to all Dark Symmetry effects. While in play, your SAMURAI gain double the effects provided by their FIGHT WEAPONS.",
+        "type_code": "warrior",
+        "value": "9"
+    }
+]

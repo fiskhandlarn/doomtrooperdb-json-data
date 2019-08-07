@@ -1,0 +1,2129 @@
+[
+    {
+        "clarification_text": "ATTACH TO THE GAME AS THREE ACTIONS. While in play, all Dark Legion warriors in play may only attack Brotherhood warriors if there are any in play. A player is not forced to attack his or her own warriors.",
+        "code": "04001",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "legion"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/admonishresistance.jpg",
+        "name": "ADMONISH RESISTANCE",
+        "octgn_id": "f40cc849-29f0-4bfb-be0e-809aa90865c8",
+        "post_play": "+",
+        "rarity": "C2",
+        "text": "PLAY AS THREE ACTIONS. THIS CARD REMAINS IN PLAY. While in play, all Dark Legion warriors in play may only attack Brotherhood warriors if there are any in play. A player is not forced to attack his or her own warriors.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "PLAY AT ANY TIME ON ANY TANK OR WARRIOR CONSIDERED A TANK. The TANK is discarded. No points are earned if the TANK is a warrior.",
+        "code": "04002",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/airtogroundmissile.jpg",
+        "name": "AIR-TO-GROUND MISSILE",
+        "octgn_id": "7c0eb06f-d871-46e9-88b9-4101ac8b656d",
+        "post_play": "-",
+        "rarity": "C2",
+        "text": "PLAY AT ANY TIME. Any one TANK in play is discarded. No points are earned if the TANK is also a warrior.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "ATTACH TO ANY WARRIOR AT ANY TIME. The warrior loses all the text written in its text box (except for the PERSONALITY, BEAST and VEHICLE designations). The warrior's abilities/restrictions no longer apply while this card is attached. Its F, S, A and V are unaffected.",
+        "code": "04003",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/amnesia.jpg",
+        "name": "AMNESIA",
+        "octgn_id": "d5780f9f-291d-4705-a67f-1553301c6282",
+        "post_play": "+",
+        "rarity": "U2",
+        "text": "ATTACH TO ANY WARRIOR AT ANY TIME. While in play, the affected warrior loses all special abilities (but not restrictions) written on its card. Its F, S, A, and V are unaffected.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "PLAY AT ANY TIME. You may look through an opponent's Discard pile and annihilate any two cards.",
+        "code": "04004",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/andstaydead.jpg",
+        "name": "AND STAY DEAD!",
+        "octgn_id": "b841f5ca-206a-4d16-8558-01402fa2a209",
+        "post_play": "x",
+        "rarity": "U1",
+        "text": "PLAY AT ANY TIME AND REMOVE THIS CARD FROM THE GAME. You may look through an opponent's Discard pile and remove any two cards from the game.",
+        "type_code": "special"
+    },
+    {
+        "code": "04005",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Stefan Thunberg",
+        "image_url": "mort/antidote.jpg",
+        "name": "ANTIDOTE",
+        "octgn_id": "48fe7c45-f1e3-4e7b-8ed9-496680c5ee6c",
+        "post_play": "-",
+        "rarity": "C3",
+        "text": "PLAY IMMEDIATELY ON ANY WARRIOR INFLUENCED BY A POISON. The effects of the POISON are completely ignored.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "ATTACH TO ANY NON-FLAMETHROWER SHOOT WEAPON. When the affected WEAPON is used during combat, any ARMOR worn by the combat opponent is annihilated during the Combat Modification step.",
+        "code": "04006",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/armorpiercingammo.jpg",
+        "name": "ARMOR-PIERCING AMMO",
+        "octgn_id": "f7a30787-96b1-4aa3-879b-7cfbcbd2923d",
+        "post_play": "+",
+        "rarity": "U2",
+        "text": "ATTACH TO ANY NON-FLAMETHROWER SHOOT WEAPON. All opponents of the warrior who uses the affected weapon lose all ARMOR they possess. The ARMOR is removed from the game.",
+        "type_code": "equipment"
+    },
+    {
+        "armor": "4",
+        "clarification_text": "GIVE TO ANY DOOMTROOPER. VEHICLE. AIRSHIP. Warrior gains +4 to S and A and its opponents may not gain the effects of Fortifications or defend from Warzones.",
+        "code": "04007",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "bauhaus"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/autogyro.jpg",
+        "name": "AUTOGYRO",
+        "octgn_id": "22c26a77-70a0-482b-90aa-1d8ea632992c",
+        "post_play": "+",
+        "rarity": "C2",
+        "shoot": "4",
+        "text": "GIVE TO ANY DOOMTROOPER. AIRSHIP AND VEHICLE. A warrior may only have one VEHICLE. Warrior gains +4 to S and A and its opponents may not gain the effects of Fortifications or defend from Warzones.",
+        "type_code": "equipment"
+    },
+    {
+        "armor": "+x",
+        "clarification_text": "PLAY DURING COMBAT IN WHICH ONE COMBATANT DEFENDS FROM A WARZONE. The Attacker also gains the modifiers to F, S, A and V (both positive and negative) that the Warzone provides.",
+        "code": "04008",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "fight": "+x",
+        "illustrator": "Studio Parente",
+        "image_url": "mort/backdoor.jpg",
+        "name": "BACK DOOR",
+        "octgn_id": "bd2f4209-e1e1-4ad6-9ee0-7e11a3484ca1",
+        "post_play": "-",
+        "rarity": "C2",
+        "shoot": "+x",
+        "text": "PLAY DURING COMBAT IN WHICH ONE COMBATANT DEFENDS FROM A WARZONE. The Attacker also gains the modifiers to F, S, A and V (both positive and negative) that the Warzone provides.",
+        "type_code": "special",
+        "value": "+x"
+    },
+    {
+        "clarification_text": "PLAY DURING YOUR TURN AS THREE ACTIONS. Every warrior in your Squad must attack a separate Dark Legion warrior in play (if able). Choose Attackers and Defenders (only one Attacker per Defender). Your extra Squad members do nothing. Conduct each attack separately, in any order you choose. This uses your Tactical Action.",
+        "code": "04009",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/battlecry.jpg",
+        "name": "BATTLE CRY",
+        "octgn_id": "a78d95c5-ef65-4b56-b082-45f95ec25edd",
+        "post_play": "-",
+        "rarity": "C2",
+        "text": "PLAY DURING YOUR TURN AS THREE ACTIONS. Every warrior in your Squad must attack a separate Dark Legion warrior in play (if able). Choose Attackers and Defenders (only one Attacker per Defender). Your extra Squad members do nothing. Conduct each attack separately, in any order you choose.",
+        "type_code": "special"
+    },
+    {
+        "armor": "7",
+        "clarification_text": "While in play, only you may manipulate your Destiny Points and Promotion Points, and they are unaffected by all card effects unless you say otherwise.",
+        "code": "04010",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "bauhaus"
+        ],
+        "fight": "3",
+        "illustrator": "Studio Parente",
+        "image_url": "mort/bauhaussecurityguard.jpg",
+        "name": "BAUHAUS SECURITY GUARD",
+        "octgn_id": "a3b1806b-5a9b-4698-a4df-733d58582506",
+        "rarity": "C2",
+        "shoot": "5",
+        "text": "While in your Squad, only you may manipulate your Destiny Points and Promotion Points, and they are unaffected by all card effects unless you say otherwise.",
+        "type_code": "warrior",
+        "value": "6"
+    },
+    {
+        "clarification_text": "PLAY IMMEDIATELY AFTER A COMBAT IN WHICH YOUR WARRIOR WOUNDS ANOTHER WARRIOR. Your warrior may immediately Attack the wounded warrior again. This costs no actions.",
+        "code": "04011",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/bitethedust.jpg",
+        "name": "BITE THE DUST",
+        "octgn_id": "72466e93-3d15-4f6a-a251-304789db0cc1",
+        "post_play": "-",
+        "rarity": "U2",
+        "text": "PLAY IMMEDIATELY AFTER A COMBAT IN WHICH YOUR WARRIOR WOUNDS ANOTHER WARRIOR. Your warrior may immediately Attack the wounded warrior. This costs no actions.",
+        "type_code": "special"
+    },
+    {
+        "code": "04012",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "brotherhood"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/blackvenom.jpg",
+        "name": "BLACK VENOM",
+        "octgn_id": "243a3771-e0d4-4611-8f93-9a05cc6b37f3",
+        "post_play": "+",
+        "rarity": "U2",
+        "text": "POISON. ATTACH TO ANY MORTIFICATOR'S WEAPON. If the weapon wounds a warrior in a Fight combat, discard this card to paralyze the wounded opponent. It may not perform actions until healed, and may not retaliate if attacked.",
+        "type_code": "equipment"
+    },
+    {
+        "code": "04013",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/blastingaway.jpg",
+        "name": "BLASTING AWAY",
+        "octgn_id": "672a2261-bd9a-471a-b635-c2fa8d45d4ff",
+        "post_play": "+",
+        "rarity": "C2",
+        "text": "ATTACH TO ANY WARRIOR AS TWO ACTIONS. The affected warrior is allowed to Attack while in cover, but only with a Shoot combat.",
+        "type_code": "special"
+    },
+    {
+        "code": "04014",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/blessedblood.jpg",
+        "name": "BLESSED BLOOD",
+        "octgn_id": "5adc4c53-b2ac-4e93-8307-38e69d157b99",
+        "post_play": "+",
+        "rarity": "C3",
+        "text": "ATTACH TO ANY WARRIOR AS TWO ACTIONS. The affected warrior is immune to POISON. POISON cards may not be played against the warrior, but it may use its own POISONS (if allowed).",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "ATTACH TO ANY DARK LEGION WARRIOR AS ONE ACTION. The affected warrior is now considered a FOLLOWER of any one Apostle (choose which one) in addition to any other affiliation. It may receive GIFTS of that Apostle, provided it is allowed to have Dark Symmetry cards.",
+        "code": "04015",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "legion"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/blessedbyapostle.jpg",
+        "name": "BLESSED BY APOSTLE",
+        "octgn_id": "398438a7-22d6-4aa4-a9ee-43cf376986c1",
+        "post_play": "+",
+        "rarity": "C2",
+        "text": "ATTACH TO ANY DARK LEGION WARRIOR AS ONE ACTION. The affected warrior is now considered a FOLLOWER of any one Apostle (chose which one) in addition to any other affiliation. It may receive GIFTS of that Apostle, provided it is allowed to have Dark Symmetry cards.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "PLAY IMMEDIATELY AFTER ANY SECRET IS REVEALED. The secreted Special cards have no effect on play and are annihilated, along with the SECRET card.",
+        "code": "04016",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/bluff.jpg",
+        "name": "BLUFF",
+        "octgn_id": "0d0bbb11-f86f-461a-b5ce-a1ef7c89fc4c",
+        "post_play": "-",
+        "rarity": "C2",
+        "text": "PLAY IMMEDIATELY AFTER ANY SECRET IS REVEALED. The secreted Special cards have no effect on play and are removed from the game, along with the SECRET card.",
+        "type_code": "special"
+    },
+    {
+        "code": "04017",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/boobytrap.jpg",
+        "name": "BOOBY TRAP",
+        "octgn_id": "13faeda9-3dd0-417e-b82a-ad5dafc8f450",
+        "post_play": "-",
+        "rarity": "U2",
+        "text": "PLAY IMMEDIATELY AFTER ANY WARRIOR HAS BEEN ADDED TO THE GAME. The warrior springs a trap and is immediately wounded, even if the warrior may only be \"automatically killed\".",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "PLAY DURING COMBAT ON ANY COMBATING WARRIOR. Pay twice the warrior's V in D. The warrior is now working for you. You control the warrior until the combat is over. If the warrior earns any points during this combat, they are yours (if the warrior killed your warrior, you may only take D).",
+        "code": "04018",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/bribery.jpg",
+        "name": "BRIBERY",
+        "octgn_id": "d1bd6cdd-af79-43fa-88fe-2d63774e08ec",
+        "post_play": "-",
+        "rarity": "U2",
+        "text": "PLAY DURING COMBAT ON ANY COMBATING WARRIOR. Pay twice the warrior's V in D. The warrior is now working for you. You control the warrior until the combat is over. If the warrior earns any points during this combat, they are yours.",
+        "type_code": "special",
+        "value": "x"
+    },
+    {
+        "code": "04019",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/burglary.jpg",
+        "name": "BURGLARY",
+        "octgn_id": "05efbeb9-6d9a-4767-bdcd-639de0c33c74",
+        "post_play": "-",
+        "rarity": "U2",
+        "text": "PLAY AS THREE ACTIONS ON ANY PLAYER. All the player's Relics are discarded.",
+        "type_code": "special"
+    },
+    {
+        "armor": "1",
+        "clarification_text": "POISON. ATTACH TO ANY MORTIFICATOR'S WEAPON. A warrior wounded by the affected weapon in a Fight combat is not wounded, but its base F, S, and A drop to 1.",
+        "code": "04020",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "brotherhood"
+        ],
+        "fight": "1",
+        "illustrator": "Studio Parente",
+        "image_url": "mort/cardinalsblood.jpg",
+        "name": "CARDINAL'S BLOOD",
+        "octgn_id": "48fb6f3b-1188-4a53-9ce8-89b3d8856a48",
+        "post_play": "+",
+        "rarity": "C2",
+        "shoot": "1",
+        "text": "POISON. ATTACH TO ANY MORTIFICATOR'S WEAPON. A warrior wounded by the affected weapon in a Fight combat is not wounded, but its unmodified F, S, and A drop to 1.",
+        "type_code": "equipment"
+    },
+    {
+        "code": "04021",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/carnage.jpg",
+        "name": "CARNAGE",
+        "octgn_id": "99261839-88de-406c-92c7-1ae6a9b6d144",
+        "post_play": "-",
+        "rarity": "U1",
+        "text": "PLAY AS THREE ACTIONS IF YOU HAVE AT LEAST ONE WARRIOR IN PLAY. All players must discard their warriors in play until each has no more than the player with the fewest number of warriors in play. Each player chooses which warriors to discard.",
+        "type_code": "special"
+    },
+    {
+        "code": "04022",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "brotherhood"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/censerdrops.jpg",
+        "name": "CENSER DROPS",
+        "octgn_id": "6542b9a0-03c3-403c-9e6f-9f21e842ecd3",
+        "post_play": "+",
+        "rarity": "C2",
+        "text": "POISON. GIVE TO ANY MORTIFICATOR. Discard at any time to prevent all the members of any one Kohort from attacking until the beginning of your next turn. This will also cancel any combat with a Kohort member.",
+        "type_code": "equipment"
+    },
+    {
+        "code": "04023",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/certifiedoperator.jpg",
+        "name": "CERTIFIED OPERATOR",
+        "octgn_id": "95da51a7-7a55-4ec4-9fd9-d44a62b5a120",
+        "post_play": "+",
+        "rarity": "C2",
+        "text": "ATTACH TO ANY DOOMTROOPER AS TWO ACTIONS. The affected Doomtrooper may be equipped with any VEHICLE, regardless of affiliation, except those affiliated with the Dark Legion.",
+        "type_code": "special"
+    },
+    {
+        "armor": "5",
+        "clarification_text": "BUILD IN YOUR COMBAT AREA. While in play, all warriors in the same Combat Area with the General affiliation gain +5 to F, S and A. You may only have one Club ArkaDin in play.",
+        "code": "04024",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "fight": "5",
+        "illustrator": "Studio Parente",
+        "image_url": "mort/clubarkadin.jpg",
+        "name": "CLUB ARKADIN",
+        "octgn_id": "de7ad724-02e6-4511-81b2-2975037bc584",
+        "rarity": "C2",
+        "shoot": "5",
+        "text": "PUT INTO PLAY AS ONE ACTION. Club ArkaDin is not in your Squad or Kohort; it is separate. While in play, all warriors with the General affiliation gain +5 to F, S and A. You may only have one Club ArkaDin in play.",
+        "type_code": "fortification"
+    },
+    {
+        "code": "04025",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/concealedweapon.jpg",
+        "name": "CONCEALED WEAPON",
+        "octgn_id": "a0271cd9-66dd-4368-b2e6-84a3bad587a1",
+        "post_play": "-",
+        "rarity": "C2",
+        "text": "PLAY DURING COMBAT ON ANY COMBATING WARRIOR. You may immediately Equip the affected warrior with any WEAPON from your hand. You may take the weapon from your Discard pile if you first pay 8 D.",
+        "type_code": "special",
+        "value": "8"
+    },
+    {
+        "code": "04026",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/cornered.jpg",
+        "name": "CORNERED",
+        "octgn_id": "557c368c-cadb-4971-9941-1ce9e3488392",
+        "post_play": "-",
+        "rarity": "U2",
+        "text": "PLAY DURING COMBAT. No player may play any more Special cards that affect this combat (not even you), except cards that affect THIS card.",
+        "type_code": "special"
+    },
+    {
+        "armor": "6",
+        "clarification_text": "PERSONALITY. MORTIFICATOR. ASSASSIN. BLESSED. SLAYER (and killed opponents are annihilated instead of discarded). The Redeemer will never attack a Brotherhood warrior.",
+        "code": "04027",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "brotherhood"
+        ],
+        "fight": "7",
+        "illustrator": "Paul Bonner",
+        "image_url": "mort/crenshawtheredeemer.jpg",
+        "name": "CRENSHAW THE REDEEMER",
+        "octgn_id": "c112726a-e636-40b6-b13a-43e2e76cebf3",
+        "rarity": "U2",
+        "shoot": "4",
+        "text": "PERSONALITY. MORTIFICATOR. The Redeemer may cast all aspects of the Art. Warriors wounded by the Redeemer are automatically killed and removed from the game. The Redeemer will never attack a Brotherhood warrior.",
+        "type_code": "warrior",
+        "value": "7"
+    },
+    {
+        "code": "04028",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "legion"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/currencyexchange.jpg",
+        "name": "CURRENCY EXCHANGE",
+        "octgn_id": "0b954364-439e-4420-a75e-c9729eaf2444",
+        "post_play": "-",
+        "rarity": "C2",
+        "text": "PLAY AT ANY TIME DURING A TEAM GAME. When played, you and your partner(s) may freely move D between one another.",
+        "type_code": "special",
+        "value": "x"
+    },
+    {
+        "clarification_text": "ATTACH TO ANY RELIC AS THREE ACTIONS. The Relic's controller must pay 2 Promotion Points to use its powers.",
+        "code": "04029",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/cursedartifact.jpg",
+        "name": "CURSED ARTIFACT",
+        "octgn_id": "b033b1fc-2648-41a1-aa1c-77f09b42e0c1",
+        "post_play": "+",
+        "rarity": "C2",
+        "text": "ATTACH TO ANY RELIC AS THREE ACTIONS. The Relics controller must pay 2 Promotion Points to use its powers.",
+        "type_code": "special"
+    },
+    {
+        "armor": "-5",
+        "clarification_text": "PLAY AT ANY TIME. All Bauhaus-affiliated warriors in play are -5 to F, S and A until the beginning of your next turn.",
+        "code": "04030",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "bauhaus"
+        ],
+        "fight": "-5",
+        "illustrator": "Studio Parente",
+        "image_url": "mort/dayofmourning.jpg",
+        "name": "DAY OF MOURNING",
+        "octgn_id": "50f11a32-a60d-41c5-8e78-fa5bdf4662b8",
+        "post_play": "x",
+        "rarity": "C2",
+        "shoot": "-5",
+        "text": "PLAY AT ANY TIME. ONCE PLAYED, REMOVE THIS CARD FROM THE GAME. All Bauhaus-affiliated warriors in play are -5 to F, S and A until the beginning of your next turn.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "ATTACH TO ANY WARZONE AS TWO ACTIONS. While in play, warriors may not cast Art spells or use Dark Symmetry effects while combating in this Warzone.",
+        "code": "04031",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Nick Percival",
+        "image_url": "mort/deadzone.jpg",
+        "name": "DEAD ZONE",
+        "octgn_id": "2bbe15be-c5af-472c-87f9-ca8656f5a37c",
+        "post_play": "+",
+        "rarity": "C2",
+        "text": "ATTACH TO ANY WARZONE AS TWO ACTIONS. While in play, warriors may not cast Art spells or use Dark Symmetry abilities while combating in this Warzone.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "ATTACH TO AN OPPONENT AS THREE ACTIONS. While in play the affected player's Hand Limit is now 4 and he may never have more than 4 cards in his hand (discard extras). Each time the player plays (not discards) a card, he immediately draws a new one.",
+        "code": "04032",
+        "deck_limit": 0,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/dealwithit.jpg",
+        "name": "DEAL WITH IT",
+        "notes": "The last sentence was supposed to be removed from this card, but it wasn't. Assume it is not even there. Basically, the player is allowed to discard as normal, and may immediately draw another card to replace the discarded card. The player's turn is over after the one discard, as normal. The player may replace discards caused by other effects as well.",
+        "octgn_id": "357913d3-b255-4ad7-82d3-6fbf84a4f414",
+        "post_play": "+",
+        "rarity": "U1",
+        "text": "ATTACH TO ANY PLAYER AS THREE ACTIONS. While in play the affected player may never have more than 4 cards in his or her hand (discard extras). Each time the player plays a card, immediately draw a new one. Player may never discard a card during the Discard step.",
+        "type_code": "special"
+    },
+    {
+        "code": "04033",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/deathmaze.jpg",
+        "name": "DEATH MAZE",
+        "notes": "NOTE: DEATH MAZE was originally supposed to be an Equipment card, but some gremlin turned it into a Special and we didn't realize it until it was too late. Regardless, for all intents and purposes, it is STILL considered a SPECIAL!!!\nWe're NOT going to make you assume it's an Equipment card. To clarify, the first line should read GIVE TO ANY MORTIFICATOR AS ONE ACTION. Remember, it is a SPECIAL card!",
+        "octgn_id": "217d1412-dffc-4b18-a0f5-3ae40cbf88a5",
+        "post_play": "+",
+        "rarity": "C2",
+        "text": "POISON. GIVE TO ANY MORTIFICATOR. If the Mortificator survives a Fight combat, it may remove this card from the game immediately after the combat to automatically kill it's opponent (even if it was not wounded). Points are earned.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "ATTACH TO ANY FORTIFICATION CARD AS ONE ACTION. The affected Fortification may not be discarded or annihilated unless this card is discarded or annihilated first. A Fortification may only have one Defensive Barrier at a time.",
+        "code": "04034",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/defensivebarrier.jpg",
+        "name": "DEFENSIVE BARRIER",
+        "octgn_id": "97d45530-74a2-473d-b65d-f0f55952f3ed",
+        "post_play": "+",
+        "rarity": "C2",
+        "text": "ATTACH TO ANY FORTIFICATION CARD AS ONE ACTION. The affected Fortification may not be discarded or destroyed unless this card is discarded or destroyed first. A Fortification may only have one Defensive Barrier at a time.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "PLAY AS THREE ACTIONS. You may switch your Draw pile with your Discard pile. Other players may pay 25 D at this time to switch their piles as well. All affected piles are shuffled.",
+        "code": "04035",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/dejavu.jpg",
+        "name": "DEJA VU",
+        "octgn_id": "64def171-f79a-41e4-833a-b8397ebfa363",
+        "post_play": "x",
+        "rarity": "C2",
+        "text": "PLAY AS THREE ACTIONS AND REMOVE THIS CARD FROM THE GAME. You may switch your Draw pile with your Discard pile. Other players may pay 25 D at this time to switch their piles as well. All affected piles are shuffled.",
+        "type_code": "special",
+        "value": "25"
+    },
+    {
+        "clarification_text": "ATTACH TO ANY WARRIOR AT ANY TIME. While in play, the affected warrior may not perform actions, or receive attachments that require actions to be played. The warrior's controller may discard this card by spending FOUR actions (cards which provide Tactical Actions may be used for this total).",
+        "code": "04036",
+        "deck_limit": 1,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/dontcallagain.jpg",
+        "name": "DON'T CALL AGAIN!",
+        "octgn_id": "751e5141-6e8f-45cf-817e-6d09cccdc51e",
+        "post_play": "+",
+        "rarity": "U2",
+        "text": "ATTACH TO ANY WARRIOR AT ANY TIME. While in play, the affected warrior may not perform actions. The warrior's controller may discard this card by spending FOUR actions (cards which provide \"attack actions\" may be used for this total).",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "ATTACH TO ANY BROTHERHOOD WARRIOR AS TWO ACTIONS. While in play, whenever the affected warrior casts an Art spell requiring D expenditure, he must pay double the D cost.",
+        "code": "04037",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "brotherhood"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/dwindlingfaith.jpg",
+        "name": "DWINDLING FAITH",
+        "octgn_id": "70827b9e-53b4-4496-b8e1-fadb99ca03db",
+        "post_play": "+",
+        "rarity": "C2",
+        "text": "ATTACH TO ANY BROTHERHOOD WARRIOR AS TWO ACTIONS. While in play, whenever the affected Brother casts an Art spell requiring D, he must pay double the D cost.",
+        "type_code": "special",
+        "value": "2x"
+    },
+    {
+        "clarification_text": "PLAY AT ANY TIME. All warriors in play are immediately wounded, even those that may only be \"automatically killed\" or are \"killed when wounded\" (the warrior is not killed). Warriors already wounded are unaffected. NONCOMBATANTS are unaffected by this card.",
+        "code": "04038",
+        "deck_limit": 1,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/eatthis.jpg",
+        "name": "EAT THIS!",
+        "octgn_id": "f17ffbad-1d00-4fae-a2ae-4d88bfec1160",
+        "post_play": "-",
+        "rarity": "U2",
+        "text": "PLAY AT ANY TIME. All warriors in play immediately become wounded, even those that may only be \"automatically killed\" or are \"killed when wounded\" (the warrior is not killed). Warriors already wounded are unaffected.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "ATTACH TO THE GAME AT ANY TIME. While in play, no player may have more than 15D. All players with more must give up the excess. Cards that prevent the manipulation of D (i. e. CARDINAL'S BANK) have no effect on the Economic Breakdown.",
+        "code": "04039",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/economicbreakdown.jpg",
+        "name": "ECONOMIC BREAKDOWN",
+        "octgn_id": "068eefa3-0877-4ddb-b0dd-875025247c8d",
+        "post_play": "+",
+        "rarity": "U2",
+        "text": "PLAY AT ANY TIME.THIS CARD REMAINS IN PLAY. While in play, no player may have more than 15 D. All players with more must give up the excess. Cards that prevent the manipulation of D (i. e. CARDINAL'S BANK) have no effect on the Economic Breakdown.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "ATTACH TO YOURSELF AT ANY TIME. Choose any Fortification CARD in play. While in play, you and/or your forces also gain the effects of the Fortification, as if you played it. If the Fortification is discarded, so is this card.",
+        "code": "04040",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/embassy.jpg",
+        "name": "EMBASSY",
+        "octgn_id": "961dbf40-4478-4c08-9e33-ec0f2729047c",
+        "post_play": "+",
+        "rarity": "C2",
+        "text": "PLAY AT ANY TIME. THIS CARD REMAINS IN PLAY. Choose any Fortification CARD in play. While in play, you and/or your forces also gain the effects of the Fortification, as if you played it. If the Fortification is discarded, so is this card.",
+        "type_code": "special"
+    },
+    {
+        "code": "04041",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/entitlement.jpg",
+        "name": "ENTITLEMENT",
+        "octgn_id": "92a1b665-9829-40db-91bb-d6c1645a5052",
+        "post_play": "-",
+        "rarity": "C2",
+        "text": "PLAY DURING COMBAT IMMEDIATELY AFTER THE ATTACKER AND DEFENDER ARE ANNOUNCED. No other players besides the players involved in this combat may affect this combat in any way.",
+        "type_code": "special"
+    },
+    {
+        "armor": "7",
+        "clarification_text": "PERSONALITY. DOOMTROOPER. HERETIC. Also has Dark Legion affiliation. Muster Stahler into either your Squad or your Kohort. He may receive MINOR GIFTS and MAJOR GIFTS OF ALGEROTH. As one action you may Transfer him to and from your Squad and Kohort.",
+        "code": "04042",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "legion",
+            "bauhaus"
+        ],
+        "fight": "6",
+        "illustrator": "Studio Parente",
+        "image_url": "mort/erwinstahler.jpg",
+        "name": "ERWIN STAHLER",
+        "octgn_id": "0469a6f2-6d60-4bfc-95b1-a5e32d14aa0e",
+        "rarity": "C2",
+        "shoot": "6",
+        "text": "PERSONALITY. You may add Stahler to either your Squad or your Kohort. He is considered both a Doomtrooper and a Dark Legion Heretic. He may receive DARK SYMMETRY GIFTS and GIFTS OF ALGEROTH. As one action you may move him to and from your Squad and Kohort.",
+        "type_code": "warrior",
+        "value": "7"
+    },
+    {
+        "clarification_text": "ATTACH TO THE GAME AT ANY TIME. While in play, all players' Meditate actions do not produce D. This card will cause any RISING MARKET cards to be discarded.",
+        "code": "04043",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/fallingmarket.jpg",
+        "name": "FALLING MARKET",
+        "octgn_id": "fe1fad8d-1857-4caf-87ec-2e83a5f386cd",
+        "post_play": "+",
+        "rarity": "U2",
+        "text": "PLAY AT ANY TIME. THIS CARD REMAINS IN PLAY. While in play, all players' Meditate actions do not produce D. This card will cause any RISING MARKET cards to be discarded.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "PLAY AT ANY TIME EXCEPT DURING YOUR TURN. All players may immediately fill their hands to seven cards, but you fill your hand to 10 cards.",
+        "code": "04044",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/fillemup.jpg",
+        "name": "FILL'EM UP",
+        "octgn_id": "5765aa57-84d0-41c0-8ceb-7889ee8c0743",
+        "post_play": "-",
+        "rarity": "C2",
+        "text": "PLAY AT ANY TIME EXCEPT DURING YOUR TURN. All players may immediately fill their hands to seven cards.",
+        "type_code": "special"
+    },
+    {
+        "code": "04045",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "brotherhood"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/foreseeingtalisman.jpg",
+        "name": "FORESEEING TALISMAN",
+        "octgn_id": "3d78f1a1-97a3-41c4-a82e-13747edc5c28",
+        "post_play": "+",
+        "rarity": "U2",
+        "text": "GIVE TO ANY MORTIFICATOR. You may spend 12 D immediately after any player plays any Special card. That card has no effect on play and is discarded. If any actions or points were spent, they are lost.",
+        "type_code": "equipment",
+        "value": "12"
+    },
+    {
+        "clarification_text": "PLAY AS THREE ACTIONS AND SPEND 10D. All Cybertronic warriors in play run amok to their respective discard piles. No points are earned.",
+        "code": "04046",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "cybertronic"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/ghostinthemachine.jpg",
+        "name": "GHOST IN THE MACHINE",
+        "octgn_id": "8d1e99f9-46fa-49d6-a49c-82a09ca6647c",
+        "post_play": "-",
+        "rarity": "U2",
+        "text": "PLAY AS THREE ACTIONS AND SPEND 10 D. All Cybertronic warriors in play run amok to their respective Discard piles. No points are earned.",
+        "type_code": "special",
+        "value": "10"
+    },
+    {
+        "armor": "–",
+        "clarification_text": "PERSONALITY. FOLLOWER AND NEPHARITE OF ALGEROTH. BLESSED (and may cast spells on any warrior). May never participate in a Shoot combat or be in cover. May only be wounded by a DOOMTROOPER equipped with any Relic.",
+        "code": "04047",
+        "deck_limit": 0,
+        "expansion_code": "mort",
+        "faction_code": [
+            "legion"
+        ],
+        "fight": "–",
+        "illustrator": "Simon Bisley",
+        "image_url": "mort/golgothaunleashed.jpg",
+        "name": "GOLGOTHA UNLEASHED",
+        "octgn_id": "b27241e6-be3a-4ce8-a4fc-d6bd8f6fcef5",
+        "rarity": "U2",
+        "shoot": "–",
+        "text": "FOLLOWER AND NEPHARITE OF ALGEROTH. PERSONALITY. May never participate in a Shoot combat or be in cover. May only be wounded by a Doomtrooper equipped with any Relic. May cast any Art spell on any warrior.",
+        "type_code": "warrior",
+        "value": "12"
+    },
+    {
+        "clarification_text": "BUILD IN YOUR KOHORT. While in play, all your FOLLOWERS OF ALGEROTH are SLAYERS. If discarded, annihilate it instead.",
+        "code": "04048",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "legion"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/golgothascitadel.jpg",
+        "name": "GOLGOTHA'S CITADEL",
+        "octgn_id": "885f6cd6-df80-4c2c-9c72-adae0e008cd8",
+        "rarity": "U2",
+        "text": "ADD TO YOUR KOHORT AS ONE ACTION. While in play, all your FOLLOWERS OF ALGEROTH automatically kill any warrior they wound. You may only have one Golgatha's Citadel in play. If descarded, remove it from the game.",
+        "type_code": "fortification"
+    },
+    {
+        "clarification_text": "ATTACH TO YOURSELF AS ONE ACTION. While in play, all of your Mishima warriors STRIKE FIRST in any combat.",
+        "code": "04049",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "mishima"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/gungho.jpg",
+        "name": "GUNG HO",
+        "octgn_id": "db862d0c-60a1-4efb-87d8-2979a8745868",
+        "post_play": "+",
+        "rarity": "U2",
+        "text": "PLAY AS ONE ACTION. While in play, all of your Mishima warriors strike first in any combat. If the opponent survives, it may retaliate.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "PLAY DURING COMBAT ON ANY COMBATING WARRIOR. The affected warrior returns to its owner's hand, along with all Equipment and attached Special cards. Other players' cards on the warrior are discarded.",
+        "code": "04050",
+        "deck_limit": 1,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/hastygetaway.jpg",
+        "name": "HASTY GETAWAY",
+        "octgn_id": "63a0d8ea-cb15-4bbb-a2eb-d494f6a05563",
+        "post_play": "x",
+        "rarity": "U1",
+        "text": "PLAY DURING COMBAT ON ANY COMBATING WARRIOR. The affected warrior returns to its owners hand, along with all Equipment and attached Special cards. Other player's cards on the warrior are discarded. Then remove this card from the game.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "ATTACH TO ANY MORTIFICATOR AS ONE ACTION. While in play, the affected warrior is a NONCOMBATANT. You may annihilate this card at any time (except during combat) to allow the warrior to make a free and immediate Tactical Action.",
+        "code": "04051",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "brotherhood"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/hidden.jpg",
+        "name": "HIDDEN",
+        "octgn_id": "3cff0359-e73e-4229-ae04-9797d4d863b9",
+        "post_play": "+",
+        "rarity": "C2",
+        "text": "ATTACH TO ANY MORTIFICATOR AS ONE ACTION. While in play, affected warrior may not attack or be attacked. You may remove this card from the game at any time (except during combat) to allow the warrior to make a free and immediate Attack.",
+        "type_code": "special"
+    },
+    {
+        "code": "04052",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "brotherhood"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/holyprotector.jpg",
+        "name": "HOLY PROTECTOR",
+        "octgn_id": "5026685e-9b0f-4e64-b406-48c7be10a2f8",
+        "post_play": "-",
+        "rarity": "C2",
+        "text": "PLAY ON YOUR MORTIFICATOR DURING A COMBAT IN WHICH YOUR DOOMTROOPER IS INVOLVED. The Mortificator attacks the Doomtrooper's opponent before it can attack your Doomtrooper. The opponent may not retaliate.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "ATTACH TO ANY WARRIOR WITH MINOR OR COMPLETE DARK SYMMETRY IMMUNITY AS ONE ACTION. The affected warrior is no longer IMMUNE to any Dark Symmetry cards.",
+        "code": "04053",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "legion"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/illumination.jpg",
+        "name": "ILLUMINATION",
+        "octgn_id": "7a5545fd-1e6f-4aeb-b34d-30973912c867",
+        "post_play": "+",
+        "rarity": "U2",
+        "text": "ATTACH TO ANY WARRIOR WITH DARK SYMMETRY IMMUNITY AS ONE ACTION. The affected warrior is no longer immune to any Dark Symmetry cards.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "ATTACH TO ANY WARRIOR THAT PROVIDES RATINGS MODIFIERS OR SPECIAL ABILITIES TO OTHER WARRIORS AS TWO ACTIONS. While in play, the affected warrior no longer provides the modifiers or abilities.",
+        "code": "04054",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/inconvenientphonecall.jpg",
+        "name": "INCONVENIENT PHONE CALL",
+        "octgn_id": "344d4f52-35c5-4285-ace8-a59980cbcd35",
+        "post_play": "+",
+        "rarity": "C2",
+        "text": "AS TWO ACTIONS, ATTACH TO ANY WARRIOR THAT PROVIDES RATINGS MODIFIERS OR SPECIAL ABILITIES TO OTHER WARRIORS. This card remains in play. While in play, the affected warrior no longer provides the modifiers or abilities.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "ATTACH TO ANY CYBERTRONIC WARRIOR AS ONE ACTION. The affected warrior may not perform any Tactical Actions until this card is removed. If attacked, it may retaliate as normal.",
+        "code": "04055",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "cybertronic"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/inferiortechnology.jpg",
+        "name": "INFERIOR TECHNOLOGY",
+        "octgn_id": "dcdf22fb-329c-4c86-9fbf-77f692ec16b7",
+        "post_play": "+",
+        "rarity": "U2",
+        "text": "ATTACH TO ANY CYBERTRONIC WARRIOR AS ONE ACTION. The affected warrior may not perform any Attack actions until this card is removed. If attacked, it may retaliate as normal.",
+        "type_code": "special"
+    },
+    {
+        "code": "04056",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/informants.jpg",
+        "name": "INFORMANTS",
+        "octgn_id": "6156f44d-6695-4313-ab48-9effbf464a29",
+        "post_play": "-",
+        "rarity": "C2",
+        "text": "PLAY DURING YOUR TURN. You may secretly look at the cards under any number of SECRET cards in play.",
+        "type_code": "special"
+    },
+    {
+        "armor": "-5",
+        "code": "04057",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "fight": "-5",
+        "illustrator": "Studio Parente",
+        "image_url": "mort/intothedark.jpg",
+        "name": "INTO THE DARK",
+        "octgn_id": "aef4f64e-1791-4c26-a57c-a5fb45ff7361",
+        "post_play": "-",
+        "rarity": "C2",
+        "shoot": "-5",
+        "text": "PLAY DURING COMBAT IN WHICH ONE COMBATANT DEFENDS FROM A WARZONE. The Defender is hindered by unknown terrain and suffers an additional -5 to F, S and A.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "ATTACH TO ANY BROTHERHOOD WARRIOR AT ANY TIME. Choose one of the five Apostles. While in play, each D spent while casting Art spells against FOLLOWERS of that Apostle counts as 2D.",
+        "code": "04058",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "brotherhood"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/itshallbedoneexcellency.jpg",
+        "name": "IT SHALL BE DONE, EXCELLENCY",
+        "octgn_id": "9b34a74a-3b3d-4ab4-a12b-b642e8688198",
+        "post_play": "+",
+        "rarity": "U2",
+        "text": "ATTACH TO ANY BROTHERHOOD WARRIOR AT ANY TIME. Choose one of the five Apostles. While in play, each D spent while casting Art spells against Followers of that Apostle counts as 2 D.",
+        "type_code": "special",
+        "value": "2x"
+    },
+    {
+        "armor": "5",
+        "code": "04059",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "capitol"
+        ],
+        "fight": "5",
+        "illustrator": "Studio Parente",
+        "image_url": "mort/jakekramer.jpg",
+        "name": "JAKE KRAMER",
+        "octgn_id": "656e5b85-e25e-46a2-9d57-40264997f92f",
+        "rarity": "U2",
+        "shoot": "6",
+        "text": "PERSONALITY. Kramer may be given any non-Dark Legion Equipment. Kramer may use two actions to Attack and gain +5 to F, S and A.",
+        "type_code": "warrior",
+        "value": "6"
+    },
+    {
+        "armor": "?",
+        "code": "04060",
+        "deck_limit": 1,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "fight": "?",
+        "illustrator": "Studio Parente",
+        "image_url": "mort/joker.jpg",
+        "name": "JOKER!",
+        "octgn_id": "3faca70e-a68c-4850-b556-c8bd50c9073d",
+        "rarity": "U1",
+        "shoot": "?",
+        "text": "This card represents an exact copy of any card currently in play. It may not represent a Personality or Relic. Follow all rules when playing this card as if you were playing the original.",
+        "type_code": "special",
+        "value": "?"
+    },
+    {
+        "code": "04061",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/lifeinsurance.jpg",
+        "name": "LIFE INSURANCE",
+        "octgn_id": "230acd64-9e1c-4b08-8392-2241d61f7ca6",
+        "post_play": "-",
+        "rarity": "C2",
+        "text": "PLAY IMMEDIATELY AFTER ONE OF YOUR DOOMTROOPERS IS KILLED. You gain the killed warriors modified V (at the time of its death) in D.",
+        "type_code": "special",
+        "value": "x"
+    },
+    {
+        "armor": "-4",
+        "clarification_text": "GIVE TO ANY DOOMTROOPER. ARMOR. Warrior's A is -4. If warrior is wounded, wound the Armor instead (the warrior is unaffected). If wounded twice or \"automatically killed\", annihilate the Armor. May never be repaired.",
+        "code": "04062",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/lifeguardarmor.jpg",
+        "name": "LIFEGUARD ARMOR",
+        "octgn_id": "176bb4b8-422f-4c05-a594-3e56e226bf26",
+        "post_play": "+",
+        "rarity": "U2",
+        "text": "GIVE TO ANY DOOMTROOPER. ARMOR. Warriors A is -4. If warrior is wounded, wound the Armor instead; the warrior is unaffected. If wounded twice or \"automatically killed\", remove the Armor from the game. May never be repaired. A warrior may only have one suit of ARMOR.",
+        "type_code": "equipment"
+    },
+    {
+        "clarification_text": "ATTACH TO ANY PLAYER AT ANY TIME. While in play, affected player may not play Equipment cards that are placed directly in a Combat Area (those that are not given to warriors). Discard any such Equipment in the player's Combat Area.",
+        "code": "04063",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/listenup.jpg",
+        "name": "LISTEN UP!",
+        "octgn_id": "800ff6f8-0e41-46c9-96ae-f9855ff0d2ef",
+        "post_play": "+",
+        "rarity": "C2",
+        "text": "ATTACH TO ANY PLAYER AT ANY TIME. While in play, affected player may not play Equipment cards that are placed directly in a Squad/Kohort (those that are not given to warriors). Discard any such Equipment in the player's Squad and Kohort.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "PLAY AS THREE ACTIONS. All players must annihilate their Discard piles (if they have one) or pay 20D.",
+        "code": "04064",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/livingontheedge.jpg",
+        "name": "LIVING ON THE EDGE",
+        "octgn_id": "3fc70a17-58da-40b3-95dd-01d012946396",
+        "post_play": "-",
+        "rarity": "U2",
+        "text": "PLAY AS THREE ACTIONS. All players must remove their Discard piles from the game or pay 20 D.",
+        "type_code": "special",
+        "value": "20"
+    },
+    {
+        "armor": "13",
+        "clarification_text": "Muster into any Combat Area (if Mustered into the Outpost it becomes TRIBAL). May never gain an affiliation (aside from the General affiliation) or become a DOOMTROOPER or FREELANCER. All points earned by the Thug must be converted to D. If it is wounded, it is killed.",
+        "code": "04065",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "fight": "15",
+        "illustrator": "Studio Parente",
+        "image_url": "mort/localthug.jpg",
+        "name": "LOCAL THUG",
+        "octgn_id": "27033d7c-1a89-4104-884f-dc760e88e363",
+        "rarity": "C2",
+        "shoot": "5",
+        "text": "The Thug is not considered a Doomtrooper, Dark Legion warrior, or Freelancer. Place it aside from your Squad or Kohort. All points earned by the Thug must be converted to D. If it is wounded, it is killed.",
+        "type_code": "warrior",
+        "value": "5"
+    },
+    {
+        "clarification_text": "POISON. GIVE TO ANY MORTIFICATOR. If the Mortificator survives a Fight combat, it may discard this card immediately after the combat to wound its opponent (even if it was already wounded). If the warrior is killed, points are earned.",
+        "code": "04066",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "brotherhood"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/lotusblossom.jpg",
+        "name": "LOTUS BLOSSOM",
+        "octgn_id": "636e6986-dfda-4b94-95de-2793f3bd655f",
+        "post_play": "+",
+        "rarity": "U2",
+        "text": "POISON. GIVE TO ANY MORTIFICATOR. If the Mortificator survives a Fight combat, it may discard this card immediately after the combat to wound it's opponent (even if it was already wounded). If the warrior is killed, points are earned.",
+        "type_code": "equipment"
+    },
+    {
+        "clarification_text": "BUILD IN YOUR SQUAD. While in play, wounded warriors in the Squad may be healed for two actions. This card may be put back into your hand for two actions, even from the discard pile.",
+        "code": "04067",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "brotherhood"
+        ],
+        "illustrator": "Paul Bonner",
+        "image_url": "mort/lunamemorialhospital.jpg",
+        "name": "LUNA MEMORIAL HOSPITAL",
+        "octgn_id": "b8bc258c-47e2-4fb0-97ee-b9daaa2d8abb",
+        "rarity": "C2",
+        "text": "ADD TO YOUR SQUAD AS ONE ACTION. While in play, wounded warriors in the Squad may be healed as two actions. This card may be put back into your hand as two actions, even from the discard pile. You may only have one Luna Memorial Hospital in play.",
+        "type_code": "fortification"
+    },
+    {
+        "code": "04068",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/masterofdisguise.jpg",
+        "name": "MASTER OF DISGUISE",
+        "octgn_id": "da6ca0c6-6336-4155-9a41-9020fc2cd900",
+        "post_play": "-",
+        "rarity": "U2",
+        "text": "PLAY ON ANY WARRIOR IN YOUR SQUAD AS TWO ACTIONS. You may replace the warrior with any non-Personality Doomtrooper from your hand. All cards attached to the original warrior remain with the new warrior (if allowed). Discard the original warrior.",
+        "type_code": "special"
+    },
+    {
+        "armor": "15",
+        "clarification_text": "PERSONALITY. Pay whatever you wish in D when mustering the Mercenary. This is the opening bid. Then go around the table, each player bidding. Highest bid keeps the Mercenary and may add it to any Combat Area. Its base V equals its final price.",
+        "code": "04069",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "fight": "15",
+        "illustrator": "Studio Parente",
+        "image_url": "mort/mercenary.jpg",
+        "name": "MERCENARY",
+        "octgn_id": "12591a18-0524-4960-9765-a7920135fc17",
+        "rarity": "U2",
+        "shoot": "15",
+        "text": "ADD TO YOUR SQUAD. CONSIDERED A DOOMTROOPER. PERSONALITY. Pay whatever you wish in D when adding the Mercenary. This is the opening bid. Then go around the table, each player bidding. Highest bid keeps the Mercenary. It's base V equals it's final price.",
+        "type_code": "warrior",
+        "value": "?"
+    },
+    {
+        "armor": "5",
+        "clarification_text": "FOLLOWER OF ALL FIVE APOSTLES. FIRST STRIKE.",
+        "code": "04070",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "legion"
+        ],
+        "fight": "4",
+        "illustrator": "Paul Bonner",
+        "image_url": "mort/metropolitanprophet.jpg",
+        "name": "METROPOLITAN PROPHET",
+        "octgn_id": "324c227f-fd49-4cee-a49c-4d516f1c9ae1",
+        "rarity": "U2",
+        "shoot": "5",
+        "text": "CONSIDERED A FOLLOWER OF ALL FIVE APOSTLES. The Prophet always attacks first in combat. If the opponent survives, it may retaliate.",
+        "type_code": "warrior",
+        "value": "7"
+    },
+    {
+        "clarification_text": "PLAY IMMEDIATELY AFTER A DOOMTROOPER PERSONALITY IS KILLED. The death of the Personality inspires all the other Doomtroopers of the same affiliation in play, giving them +2 to F, S, and A. This card remains in play until the corresponding Personality is brought back into play.",
+        "code": "04071",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "brotherhood"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/mindslayer.jpg",
+        "name": "MINDSLAYER",
+        "octgn_id": "a991ebb1-9202-4a3f-8227-5a605758249a",
+        "post_play": "+",
+        "rarity": "U2",
+        "text": "POISON. ATTACH TO ANY MORTIFICATOR'S WEAPON. A warrior wounded by the affected weapon in a Fight combat is not wounded but loses all special abilities written on it's card (not restrictions), and any attached Special cards you choose.",
+        "type_code": "equipment"
+    },
+    {
+        "clarification_text": "MAJOR GIFT OF DEMNOGONIS. As three actions, this warrior may annihilate this card and convert any non-Personality DOOMTROOPER into a FOLLOWER OF DEMNOGONIS. The warrior loses all affiliations, attachments and abilities (not restrictions). Place it in your Kohort; you control it.",
+        "code": "04072",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "legion"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/moraldecay.jpg",
+        "name": "MORAL DECAY",
+        "octgn_id": "842ac80d-6bbf-4de4-bd98-a62a01d71ad1",
+        "post_play": "+",
+        "rarity": "U2",
+        "text": "GIFT OF DEMNOGONIS. As three actions, this warrior may remove this card from the game and convert any non-Personality Doomtrooper into a FOLLOWER OF DEMNOGONIS. The warrior loses all affiliations, attachments and abilities (not restrictions). Place it in your Kohort; you control it.",
+        "type_code": "symmetry"
+    },
+    {
+        "clarification_text": "PLAY DURING COMBAT ON ANY COMBATING MORTIFICATOR. The MORTIFICATOR'S base F is tripled until the combat is over.",
+        "code": "04073",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "brotherhood"
+        ],
+        "fight": "3x",
+        "illustrator": "Studio Parente",
+        "image_url": "mort/nolooseends.jpg",
+        "name": "NO LOOSE ENDS",
+        "octgn_id": "5733eed9-01b5-49ac-b99f-1db61e29d501",
+        "post_play": "-",
+        "rarity": "C3",
+        "text": "PLAY DURING COMBAT ON ANY COMBATING MORTIFICATOR. The Mortificator's unmodified F is tripled until the combat is over.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "PLAY IMMEDIATELY AFTER ANY PLAYER SEARCHES THROUGH HIS OR HER DRAW OR DISCARD PILE FOR A SPECIFIC CARD. Replace the selected card with a random card from the same pile. Place the initially-selected card on the bottom of that pile.",
+        "code": "04074",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/ohyeah.jpg",
+        "name": "OH YEAH?!",
+        "octgn_id": "2f9c0525-4c36-48e9-b331-c8437ae088f1",
+        "post_play": "-",
+        "rarity": "U2",
+        "text": "PLAY IMMEDIATELY AFTER ANY PLAYER SEARCHES THROUGH HIS OR HER DRAW OR DISCARD PILE FOR A SPECIFIC CARD. Replace the selected card with a random card from the same pile. Place the selected card on the bottom of that pile.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "GIVE TO ANY DARK LEGION WARRIOR. As one action, you may attach any one Dark Symmetry card to the Box. For every card attached to the Box, the warrior gains +2 to F and S. The Dark Symmetry effects are ignored.",
+        "code": "04075",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "legion"
+        ],
+        "fight": "1",
+        "illustrator": "Studio Parente",
+        "image_url": "mort/pandorasbox.jpg",
+        "name": "PANDORA'S BOX",
+        "octgn_id": "f42998c5-ce17-4c90-8b0a-5cc98674394d",
+        "post_play": "+",
+        "rarity": "C3",
+        "shoot": "1",
+        "text": "GIVE TO ANY DARK LEGION WARRIOR. As one action, you may attach any one Dark Symmetry card to the Box. For every card attached to the Box, the warrior gains +1 to F and S. The Dark Symmetry effects are ignored.",
+        "type_code": "equipment"
+    },
+    {
+        "armor": "+x",
+        "clarification_text": "GIVE TO ANY WARRIOR. Annihilate the Panic Button during combat to call one reinforcement of the same affiliation from the same Combat Area. The reinforcement adds its F, S, A, V and any special abilities to the warrior. The opponent must attack the original warrior.",
+        "code": "04076",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "fight": "+x",
+        "illustrator": "Studio Parente",
+        "image_url": "mort/panicbutton.jpg",
+        "name": "PANIC BUTTON",
+        "octgn_id": "8f092652-d287-4a94-b2b9-2a2b9ff81590",
+        "post_play": "+",
+        "rarity": "C2",
+        "shoot": "+x",
+        "text": "When the warrior is in combat, remove the Panic Button from the game to call one reinforcement of the same affiliation from the same Squad/Kohort. The reinforcement adds it's F, S, A, V and any special abilities to the warrior. The opponent must attack the original warrior.",
+        "type_code": "equipment",
+        "value": "+x"
+    },
+    {
+        "clarification_text": "POISON. GIVE TO ANY MORTIFICATOR. The Mortificator may discard this card at any time to permanently remove any warrior's ART IMMUNITY.",
+        "code": "04077",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "brotherhood"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/platinumdream.jpg",
+        "name": "PLATINUM DREAM",
+        "octgn_id": "b070d52f-7c32-498f-9afc-b2e336bb223d",
+        "post_play": "+",
+        "rarity": "U2",
+        "text": "POISON. GIVE TO ANY MORTIFICATOR. The Mortificator may discard the card at any time to permanently remove any warrior's immunity to the Art.",
+        "type_code": "equipment"
+    },
+    {
+        "clarification_text": "PLAY AS ONE ACTION AND 10 D. You may immediately shuffle your Discard pile into your Draw pile to form a new Draw pile.",
+        "code": "04078",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/playitagain.jpg",
+        "name": "PLAY IT AGAIN",
+        "octgn_id": "33416f3f-e5d0-4974-ba74-c48787a43d68",
+        "post_play": "x",
+        "rarity": "U2",
+        "text": "PLAY AS ONE ACTION, SPEND 10 D AND REMOVE THIS CARD FROM THE GAME. You may immediately shuffle your Discard pile into your Draw pile to form a new Draw pile.",
+        "type_code": "special",
+        "value": "10"
+    },
+    {
+        "clarification_text": "MINOR GIFT. MAY NOT BE BESTOWED ON A HERETIC. This warrior may annihilate this card to force any player to discard his or her entire hand, or discard any one DOOMTROOPER in play, or lose 20 D (your choice).",
+        "code": "04079",
+        "deck_limit": 1,
+        "expansion_code": "mort",
+        "faction_code": [
+            "legion"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/poundofflesh.jpg",
+        "name": "POUND OF FLESH",
+        "octgn_id": "b91329f5-7103-47d6-8b85-bc215acca2ad",
+        "post_play": "+",
+        "rarity": "U1",
+        "text": "DARK SYMMETRY GIFT. MAY NOT BE BESTOWED ON A HERETIC. This warrior may remove this card from the game to force any player to discard his or her entire hand, or discard any one specific Doomtrooper in play, or lose 20 D (your choice).",
+        "type_code": "symmetry",
+        "value": "-20"
+    },
+    {
+        "code": "04080",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "legion"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/powerfulcommand.jpg",
+        "name": "POWERFUL COMMAND",
+        "octgn_id": "54179c90-7da3-444b-8ffa-45a21d2d2e37",
+        "post_play": "-",
+        "rarity": "U2",
+        "text": "PLAY DURING YOUR TURN AS THREE ACTIONS. Every warrior in your Kohort must attack a separate Doomtrooper in play (if able). Choose Attackers and Defenders (only one Attacker per Defender). Your extra Kohort members do nothing. Conduct each attack separately, in any order you choose.",
+        "type_code": "special"
+    },
+    {
+        "armor": "-4",
+        "clarification_text": "ATTACH TO ANY WARRIOR IMMEDIATELY AFTER IT IS WOUNDED, EVEN IF THAT WOUND WOULD KILL IT. The warrior is not wounded. Return it to its pre-combat status. Instead, it is dazed and is -4 to F, S and A while attached.",
+        "code": "04081",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "fight": "-4",
+        "illustrator": "Studio Parente",
+        "image_url": "mort/punchdrunk.jpg",
+        "name": "PUNCH DRUNK",
+        "octgn_id": "4c062388-7610-4421-b370-82a45e0e4a06",
+        "post_play": "+",
+        "rarity": "C2",
+        "shoot": "-4",
+        "text": "PLAY ON ANY WARRIOR IMMEDIATELY AFTER IT IS WOUNDED, EVEN IF THAT WOUND WOULD KILL IT. The warrior is not wounded. Return it to it's pre-combat status. Instead, it is –4 to F, S and A while this card is in play.",
+        "type_code": "special"
+    },
+    {
+        "code": "04082",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/pursuit.jpg",
+        "name": "PURSUIT",
+        "octgn_id": "265f4877-6dbc-47ef-bfda-32830e3a6c3c",
+        "post_play": "-",
+        "rarity": "C2",
+        "text": "PLAY IMMEDIATELY AFTER ANY COMBAT. The Attacker of the previous combat must immediately Attack the same Defender again. This costs no actions or points.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "ATTACH TO YOUR WARRIOR AS ONE ACTION. Select one other warrior card in play. The affected warrior gains +8 to F and S when combating that specific warrior. Discard this card if the selected warrior leaves play.",
+        "code": "04083",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "fight": "8",
+        "illustrator": "Studio Parente",
+        "image_url": "mort/rage.jpg",
+        "name": "RAGE",
+        "octgn_id": "783ad0c0-b916-4772-9d09-e92d1fb5b74c",
+        "post_play": "+",
+        "rarity": "C2",
+        "shoot": "8",
+        "text": "ATTACH TO YOUR WARRIOR AS ONE ACTION. Select one other warrior card in play. The affected warrior gains +8 to F and S when combating that specific warrior card. Discard this card if the selected warrior is discarded.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "ATTACH TO ANY VEHICLE AS TWO ACTIONS. The Vehicle may not be discarded unless this card is discarded first. If the warrior in the Vehicle is killed or discarded, this card and the Vehicle are also discarded. A Vehicle may only have one Reactive Armor Plates at a time.",
+        "code": "04084",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/reactivearmorplates.jpg",
+        "name": "REACTIVE ARMOR PLATES",
+        "octgn_id": "4bbbc55f-f1ae-414b-b88a-cde061b5bcb6",
+        "post_play": "+",
+        "rarity": "C2",
+        "text": "ATTACH TO ANY VEHICLE AS TWO ACTIONS. The Vehicle may not be discarded unless this card is discarded first. If the warrior in the Vehicle is killed or discarded, this card and the Vehicle are also discarded. A Vehicle may only have one Reactive Armor Plates at a time.",
+        "type_code": "fortification"
+    },
+    {
+        "clarification_text": "PLAY IMMEDIATELY AFTER ANY ART SPELL IS CAST. The effect of the spell is reflected back to the caster, who is affected by the spell as if it was the true target. Or you may choose that the effects of the spell may be negated instead (the spell is discarded, and has no effect on play; any actions or D spent casting the spell are wasted).",
+        "code": "04085",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "brotherhood"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/reflection.jpg",
+        "name": "REFLECTION",
+        "octgn_id": "20418ba8-beeb-491b-9108-4079794c4b87",
+        "post_play": "-",
+        "rarity": "C2",
+        "text": "PLAY IMMEDIATELY AFTER ANY ART SPELL HAS BEEN CAST. The effect of the spell is reflected back to the caster, who is affected by the spell as if it was the true target. Or the effects of the spell may be negated instead of reflected (as per the FIZZLE card).",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "BUILD IN YOUR COMBAT AREA. While in play, copies of your non-Personality warriors already in play may be added to your Combat Area with no D cost. A warrior may only use a Lab if it is in the same Combat Area.",
+        "code": "04086",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "legion"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/replicantlab.jpg",
+        "name": "REPLICANT LAB",
+        "octgn_id": "1d133dda-06cc-49b2-8357-206685c12bb4",
+        "rarity": "U2",
+        "text": "ADD TO YOUR SQUAD OR KOHORT AS ONE ACTION. While in play, copies of your non-Personality warriors already in play may be added to your Squad/Kohort with no D cost. A warrior may only use a Lab if it is in the same Squad or Kohort. You may only have one Replicant Lab in play.",
+        "type_code": "fortification"
+    },
+    {
+        "clarification_text": "THIS SPELL MAY BE CAST BY ANY WARRIOR ABLE TO CAST AN ART SPELL. Cast immediately after any player plays any Special card. That card has no effect on play and is discarded. If any actions or D were spent, they are lost.",
+        "code": "04087",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "brotherhood"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/repudiate.jpg",
+        "name": "REPUDIATE",
+        "octgn_id": "103a449b-cfb9-406e-8219-599dddd5cb46",
+        "post_play": "x",
+        "rarity": "U2",
+        "text": "THIS SPELL MAY BE CAST BY ANY WARRIOR ABLE TO CAST AN ART SPELL. Cast immediately after any player plays any Special card. That card has no effect on play and is discarded. If any actions or points were spent, they are lost. Once cast, remove this card from the game.",
+        "type_code": "art"
+    },
+    {
+        "clarification_text": "ATTACH TO THE GAME AT ANY TIME. While in play, all players' Meditate actions produce 2 D. Only one RISING MARKET affects play. This card will cause any FALLING MARKET cards to be discarded.",
+        "code": "04088",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/risingmarket.jpg",
+        "name": "RISING MARKET",
+        "octgn_id": "db84d8fc-6f53-499d-be7a-d94daa895e81",
+        "post_play": "+",
+        "rarity": "C2",
+        "text": "PLAY AT ANY TIME. THIS CARD REMAINS IN PLAY. While in play, all players' Meditate actions produce 2 D. Only one RISING MARKET affects play. This card will cause any FALLING MARKET cards to be discarded.",
+        "type_code": "special",
+        "value": "2"
+    },
+    {
+        "clarification_text": "PLAY AS TWO ACTIONS ON ANY PLAYER WITH CARDINAL'S BANK IN PLAY. Your internal spies manage to steal all of the affected player's D and give them to you.",
+        "code": "04089",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Paul Bonner",
+        "image_url": "mort/robbedblind.jpg",
+        "name": "ROBBED BLIND",
+        "octgn_id": "6430b5bd-117e-4e2a-9da5-d6e42b176a03",
+        "post_play": "x",
+        "rarity": "U2",
+        "text": "PLAY AS TWO ACTIONS ON ANY PLAYER WITH CARDINAL'S BANK IN PLAY. Once played, remove this card from the game. Your internal spies manage to steal all of the affected player's D and give them to you.",
+        "type_code": "special"
+    },
+    {
+        "code": "04090",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/russianroulette.jpg",
+        "name": "RUSSIAN ROULETTE",
+        "octgn_id": "958bed5b-02dd-4450-a081-c2fc69aeeecb",
+        "post_play": "-",
+        "rarity": "C2",
+        "text": "PLAY AT ANY TIME. Select two warriors in play with the same modified V. Assign \"Heads\" or \"Tails\" to each. Flip a coin. The warrior that loses (his face of the coin face down) is discarded along with all attachments. No points are earned.",
+        "type_code": "special"
+    },
+    {
+        "code": "04091",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "bauhaus"
+        ],
+        "illustrator": "Paul Bonner",
+        "image_url": "mort/sachs9000gl.jpg",
+        "name": "SACHS 9000GL",
+        "octgn_id": "f4524701-d442-4cbe-8ec7-2a440448396e",
+        "post_play": "+",
+        "rarity": "C2",
+        "text": "GIVE TO ANY COMMANDER. If the Commander is ever wounded or killed in a Shoot combat, you may discard this bullet-proof car to return the Commander to it's status before the combat began.",
+        "type_code": "equipment"
+    },
+    {
+        "clarification_text": "ATTACH TO YOURSELF ONE ACTION. This card may never be discarded. You may play Special cards face-down under this card as one action each. You may annihilate this card at any time to play ALL of the Special cards underneath (if able). You must try to play all the cards. If unable, unplayed cards are annihilated.",
+        "code": "04092",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/secret.jpg",
+        "name": "SECRET",
+        "octgn_id": "e07ff9f0-8914-4f91-b3bc-55a32c100fc3",
+        "post_play": "+",
+        "rarity": "U2",
+        "text": "PLAY AS ONE ACTION. This card may never be discarded. You may play Special cards under this card as one action each. Remove this card from the game at any time to play ALL of the cards underneath. You must try to play all the cards. If unable, unplayed cards are removed from the game.",
+        "type_code": "special"
+    },
+    {
+        "armor": "1",
+        "clarification_text": "ATTACH TO YOUR DOOMTROOPER AT ANY TIME. While attached, the affected warrior is on leave. It may do nothing and is a NONCOMBATANT. If wounded it is healed. For every one of your full turns it remains on leave it permanently gains +1 to its base F, S and A. Return to play at any time (discard this card).",
+        "code": "04093",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "fight": "1",
+        "illustrator": "Studio Parente",
+        "image_url": "mort/shoreleave.jpg",
+        "name": "SHORE LEAVE",
+        "octgn_id": "6ddd789e-bede-4b09-b85b-67ecb24fa216",
+        "post_play": "+",
+        "rarity": "C2",
+        "shoot": "1",
+        "text": "PLAY ON YOUR DOOMTROOPER AT ANY TIME. Move the affected warrior to the side; it may do nothing and may not be attacked. For every one of your full turns it remains on leave it permanently gains +1 to F, S and A. Return to play at any time. If the warrior was wounded, it is healed.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "GIVE TO ANY WARRIOR AS THREE ACTIONS. You may discard the Smoke Screen immediately after any Special card is played to return the warrior and its Equipment to your hand BEFORE the card takes effect. Any other cards attached to the warrior are discarded.",
+        "code": "04094",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/smokescreen.jpg",
+        "name": "SMOKE SCREEN",
+        "octgn_id": "de014a86-92d2-4b89-b293-84e71f04eadd",
+        "post_play": "+",
+        "rarity": "C2",
+        "text": "ATTACH TO ANY WARRIOR AS THREE ACTIONS. You may discard the Smoke Screen immediately after any Special card is played to return the warrior and its Equipment to your hand BEFORE the card takes effect. Any other cards attached to the warrior are discarded.",
+        "type_code": "equipment"
+    },
+    {
+        "clarification_text": "ASSIGN TO ANY PLAYER. Choose one Corporate (non-Brotherhood) affiliation. Each time the player adds a warrior from that Corp to his or her Squad, you earn 1P or 2D. If there are ever no warriors from that Corp in the Squad, discard this Mission.",
+        "code": "04095",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/solidarity.jpg",
+        "name": "SOLIDARITY",
+        "octgn_id": "1f64caf0-43fb-45e4-9c87-75aa94e02b81",
+        "post_play": "+",
+        "rarity": "U2",
+        "text": "ASSIGN TO ANY PLAYER. Choose one Corporate (non Brotherhood) affiliation. Each time the player adds a warrior from that Corp to his or her Squad, you earn 1 Promotion Point or 2 D. If there are ever no warriors from that Corp in the Squad, discard this Mission.",
+        "type_code": "mission",
+        "value": "e1"
+    },
+    {
+        "clarification_text": "ASSIGN TO ANY PERSONALITY. The affected warrior may only attack Personalities until this Mission is fulfilled. If the affected warrior kills a Personality the mission is fulfilled and the affected warrior's controller gains 20 D in addition to the normal points.",
+        "code": "04096",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/specialorders.jpg",
+        "name": "SPECIAL ORDERS",
+        "octgn_id": "dff3d37c-34fc-4d0d-a689-cc3630ce7721",
+        "post_play": "+",
+        "rarity": "C2",
+        "text": "ASSIGN TO ANY PERSONALITY. The affected warrior may only attack Personalities until this Mission is fulfilled. If the affected warrior kills a Personality the mission is fulfilled and the affected warriors controller gains 20 D in addition to the normal points.",
+        "type_code": "mission",
+        "value": "20"
+    },
+    {
+        "clarification_text": "POISON. ATTACH TO ANY MORTIFICATOR'S WEAPON. A warrior wounded by the weapon in a Fight combat is not wounded, but unless its controller spends 3D during their Draw step each turn, the warrior is killed (you earn the points).",
+        "code": "04097",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "brotherhood"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/spiralingdeath.jpg",
+        "name": "SPIRALING DEATH",
+        "octgn_id": "487131ad-16ed-4792-9d53-2579b772828a",
+        "post_play": "+",
+        "rarity": "U2",
+        "text": "POISON. ATTACH TO ANY MORTIFICATOR'S WEAPON. A warrior wounded by the weapon in a Fight combat is not wounded, but unless it's controller spends 3 D immediately before the Draw step each turn, the warrior is killed (you earn the points).",
+        "type_code": "equipment",
+        "value": "e3"
+    },
+    {
+        "armor": "–",
+        "clarification_text": "PERSONALITY. NONCOMBATANT. While in play, all Brotherhood warriors in play are SLAYERS when combating Dark Legion warriors, and are BLESSED. As FOUR actions, the Spirit will discard any APOSTLE.",
+        "code": "04098",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "brotherhood"
+        ],
+        "fight": "–",
+        "illustrator": "Studio Parente",
+        "image_url": "mort/spiritofnathaniel.jpg",
+        "name": "SPIRIT OF NATHANIEL",
+        "octgn_id": "4c8230b8-db9c-408c-8efc-ba89f6bf4162",
+        "rarity": "U2",
+        "shoot": "–",
+        "text": "PERSONALITY. May never participate in combat or be in cover. While in play, all Brotherhood warriors in play may cast all Art spells, and automatically kill any Dark Legion warrior they wound in combat. As FOUR actions, the Spirit will discard any APOSTLE.",
+        "type_code": "warrior",
+        "value": "30"
+    },
+    {
+        "clarification_text": "GIVE TO ANY MORTIFICATOR. SPECIAL WEAPON. The Mortificator may discard the Grenade during the modification phase of any combat it is involved in to STRIKE FIRST. The opponent may not retaliate, even if it was not wounded.",
+        "code": "04099",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/stungrenade.jpg",
+        "name": "STUN GRENADE",
+        "octgn_id": "2ec8f5bf-38a3-4f1b-9e00-1798523bd859",
+        "post_play": "+",
+        "rarity": "U2",
+        "text": "GIVE TO ANY MORTIFICATOR. The Mortificator may discard the Grenade before any combat it is involved in to strike first. The opponent may not retaliate, even if it was not wounded.",
+        "type_code": "equipment"
+    },
+    {
+        "code": "04100",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "bauhaus"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/superiorquality.jpg",
+        "name": "SUPERIOR QUALITY",
+        "octgn_id": "e5fbf3ce-3c48-4175-8f5f-2f910afd843c",
+        "post_play": "+",
+        "rarity": "U2",
+        "text": "ATTACH TO ANY EQUIPMENT CARD AS ONE ACTION. The affected Equipment card may not be discarded unless this card is discarded first.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "PLAY ON ANY COMBAT AREA AS ONE ACTION. All of the warriors in the affected Combat Area that are not in cover must immediately go into cover or become wounded (even if the warrior may only be \"automatically killed\"). Warriors that may never be in cover are exempt.",
+        "code": "04101",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/suppressingfire.jpg",
+        "name": "SUPPRESSING FIRE",
+        "octgn_id": "91cba79b-8780-4168-b057-3e82f6aaf5df",
+        "post_play": "-",
+        "rarity": "U2",
+        "text": "PLAY ON ANY SQUAD OR KOHORT AS ONE ACTION. All of the warriors in the affected Squad/Kohort that are not in cover must immediately go into cover or become wounded (even if the warrior may only be \"automatically killed\"). Warriors that may never be in cover are exempt.",
+        "type_code": "special"
+    },
+    {
+        "code": "04102",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/surfacetoairmissile.jpg",
+        "name": "SURFACE-TO-AIR MISSILE",
+        "octgn_id": "99b3da29-7539-4e62-801a-8489531ef97a",
+        "post_play": "+",
+        "rarity": "C2",
+        "text": "PLACE IN YOUR SQUAD AS ONE ACTION. If you or your Squad member is attacked with an AIRSHIP you may discard the Missile and wound the Attacker. If the warrior survives, combat continues. If the Attacker is killed, points are earned.",
+        "type_code": "equipment"
+    },
+    {
+        "code": "04103",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "mishima"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/surveillanceship.jpg",
+        "name": "SURVEILLANCE SHIP",
+        "octgn_id": "acf6ab8d-6116-4c51-a4fa-c8872116986b",
+        "post_play": "+",
+        "rarity": "U2",
+        "text": "GIVE TO ANY MISHIMA WARRIOR. As one action, this warrior will allow you to look at the top three cards of any Draw pile. For each additional action, you may discard one of the cards you inspect. Return the others in their original order.",
+        "type_code": "equipment"
+    },
+    {
+        "code": "04104",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/switchedlabels.jpg",
+        "name": "SWITCHED LABELS",
+        "octgn_id": "ec4204f2-1a3b-4acc-8e29-ef4422fe50d8",
+        "post_play": "-",
+        "rarity": "U2",
+        "text": "PLAY IMMEDIATELY AFTER ANY WOUNDED WARRIOR IS HEALED. The affected warrior is killed instead. You earn half the points, rounded down.",
+        "type_code": "special",
+        "value": "/2"
+    },
+    {
+        "clarification_text": "MINOR GIFT. MAY NOT BE BESTOWED ON A HERETIC. This warrior may be bestowed with multiple copies of any MINOR GIFT that provides bonuses to F, S, A and/or V. Other effects are not cummulative.",
+        "code": "04105",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "legion"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/symmetryflow.jpg",
+        "name": "SYMMETRY FLOW",
+        "octgn_id": "a1267c24-8e56-4367-99c2-dfba5e4031a5",
+        "post_play": "+",
+        "rarity": "U2",
+        "text": "DARK SYMMETRY GIFT. MAY NOT BE BESTOWED ON A HERETIC. This warrior may be bestowed with multiple copies of any DARK SYMMETRY GIFT (but not GIFT OF APOSTLE) that provides bonuses to F, S, A and/or V.",
+        "type_code": "symmetry"
+    },
+    {
+        "code": "04106",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "legion"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/temporaryinsanity.jpg",
+        "name": "TEMPORARY INSANITY",
+        "octgn_id": "6c91b6ca-a549-4955-a866-5fed085fb6ec",
+        "post_play": "-",
+        "rarity": "U2",
+        "text": "PLAY WHEN YOUR DARK LEGION WARRIOR IS ATTACKED BY A DOOMTROOPER AND SPEND 10 D. The Doomtrooper goes insane! Choose any other warrior in play; the Doomtrooper attacks that warrior instead. If either warrior is killed, you earn the points.",
+        "type_code": "special",
+        "value": "10"
+    },
+    {
+        "clarification_text": "PLAY AT ANY TIME. You may immediately remove all Brotherhood-affiliated Fortification cards from the game.",
+        "code": "04107",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "legion"
+        ],
+        "illustrator": "Paul Bonner",
+        "image_url": "mort/terroristattack.jpg",
+        "name": "TERRORIST ATTACK",
+        "octgn_id": "2d54eb29-3d25-4130-9163-b7dc81cc3d05",
+        "post_play": "-",
+        "rarity": "C2",
+        "text": "PLAY AT ANY TIME. You may immediately remove any Brotherhood-affiliated Fortification from the game.",
+        "type_code": "special"
+    },
+    {
+        "code": "04108",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "legion"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/thecuratorsgift.jpg",
+        "name": "THE CURATOR'S GIFT",
+        "octgn_id": "a348e99a-b072-4361-b3aa-7e3d86ff1ea7",
+        "post_play": "+",
+        "rarity": "C3",
+        "text": "ATTACH TO ANY FOLLOWER OF DEMNOGONIS AS ONE ACTION. The affected warrior may use POISONS, as if it was a MORTIFICATOR.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "BUILD IN YOUR KOHORT. While in play, your HERETICS may only be attacked if the Attacker first pays 10D. MORTIFICATORS are not affected.",
+        "code": "04109",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "legion"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/thestahlerpalace.jpg",
+        "name": "THE STAHLER PALACE",
+        "octgn_id": "a8a49a1f-a87e-4b5f-8fbf-a3412a4fc080",
+        "rarity": "U2",
+        "text": "ADD TO YOUR KOHORT AS ONE ACTION. While in play, your Heretics may only be attacked if the Attacker first pays 10 D. MORTIFICATORS are not affected. You may only have one Stahler Palace in play.",
+        "type_code": "fortification",
+        "value": "10"
+    },
+    {
+        "code": "04110",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/thinkagain.jpg",
+        "name": "THINK AGAIN",
+        "octgn_id": "50da0538-7692-4730-b650-6364596c007e",
+        "post_play": "-",
+        "rarity": "U2",
+        "text": "PLAY DURING COMBAT IMMEDIATELY AFTER THE ATTACKER AND DEFENDER ARE ANNOUNCED. No player EXCEPT YOU may play Special cards during this combat.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "ATTACH TO THE GAME AS ONE ACTION. While this card is in play, no player may draw more than one card during his or her Draw step.",
+        "code": "04111",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/throwingitallaway.jpg",
+        "name": "THROWING IT ALL AWAY",
+        "octgn_id": "54017898-8864-4f51-abfc-4e7e1b86bbd3",
+        "post_play": "+",
+        "rarity": "U2",
+        "text": "PLAY AS ONE ACTION. THIS CARD REMAINS IN PLAY. While this card is in play, no player may Draw more than one card during his or her Draw step.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "PLAY DURING COMBAT ON ANY COMBATING WARRIOR. The warrior either gains +4 to F and S, or loses -4 to F and S, your choice.",
+        "code": "04112",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "fight": "-4",
+        "illustrator": "Studio Parente",
+        "image_url": "mort/tobeornottobe.jpg",
+        "name": "TO BE OR NOT TO BE",
+        "octgn_id": "18a19935-bb80-4c11-ab8f-6c1075cff2e7",
+        "post_play": "x",
+        "rarity": "C2",
+        "shoot": "-4",
+        "text": "PLAY DURING COMBAT ON ANY COMBATING WARRIOR. The warrior either gains +4 to F and S, or loses -4 to F and S, your choice. Then remove this card from the game.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "PLAY ON ANY DARK LEGION WARRIOR AS TWO ACTIONS. All your MORTIFICATORS may immediately attack the affected warrior once. Conduct each attack separately, in any order you choose.",
+        "code": "04113",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "brotherhood"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/trailofevidence.jpg",
+        "name": "TRAIL OF EVIDENCE",
+        "octgn_id": "d864d2bd-31b7-4bd7-a6fb-e1637ebcd644",
+        "post_play": "x",
+        "rarity": "C2",
+        "text": "PLAY ON ANY DARK LEGION WARRIOR AS TWO ACTIONS. All your MORTIFICATORS may immediately attack the affected warrior once. Conduct each attack separately, in any order you choose. Then remove this card from the game.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "ATTACH TO ANY COMBAT AREA AS ONE ACTION. While in play, the warriors in the affected Combat Area are in training and are all considered NONCOMBATANTS. Discard this card at the beginning of your next turn.",
+        "code": "04114",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/training.jpg",
+        "name": "TRAINING",
+        "octgn_id": "627bdb10-9854-4a9b-abfb-52868425230d",
+        "post_play": "-",
+        "rarity": "C2",
+        "text": "PLAY ON ANY SQUAD OR KOHORT AS ONE ACTION. Discard this card at the beginning of your next turn. While in play, the warriors in the affected Squad/Kohort are in training and may not attack or be attacked.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "PLAY AS ONE ACTION. All warriors in play are PROFANE until the beginning of your next turn. This includes any warriors mustered after this card has been played.",
+        "code": "04115",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "legion"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/trustinthearms.jpg",
+        "name": "TRUST IN THE ARMS",
+        "octgn_id": "a5ea69d2-902a-40f8-999f-46006e2ad784",
+        "post_play": "-",
+        "rarity": "U2",
+        "text": "PLAY AS ONE ACTION. All warriors in play lose the ability to cast Art spells until the beginning of your next turn. This includes any warriors added after this card has been played.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "ATTACH TO ANY WARRIOR AS ONE ACTION. The affected warrior may not be \"automatically killed\". If the warrior is given a wound that \"automatically killed\", or if the warrior may ONLY be \"automatically killed\", the warrior is only wounded instead. This card does not prevent the warrior form being killed by a second wound.",
+        "code": "04116",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/tryandstopme.jpg",
+        "name": "TRY AND STOP ME!",
+        "octgn_id": "f079f276-556f-4424-804b-bcf02c3ee21e",
+        "post_play": "+",
+        "rarity": "U2",
+        "text": "ATTACH TO ANY WARRIOR AS ONE ACTION. The affected warrior may not be \"automatically killed\". If the warrior is given a wound that \"kills automatically\", the warrior is only wounded. This card does not prevent the warrior from being killed by a second wound.",
+        "type_code": "special"
+    },
+    {
+        "clarification_text": "ATTACH TO ANY PLAYER AS ONE ACTION. While in play, the affected PLAYER has ART IMMUNITY and COMPLETE SYMMETRY IMMUNITY. The player's forces are not affected by this card.",
+        "code": "04117",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/untouchable.jpg",
+        "name": "UNTOUCHABLE",
+        "octgn_id": "5a049f86-d23d-42a8-83e2-73ce88265667",
+        "post_play": "+",
+        "rarity": "U2",
+        "text": "ATTACH TO ANY PLAYER AS ONE ACTION. While in play, the affected PLAYER is immune to Art and Dark Symmetry effects. The players forces are not affected by this card.",
+        "type_code": "special"
+    },
+    {
+        "code": "04118",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/wannaplay.jpg",
+        "name": "WANNA PLAY?",
+        "octgn_id": "0c9eb83a-9532-4166-ac3b-4134316ae365",
+        "post_play": "-",
+        "rarity": "U1",
+        "text": "ATTACH TO ANY PLAYER AS ONE ACTION. For every card the affected player draws from his Draw pile, he must pay 1 D. Discard this card if the player ever has 0 D at the beginning of his turn. This card will cause any FALLING MARKET cards to be discarded.",
+        "type_code": "special",
+        "value": "e1"
+    },
+    {
+        "clarification_text": "BUILD IN YOUR SQUAD. As one action you may move one warrior into or out of the Watch Tower (it holds one warrior). While inside, all of your like-affiliated Squad members STRIKE FIRST. You may have up to two Watch Towers in play.",
+        "code": "04119",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/watchtower.jpg",
+        "name": "WATCH TOWER",
+        "octgn_id": "cd1b6f56-5f56-4558-9bf4-6c83b3011898",
+        "rarity": "C2",
+        "text": "ADD TO YOUR SQUAD AS ONE ACTION. As one action you may move one warrior into or out of the Watch Tower (it holds one warrior). While inside, all of your like-affiliated Squad members strike first in combat. If opponent survives, it may retaliate. You may only have up to two Watch Towers in play.",
+        "type_code": "fortification"
+    },
+    {
+        "clarification_text": "ATTACH TO ANY PLAYER AS THREE ACTIONS. While in play, the affected player must pay 1 D each time he or she wishes to play any Special card. Multiple attachments of this card are cumulative. Discard this card if the player ever has 0 D.",
+        "code": "04120",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/watchfuleye.jpg",
+        "name": "WATCHFUL EYE",
+        "octgn_id": "d8499161-83b1-49d1-b57e-0d9f558c0000",
+        "post_play": "+",
+        "rarity": "U2",
+        "text": "ATTACH TO ANY PLAYER AS THREE ACTIONS. While in play, the affected player must pay 1 D each time he or she wishes to play any SPECIAL card. Multiple Watchful Eyes are cumulative.",
+        "type_code": "special",
+        "value": "e1"
+    },
+    {
+        "clarification_text": "PLAY IMMEDIATELY AFTER A COMBAT WHERE YOUR WARRIOR KILLS ANOTHER. You may take one Relic card from the slain warrior and immediately give it to any legal recipient amongst your forces (even if your warrior is of opposing affiliation).",
+        "code": "04121",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "general"
+        ],
+        "illustrator": "Studio Parente",
+        "image_url": "mort/whathavewehere.jpg",
+        "name": "WHAT HAVE WE HERE?",
+        "octgn_id": "b395d632-1998-4ad7-a554-e432e0c5e81e",
+        "post_play": "-",
+        "rarity": "U2",
+        "text": "PLAY IMMEDIATELY AFTER A COMBAT WHERE YOUR WARRIOR KILLS ANOTHER. You may take one Relic card from the slain warrior and immediately give it to any legal warrior in your Squad or Kohort (even if your warrior is of opposing affiliation).",
+        "type_code": "special"
+    },
+    {
+        "armor": "9",
+        "clarification_text": "PERSONALITY. VENUSIAN RANGER. If Wolfe uses a DEATHLOCKDRUM in combat, he gains an additional +5 to S.",
+        "code": "04122",
+        "deck_limit": 5,
+        "expansion_code": "mort",
+        "faction_code": [
+            "bauhaus"
+        ],
+        "fight": "3",
+        "illustrator": "Studio Parente",
+        "image_url": "mort/wolfe.jpg",
+        "name": "WOLFE",
+        "octgn_id": "9d189c21-9dc7-44d7-8eb6-6ef334b917ce",
+        "rarity": "U2",
+        "shoot": "9",
+        "text": "PERSONALITY. CONSIDERED A VENUSIAN RANGER. If Wolfe uses a DEATHLOCKDRUM in combat, he gains an additional +5 to S.",
+        "type_code": "warrior",
+        "value": "8"
+    }
+]
