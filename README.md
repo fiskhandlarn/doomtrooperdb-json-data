@@ -1,5 +1,5 @@
-DoomtrooperDB cards JSON data [![Build status](https://travis-ci.com/fiskhandlarn/doomtrooperdb-json-data.svg?branch=master)](https://travis-ci.com/fiskhandlarn/doomtrooperdb-json-data)
-=========
+# DoomtrooperDB cards JSON data
+[![Build status](https://travis-ci.com/fiskhandlarn/doomtrooperdb-json-data.svg?branch=master)](https://travis-ci.com/fiskhandlarn/doomtrooperdb-json-data)
 
 The goal of this repository is to store [DoomtrooperDB](https://doomtrooperdb.org) card data in a format that can be easily updated by multiple people and their changes reviewed.
 
