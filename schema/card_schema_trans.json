@@ -13,17 +13,6 @@
             "minLength": 0,
             "type": "string"
         },
-        "illustrator": {
-            "oneOf": [
-                {
-                    "minLength": 0,
-                    "type": "string"
-                },
-                {
-                    "type": "null"
-                }
-            ]
-        },
         "image_url": {
             "oneOf": [
                 {
