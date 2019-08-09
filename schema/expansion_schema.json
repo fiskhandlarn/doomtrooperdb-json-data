@@ -8,11 +8,16 @@
         "name": {
             "minLength": 1,
             "type": "string"
+        },
+        "size": {
+            "minimum": 1,
+            "type": "integer"
         }
     },
     "required": [
         "code",
-        "name"
+        "name",
+        "size"
     ],
     "type": "object"
 }
