@@ -1,4 +1,5 @@
 * add Limited expansion
+* Strip multiple whitespace
 * stats
   * + for warzones
   * e+1 vs e1
