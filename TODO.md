@@ -1,4 +1,5 @@
 * add Limited expansion
+* Consolidate "1D" and "1 D" (and P)
 * Strip multiple whitespace
 * stats
   * + for warzones
